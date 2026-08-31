@@ -180,7 +180,7 @@ After completing the book, students should be able to:
 
 | Chapter | Title | Main Engineering Question |
 |---|---|---|
-| 1 | Introduction to Electronic Packaging | What is electronic packaging, where does it fit in the electronics industry, and what does a packaging engineer/technologist do? |
+| 1 | Introduction to Electronic Packaging | How do electronic devices become circuits, integrated circuits, packaged components, PCB assemblies, and finished products, and what role does packaging play at each level? |
 | 2 | PCB Structure, Materials, and Fabrication | What is a PCB physically, how is it manufactured, and how do materials/stack-up choices affect performance and reliability? |
 | 3 | Design for Manufacturability in Electronic Packaging | Can the PCB/product design be fabricated, assembled, inspected, tested, and reworked consistently at acceptable cost and yield? |
 | 4 | Electronic Assembly Technologies | How are electronic components attached to PCBs, how are assembly processes controlled, and how are defects detected and corrected? |
@@ -262,80 +262,327 @@ The finished OER should include:
 
 ### Chapter Purpose
 
-Establish electronic packaging as the multidisciplinary bridge between semiconductor devices and usable electronic products. Give students enough semiconductor/package context to understand the rest of the book without turning the chapter into semiconductor physics.
+Establish electronic packaging as the multidisciplinary engineering bridge between semiconductor devices and usable electronic products. The chapter intentionally follows the physical and functional progression from **electrical/semiconductor foundations -> devices -> circuits -> integrated circuits -> IC fabrication -> IC packaging -> PCB assembly -> finished product**.
+
+The chapter gives MET students enough electrical, semiconductor, and circuit background to understand the packaging topics that follow without turning Chapter 1 into a semiconductor-physics, circuit-analysis, or IC-fabrication textbook.
 
 ### Learning Objectives
 
 Students should be able to:
 
 - define electronic packaging in practical terms;
-- distinguish circuit design from packaging design;
+- distinguish circuit function from physical packaging and product realization;
 - explain why packaging affects cost, manufacturability, performance, and reliability;
-- describe the major hierarchy from wafer/die to packaged device, PCB/PCBA, enclosure, and system;
-- recognize common component/package families found on PCBs;
-- describe major packaging functions: electrical interconnection, thermal management, mechanical support/protection, environmental protection, and manufacturability;
-- describe the electronics manufacturing chain and identify likely MET roles;
+- describe basic semiconductor behavior at an introductory applied level;
+- recognize BJTs and MOSFETs as active semiconductor devices and explain their basic control behavior;
+- distinguish active semiconductor devices from integrated passive devices such as resistors, capacitors, and inductors;
+- explain how devices are interconnected to create analog, digital, and mixed-signal circuits;
+- explain how simple logic functions can be combined into larger functional circuits;
+- distinguish a discrete-component circuit from a monolithic integrated circuit;
+- describe the major IC-fabrication steps at a conceptual level;
+- explain why a bare IC die must be interconnected, protected, and packaged;
+- distinguish **IC fabrication**, **IC packaging**, **PCB fabrication**, and **PCB assembly** as different manufacturing processes;
+- describe the progression from packaged components and a bare PCB to a PCBA and then to a finished electronic product;
+- describe the major packaging hierarchy from die to package, board, module, enclosure, and system;
+- identify major packaging functions: electrical interconnection, thermal management, mechanical support/protection, environmental protection, and manufacturability;
+- describe the multidisciplinary nature of electronic packaging and identify representative MET roles;
+- recognize how product environment changes packaging priorities;
 - recognize major current trends such as SiP, chiplets, heterogeneous integration, and advanced cooling at a survey level.
 
 ### 1.1 What Is Electronic Packaging?
 
-- Packaging as everything required between functional devices and a usable system.
-- Electronic packaging versus electronics/circuit design.
-- Physical product view: die, package, PCB, PCBA, connectors, enclosure, cooling hardware.
-- Why a correct schematic can still produce an unreliable product.
+- Packaging as the engineering that allows an electronic circuit to physically exist, be manufactured, survive its environment, and operate reliably.
+- Electronic packaging versus circuit/electronic design.
+- Physical product view: IC die, package, PCB, PCBA, connectors, enclosure, and cooling hardware.
+- Why a correct schematic can still produce an unreliable or unmanufacturable product.
+- Packaging as the bridge between intended electrical function and a real engineered product.
 
 ### 1.2 Why Packaging Matters in Industry
 
-- Performance.
+- Electrical and functional performance.
 - Reliability and product life.
 - Manufacturability and yield.
 - Cost and time-to-market.
 - Serviceability and repair.
 - Safety and environmental exposure.
-- Packaging tradeoffs: size, weight, power, cost, cooling, ruggedness.
+- Packaging tradeoffs involving size, weight, power, cost, cooling, ruggedness, and manufacturability.
 
-### 1.3 From Semiconductor Wafer to Electronic Product
+### 1.3 Electrical and Semiconductor Foundations
 
-- Very brief semiconductor refresher: silicon, die, transistor as switch.
-- Wafer fabrication only at conceptual level.
-- Dicing and bare die.
-- Why bare die must be interconnected and protected.
-- Package -> PCB -> PCBA -> enclosure/system.
+Provide only the electrical and semiconductor background needed for the rest of Chapter 1.
 
-**Scope limit:** Do not teach detailed doping, device equations, lithography chemistry, or IC process integration.
+- Electrical conductors, insulators, and semiconductors.
+- Silicon as a common semiconductor material.
+- Electrical current, voltage, and controlled conduction at a recognition level.
+- Intrinsic versus doped semiconductor material.
+- Brief introduction to **N-type** and **P-type** semiconductor regions.
+- PN-junction concept and diode behavior at an introductory level.
+- Why semiconductor properties allow useful electronic devices to be fabricated inside a silicon wafer.
 
-### 1.4 Packaging Hierarchy
+**Scope limit:** Keep semiconductor physics applied and visual. Do not expand into detailed band theory, carrier-statistics derivations, or semiconductor-device equations.
 
-- Wafer/die level.
-- Device/package level.
-- Board/PCBA level.
-- Module/motherboard level.
-- Enclosure/system level.
-- System-to-system/cluster level where useful.
-- Different engineering problems at different hierarchy levels.
+### 1.4 Semiconductor Devices: BJT and MOSFET
 
-### 1.5 Common Electronic Package and Interconnect Types
+Introduce active devices as controllable semiconductor elements that can switch or amplify.
 
-Applied recognition rather than detailed package design:
+- Basic electronic-device schematic symbols as needed for later circuit discussion.
+- BJT families: NPN and PNP.
+- Basic BJT structure: emitter, thin base, and collector.
+- How a small base current controls a larger collector-emitter current.
+- MOSFET families: NMOS and PMOS.
+- Gate, dielectric, source, drain, and semiconductor body.
+- Electric-field control of channel formation.
+- NMOS operation as the primary worked example.
+- PMOS as the complementary device with opposite gate-polarity behavior.
+- Why MOSFETs dominate modern high-density digital ICs.
+- Continued importance of BJTs in analog, RF, precision, interface, and specialized circuits.
+- Packaging implications of active devices: terminals, interconnection, switching current, heat, parasitics, and protection.
 
-- leaded packages: DIP, SOIC, QFP;
-- leadless/area-array packages: QFN, BGA, CSP;
-- basic package anatomy: die, die attach, leadframe or substrate, bond wire or bump, encapsulant/lid, external leads/balls;
-- basic wire-bond packaging;
-- basic flip-chip concept;
-- connectors, sockets, and discrete packages;
-- why package selection affects assembly, thermal path, mechanical robustness, inspectability, and electrical behavior.
+**Scope limit:** No transistor sizing, detailed I-V derivations, device-model parameters, or semiconductor process integration in this section.
 
-### 1.6 Major Functions of Electronic Packaging
+### 1.5 Integrated Passive Devices: Resistors, Capacitors, and Inductors
+
+Show that passive functions can also be fabricated on a semiconductor die.
+
+#### Integrated resistors
+
+- Common configurations: diffused, polysilicon, thin-film, and process-specific structures.
+- Representative example: diffused resistor.
+- Resistance from material resistivity and geometry.
+- Uses and limitations, including die-area and tolerance considerations.
+
+#### Integrated capacitors
+
+- Common configurations: MOS, MIM, junction, and process-specific structures.
+- Representative example: MOS capacitor.
+- Capacitance from conductive regions separated by a dielectric.
+- Uses and limitations, including why large capacitance is often provided off-chip.
+
+#### Integrated inductors
+
+- Common configurations: planar spiral, multilayer/stacked spiral, and other patterned-metal loops.
+- Representative example: planar spiral metal inductor.
+- Magnetic-field storage created by current through a looped conductor.
+- RF applications and practical limitations such as area, resistance, parasitics, and quality factor.
+
+#### Integration tradeoffs
+
+- Why not every passive component should be integrated on the die.
+- Die area, achievable value, tolerance, parasitics, performance, and cost.
+- On-die passive devices versus discrete passive components mounted on a PCB.
+
+### 1.6 From Transistors to Electronic Circuits
+
+Move upward in abstraction from individual devices to useful circuit functions.
+
+#### From devices to circuits
+
+- Devices acquire useful function through electrical interconnection.
+- Schematics describe intended electrical relationships rather than physical geometry.
+- Device behavior -> circuit behavior -> functional blocks.
+
+#### Analog, digital, and mixed-signal circuits
+
+- Analog circuits process continuously varying electrical quantities.
+- Digital circuits interpret voltage ranges as logic states.
+- Mixed-signal circuits combine analog and digital functions.
+
+#### CMOS inverter
+
+- Complementary NMOS and PMOS switching behavior.
+- PMOS pull-up and NMOS pull-down.
+- Logic-low input -> logic-high output.
+- Logic-high input -> logic-low output.
+- Simplified logic-state rule:
+  - NMOS: logic 0 -> OFF, logic 1 -> ON;
+  - PMOS: logic 0 -> ON, logic 1 -> OFF.
+
+#### Common logic-gate functions
+
+- NOT, AND, OR, NAND, NOR, XOR.
+- Boolean-logic notation at an introductory level:
+  - \(A+B\) means OR;
+  - \(A\cdot B\) means AND;
+  - \(\overline{A}\) means NOT;
+  - \(A\oplus B\) means XOR.
+- Logic-gate symbols as functional abstractions.
+
+#### CMOS pull-up and pull-down networks
+
+- Series transistor paths require all devices in the path to conduct.
+- Parallel networks provide alternate conducting paths.
+- Two-input CMOS NAND: parallel PMOS + series NMOS.
+- Two-input CMOS NOR: series PMOS + parallel NMOS.
+- AND as NAND followed by inversion.
+- OR as NOR followed by inversion.
+- XOR kept at the functional level rather than detailed transistor implementation.
+
+#### From logic gates to a half-adder
+
+- Half-adder as a simple example of hierarchical circuit construction.
+- XOR produces SUM.
+- AND produces CARRY.
+- Half-adder -> full-adder concept -> larger arithmetic circuits.
+- Main teaching goal:
+
+> **devices -> logic gates -> functional circuits -> larger functional blocks**
+
+**Scope limit:** Do not turn this section into a digital-logic design course. No Karnaugh maps, HDL, transistor sizing, detailed XOR transistor design, or timing analysis.
+
+### 1.7 From Discrete Components to Integrated Circuits
+
+Explain the difference between assembling a circuit from separate components and fabricating many circuit elements together on one semiconductor die.
+
+- Discrete components connected by PCB traces and other interconnects.
+- Integrated devices and interconnections fabricated together on one die.
+- Analog, digital, and mixed-signal functions inside ICs.
+- Functional blocks inside a larger integrated circuit.
+- Benefits of integration:
+  - smaller size;
+  - shorter internal interconnections;
+  - high device count;
+  - lower manufacturing cost per function at volume;
+  - repeatability.
+- Practical tradeoffs:
+  - heat concentration;
+  - limited integrated passive values;
+  - power/current limitations;
+  - need for external components and interfaces.
+- A packaged IC is still only one part of a larger PCB assembly and system.
+
+**Key distinction:** An integrated circuit is a circuit fabricated on a semiconductor die. It is **not** a PCB and does not become a PCB.
+
+### 1.8 How Integrated Circuits Are Fabricated
+
+Provide a conceptual process overview showing how many devices and interconnections are created on a wafer.
+
+- Starting semiconductor wafer.
+- Repeated pattern-transfer and material-processing cycles.
+- Oxidation and dielectric formation.
+- Material deposition.
+- Photolithography.
+- Etching.
+- Doping by implantation/diffusion at a conceptual level.
+- Formation of active and passive device regions.
+- Metal-interconnect formation.
+- Multiple interconnect layers.
+- Passivation.
+- Wafer-level electrical test/probe awareness.
+- Dicing/separation into individual IC dies.
+
+Use an original high-level process-flow figure.
+
+**Scope limit:** Do not teach fabrication recipes, process chemistry, device-process integration, mask design, or detailed lithography physics.
+
+**Critical teaching point:** Semiconductor fabrication produces an **IC die**. Packaging of that die is the next manufacturing stage; PCB fabrication is a separate process.
+
+### 1.9 IC Packaging: From Bare Die to Packaged Component
+
+Explain why a fabricated IC die normally cannot be used directly in a PCB assembly.
+
+- Bare-die fragility and very small on-die connection features.
+- Need for electrical fan-out/interconnection.
+- Need for mechanical support and protection.
+- Need for thermal paths.
+- Die attach.
+- Package substrate or leadframe.
+- Wire bonding as a common interconnect method.
+- Flip-chip/bump interconnection as another major method.
+- Encapsulation, molding, or lid.
+- External leads, pads, or solder balls.
+- Package inspection/test awareness.
+
+#### Common package families
+
+Applied recognition rather than package-design detail:
+
+- DIP;
+- SOIC and related leaded packages;
+- QFP;
+- QFN/leadless packages;
+- BGA;
+- CSP;
+- discrete semiconductor packages;
+- connectors and sockets as related board-level interconnect hardware.
+
+Discuss why package selection affects:
+
+- assembly process;
+- thermal path;
+- electrical parasitics;
+- mechanical robustness;
+- inspection;
+- rework;
+- board area and routing.
+
+### 1.10 From Components and Bare PCB to PCBA
+
+Show the convergence of two different manufacturing streams.
+
+#### Component stream
+
+> **semiconductor fabrication -> IC die -> IC packaging -> packaged IC/component**
+
+#### PCB stream
+
+> **PCB materials -> PCB fabrication -> bare PCB**
+
+#### Assembly
+
+> **packaged components + discrete components + connectors + bare PCB -> PCB assembly -> PCBA**
+
+- SMT and THT concepts at a recognition level.
+- Solder joints as electrical and mechanical connections.
+- Placement, soldering, inspection, and test at a high level.
+- Detailed PCB fabrication belongs in Chapter 2.
+- DFM belongs in Chapter 3.
+- Detailed SMT/THT assembly belongs in Chapter 4.
+
+**Critical teaching point:** Do not imply that an IC die, IC package, or IC fabrication process becomes the PCB. The IC/component and bare PCB are manufactured separately and later converge during assembly.
+
+### 1.11 From PCBA to Finished Electronic Product
+
+- One PCBA may be only one subsystem within a product.
+- Additional system elements may include:
+  - enclosure/chassis;
+  - connectors and cabling;
+  - displays and controls;
+  - power supplies and batteries;
+  - fans, heat sinks, spreaders, or cold plates;
+  - sensors and actuators;
+  - structural mounting hardware.
+- System integration.
+- Functional test.
+- Environmental/reliability qualification.
+- Production and field feedback.
+- Packaging continues beyond the board level.
+
+### 1.12 Packaging Hierarchy
+
+Organize the product into physical levels:
+
+- wafer/device level;
+- bare-die level;
+- IC/package level;
+- PCB/PCBA level;
+- module/motherboard level;
+- enclosure/system level;
+- system-to-system or cluster/rack level where useful.
+
+Use the hierarchy to show that electrical, thermal, mechanical, manufacturing, and reliability problems appear at different physical scales.
+
+### 1.13 Major Functions of Electronic Packaging
 
 - Electrical interconnection and power delivery.
 - Mechanical support and load transfer.
 - Thermal path and temperature control.
 - Environmental protection.
 - Assembly/manufacturing compatibility.
-- Inspection, test, maintenance, and service.
+- Inspection and test.
+- Maintenance, rework, and service.
+- Reliability over the intended mission profile.
 
-### 1.7 Electronic Packaging as a Multidisciplinary Field
+### 1.14 Electronic Packaging as a Multidisciplinary Field
 
 - Electrical.
 - Mechanical.
@@ -345,38 +592,27 @@ Applied recognition rather than detailed package design:
 - Quality/reliability.
 - Systems/concurrent engineering.
 
-Introduce the idea that packaging decisions are coupled: changing a material, stack-up, component location, or enclosure can simultaneously affect thermal, mechanical, electrical, and manufacturing behavior.
+Introduce the idea that packaging decisions are coupled: changing a material, component position, interconnect, PCB stack-up, package, or enclosure can simultaneously affect electrical, thermal, mechanical, manufacturing, and reliability behavior.
 
-### 1.8 Electronics Manufacturing and Packaging Workflow
-
-- Product/circuit requirements.
-- Component/package selection.
-- PCB design and DFM.
-- Bare-board fabrication.
-- PCB assembly.
-- Inspection and electrical test.
-- System integration.
-- Environmental/reliability qualification.
-- Production and field feedback.
-
-### 1.9 Where MET Graduates Fit
+### 1.15 Where Engineering Technology Graduates Fit
 
 Representative roles and tasks:
 
-- manufacturing/process engineer or technologist;
+- manufacturing/process engineering or technologist support;
 - PCBA/SMT process support;
-- DFM review;
-- quality/inspection support;
-- product/test engineer;
-- thermal/mechanical packaging analyst;
+- PCB/PCBA DFM review;
+- quality and inspection support;
+- product/test engineering;
+- thermal/mechanical packaging analysis;
 - failure-analysis/reliability support;
-- supplier/manufacturing engineering.
+- supplier/manufacturing engineering;
+- CAD, documentation, and engineering-change support.
 
 Focus on skills and responsibilities rather than promising specific job titles.
 
-### 1.10 Packaging Across Product Environments
+### 1.16 Packaging Across Product Environments
 
-Short comparison of:
+Compare packaging priorities for:
 
 - consumer electronics;
 - industrial controls;
@@ -385,41 +621,99 @@ Short comparison of:
 - medical electronics;
 - data-center/high-power electronics.
 
-Show how the mission profile changes packaging priorities.
+Show how mission profile changes priorities involving:
 
-### 1.11 Industry Trends: What Is Changing?
+- temperature;
+- vibration/shock;
+- humidity/contamination;
+- size and weight;
+- power density;
+- cost;
+- service life;
+- inspection/serviceability;
+- regulatory and qualification requirements.
+
+### 1.17 Industry Trends: What Is Changing?
 
 Brief survey only:
 
 - miniaturization and higher power density;
 - BGA/CSP and high-density interconnect;
 - SiP and heterogeneous integration;
-- chiplets and 2.5D/3D packaging;
-- advanced substrates;
+- chiplets;
+- 2.5D/3D packaging;
+- advanced substrates and interposers;
 - advanced thermal solutions;
-- increased automation, inspection, and data-driven manufacturing;
-- growing importance of reliability under high power density and harsh environments.
+- increased automation and inspection;
+- data-driven manufacturing;
+- increased reliability challenges under high power density and harsh environments.
+
+Keep this section as **Applied Awareness**, not specialist design instruction.
+
+### 1.18 Chapter Summary and Practice
+
+The final Chapter 1 learning sequence should reinforce:
+
+> **semiconductor material -> device -> circuit -> integrated circuit -> fabricated IC die -> packaged component**
+
+and the separate board-manufacturing stream:
+
+> **PCB materials -> bare PCB**
+
+which then converge as:
+
+> **components + bare PCB -> PCBA -> finished electronic product**
+
+Chapter-end material should include:
+
+- concise summary;
+- key terms;
+- review questions;
+- original practice questions/problems;
+- product/packaging identification activity;
+- hierarchy/process-flow interpretation activity;
+- standards/professional-organization awareness links where useful.
 
 ### Applied Chapter Elements
 
+- **Original figure:** conductor/insulator/semiconductor and simple semiconductor-device bridge.
+- **Original figures:** BJT and MOSFET structure/operation.
+- **Original figures:** representative integrated resistor, capacitor, and inductor.
+- **Original figures:** CMOS inverter, NAND, NOR, AND, OR, and half-adder examples.
+- **Original figure:** discrete circuit versus integrated circuit.
+- **Original figure:** high-level IC-fabrication process flow.
+- **Original figure:** bare die -> IC package.
+- **Original figure:** two manufacturing streams converging at PCB assembly.
+- **Original figure:** die/package/board/system packaging hierarchy.
 - **Engineering case:** Compare packaging priorities for a smartphone, industrial controller, and automotive module.
-- **Original figure:** Wafer -> die -> package -> PCB -> PCBA -> enclosure/system.
-- **Original figure:** Multidisciplinary packaging tradeoff map.
-- **Student task:** Identify packaging functions in an everyday electronic product.
+- **Student task:** Identify packaging functions and hierarchy levels in an everyday electronic product.
 
 ### Authoring/Verification Cautions
 
+- Keep electrical, semiconductor, and circuit material at the **minimum applied depth needed to understand packaging**.
+- Do not turn Sections 1.3-1.8 into an EE, semiconductor-device, digital-logic, or wafer-fabrication textbook.
+- Verify all semiconductor-device diagrams, current-direction conventions, MOSFET control statements, logic equations, and gate truth tables.
+- Preserve the manufacturing sequence explicitly:
+  - semiconductor fabrication -> IC die;
+  - IC packaging -> packaged component;
+  - PCB fabrication -> bare PCB;
+  - components + bare PCB -> PCBA;
+  - PCBA + system hardware -> finished product.
+- Never imply that an IC becomes a PCB.
+- Distinguish **on-die integrated passive devices** from the discrete passive components mounted on a PCB.
+- Logic-gate and functional-block symbols are abstractions, not miniature packaged components placed physically inside the die.
 - Do not present simplified public product-failure stories as confirmed root causes unless supported by strong sources.
-- Keep advanced packaging as context, not the center of the book.
-- Ensure package-level terminology is consistent with current industry practice.
+- Keep advanced packaging as context, not the center of Chapter 1.
 
 ### Primary Reference Anchors
 
-- MET406 Chapter 1 lecture notes.
-- Tummala, *Fundamentals of Device and Systems Packaging*, introductory and packaging-fundamentals chapters.
-- Tummala, *Fundamentals of Microsystems Packaging*, Chapters 1-3.
-- Blackwell, *The Electronic Packaging Handbook*, design-process overview.
-- IEEE Electronics Packaging Society and SEMI resources for current advanced-packaging context.
+- Revised MET406 Chapter 1 lecture notes and current Chapter 1 OER drafts.
+- Legacy/detailed MET406 Chapter 1 material as a secondary source for semiconductor and fabrication concepts.
+- Tummala, *Fundamentals of Device and Systems Packaging*, introductory, semiconductor-to-system, and packaging-fundamentals chapters.
+- Tummala, *Fundamentals of Microsystems Packaging*, introductory device, packaging, and system-hierarchy chapters.
+- Blackwell, *The Electronic Packaging Handbook*, design-process and package/system overview.
+- Tummala and Swaminathan, *Introduction to System-on-Package*, for integration context.
+- IEEE Electronics Packaging Society, JEDEC, SEMI, and current manufacturer resources for terminology and advanced-packaging context.
 
 ---
 
@@ -2245,7 +2539,10 @@ Before any chapter is considered complete, perform all of the following.
 ## Chapter 1
 
 - Verify public product-failure case-study root causes and avoid oversimplified causal claims.
-- Reduce semiconductor-device detail to what packaging students need.
+- Keep semiconductor, device, passive-device, circuit, and IC-fabrication material at an applied bridge level appropriate for MET students.
+- Preserve the correct manufacturing convergence: semiconductor fabrication -> IC die -> packaged component; PCB fabrication -> bare PCB; components + bare PCB -> PCBA -> finished product.
+- Clearly distinguish IC fabrication, IC packaging, PCB fabrication, and PCB assembly.
+- Verify all transistor symbols, current/control descriptions, Boolean notation, logic equations, truth tables, and circuit figures.
 
 ## Chapter 2
 
@@ -2299,7 +2596,7 @@ Before any chapter is considered complete, perform all of the following.
 
 The following may appear in sidebars, future-trends sections, or later expansions but should not displace the core book:
 
-- detailed semiconductor wafer fabrication;
+- detailed semiconductor wafer-fabrication recipes, process integration, and device-process optimization (Chapter 1.8 retains only a high-level fabrication overview);
 - wire-bond process optimization;
 - advanced flip-chip bump metallurgy;
 - wafer-level packaging;
@@ -2333,6 +2630,6 @@ The MET406 OER will use the following **eight-chapter architecture** as its work
 7. **Mechanical Design Considerations**
 8. **Reliability of Electronic Packaging**
 
-Chapters 1-6 will be developed from the revised 2026 materials but technically rechecked and rewritten for OER use. Chapters 7-8 will be rebuilt from the older notes using the same applied, industry-oriented approach.
+Chapters 1-6 will be developed from the revised 2026 materials but technically rechecked and rewritten for OER use. Chapter 1 now includes the explicit applied bridge from semiconductor foundations through devices, circuits, integrated circuits, IC fabrication, packaging, PCB assembly, and finished-product hierarchy. Chapters 7-8 will be rebuilt from the older notes using the same applied, industry-oriented approach.
 
 The final book should remain recognizably **MET406**, but should be able to stand independently as an open, self-learning resource for engineering technology students entering the electronics packaging and manufacturing industry.
