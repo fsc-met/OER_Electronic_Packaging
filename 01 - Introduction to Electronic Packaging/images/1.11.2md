@@ -1,0 +1,503 @@
+<!-- MDBOOK-EXCLUDE-START -->
+## Suggested Content for Figure 1.11.2
+
+**Figure title for authoring/reference only:**  
+`Product Integration Qualification and Field Life`
+
+**Instructional purpose:**  
+Show that product-level packaging continues beyond PCBA assembly through:
+
+- system integration;
+- final assembly;
+- product-level functional test;
+- product qualification / production release;
+- production;
+- shipping and installation;
+- field operation and service;
+- feedback into future design and manufacturing improvement.
+
+The figure must also teach an important distinction:
+
+> **Environmental/reliability qualification is a product-development or validation activity and should not be interpreted as a test performed on every production unit.**
+
+The main flow should be:
+
+> **system integration -> final assembly -> functional test -> qualification / production release -> production -> shipping / installation -> field operation / service**
+
+with a feedback path back toward design/manufacturing improvement.
+
+**Filename:**  
+`1.11.2 - Product Integration Qualification and Field Life.png`
+
+**Intended width:** 900 px in Markdown
+
+**Recommended aspect ratio:** 16:9
+
+---
+
+### Overall layout
+
+Use a clean **left-to-right life-cycle flow**.
+
+Recommended stages:
+
+1. System integration
+2. Final assembly
+3. Product-level functional test
+4. Qualification / production release
+5. Production
+6. Shipping / installation
+7. Field operation / service
+8. Feedback to design / manufacturing improvement
+
+The feedback should be visually distinct from the main forward process.
+
+Do **not** place the figure number, external caption, or oversized overall title inside the artwork.
+
+---
+
+### Stage 1 – System integration
+
+Show a simplified integrated-subsystem concept.
+
+Suggested objects:
+
+- PCBA;
+- enclosure/chassis;
+- cable;
+- cooling element.
+
+Required label:
+
+- `System integration`
+
+This stage should connect naturally to Figure 1.11.1.
+
+---
+
+### Stage 2 – Final assembly
+
+Show the system being completed or enclosure being secured.
+
+Suggested visual:
+
+- assembled enclosure;
+- fasteners;
+- closed product housing.
+
+Required label:
+
+- `Final assembly`
+
+Do not make this stage look identical to qualification or production.
+
+---
+
+### Stage 3 – Product-level functional test
+
+Show a generic test concept.
+
+Possible visual:
+
+- product connected to test equipment;
+- checkmark;
+- simple waveform or status indicator.
+
+Required label:
+
+- `Functional test`
+
+Optional small clarification:
+
+- `Integrated product`
+
+The purpose is to distinguish product-level testing from PCBA-level testing.
+
+Do not show a detailed test procedure.
+
+---
+
+### Stage 4 – Qualification / production release
+
+This is the most important technical distinction in the figure.
+
+Required label:
+
+- `Qualification / production release`
+
+Recommended supporting note:
+
+> `Representative development / validation units`
+
+or:
+
+> `Qualification supports release; not every production unit undergoes qualification testing.`
+
+Keep this note concise.
+
+Possible recognition-level qualification symbols:
+
+- thermometer for temperature;
+- vibration symbol;
+- humidity drop;
+- shock symbol.
+
+Use only two or three examples to avoid clutter.
+
+Do not imply all products undergo exactly the same qualification tests.
+
+Do not imply every manufactured product is environmentally qualified individually.
+
+---
+
+### Stage 5 – Production
+
+Show a generic production line or several identical product units.
+
+Required label:
+
+- `Production`
+
+This stage should clearly begin **after** required qualification/release activities.
+
+Do not imply qualification is an ordinary station on every-unit production flow.
+
+---
+
+### Stage 6 – Shipping / installation
+
+Show one simple symbol or paired concept:
+
+- shipping box;
+- delivery arrow;
+- installed equipment.
+
+Required label:
+
+- `Shipping / installation`
+
+The purpose is to connect manufacturing to actual product deployment.
+
+---
+
+### Stage 7 – Field operation / service
+
+Show the product operating in a generic environment.
+
+Possible visual:
+
+- installed electronics unit;
+- maintenance tool;
+- service technician icon without identifiable person;
+- wrench symbol.
+
+Required label:
+
+- `Field operation / service`
+
+This stage may represent:
+
+- normal operation;
+- maintenance;
+- repair/rework at service level;
+- field observations.
+
+Do not overdevelop service procedures.
+
+---
+
+### Stage 8 – Feedback
+
+Show a clear return arrow from:
+
+- `Production`
+- and/or `Field operation / service`
+
+back toward:
+
+- `Design / manufacturing improvement`
+
+Recommended label:
+
+- `Feedback`
+
+Optional supporting terms:
+
+- `yield`
+- `service data`
+- `field experience`
+
+Use only if space allows.
+
+The feedback arrow should communicate that:
+
+- manufacturing data;
+- service experience;
+- field information
+
+can drive future improvements.
+
+---
+
+### Recommended flow logic
+
+The main forward flow should be visually dominant:
+
+`System integration`
+
+→ `Final assembly`
+
+→ `Functional test`
+
+→ `Qualification / production release`
+
+→ `Production`
+
+→ `Shipping / installation`
+
+→ `Field operation / service`
+
+Then show a return loop:
+
+`Production / field experience`
+
+→ `Design / manufacturing improvement`
+
+The feedback loop should not obscure the main process.
+
+---
+
+### Required technical relationships
+
+The figure must correctly communicate that:
+
+- product-level packaging continues after PCB assembly;
+- system integration precedes final product operation;
+- product-level functional test evaluates the integrated system;
+- qualification is distinct from ordinary functional test;
+- qualification supports product validation / production release;
+- qualification requirements depend on the product and mission profile;
+- qualification should not be shown as a test every production unit necessarily receives;
+- production follows required release activities;
+- field operation and service generate useful information;
+- production and field feedback can improve future design and manufacturing.
+
+---
+
+### Qualification examples
+
+If qualification examples are shown, keep them at recognition level.
+
+Possible examples:
+
+- `Temperature`
+- `Humidity`
+- `Vibration`
+- `Shock`
+
+Do not show all four unless space permits.
+
+Do not add:
+
+- test standards;
+- numerical limits;
+- test durations;
+- chamber profiles;
+- acceleration factors;
+- detailed reliability models.
+
+Those are outside the scope of Chapter 1.
+
+---
+
+### Product-level test examples
+
+Do not list many individual tests.
+
+One generic test icon is preferred.
+
+If text is needed, use only:
+
+- `Power`
+- `Interfaces`
+- `System function`
+
+These should remain secondary to the life-cycle flow.
+
+---
+
+### Spatial relationships
+
+- Use a single left-to-right main path.
+- Give each main stage approximately equal visual weight.
+- Make `Qualification / production release` visually distinct enough to communicate its role.
+- Place the feedback arrow below or above the main flow.
+- The feedback arrow should point back toward design/manufacturing improvement, not backward through every process stage.
+- Avoid crossing arrows.
+- Do not show qualification nested inside normal production.
+
+---
+
+### Recommended text inside the figure
+
+Main labels:
+
+- `System integration`
+- `Final assembly`
+- `Functional test`
+- `Qualification / production release`
+- `Production`
+- `Shipping / installation`
+- `Field operation / service`
+- `Design / manufacturing improvement`
+- `Feedback`
+
+Optional small note near qualification:
+
+> `Development / validation activity`
+
+Optional small note near the overall flow:
+
+> `Exact sequence and qualification requirements depend on the product.`
+
+Keep text minimal.
+
+---
+
+### Color guidance
+
+Use a restrained engineering-textbook palette.
+
+Suggested:
+
+- integration/final assembly: muted blue;
+- functional test: muted teal;
+- qualification/release: muted amber;
+- production: neutral blue/gray;
+- shipping/field: muted green;
+- feedback arrow: navy or dark neutral.
+
+Do not use strong red/green pass/fail coding as the primary teaching mechanism.
+
+Do not rely on color alone.
+
+---
+
+### Suggested visual style
+
+- clean process-flow infographic;
+- flat 2D engineering icons;
+- original simplified geometry;
+- white/light background;
+- consistent arrows;
+- minimal text;
+- no logos;
+- no commercial product imagery;
+- no embedded figure number or external caption.
+
+---
+
+### Prohibited or misleading elements
+
+Do not:
+
+- imply environmental/reliability qualification is performed on every production unit;
+- show qualification as simply another production-line inspection;
+- imply every product has identical qualification requirements;
+- imply functional test and qualification are the same;
+- imply field failures are the only source of feedback;
+- omit production/manufacturing feedback;
+- show field operation as the end of the engineering process with no feedback;
+- add detailed standards or numerical test requirements;
+- add detailed safety/regulatory certification processes;
+- add detailed service or repair procedures;
+- add an oversized title inside the artwork.
+
+---
+
+### Technical verification basis
+
+Use as technical grounding:
+
+- current Section 1.11, especially Sections 1.11.7 through 1.11.10;
+- current MET406 Chapter 1 outline;
+- MET406 Chapter 1 lecture notes on system-level packaging, testing, qualification, manufacturing flow, and packaging hierarchy;
+- approved project packaging references where needed for terminology verification.
+
+The current Section 1.11 QA wording is especially important:
+
+- product-level functional testing is distinct from PCBA testing;
+- qualification is distinct from ordinary functional test;
+- qualification requirements depend on the product and mission profile;
+- qualification is a development/validation activity supporting production release rather than a universal test applied to every unit;
+- production, service, and field information can feed back into design and manufacturing improvements.
+
+These sources are for technical grounding only. The final composition must be independently created.
+
+---
+
+### Copyright / originality note
+
+Create an original life-cycle process graphic.
+
+Do not trace or closely reproduce:
+
+- textbook process diagrams;
+- lecture-slide graphics;
+- manufacturer product-development flows;
+- qualification-company graphics;
+- commercial life-cycle infographics.
+
+Use generic independently drawn icons.
+
+---
+
+### Final caption
+
+*Figure 1.11.2 – Product-level packaging continues beyond PCBA assembly through system integration and final test, while qualification supports production release and field experience provides feedback for future design and manufacturing improvements.*
+
+### Alt-text intent
+
+Describe a high-level product-development and life-cycle flow beginning with system integration and final assembly, followed by product-level functional test and qualification before production release, then production, shipping or installation, field operation and service, with feedback from production and field experience into future design and manufacturing improvements.
+
+### Final Markdown insertion
+
+```html
+<div align="center">
+  <img
+    src="./images/1.11.2 - Product Integration Qualification and Field Life.png"
+    width="900"
+    alt="A high-level product-development and life-cycle flow shows PCBA and system integration followed by final assembly and functional test, product qualification before production release, then production, shipping, field operation, maintenance or service, and feedback into future design and manufacturing improvements."
+  >
+  <p><em>Figure 1.11.2 – Product-level packaging continues beyond PCBA assembly through system integration and final test, while qualification supports production release and field experience provides feedback for future design and manufacturing improvements.</em></p>
+</div>
+```
+
+### Final figure QA focus
+
+Before acceptance, verify:
+
+- main flow reads clearly from left to right;
+- functional test and qualification are visibly distinct;
+- qualification is clearly associated with validation / release, not ordinary every-unit production testing;
+- production occurs after qualification/release;
+- shipping/installation and field operation/service are present;
+- feedback returns from production/field experience toward improvement;
+- no detailed test standards or numerical criteria are introduced;
+- labels remain readable at 900 px;
+- no external caption, figure number, or oversized title appears inside the artwork.
+
+### Provenance action
+
+After figure acceptance, record:
+
+- accepted revision;
+- technical verification sources;
+- generation/drawing method;
+- originality status;
+- QA result;
+- final filename
+
+in `source_provenance.md`.
+
+<!-- MDBOOK-EXCLUDE-END -->
