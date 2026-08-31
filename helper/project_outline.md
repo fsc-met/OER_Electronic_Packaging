@@ -210,9 +210,25 @@ Each chapter should normally contain:
 9. **Applied Activity or Lab Connection**
 10. **Practical Checklist**
 11. **Chapter Summary**
-12. **Review Questions**
-13. **Original Practice Problems**
+12. **Practice Problems**
+13. **Practice Problem Keys**
 14. **Further Reading / References**
+
+### Standard Chapter-End Structure
+
+Beginning with Chapter 1 and continuing through every later chapter, the public chapter ending should use three separate numbered sections:
+
+> **Chapter Summary -> Practice Problems -> Practice Problem Keys**
+
+The **Practice Problems** section should use deterministic questions wherever practical so that each published problem has one unambiguous answer or answer set. Appropriate formats include matching, classification, sequencing, calculation, truth tables, interpretation of supplied data, and tightly bounded engineering decisions.
+
+The **Practice Problem Keys** section should:
+
+- use exactly the same problem numbering and titles as the corresponding Practice Problems section;
+- provide the deterministic answer and a concise explanation where useful;
+- be revised in the same update whenever a problem is added, removed, renumbered, or changed in a way that affects the answer.
+
+Open-ended applied activities, design exercises, labs, troubleshooting cases, and product-identification tasks may still appear elsewhere in the chapter, but they should not be mixed into the deterministic keyed practice set unless a unique grading answer is intentionally defined.
 
 Recurring applied boxes should include:
 
@@ -650,29 +666,52 @@ Brief survey only:
 
 Keep this section as **Applied Awareness**, not specialist design instruction.
 
-### 1.18 Chapter Summary and Practice
+### 1.18 Chapter Summary
 
-The final Chapter 1 learning sequence should reinforce:
+Close the instructional portion of Chapter 1 with a concise summary of the complete learning sequence:
 
 > **semiconductor material -> device -> circuit -> integrated circuit -> fabricated IC die -> packaged component**
 
 and the separate board-manufacturing stream:
 
-> **PCB materials -> bare PCB**
+> **PCB materials -> PCB fabrication -> bare PCB**
 
-which then converge as:
+followed by convergence and system integration:
 
-> **components + bare PCB -> PCBA -> finished electronic product**
+> **packaged/discrete components + bare PCB -> PCB assembly -> PCBA -> system integration -> finished electronic product**
 
-Chapter-end material should include:
+The summary should also consolidate:
 
-- concise summary;
-- key terms;
-- review questions;
-- original practice questions/problems;
-- product/packaging identification activity;
-- hierarchy/process-flow interpretation activity;
-- standards/professional-organization awareness links where useful.
+- key manufacturing distinctions;
+- packaging hierarchy and functions;
+- multidisciplinary/MET roles;
+- mission-profile dependence;
+- major Chapter 1 terminology;
+- standards/professional-organization awareness;
+- current industry trends at the intended applied-awareness level.
+
+### 1.19 Practice Problems
+
+Provide a separate Chapter 1 practice section using deterministic problems that review the full sequence from Sections 1.1 through 1.17.
+
+The problem set should:
+
+- cover the major Chapter 1 learning objectives rather than overemphasize one topic;
+- use questions with one unambiguous answer or answer set;
+- use formats such as matching, classification, sequencing, calculation, truth tables, terminology recognition, process-flow interpretation, and bounded engineering interpretation;
+- preserve the separation among semiconductor fabrication, IC packaging, PCB fabrication, PCB assembly, and system integration;
+- avoid open-ended product-design questions whose answers depend primarily on subjective judgment.
+
+### 1.20 Practice Problem Keys
+
+Provide a separate answer-key section synchronized exactly with Section 1.19.
+
+The keys should:
+
+- use the same problem numbering and titles as Section 1.19;
+- give the deterministic answer for every published problem;
+- include a concise explanation where it improves understanding;
+- be updated in the same revision whenever the corresponding problem set changes.
 
 ### Applied Chapter Elements
 
@@ -885,6 +924,18 @@ At awareness level:
 - Gerber/modern digital manufacturing data concepts;
 - revision control and notes.
 
+### 2.14 Chapter Summary
+
+Summarize the physical structure, materials, stack-up concepts, fabrication sequence, common board features, fabrication constraints, thermal/mechanical behavior, manufacturing data, and major PCB failure/quality issues introduced in Chapter 2.
+
+### 2.15 Practice Problems
+
+Provide deterministic Chapter 2 practice problems covering PCB anatomy, materials/properties, stack-ups, vias/holes, surface finishes, fabrication sequence, tolerances/capabilities, stiffness/warpage, basic thermal behavior, failure recognition, and manufacturing-data interpretation.
+
+### 2.16 Practice Problem Keys
+
+Provide the synchronized deterministic answer key for Section 2.15 using identical problem numbering and titles.
+
 ### Applied Chapter Elements
 
 - **Worked example:** Compare bending stiffness of two PCB thicknesses.
@@ -1061,6 +1112,18 @@ A final table organized by:
 - rework/service;
 - thermal/mechanical risk;
 - documentation.
+
+### 3.16 Chapter Summary
+
+Summarize the practical DFM/DFA/DFT/DFX workflow, manufacturer capability versus design rule distinction, placement, pads, vias, copper geometry, solder mask, markings, inspection/test access, rework, panelization/tooling, and design-release review.
+
+### 3.17 Practice Problems
+
+Provide deterministic Chapter 3 practice problems using supplied layouts, dimensions, capability tables, checklists, and bounded DFM decisions. Numerical questions should clearly identify the example capability or rule set being applied.
+
+### 3.18 Practice Problem Keys
+
+Provide the synchronized deterministic answer key for Section 3.17 using identical problem numbering and titles.
 
 ### Integrated Lab
 
@@ -1311,6 +1374,18 @@ Applied manufacturing level:
 - Product class/customer requirements awareness: the applicable class and acceptance criteria are agreed for the product, not assumed universally.
 - Rework standards awareness.
 
+### 4.22 Chapter Summary
+
+Summarize SMT, THT, mixed assembly, soldering, printing/SPI, placement, reflow, wave/selective soldering, handling, inspection, electrical test, rework, cleaning/protection, SPC, safety, and standards awareness.
+
+### 4.23 Practice Problems
+
+Provide deterministic Chapter 4 practice problems centered on process sequence, defect recognition, mechanism/cause matching, inspection/test method selection, process-control interpretation, and bounded troubleshooting using supplied evidence.
+
+### 4.24 Practice Problem Keys
+
+Provide the synchronized deterministic answer key for Section 4.23 using identical problem numbering and titles.
+
 ### Integrated Labs
 
 - **Lab #2 - SMT Assembly Troubleshooting**
@@ -1550,6 +1625,18 @@ Brief practical introduction:
 - impedance coupons;
 - near-field EMI probing awareness;
 - simulation versus measurement.
+
+### 5.18 Chapter Summary
+
+Summarize the electrical functions of packaging, DC resistance/heating, parasitic effects, rise-time/frequency behavior, transmission-line awareness, impedance/reflections, return paths, crosstalk, differential pairs, PDN/decoupling, EMI/EMC, layout guidance, and verification methods.
+
+### 5.19 Practice Problems
+
+Provide deterministic Chapter 5 practice problems using clearly stated equations, dimensions, waveforms, layouts, and supplied assumptions. Emphasize applied calculations and diagnosis rather than open-ended high-speed design.
+
+### 5.20 Practice Problem Keys
+
+Provide the synchronized deterministic answer key for Section 5.19 using identical problem numbering and titles.
 
 ### Integrated Lab
 
@@ -1806,6 +1893,18 @@ A compact electronic product such as a processor board or smartphone:
 - compare passive and forced-cooling changes;
 - evaluate design tradeoffs.
 
+### 6.19 Chapter Summary
+
+Summarize heat sources and paths, conduction/convection/radiation, thermal-resistance networks, contact resistance/TIMs, spreading, PCB/package thermal behavior, cooling methods, enclosure airflow, transient awareness, advanced cooling, measurement, and simulation validation.
+
+### 6.20 Practice Problems
+
+Provide deterministic Chapter 6 practice problems using specified geometry, thermal properties, boundary conditions, thermal-resistance networks, and supplied measurement/simulation data. Problems should support engineering estimates and interpretation at the intended MET level.
+
+### 6.21 Practice Problem Keys
+
+Provide the synchronized deterministic answer key for Section 6.20 using identical problem numbering and titles.
+
 ### Integrated Labs
 
 - **Lab #6 - Draw/Model a Circuit Board in SOLIDWORKS**
@@ -2034,6 +2133,18 @@ Detailed isolator-design equations can be optional.
 - boundary-condition realism.
 - material-property uncertainty.
 - correlation to measurement/test.
+
+### 7.17 Chapter Summary
+
+Summarize mechanical environments, stress/strain and material behavior, thermomechanical loading, solder-joint deformation, fatigue/creep, PCB bending/strain, vibration, random vibration, shock, ruggedization, and mechanical simulation/test.
+
+### 7.18 Practice Problems
+
+Provide deterministic Chapter 7 practice problems using supplied material properties, geometry, loading, vibration/shock inputs, PSD data, and clearly stated model assumptions. Keep calculations at the applied level and avoid dependence on undocumented empirical rules.
+
+### 7.19 Practice Problem Keys
+
+Provide the synchronized deterministic answer key for Section 7.18 using identical problem numbering and titles.
 
 ### Proposed OER Applied Activities
 
@@ -2324,6 +2435,18 @@ Students must:
 
 This case should deliberately integrate Chapters 1-7.
 
+### 8.19 Chapter Summary
+
+Summarize reliability terminology, mission profiles, failure mode/mechanism/root cause, stress-strength thinking, essential reliability statistics, hazard/MTTF/MTBF, exponential/Weibull models, accelerated testing, qualification, DfR, FMEA, failure analysis, and reliability communication.
+
+### 8.20 Practice Problems
+
+Provide deterministic Chapter 8 practice problems using supplied life data, model assumptions, mission-profile information, acceleration-model parameters, and bounded qualification/failure-analysis scenarios. Preserve the distinction between statistical calculation and engineering judgment.
+
+### 8.21 Practice Problem Keys
+
+Provide the synchronized deterministic answer key for Section 8.20 using identical problem numbering and titles.
+
 ### Proposed OER Applied Activities
 
 These are future additions:
@@ -2524,13 +2647,15 @@ Before any chapter is considered complete, perform all of the following.
 - Prose is independently written.
 - Figures are original/openly licensed/public-domain with correct attribution.
 - Worked examples are newly created.
-- Practice problems are newly created.
+- Practice problems and matching answer keys are newly created.
 - No reference book organization has been copied too closely.
 - Figures have alt text.
 - Equations are mdBook/KaTeX compatible.
+- Chapter-end Practice Problems use deterministic answers or answer sets wherever practical.
+- Practice Problem Keys use matching numbering/titles and are synchronized with the published problem set.
 - Units are primarily SI, with common industry imperial units shown only where useful.
 - Terminology is consistent across chapters.
-- Each chapter has objectives, summary, review questions, practical problems, and reference links.
+- Each chapter has objectives, a chapter summary, deterministic practice problems where appropriate, synchronized practice-problem keys, and reference links.
 
 ---
 
@@ -2633,3 +2758,9 @@ The MET406 OER will use the following **eight-chapter architecture** as its work
 Chapters 1-6 will be developed from the revised 2026 materials but technically rechecked and rewritten for OER use. Chapter 1 now includes the explicit applied bridge from semiconductor foundations through devices, circuits, integrated circuits, IC fabrication, packaging, PCB assembly, and finished-product hierarchy. Chapters 7-8 will be rebuilt from the older notes using the same applied, industry-oriented approach.
 
 The final book should remain recognizably **MET406**, but should be able to stand independently as an open, self-learning resource for engineering technology students entering the electronics packaging and manufacturing industry.
+
+Beginning with Chapter 1, every chapter will use the same three-part ending:
+
+> **Chapter Summary -> Practice Problems -> Practice Problem Keys**
+
+This structure replaces the earlier combined chapter-end summary/review/practice format. Open-ended applied activities and labs remain valuable, but they should be kept separate from the deterministic keyed practice set unless a unique grading answer is intentionally defined.
