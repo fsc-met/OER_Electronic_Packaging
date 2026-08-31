@@ -1,17 +1,17 @@
-# MET406 OER — Book Theme and Goal
+# Electronic Packaging Applications: Book Theme and Goal
 
 ## Working Purpose
 
-This OER is an **applied introduction to electronic packaging for undergraduate Mechanical Engineering Technology (MET) students**.
+This OER is an **applied introduction to electronic packaging for engineering technology and related applied-engineering readers**.
 
-It is intended for students who have only a limited background in electrical engineering but want to understand electronic packaging well enough to:
+It is intended for readers who may have only a limited background in electrical engineering but want to understand electronic packaging well enough to:
 
 - work effectively in electronics manufacturing and packaging environments;
 - understand how electronic products are physically built and assembled;
 - analyze common electrical, thermal, mechanical, manufacturing, and reliability issues;
 - troubleshoot practical packaging problems;
 - communicate with electrical, manufacturing, quality, reliability, and mechanical engineers;
-- prepare for entry-level engineering technology positions in the electronics industry.
+- prepare for or contribute more effectively in engineering technology positions in the electronics industry.
 
 The book is not intended to be a traditional electrical engineering textbook, a semiconductor-device textbook, or a highly theoretical packaging reference.
 
@@ -23,18 +23,18 @@ The book is not intended to be a traditional electrical engineering textbook, a 
 
 The book focuses on the practical engineering decisions that connect circuit functionality to real products.
 
-The main emphasis is on PCB-, assembly-, board-, and system-level packaging, where Mechanical Engineering Technology graduates are most likely to contribute.
+The main emphasis is on PCB-, assembly-, board-, and system-level packaging, where engineering technologists and applied-engineering professionals commonly contribute.
 
 ---
 
 ## Intended Audience
 
-The primary audience is:
+The intended audience includes:
 
-- undergraduate Mechanical Engineering Technology students;
-- students with basic preparation in engineering mathematics, mechanics, materials, CAD, and heat transfer;
-- students with only introductory exposure to electrical principles;
-- students interested in careers in electronics manufacturing, packaging, quality, reliability, thermal design, mechanical design, product engineering, or related areas.
+- readers from engineering technology and related applied-engineering backgrounds;
+- readers with basic preparation in engineering mathematics, mechanics, materials, CAD, and heat transfer;
+- readers with only introductory exposure to electrical principles;
+- readers working in or preparing for electronics manufacturing, packaging, quality, reliability, thermal design, mechanical design, product engineering, or related areas.
 
 The book should assume that readers may not be comfortable with advanced circuit theory, electromagnetics, semiconductor physics, or advanced statistics.
 
@@ -56,11 +56,11 @@ The book should consistently connect theory to engineering decisions.
 
 For example:
 
-- Thermal resistance should help students decide whether to improve conduction, add thermal vias, use a TIM, increase heat-sink area, or add airflow.
-- CTE mismatch should help students understand why solder joints and interfaces experience thermomechanical stress.
-- Transmission-line behavior should help students understand why PCB layout, return paths, spacing, and impedance matter.
-- Vibration concepts should help students understand resonance, PCB deflection, mounting, and component reliability.
-- Reliability statistics should help students interpret product life, failure rate, and accelerated testing.
+- Thermal resistance should support decisions about whether to improve conduction, add thermal vias, use a TIM, increase heat-sink area, or add airflow.
+- CTE mismatch should explain why solder joints and interfaces experience thermomechanical stress.
+- Transmission-line behavior should explain why PCB layout, return paths, spacing, and impedance matter.
+- Vibration concepts should clarify resonance, PCB deflection, mounting, and component reliability.
+- Reliability statistics should support interpretation of product life, failure rate, and accelerated testing.
 
 ---
 
@@ -71,7 +71,7 @@ The book should use enough theory to support engineering judgment, but should av
 ### Include
 
 - equations that directly support practical design or analysis;
-- simplified models that help students estimate behavior;
+- simplified models that support useful engineering estimates;
 - short derivations when they clarify physical meaning;
 - worked examples tied to real packaging situations;
 - practical assumptions and engineering approximations;
@@ -93,7 +93,7 @@ Whenever possible, an equation should lead to a practical question such as:
 
 ## Career-Relevant Knowledge
 
-A student completing the book should be able to recognize and discuss common industry concepts such as:
+After completing the book, a reader should be able to recognize and discuss common industry concepts such as:
 
 - PCB and PCBA
 - FR-4, prepreg, copper layers, vias, solder mask, and stack-up
@@ -121,7 +121,7 @@ A student completing the book should be able to recognize and discuss common ind
 - reliability, failure rate, Weibull analysis, and accelerated testing
 - relevant industry standards and qualification practices
 
-Students should understand not only the terminology, but also **how engineers use these concepts in design, manufacturing, troubleshooting, testing, and reliability work**.
+The book should explain not only the terminology, but also **how engineers use these concepts in design, manufacturing, troubleshooting, testing, and reliability work**.
 
 ---
 
@@ -138,7 +138,7 @@ The working eight-chapter structure is:
 7. **Mechanical Design Considerations**
 8. **Reliability of Electronic Packaging**
 
-Chapters 7 and 8 will be substantially revised from the older MET406 lecture notes so that they fit the applied theme and level of the new OER.
+Chapters 7 and 8 will be substantially revised from earlier instructional materials so that they fit the applied theme and level of the new OER.
 
 ---
 
@@ -163,7 +163,7 @@ Examples include:
 - thermal stress analysis
 - vibration analysis
 
-The book should help students reason like entry-level engineers rather than simply memorize definitions.
+The book should develop practical engineering reasoning rather than encourage memorization of definitions.
 
 ---
 
@@ -177,8 +177,8 @@ The writing should be:
 - technically accurate;
 - visually supported;
 - suitable for self-study;
-- suitable for classroom use;
-- appropriate for engineering technology students.
+- suitable for independent study and structured instruction;
+- accessible to engineering technology and related applied-engineering readers.
 
 Prefer:
 
@@ -198,7 +198,7 @@ Avoid writing that is unnecessarily academic, abstract, or mathematically dense.
 
 ## Project Identity
 
-> **MET406 OER is an independently authored, application-oriented learning resource designed specifically for undergraduate engineering technology students who want to enter the electronics packaging and manufacturing industry.**
+> **Electronic Packaging Applications is an independently authored, application-oriented resource for engineering technology and related applied-engineering readers who want practical knowledge of electronics packaging and manufacturing.**
 
 It is not intended to be a condensed copy of any existing electronic-packaging textbook.
 

@@ -1,10 +1,10 @@
 # Electronic Packaging Applications
 
-**An Applied Introduction for Engineering Technology Students**
+**An Applied Introduction**
 
 This project is an open educational resource (OER) on **electronic packaging**, developed for publication through [OpenEngineeringBooks.org](https://openengineeringbooks.org/).
 
-The book is designed primarily for undergraduate **Mechanical Engineering Technology (MET)** students who have limited electrical-engineering background and want practical knowledge that can help prepare them for work in electronics manufacturing, packaging, product engineering, quality, thermal and mechanical design, and reliability.
+The book is written for readers from engineering technology and related applied-engineering backgrounds who want a practical introduction to electronics manufacturing, packaging, product engineering, quality, thermal and mechanical design, and reliability. It assumes limited prior knowledge of circuits, semiconductor devices, or electronics manufacturing.
 
 > **Development note:** This book is currently under active development. The detailed table of contents is intentionally not included in this README until the complete first draft has been developed and the overall book structure has been reviewed.
 
@@ -26,9 +26,11 @@ The book approaches electronic packaging as a multidisciplinary engineering acti
 
 The emphasis is **applied engineering rather than advanced theory**. Electrical, thermal, mechanical, materials, manufacturing, and reliability concepts are introduced to the depth needed to understand practical packaging problems and make engineering decisions.
 
-## Intended Audience
+## Intended Audience and Assumed Background
 
-The primary audience is undergraduate Engineering Technology students, especially Mechanical Engineering Technology students who typically have:
+The book is intended for engineering technology and related applied-engineering readers, including those working in or preparing for manufacturing, mechatronics, industrial, mechanical, electrical/electronics, product, quality, reliability, and other technical roles.
+
+The book assumes:
 
 - basic engineering mathematics;
 - introductory mechanics and materials knowledge;
@@ -36,7 +38,7 @@ The primary audience is undergraduate Engineering Technology students, especiall
 - introductory thermodynamics and heat-transfer knowledge;
 - only limited experience with circuits, PCB design, or electronics manufacturing.
 
-The book may also be useful to students and early-career practitioners in manufacturing, mechatronics, industrial, mechanical, and related engineering fields.
+Chapter 1 provides the electrical, semiconductor, device, circuit, and manufacturing foundations needed for the packaging topics that follow.
 
 ## How to Use This Book
 
@@ -66,9 +68,9 @@ A recurring engineering workflow throughout the book is:
 
 ## Development and Technical Verification
 
-This book is being developed from MET406 *Electronic Packaging Applications* course materials and laboratory activities, with technical verification using authoritative textbooks, current standards and industry resources, manufacturer technical documentation, professional-society resources, and other appropriate engineering references.
+This book is being developed from independently revised instructional and laboratory materials, with technical verification using authoritative textbooks, current standards and industry resources, manufacturer technical documentation, professional-society resources, and other appropriate engineering references.
 
-Lecture and laboratory materials establish the intended course emphasis, but they are not treated as unquestioned technical authority. Numerical values, equations, failure mechanisms, process limits, standards information, and technology-dependent claims are rechecked during OER development.
+Earlier instructional and laboratory materials help establish the applied emphasis, but they are not treated as unquestioned technical authority. Numerical values, equations, failure mechanisms, process limits, standards information, and technology-dependent claims are rechecked during OER development.
 
 All public OER prose, instructional figures, worked examples, practice problems, answer keys, and learning activities are independently authored for this project. Reference materials are used for technical study and verification rather than copied or closely reproduced.
 
@@ -109,7 +111,7 @@ The use of AI assistance does not imply review, approval, sponsorship, or endors
 
 ## Standards and Engineering Use
 
-The book introduces standards and professional organizations so students learn **when authoritative guidance is needed**.
+The book introduces standards and professional organizations to explain **when authoritative guidance is needed**.
 
 Standards are discussed for educational awareness and are not reproduced as substitutes for the complete current documents. Manufacturer capabilities, material properties, design limits, process windows, acceptance criteria, and qualification requirements may vary by product, supplier, process, and revision.
 

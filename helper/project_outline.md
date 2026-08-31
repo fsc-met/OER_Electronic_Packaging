@@ -1,12 +1,12 @@
-# MET406 OER Book Outline
+# Electronic Packaging Applications — Book Outline
 
 ## Working Title
 
-**Electronic Packaging Applications: An Applied Introduction for Engineering Technology Students**
+**Electronic Packaging Applications: An Applied Introduction**
 
-> **Project theme:** An applied OER for undergraduate Mechanical Engineering Technology (MET) students who have limited electrical-engineering background and want practical electronic-packaging knowledge that prepares them for work in electronics manufacturing, packaging, product engineering, quality, thermal/mechanical design, and reliability.
+> **Project theme:** An applied OER for engineering technology and related applied-engineering readers who may have limited electrical-engineering background and want practical electronic-packaging knowledge for work in electronics manufacturing, packaging, product engineering, quality, thermal/mechanical design, and reliability.
 
-**Status:** Working master outline. Chapters 1-6 are based primarily on the revised Spring 2026 MET406 lecture notes and current labs. Chapters 7-8 use the Spring 2025 legacy notes as starting material and will be substantially redesigned. The outline is also informed by the uploaded reference library, current industry standards, professional-society resources, and benchmark university packaging courses.
+**Status:** Working master outline. Chapters 1-6 are based primarily on revised instructional materials and current labs. Chapters 7-8 use earlier legacy materials as starting points and will be substantially redesigned. The outline is also informed by the uploaded reference library, current industry standards, professional-society resources, and benchmark university packaging courses.
 
 **Research checkpoint:** August 29, 2026. Standards and industry references must be rechecked during chapter authoring because revisions continue to change.
 
@@ -16,17 +16,17 @@
 
 ## 1.1 Purpose
 
-The book should help a student move from **seeing an electronic circuit as a schematic** to understanding the real engineered product that must be fabricated, assembled, powered, cooled, protected, tested, and kept reliable.
+The book should help readers move from **seeing an electronic circuit as a schematic** to understanding the real engineered product that must be fabricated, assembled, powered, cooled, protected, tested, and kept reliable.
 
 The central idea is:
 
 > **Electronic packaging is the engineering that allows an electronic circuit to physically exist, be manufactured, survive its environment, and operate reliably.**
 
-The book should prepare students to recognize and solve practical packaging problems rather than reproduce advanced theory.
+The book should develop the ability to recognize and solve practical packaging problems rather than reproduce advanced theory.
 
-## 1.2 Primary Audience
+## 1.2 Intended Audience and Assumed Background
 
-The primary reader is an undergraduate MET student who typically has:
+The intended reader comes from engineering technology or a related applied-engineering background and may have:
 
 - basic engineering mathematics;
 - introductory mechanics and strength of materials;
@@ -36,11 +36,11 @@ The primary reader is an undergraduate MET student who typically has:
 - only limited circuit/electrical background;
 - little or no prior exposure to PCB fabrication, electronics assembly, signal integrity, power integrity, or reliability engineering.
 
-The book may also be useful to manufacturing, mechatronics, industrial, and mechanical engineering students entering electronics-related work.
+Relevant backgrounds include manufacturing, mechatronics, industrial, mechanical, electrical/electronics, product, quality, reliability, and other engineering technology or applied-engineering fields.
 
 ## 1.3 Career-Oriented Outcome
 
-After completing the book, a student should be able to participate intelligently in entry-level work involving:
+After completing the book, a reader should be prepared to contribute to work involving:
 
 - PCB/PCBA manufacturing support;
 - manufacturing/process engineering;
@@ -90,13 +90,13 @@ Advanced topics such as wafer-level packaging, fan-out, chiplets, 2.5D/3D integr
 
 Use sources in the following order:
 
-1. **MET406 lecture notes and labs** - first reference for intended course emphasis, pedagogy, terminology, and current teaching sequence.
+1. **Earlier instructional materials and labs** - first reference for intended applied emphasis, pedagogy, terminology, and teaching sequence.
 2. **Uploaded core reference books** - cross-check scope, physical explanations, equations, terminology, and established engineering practice.
 3. **Current standards and official industry resources** - verify acceptance criteria, terminology, test practices, and current industry usage.
 4. **Manufacturer application notes and technical documentation** - verify practical implementation, package data, thermal metrics, process behavior, and realistic examples.
 5. **Peer-reviewed literature and professional-society resources** - verify specialized or evolving topics.
 
-Lecture slides are the curriculum starting point, **not an unquestioned authority**. Any questionable numerical value, equation, causal claim, or universal design rule should be verified before it is placed in the OER. The syllabus is used primarily for course outcomes and overall intent; where its tentative weekly chapter numbering differs from the actual revised lecture set, the current eight-chapter OER structure governs.
+Earlier instructional materials are development starting points, **not unquestioned authorities**. Any questionable numerical value, equation, causal claim, or universal design rule should be verified before it is placed in the OER. Where an earlier source sequence differs from this master outline, the current eight-chapter book structure governs.
 
 ## 2.2 Core Reference Library Available to the Project
 
@@ -114,7 +114,7 @@ These references are for technical study and verification. OER prose, figures, e
 
 ## 2.3 Important Current Standards/Industry Sources to Consult
 
-The OER should introduce standards as **industry awareness**, not reproduce copyrighted requirements. Standards should be presented by role (design, fabrication, process, acceptance, test, qualification) so students learn which type of document to consult.
+The OER should introduce standards as **industry awareness**, not reproduce copyrighted requirements. Standards should be presented by role (design, fabrication, process, acceptance, test, qualification) so readers understand which type of document to consult.
 
 ### PCB design and fabrication
 
@@ -161,7 +161,7 @@ The OER should introduce standards as **industry awareness**, not reproduce copy
 
 # 3. Book-Level Learning Outcomes
 
-After completing the book, students should be able to:
+After completing the book, readers should be able to:
 
 1. Explain the purpose, hierarchy, and multidisciplinary functions of electronic packaging.
 2. Describe how a PCB is constructed and how its materials and fabrication processes affect electrical, thermal, mechanical, and manufacturing performance.
@@ -242,8 +242,8 @@ Recurring applied boxes should include:
 
 To keep the book applied and prevent scope growth, content can be marked during authoring as:
 
-- **Core** - expected knowledge for every MET406 reader;
-- **Applied Awareness** - important industry context that students should recognize but not analyze in depth;
+- **Core** - expected knowledge for every reader;
+- **Applied Awareness** - important industry context that readers should recognize but not analyze in depth;
 - **Optional Enrichment** - deeper theory, derivations, or specialized technology that may be omitted without breaking the main learning path.
 
 ## 5.2 Front Matter
@@ -252,7 +252,7 @@ The finished OER should include:
 
 - preface and intended audience;
 - book theme and learning philosophy;
-- how to use the book for a course or self-study;
+- how to use the book for guided study or self-study;
 - assumed prerequisite knowledge;
 - unit convention (SI primary; common industry imperial units where useful);
 - safety and standards-use note;
@@ -280,11 +280,11 @@ The finished OER should include:
 
 Establish electronic packaging as the multidisciplinary engineering bridge between semiconductor devices and usable electronic products. The chapter intentionally follows the physical and functional progression from **electrical/semiconductor foundations -> devices -> circuits -> integrated circuits -> IC fabrication -> IC packaging -> PCB assembly -> finished product**.
 
-The chapter gives MET students enough electrical, semiconductor, and circuit background to understand the packaging topics that follow without turning Chapter 1 into a semiconductor-physics, circuit-analysis, or IC-fabrication textbook.
+The chapter provides enough electrical, semiconductor, and circuit background to understand the packaging topics that follow without turning Chapter 1 into a semiconductor-physics, circuit-analysis, or IC-fabrication textbook.
 
 ### Learning Objectives
 
-Students should be able to:
+After completing the chapter, readers should be able to:
 
 - define electronic packaging in practical terms;
 - distinguish circuit function from physical packaging and product realization;
@@ -301,7 +301,7 @@ Students should be able to:
 - describe the progression from packaged components and a bare PCB to a PCBA and then to a finished electronic product;
 - describe the major packaging hierarchy from die to package, board, module, enclosure, and system;
 - identify major packaging functions: electrical interconnection, thermal management, mechanical support/protection, environmental protection, and manufacturability;
-- describe the multidisciplinary nature of electronic packaging and identify representative MET roles;
+- describe the multidisciplinary nature of electronic packaging and identify representative engineering technology roles;
 - recognize how product environment changes packaging priorities;
 - recognize major current trends such as SiP, chiplets, heterogeneous integration, and advanced cooling at a survey level.
 
@@ -610,7 +610,7 @@ Use the hierarchy to show that electrical, thermal, mechanical, manufacturing, a
 
 Introduce the idea that packaging decisions are coupled: changing a material, component position, interconnect, PCB stack-up, package, or enclosure can simultaneously affect electrical, thermal, mechanical, manufacturing, and reliability behavior.
 
-### 1.15 Where Engineering Technology Graduates Fit
+### 1.15 Engineering Technology Roles in Electronic Packaging
 
 Representative roles and tasks:
 
@@ -684,7 +684,7 @@ The summary should also consolidate:
 
 - key manufacturing distinctions;
 - packaging hierarchy and functions;
-- multidisciplinary/MET roles;
+- multidisciplinary/engineering technology roles;
 - mission-profile dependence;
 - major Chapter 1 terminology;
 - standards/professional-organization awareness;
@@ -725,7 +725,7 @@ The keys should:
 - **Original figure:** two manufacturing streams converging at PCB assembly.
 - **Original figure:** die/package/board/system packaging hierarchy.
 - **Engineering case:** Compare packaging priorities for a smartphone, industrial controller, and automotive module.
-- **Student task:** Identify packaging functions and hierarchy levels in an everyday electronic product.
+- **Applied task:** Identify packaging functions and hierarchy levels in an everyday electronic product.
 
 ### Authoring/Verification Cautions
 
@@ -746,8 +746,8 @@ The keys should:
 
 ### Primary Reference Anchors
 
-- Revised MET406 Chapter 1 lecture notes and current Chapter 1 OER drafts.
-- Legacy/detailed MET406 Chapter 1 material as a secondary source for semiconductor and fabrication concepts.
+- Revised Chapter 1 instructional materials and current Chapter 1 OER drafts.
+- Legacy/detailed Chapter 1 material as a secondary source for semiconductor and fabrication concepts.
 - Tummala, *Fundamentals of Device and Systems Packaging*, introductory, semiconductor-to-system, and packaging-fundamentals chapters.
 - Tummala, *Fundamentals of Microsystems Packaging*, introductory device, packaging, and system-hierarchy chapters.
 - Blackwell, *The Electronic Packaging Handbook*, design-process and package/system overview.
@@ -760,11 +760,11 @@ The keys should:
 
 ### Chapter Purpose
 
-Teach students to see a PCB as a **laminated electrical, mechanical, thermal, and manufacturing structure**, not merely as a drawing of copper traces.
+Present a PCB as a **laminated electrical, mechanical, thermal, and manufacturing structure**, not merely as a drawing of copper traces.
 
 ### Learning Objectives
 
-Students should be able to:
+After completing the chapter, readers should be able to:
 
 - identify the layers and features of a PCB;
 - distinguish core, prepreg, copper, solder mask, silkscreen, surface finish, pads, traces, and vias;
@@ -811,7 +811,7 @@ Students should be able to:
 
 Primary focus: FR-4, with context for alternatives.
 
-Properties students should understand:
+Properties to understand include:
 
 - thermal conductivity \(k\);
 - coefficient of thermal expansion (CTE), including z-axis importance;
@@ -952,7 +952,7 @@ Provide the synchronized deterministic answer key for Section 2.15 using identic
 
 ### Primary Reference Anchors
 
-- MET406 Chapter 2 lecture notes.
+- Earlier Chapter 2 instructional materials.
 - Tummala, system-level PWB chapters.
 - Coombs, *Printed Circuits Handbook*, materials, design, fabrication, and testing sections.
 - IPC-2221/2222, IPC-6012, IPC-A-600, IPC-TM-650 for standards awareness.
@@ -967,7 +967,7 @@ Teach DFM as the process of converting design intent into a board and assembly t
 
 ### Learning Objectives
 
-Students should be able to:
+After completing the chapter, readers should be able to:
 
 - distinguish DFM, DFA, DFT, and broader DFX concepts;
 - explain why DFM must occur before manufacturing release;
@@ -998,7 +998,7 @@ Students should be able to:
 
 ### 3.3 Design Rules, Capabilities, and Requirements
 
-Students must distinguish:
+The chapter must distinguish:
 
 - **EDA design rule**;
 - **manufacturer capability**;
@@ -1148,7 +1148,7 @@ Provide the synchronized deterministic answer key for Section 3.17 using identic
 
 ### Primary Reference Anchors
 
-- MET406 Chapter 3 lecture notes and Lab #1.
+- Earlier Chapter 3 instructional materials and Lab #1.
 - Coombs, PCB design/manufacturing sections.
 - Blackwell, concurrent engineering/DFM and SMT design sections.
 - IPC-2221/2222, IPC-7352, IPC-2231, IPC-6012, and the IPC-A-610/J-STD-001 relationship.
@@ -1164,7 +1164,7 @@ Explain how a fabricated PCB becomes a PCBA, how SMT/THT processes work physical
 
 ### Learning Objectives
 
-Students should be able to:
+After completing the chapter, readers should be able to:
 
 - describe a complete SMT line and THT/mixed-technology flow;
 - explain solder paste printing, SPI, component placement, reflow, wave, selective, and hand soldering;
@@ -1304,7 +1304,7 @@ Use the same troubleshooting framework as SMT.
 
 ### 4.15 Component Handling: ESD and Moisture Sensitivity
 
-Highly job-relevant addition to the current lecture sequence:
+Highly job-relevant addition to the current source sequence:
 
 - ESD-sensitive devices and protected areas.
 - Grounding/equipotential concept.
@@ -1412,7 +1412,7 @@ These labs establish the book's recurring troubleshooting model:
 
 ### Primary Reference Anchors
 
-- MET406 Chapter 4 lecture notes and Labs #2-#4.
+- Earlier Chapter 4 instructional materials and Labs #2-#4.
 - Tummala board-assembly chapters.
 - Coombs, assembly, soldering, process-control, testing, and rework sections.
 - Blackwell, SMT, test, and inspection chapters.
@@ -1425,11 +1425,11 @@ These labs establish the book's recurring troubleshooting model:
 
 ### Chapter Purpose
 
-Give MET students the **minimum electrical foundation needed to understand why physical PCB/package geometry changes electrical performance**. The focus is practical PCB interconnect behavior, not circuit-design theory.
+Provide the **minimum electrical foundation needed to understand why physical PCB/package geometry changes electrical performance**. The focus is practical PCB interconnect behavior, not circuit-design theory.
 
 ### Learning Objectives
 
-Students should be able to:
+After completing the chapter, readers should be able to:
 
 - explain the electrical functions of packaging and PCB interconnects;
 - calculate simple DC voltage drop, trace resistance, and resistive heating;
@@ -1654,7 +1654,7 @@ Use layout cases to identify issue -> electrical consequence -> design fix.
 
 ### Authoring/Verification Cautions
 
-This chapter needs especially careful technical review because the existing lecture deck is large and includes simplified/occasionally error-prone formulas.
+This chapter needs especially careful technical review because the existing source material is extensive and includes simplified or occasionally error-prone formulas.
 
 Verify before publication:
 
@@ -1672,7 +1672,7 @@ Verify before publication:
 
 ### Primary Reference Anchors
 
-- MET406 Chapter 5 lecture notes and Lab #5.
+- Earlier Chapter 5 instructional materials and Lab #5.
 - Bogatin, *Signal and Power Integrity - Simplified*.
 - Tummala, electrical package-design chapters.
 - IPC-2221 and IPC-2152 awareness; product-specific IEC/UL or other safety standards where creepage/clearance is safety-critical.
@@ -1684,11 +1684,11 @@ Verify before publication:
 
 ### Chapter Purpose
 
-Teach students a practical thermal-design workflow: **identify heat sources -> identify heat paths -> estimate temperatures -> select cooling methods -> verify -> improve**.
+Develop a practical thermal-design workflow: **identify heat sources -> identify heat paths -> estimate temperatures -> select cooling methods -> verify -> improve**.
 
 ### Learning Objectives
 
-Students should be able to:
+After completing the chapter, readers should be able to:
 
 - identify dominant heat sources and heat-flow paths in electronics;
 - explain conduction, convection, and radiation in packaging contexts;
@@ -1899,7 +1899,7 @@ Summarize heat sources and paths, conduction/convection/radiation, thermal-resis
 
 ### 6.20 Practice Problems
 
-Provide deterministic Chapter 6 practice problems using specified geometry, thermal properties, boundary conditions, thermal-resistance networks, and supplied measurement/simulation data. Problems should support engineering estimates and interpretation at the intended MET level.
+Provide deterministic Chapter 6 practice problems using specified geometry, thermal properties, boundary conditions, thermal-resistance networks, and supplied measurement/simulation data. Problems should support engineering estimates and interpretation at the intended applied introductory level.
 
 ### 6.21 Practice Problem Keys
 
@@ -1929,7 +1929,7 @@ OER improvement: the modeling lab should explicitly connect geometry to later th
 
 ### Primary Reference Anchors
 
-- MET406 Chapter 6 lecture notes, Lab #6, Lab #7, and SolidWorks thermal tutorial.
+- Earlier Chapter 6 instructional materials, Lab #6, Lab #7, and SolidWorks thermal tutorial.
 - Jamnia, heat-transfer/cooling chapters.
 - Tummala, thermal-management chapters.
 - Blackwell, thermal management.
@@ -1947,7 +1947,7 @@ Teach the mechanical and thermomechanical behavior that most directly affects PC
 
 ### Learning Objectives
 
-Students should be able to:
+After completing the chapter, readers should be able to:
 
 - classify mechanical failures as overstress versus accumulated/wear-out damage;
 - use basic stress, strain, stiffness, CTE, and strength concepts in packaging contexts;
@@ -2175,7 +2175,7 @@ The legacy note contains valuable examples but should be significantly modernize
 
 ### Primary Reference Anchors
 
-- Legacy MET406 mechanical chapter.
+- Legacy mechanical-design instructional material.
 - Jamnia, vibration, shock, induced stress, thermomechanical, fatigue, and creep chapters/appendices.
 - Steinberg, PCB vibration and electronic-equipment dynamics.
 - Tummala, thermo-mechanical reliability/design-for-reliability sections.
@@ -2194,7 +2194,7 @@ Integrate the whole book by connecting **mission profile -> stresses -> failure 
 
 ### Learning Objectives
 
-Students should be able to:
+After completing the chapter, readers should be able to:
 
 - distinguish quality, reliability, durability, and maintainability at an introductory level;
 - define reliability as a probability tied to function, time, and specified conditions;
@@ -2405,7 +2405,7 @@ Avoid treating a single RPN number as a substitute for engineering judgment.
 
 ### 8.17 Reliability Communication
 
-Students should practice summarizing:
+Readers should practice summarizing:
 
 - requirement/mission profile;
 - test conditions;
@@ -2421,7 +2421,7 @@ Example OER-created case:
 
 **Industrial controller for a hot, vibrating environment**
 
-Students must:
+Readers must:
 
 1. identify manufacturing and DFM risks;
 2. identify thermal path and temperature risks;
@@ -2478,7 +2478,7 @@ The legacy reliability note should be simplified and corrected where needed:
 
 ### Primary Reference Anchors
 
-- Legacy MET406 reliability chapter.
+- Legacy reliability instructional material.
 - O'Connor & Kleyner, *Practical Reliability Engineering*.
 - Jamnia, mechanical/electrical failure and reliability chapters.
 - Tummala, design-for-reliability and microsystems-reliability chapters.
@@ -2489,7 +2489,7 @@ The legacy reliability note should be simplified and corrected where needed:
 
 # 7. Cross-Chapter Threads
 
-These themes should deliberately reappear throughout the book so students see packaging as one connected engineering system.
+These themes should deliberately reappear throughout the book so packaging is understood as one connected engineering system.
 
 ## 7.1 Design -> Manufacturing -> Reliability
 
@@ -2525,7 +2525,7 @@ One geometric change can simultaneously affect:
 
 ## 7.4 Failure-Mechanism Thinking
 
-Students should repeatedly use:
+The book should repeatedly use:
 
 > **Symptom -> Mechanism -> Causes -> Evidence -> Corrective Action**
 
@@ -2547,7 +2547,7 @@ For SolidWorks/FEA/CFD activities:
 
 # 8. Lab and Applied-Activity Integration Map
 
-| Book Chapter | Existing MET406 Lab/Resource | OER Role |
+| Book Chapter | Existing Lab/Resource | OER Role |
 |---|---|---|
 | Ch. 1 | No dedicated lab | Product teardown/packaging-function identification (proposed short activity) |
 | Ch. 2 | Background for Lab #1 and CAD work | PCB cross-section/stack-up interpretation activity (proposed) |
@@ -2577,7 +2577,7 @@ For SolidWorks/FEA/CFD activities:
 | 7 | IPC/JEDEC-9704, IPC-9701, IEC 60068 vibration/shock, MIL-STD-810 context |
 | 8 | IPC-9701, JEDEC JESD22/JESD47, IEC 60068, application/customer qualification standards |
 
-**Important:** The OER should teach students **how to recognize when a standard is needed**, not attempt to reproduce standards.
+**Important:** The OER should explain **how to recognize when a standard is needed**, not attempt to reproduce standards.
 
 ---
 
@@ -2598,7 +2598,7 @@ For SolidWorks/FEA/CFD activities:
 
 # 11. Benchmarking Against Other Packaging Courses
 
-The outline intentionally retains the multidisciplinary core seen in established packaging education while adapting it to an MET audience with less electrical prerequisite knowledge.
+The outline intentionally retains the multidisciplinary core seen in established packaging education while adapting it for engineering technology and related applied-engineering readers with limited electrical prerequisite knowledge.
 
 Benchmarks reviewed during outline development include:
 
@@ -2617,7 +2617,7 @@ Common benchmark themes are therefore:
 - inspection/test;
 - hands-on analysis and experimentation.
 
-The MET406 OER intentionally differentiates itself by giving **more emphasis to PCB/PCBA manufacturing, DFM, troubleshooting, process control, and practical system-level packaging**, while reducing device-level physics and advanced electrical theory. This is consistent with the book's employment-oriented MET audience rather than a specialist microelectronics-packaging graduate audience.
+The OER intentionally differentiates itself by giving **more emphasis to PCB/PCBA manufacturing, DFM, troubleshooting, process control, and practical system-level packaging**, while reducing device-level physics and advanced electrical theory. This is consistent with the book's applied, employment-oriented audience rather than a specialist microelectronics-packaging graduate audience.
 
 ---
 
@@ -2627,7 +2627,7 @@ Before any chapter is considered complete, perform all of the following.
 
 ## Pass 1 - Curriculum/Scope Check
 
-- Does the material support the applied MET audience?
+- Does the material support the intended engineering technology and applied-engineering audience?
 - Is every major concept connected to a real packaging decision?
 - Has unnecessary theory been removed or marked optional?
 - Does the chapter overlap unnecessarily with another chapter?
@@ -2664,7 +2664,7 @@ Before any chapter is considered complete, perform all of the following.
 ## Chapter 1
 
 - Verify public product-failure case-study root causes and avoid oversimplified causal claims.
-- Keep semiconductor, device, passive-device, circuit, and IC-fabrication material at an applied bridge level appropriate for MET students.
+- Keep semiconductor, device, passive-device, circuit, and IC-fabrication material at an applied bridge level accessible to readers with limited electrical background.
 - Preserve the correct manufacturing convergence: semiconductor fabrication -> IC die -> packaged component; PCB fabrication -> bare PCB; components + bare PCB -> PCBA -> finished product.
 - Clearly distinguish IC fabrication, IC packaging, PCB fabrication, and PCB assembly.
 - Verify all transistor symbols, current/control descriptions, Boolean notation, logic equations, truth tables, and circuit figures.
@@ -2738,13 +2738,13 @@ The following may appear in sidebars, future-trends sections, or later expansion
 - advanced Weibull confidence bounds and reliability statistics;
 - detailed fault-tree/Markov reliability modeling.
 
-These are valuable topics but are better treated after students master PCB/PCBA-level packaging fundamentals.
+These are valuable topics but are better treated after the PCB/PCBA-level packaging fundamentals have been established.
 
 ---
 
 # 15. Current Project Decision
 
-The MET406 OER will use the following **eight-chapter architecture** as its working master structure:
+The OER will use the following **eight-chapter architecture** as its working master structure:
 
 1. **Introduction to Electronic Packaging**
 2. **PCB Structure, Materials, and Fabrication**
@@ -2757,7 +2757,7 @@ The MET406 OER will use the following **eight-chapter architecture** as its work
 
 Chapters 1-6 will be developed from the revised 2026 materials but technically rechecked and rewritten for OER use. Chapter 1 now includes the explicit applied bridge from semiconductor foundations through devices, circuits, integrated circuits, IC fabrication, packaging, PCB assembly, and finished-product hierarchy. Chapters 7-8 will be rebuilt from the older notes using the same applied, industry-oriented approach.
 
-The final book should remain recognizably **MET406**, but should be able to stand independently as an open, self-learning resource for engineering technology students entering the electronics packaging and manufacturing industry.
+The final book should stand independently as an open resource for engineering technology and related applied-engineering readers working in or preparing for the electronics packaging and manufacturing industry.
 
 Beginning with Chapter 1, every chapter will use the same three-part ending:
 

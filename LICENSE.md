@@ -1,6 +1,6 @@
 # License
 
-Except where otherwise noted, the original educational content in *Electronic Packaging Applications: An Applied Introduction for Engineering Technology Students* is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**, to the extent that the applicable rights holder has authority to license that content.
+Except where otherwise noted, the original educational content in *Electronic Packaging Applications: An Applied Introduction* is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**, to the extent that the applicable rights holder has authority to license that content.
 
 For the project-specific license notice and the canonical Creative Commons terms, see the [LICENSE](LICENSE) file.
 
@@ -15,7 +15,7 @@ Attribution is required. Users must provide appropriate credit, link to the lice
 
 ## Suggested Attribution
 
-> *Electronic Packaging Applications: An Applied Introduction for Engineering Technology Students* by Wenhai Li, Ph.D., licensed under CC BY 4.0, except where otherwise noted.
+> *Electronic Packaging Applications: An Applied Introduction* by Wenhai Li, Ph.D., licensed under CC BY 4.0, except where otherwise noted.
 
 Attribution should not imply that the author, Farmingdale State College, SUNY, OpenEngineeringBooks.org, or any referenced organization endorses the reuse or adaptation.
 

@@ -8,13 +8,13 @@ Department of Mechanical Engineering Technology
 Farmingdale State College  
 State University of New York (SUNY)
 
-*Electronic Packaging Applications: An Applied Introduction for Engineering Technology Students* was conceived, developed, organized, technically reviewed, and edited by Wenhai Li.
+*Electronic Packaging Applications: An Applied Introduction* was conceived, developed, organized, technically reviewed, and edited by Wenhai Li.
 
 The author is responsible for the instructional design, independently authored OER prose, original instructional figures, worked examples, practice problems, answer keys, and final presentation of the book.
 
-## Course and Project Context
+## Project Context
 
-This open educational resource grew from materials and laboratory activities used in **MET406 - Electronic Packaging Applications** at Farmingdale State College. The course materials are being rewritten, expanded, reorganized, and technically rechecked for open publication and self-study use.
+This open educational resource grew from instructional and laboratory materials that have been independently rewritten, expanded, reorganized, and technically rechecked for open publication and self-study use.
 
 The book is developed for publication through **OpenEngineeringBooks.org** using a Markdown, mdBook, and KaTeX-compatible technical-book workflow.
 

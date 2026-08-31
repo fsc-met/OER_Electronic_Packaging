@@ -1,4 +1,4 @@
-# MET406 OER — How to Use Reference Books and Online Resources
+# Electronic Packaging Applications — How to Use Reference Books and Online Resources
 
 ## Purpose
 
@@ -19,7 +19,7 @@ They are **references for knowledge and verification**, not source material to c
 
 ## Fundamental Rule
 
-> **All explanatory text, chapter organization, figures, examples, case studies, practice problems, review questions, and lab activities should be independently authored for the MET406 OER.**
+> **All explanatory text, chapter organization, figures, examples, case studies, practice problems, review questions, and lab activities should be independently authored for this OER.**
 
 Commercial books and online resources may inform our understanding, but the OER should not reproduce or closely paraphrase their presentation.
 
@@ -57,7 +57,7 @@ When drafting a section:
 
 1. Study several reliable sources when possible.
 2. Understand the engineering concept independently.
-3. Decide what an MET undergraduate actually needs to know.
+3. Decide what readers with the assumed applied-engineering background need to know.
 4. Reorganize the concept around the applied goals of this OER.
 5. Write the explanation from scratch.
 6. Create original examples, figures, and problems.
@@ -196,7 +196,7 @@ A worked example should:
 - use original geometry, data, and wording;
 - demonstrate an engineering decision;
 - clearly state assumptions;
-- show calculations at an appropriate MET level;
+- show calculations at the intended applied introductory level;
 - explain what the numerical result means physically.
 
 Do not take an example from a reference and simply change the numbers.
@@ -319,11 +319,11 @@ The OER should cite sources when they provide:
 
 Routine engineering explanations do not need excessive citation when they are independently written and based on well-established knowledge.
 
-The reference list should help students locate authoritative sources for deeper study.
+The reference list should help readers locate authoritative sources for deeper study.
 
 ---
 
-## Reference Hierarchy for the MET406 OER
+## Reference Hierarchy for the OER
 
 ### Core references
 
@@ -366,7 +366,7 @@ The reference list should evolve as the OER develops.
 
 > **Reference materials are used to improve accuracy and completeness. They are not templates to reproduce.**
 
-The MET406 OER must remain an independently authored work with:
+The OER must remain an independently authored work with:
 
 - original prose;
 - original pedagogical organization;
@@ -376,4 +376,4 @@ The MET406 OER must remain an independently authored work with:
 - original labs;
 - properly cited technical facts and standards.
 
-This protects the open nature of the book while ensuring that it is technically rigorous and useful to engineering technology students.
+This protects the open nature of the book while ensuring that it is technically rigorous and useful to engineering technology and related applied-engineering readers.

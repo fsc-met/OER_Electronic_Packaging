@@ -56,6 +56,9 @@ Do not force every module into the same pedagogical pattern. A module may or may
 ## 6. Writing Style
 
 - Write for the intended audience defined in the outline.
+- Define the public audience by assumed knowledge and practical needs rather than by one academic major, institution, or course enrollment.
+- Present the public work as a standalone technical book. Do not mention a course number, lecture sequence, classroom enrollment, or internal curriculum source in rendered content.
+- Prefer direct book prose. Use `reader` only when a direct audience reference is useful; avoid academic-enrollment labels for the audience.
 - Prefer direct technical prose over promotional language.
 - Explain engineering meaning, not only formulas.
 - Define symbols before or immediately after first use.

@@ -1,6 +1,6 @@
-# MET406 OER Figure QA and Iterative Revision Rules
+# Electronic Packaging Applications Figure QA and Iterative Revision Rules
 
-This file summarizes the figure-development and QA rules established during the MET406 OER project. It is intended to be used together with the project's general `image_generation_rules.md`.
+This file summarizes the project's figure-development and QA rules. It is intended to be used together with the general `image_generation_rules.md`.
 
 The purpose is to ensure that technical figures improve **progressively and predictably** during review, without design drift, technical regression, or unnecessary redesign.
 
@@ -18,7 +18,7 @@ The final accepted figure must simultaneously satisfy **three publication requir
    - Required objects, labels, relationships, sequence, emphasis, caption intent, and prohibited elements must all be respected.
    - QA must verify that the final image still teaches exactly what the section intended.
 
-2. **The MET406 OER image-generation rules**
+2. **The project image-generation rules**
    - The figure must follow the project's established rules for originality, technical correctness, visual style, labeling, caption placement, accessibility, numbering, and consistency.
    - The figure must not violate project-specific rules such as embedding the figure number/caption inside the artwork when the caption belongs in Markdown.
 
@@ -29,7 +29,7 @@ The final accepted figure must simultaneously satisfy **three publication requir
 
 The acceptance standard is therefore:
 
-> **The final figure must match the approved suggested content, comply with the MET406 image-generation rules, and reach publication-quality standards in content, style, and visual execution.**
+> **The final figure must match the approved suggested content, comply with the project image-generation rules, and reach publication-quality standards in content, style, and visual execution.**
 
 A figure is **not finished** if it is merely "better than the previous revision."  
 QA continues until the remaining issues are resolved and the figure satisfies the full publication standard.
@@ -40,13 +40,13 @@ QA continues until the remaining issues are resolved and the figure satisfies th
 
 A technical figure is not accepted simply because it looks polished.
 
-A publication-ready MET406 figure must satisfy all of the following:
+A publication-ready figure must satisfy all of the following:
 
 1. **Technically correct**
 2. **Pedagogically useful**
 3. **Faithful to the approved suggested content / figure specification**
 4. **Consistent with the surrounding section**
-5. **Compliant with the MET406 image-generation rules**
+5. **Compliant with the project image-generation rules**
 6. **Visually clear at mdBook display size**
 7. **Original and copyright-safe**
 8. **Consistent with the visual style of the OER**
@@ -295,7 +295,7 @@ Use clear terms such as:
 
 ## 9. Repeated Processes Must Look Repeated
 
-For semiconductor fabrication, students must understand that processes such as:
+For semiconductor fabrication, readers must understand that processes such as:
 
 - deposition;
 - lithography;
@@ -317,9 +317,9 @@ The loop should reinforce the concept without dominating the figure.
 
 ---
 
-## 10. Keep the Figure at the Intended Course Level
+## 10. Keep the Figure at the Intended Book Level
 
-MET406 is an applied Engineering Technology course.
+The book is an applied introduction for engineering technology and related applied-engineering readers.
 
 Figures should be:
 
@@ -405,7 +405,7 @@ Terminology must match the book.
 For example, use one approved term consistently:
 
 - `photoresist`, not alternating randomly with `photo resist`;
-- `wafer probe`, if that is the selected course term;
+- `wafer probe`, if that is the selected book term;
 - `die` / `bare die` with the same meaning used in the section;
 - `on-die metal interconnect`, not `PCB trace` inside a semiconductor die.
 
@@ -453,7 +453,7 @@ Before acceptance, check:
 - panel density;
 - contrast.
 
-If students must zoom in to understand the basic message, the figure is too dense.
+If readers must zoom in to understand the basic message, the figure is too dense.
 
 ---
 
@@ -507,7 +507,7 @@ The QA reviewer should verify both:
 
 ## 19. Check for Unintended Manufacturing Implications
 
-Because MET406 emphasizes packaging and manufacturing flow, figures must not accidentally imply incorrect process convergence.
+Because the book emphasizes packaging and manufacturing flow, figures must not accidentally imply incorrect process convergence.
 
 Preserve these separate streams:
 
@@ -534,7 +534,7 @@ Never imply:
 
 ## 20. Perform a Final Publication QA
 
-Before marking a figure final, verify that it satisfies the **approved suggested content**, the **MET406 image-generation rules**, and **public-publishing quality**. Then check all of the following.
+Before marking a figure final, verify that it satisfies the **approved suggested content**, the **project image-generation rules**, and **public-publishing quality**. Then check all of the following.
 
 ### Technical
 
@@ -545,7 +545,7 @@ Before marking a figure final, verify that it satisfies the **approved suggested
 - [ ] Process order is correct.
 - [ ] Alternatives are not shown as mandatory sequences.
 - [ ] No misleading manufacturing implication remains.
-- [ ] Simplifications are appropriate for MET406.
+- [ ] Simplifications are appropriate for the intended applied introductory level.
 
 ### Text
 
@@ -613,7 +613,7 @@ A revision-history contact sheet may also be created when many versions exist, b
 
 ## 23. Recommended QA Workflow
 
-Use this workflow for future MET406 figures.
+Use this workflow for future figures.
 
 ### Stage A – Figure specification
 
@@ -659,7 +659,7 @@ A figure may be labeled **Final** only when all of the following are true:
 - [ ] Every required object, relationship, label, and process step is present and correct.
 - [ ] No prohibited or misleading element from the figure specification remains.
 - [ ] The surrounding section and the figure tell the same technical story.
-- [ ] The figure follows the MET406 image-generation rules.
+- [ ] The figure follows the project image-generation rules.
 - [ ] No figure number or external caption is embedded inside the artwork unless specifically approved.
 - [ ] The visual style is consistent with the OER.
 - [ ] The figure is readable at intended mdBook display size.
@@ -678,7 +678,7 @@ If any item fails, the figure remains a **draft/revision**, even if it looks vis
 
 > **QA means correcting defects while preserving what is already correct. It does not mean redesigning the figure at every iteration.**
 
-For MET406 OER figures, the preferred progression is:
+For the book's figures, the preferred progression is:
 
 > **Draft -> identify specific issues -> targeted correction -> recheck -> targeted correction -> publication-ready final**
 

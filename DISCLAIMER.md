@@ -2,7 +2,7 @@
 
 ## Educational Purpose
 
-*Electronic Packaging Applications: An Applied Introduction for Engineering Technology Students* is an independent open educational resource intended to support education and self-study in electronic packaging and electronics manufacturing.
+*Electronic Packaging Applications: An Applied Introduction* is an independent open educational resource intended to support education, professional development, and self-study in electronic packaging and electronics manufacturing.
 
 The material is provided for educational and informational purposes only. It does not constitute engineering, legal, regulatory, safety, certification, or other professional advice for any specific product, design, manufacturing process, workplace, or application.
 

@@ -1,12 +1,12 @@
-# MET406 OER Section Markdown QA Rules
+# Electronic Packaging Applications Section Markdown QA Rules
 
 ## Purpose
 
-This file summarizes the quality-assurance rules used when drafting, reviewing, and revising MET406 OER section Markdown files.
+This file summarizes the quality-assurance rules used when drafting, reviewing, and revising the book's section Markdown files.
 
 These rules apply to **section `.md` files**, not to figure-generation QA. Figure QA is handled separately.
 
-The goal is to ensure that each section is technically correct, aligned with the approved outline, appropriate for the MET406 course level, compatible with mdBook, consistent with nearby sections, properly integrated with figures, and suitable for public OER publication.
+The goal is to ensure that each section is technically correct, aligned with the approved outline, appropriate for the intended applied introductory level, compatible with mdBook, consistent with nearby sections, properly integrated with figures, and suitable for public OER publication.
 
 ## 1. Reference Priority
 
@@ -14,13 +14,13 @@ Use sources in this order.
 
 ### First reference
 
-Use the **MET406 lecture notes/slides** as the primary source for:
+Use the **earlier instructional materials** as the primary source for:
 
-- course scope;
+- intended scope;
 - terminology;
 - teaching sequence;
 - level of detail;
-- examples emphasized in the course.
+- examples emphasized in the source materials.
 
 ### Second reference
 
@@ -34,9 +34,9 @@ Examples include:
 
 ### Additional verification
 
-Use reliable online technical sources only when needed for terminology updates, current industry terminology, manufacturer/package-family confirmation, or resolving ambiguity not addressed by the lecture notes or books.
+Use reliable online technical sources only when needed for terminology updates, current industry terminology, manufacturer/package-family confirmation, or resolving ambiguity not addressed by the earlier instructional materials or books.
 
-Do not let outside sources replace the course framing.
+Do not let outside sources replace the book's applied framing.
 
 ## 2. Outline Alignment
 
@@ -69,7 +69,7 @@ When multiple streams converge, show clearly **where** they converge.
 
 ## 4. Scope Control
 
-Keep each section at the intended course level.
+Keep each section at the intended book level.
 
 For Chapter 1, the usual level is:
 
@@ -82,7 +82,7 @@ Do not drift into detailed design or process optimization that belongs in later 
 
 Examples usually deferred include detailed PCB stack-up design, detailed DFM rules, stencil design, solder-paste rheology, detailed reflow profiles, IPC acceptance criteria, advanced thermal modeling, detailed reliability modeling, and advanced-packaging process recipes.
 
-A short preview may be included if it helps students understand why the topic matters.
+A short preview may be included if it helps readers understand why the topic matters.
 
 ## 5. Section Structure
 
@@ -203,7 +203,9 @@ Examples:
 
 ## 12. Writing Style
 
-Public prose should be concise, direct, technically precise, student-friendly, and suitable for undergraduate MET students.
+Public prose should be concise, direct, technically precise, reader-friendly, and accessible to engineering technology and related applied-engineering readers who may have limited electrical background.
+
+Public prose must present the work as a standalone technical book. Do not mention a course number, lecture sequence, classroom enrollment, or one academic major as the primary audience. Prefer direct prose; use `reader` only when a direct audience reference is useful.
 
 Prefer short paragraphs and clear lists.
 
@@ -318,7 +320,7 @@ Before accepting a section, verify:
 - [ ] alternatives are shown as alternatives;
 - [ ] qualified wording is used where needed;
 - [ ] no major technical overstatement remains;
-- [ ] prose matches MET406 course level;
+- [ ] prose matches the intended applied introductory level and standalone-book voice;
 - [ ] redundant content has been minimized;
 - [ ] figures are placed correctly;
 - [ ] figure filenames are correct;
@@ -336,7 +338,7 @@ Use a cyclic revision process.
 
 ### Step 1 - Draft
 
-Create a first section draft based on the outline, lecture notes, approved references, and nearby sections.
+Create a first section draft based on the outline, earlier instructional materials, approved references, and nearby sections.
 
 ### Step 2 - Technical QA
 
@@ -344,7 +346,7 @@ Review terminology, classifications, manufacturing sequence, physical relationsh
 
 ### Step 3 - Pedagogical QA
 
-Review teaching sequence, clarity, redundancy, transitions, and course level.
+Review teaching sequence, clarity, redundancy, transitions, and book level.
 
 ### Step 4 - Figure integration QA
 
