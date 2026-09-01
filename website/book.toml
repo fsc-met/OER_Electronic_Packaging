@@ -1,0 +1,23 @@
+[book]
+title = "Electronic Packaging Applications"
+description = "An applied introduction to electronic packaging for engineering technology students."
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[preprocessor.katex]
+after = ["links"]
+
+[output.html]
+no-section-label = true
+site-url = "/epac/"
+additional-css = ["theme/openengineeringbooks.css"]
+additional-js = ["theme/openengineeringbooks.js"]
+
+default-theme = "light"
+preferred-dark-theme = "light"
+
+sidebar-header-nav = false

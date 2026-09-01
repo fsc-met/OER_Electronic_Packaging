@@ -1,0 +1,686 @@
+/*
+ * OpenEngineeringBooks mdBook stylesheet
+ * GitHub-inspired light reading style
+ *
+ * Goal:
+ *   - clean, spacious, light appearance
+ *   - similar visual rhythm to GitHub-rendered Markdown
+ *   - preserve mdBook navigation and KaTeX rendering
+ */
+
+:root {
+    --content-max-width: 980px;
+    --sidebar-target-width: 340px;
+    --page-padding: 40px;
+
+    --oeb-bg: #ffffff;
+    --oeb-soft-bg: #f6f8fa;
+    --oeb-border: #d1d9e0;
+    --oeb-text: #1f2328;
+    --oeb-muted: #59636e;
+    --oeb-link: #0969da;
+    --oeb-sidebar-bg: #f6f8fa;
+    --oeb-code-bg: #f6f8fa;
+    --oeb-radius: 6px;
+
+    --oeb-body-font:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Helvetica,
+        Arial,
+        sans-serif,
+        "Apple Color Emoji",
+        "Segoe UI Emoji";
+}
+
+/* --------------------------------------------------------------------------
+   Force a clean light visual base
+   -------------------------------------------------------------------------- */
+
+html,
+body {
+    background: var(--oeb-bg);
+}
+
+body {
+    color: var(--oeb-text);
+    font-family: var(--oeb-body-font);
+}
+
+.content {
+    background: var(--oeb-bg);
+}
+
+/* --------------------------------------------------------------------------
+   Main reading area
+   -------------------------------------------------------------------------- */
+
+.content main {
+    max-width: var(--content-max-width);
+    margin: 0 auto;
+    padding: 36px var(--page-padding) 64px;
+
+    color: var(--oeb-text);
+    font-family: var(--oeb-body-font);
+    font-size: 16px;
+    line-height: 1.72;
+    letter-spacing: 0;
+}
+
+/*
+ * GitHub Markdown feels spacious largely because content blocks are separated
+ * clearly. Keep paragraphs and lists visually distinct.
+ */
+.content main p {
+    margin-top: 0;
+    margin-bottom: 1.15em;
+}
+
+.content main ul,
+.content main ol {
+    margin-top: 0.45em;
+    margin-bottom: 1.15em;
+    padding-left: 2em;
+}
+
+.content main li {
+    margin-top: 0.28em;
+    margin-bottom: 0.28em;
+}
+
+.content main li > p {
+    margin-top: 0.55em;
+    margin-bottom: 0.55em;
+}
+
+/* --------------------------------------------------------------------------
+   Headings - GitHub-like hierarchy
+   -------------------------------------------------------------------------- */
+
+.content main h1,
+.content main h2,
+.content main h3,
+.content main h4,
+.content main h5,
+.content main h6 {
+    color: var(--oeb-text);
+    font-family: var(--oeb-body-font);
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.content main h1 {
+    margin-top: 0;
+    margin-bottom: 24px;
+    padding-bottom: 0.3em;
+    font-size: 2em;
+    border-bottom: 1px solid var(--oeb-border);
+}
+
+.content main h2 {
+    margin-top: 38px;
+    margin-bottom: 18px;
+    padding-bottom: 0.3em;
+    font-size: 1.5em;
+    border-bottom: 1px solid var(--oeb-border);
+}
+
+.content main h3 {
+    margin-top: 30px;
+    margin-bottom: 14px;
+    font-size: 1.25em;
+}
+
+.content main h4 {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    font-size: 1em;
+}
+
+.content main h5,
+.content main h6 {
+    margin-top: 22px;
+    margin-bottom: 10px;
+    font-size: 0.875em;
+}
+
+/* --------------------------------------------------------------------------
+   Links
+   -------------------------------------------------------------------------- */
+
+.content main a {
+    color: var(--oeb-link);
+    text-decoration: none;
+}
+
+.content main a:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+}
+
+/* --------------------------------------------------------------------------
+   Strong / emphasis
+   -------------------------------------------------------------------------- */
+
+.content main strong {
+    font-weight: 600;
+}
+
+/* --------------------------------------------------------------------------
+   Inline code and code blocks
+   -------------------------------------------------------------------------- */
+
+.content main code {
+    padding: 0.18em 0.36em;
+    border-radius: var(--oeb-radius);
+    background: var(--oeb-code-bg);
+    font-size: 0.88em;
+}
+
+.content main pre {
+    margin: 1.35em 0;
+    padding: 16px;
+    overflow: auto;
+    border: 1px solid var(--oeb-border);
+    border-radius: var(--oeb-radius);
+    background: var(--oeb-code-bg);
+    line-height: 1.5;
+}
+
+.content main pre code {
+    padding: 0;
+    background: transparent;
+    font-size: 0.9em;
+}
+
+/* --------------------------------------------------------------------------
+   Blockquotes
+   -------------------------------------------------------------------------- */
+
+.content main blockquote {
+    margin: 1.25em 0;
+    padding: 0 1em;
+
+    color: var(--oeb-muted);
+    background: transparent;
+    border-left: 0.25em solid var(--oeb-border);
+    border-radius: 0;
+}
+
+.content main blockquote > :first-child {
+    margin-top: 0;
+}
+
+.content main blockquote > :last-child {
+    margin-bottom: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Tables
+   -------------------------------------------------------------------------- */
+
+.content main .table-wrapper {
+    margin: 1.4em 0 1.8em;
+    overflow-x: auto;
+
+    border: 0;
+    border-radius: 0;
+}
+
+.content main table {
+    width: max-content;
+    min-width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+
+    font-size: 0.94em;
+    line-height: 1.5;
+}
+
+.content main table th,
+.content main table td {
+    padding: 8px 13px;
+    border: 1px solid var(--oeb-border);
+    text-align: left;
+    vertical-align: top;
+}
+
+.content main table th {
+    font-weight: 600;
+    background: var(--oeb-soft-bg);
+}
+
+.content main table tr:nth-child(2n) {
+    background: var(--oeb-soft-bg);
+}
+
+/* --------------------------------------------------------------------------
+   Horizontal rules
+   -------------------------------------------------------------------------- */
+
+.content main hr {
+    height: 0.25em;
+    margin: 28px 0;
+    padding: 0;
+    border: 0;
+    background: var(--oeb-border);
+}
+
+/* --------------------------------------------------------------------------
+   Images and captions
+   -------------------------------------------------------------------------- */
+
+.content main img {
+    max-width: 100%;
+    height: auto;
+}
+
+.content main div[align="center"] {
+    margin: 1.7em auto 2em;
+}
+
+.content main div[align="center"] img {
+    display: inline-block;
+    margin: 0 auto 0.45em;
+}
+
+.content main figure {
+    margin: 1.7em auto 2em;
+    text-align: center;
+}
+
+.content main figcaption {
+    margin-top: 0.55em;
+    color: var(--oeb-muted);
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+/* --------------------------------------------------------------------------
+   KaTeX
+   -------------------------------------------------------------------------- */
+
+.content main .katex {
+    font-size: 1.02em;
+}
+
+.content main .katex-display {
+    margin: 1.5em 0;
+    padding: 0.15em 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+/* --------------------------------------------------------------------------
+   Sidebar - light, quiet, spacious
+   -------------------------------------------------------------------------- */
+
+.sidebar {
+    background: var(--oeb-sidebar-bg);
+    color: var(--oeb-text);
+    border-right: 1px solid var(--oeb-border);
+    font-family: var(--oeb-body-font);
+    font-size: 14px;
+}
+
+.sidebar .chapter {
+    padding: 18px 12px 32px;
+    line-height: 1.45;
+}
+
+.sidebar .chapter li {
+    margin: 1px 0;
+}
+
+.sidebar .chapter li a {
+    display: block;
+    padding: 6px 9px;
+    border-radius: 6px;
+    color: var(--oeb-text);
+}
+
+.sidebar .chapter li a:hover {
+    background: #eaeef2;
+    text-decoration: none;
+}
+
+.sidebar .chapter li a.active {
+    color: var(--oeb-link);
+    background: #ddf4ff;
+    font-weight: 600;
+}
+
+.sidebar .chapter li.part-title {
+    margin-top: 18px;
+    margin-bottom: 5px;
+    padding: 14px 9px 4px;
+
+    color: var(--oeb-muted);
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.35;
+    letter-spacing: 0.03em;
+    text-transform: none;
+
+    border-top: 1px solid var(--oeb-border);
+}
+
+.sidebar .chapter li.part-title:first-child {
+    border-top: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Top bar
+   -------------------------------------------------------------------------- */
+
+.menu-bar,
+.menu-bar-hover-placeholder {
+    background: var(--oeb-bg);
+    color: var(--oeb-text);
+}
+
+.menu-bar {
+    border-bottom: 1px solid var(--oeb-border);
+    box-shadow: none;
+}
+
+.menu-bar .icon-button {
+    color: var(--oeb-muted);
+}
+
+.menu-bar .icon-button:hover {
+    color: var(--oeb-text);
+    background: var(--oeb-soft-bg);
+}
+
+/* --------------------------------------------------------------------------
+   Previous / next chapter controls
+   -------------------------------------------------------------------------- */
+
+.nav-chapters {
+    color: var(--oeb-muted);
+    opacity: 0.8;
+}
+
+.nav-chapters:hover {
+    color: var(--oeb-link);
+    opacity: 1;
+}
+
+/* --------------------------------------------------------------------------
+   Search
+   -------------------------------------------------------------------------- */
+
+#searchbar {
+    border: 1px solid var(--oeb-border);
+    border-radius: var(--oeb-radius);
+    background: var(--oeb-bg);
+    color: var(--oeb-text);
+}
+
+/* --------------------------------------------------------------------------
+   Accessibility
+   -------------------------------------------------------------------------- */
+
+.content main :focus-visible {
+    outline: 2px solid var(--oeb-link);
+    outline-offset: 3px;
+}
+
+/* --------------------------------------------------------------------------
+   Responsive
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 900px) {
+    :root {
+        --page-padding: 26px;
+    }
+
+    .content main {
+        padding-top: 28px;
+        font-size: 16px;
+        line-height: 1.68;
+    }
+}
+
+@media (max-width: 600px) {
+    :root {
+        --page-padding: 18px;
+    }
+
+    .content main {
+        padding-top: 22px;
+        padding-bottom: 44px;
+        line-height: 1.65;
+    }
+
+    .content main h1 {
+        font-size: 1.75em;
+    }
+
+    .content main h2 {
+        margin-top: 32px;
+        font-size: 1.38em;
+    }
+
+    .content main table th,
+    .content main table td {
+        padding: 7px 10px;
+    }
+}
+
+/* --------------------------------------------------------------------------
+   Print
+   -------------------------------------------------------------------------- */
+
+@media print {
+    html,
+    body,
+    .content {
+        background: #ffffff !important;
+    }
+
+    .content main {
+        max-width: none;
+        padding: 0;
+        color: #000000;
+        font-size: 11pt;
+        line-height: 1.5;
+    }
+
+    .content main a {
+        color: #000000;
+    }
+
+    .content main blockquote,
+    .content main table,
+    .content main pre,
+    .content main img {
+        break-inside: avoid;
+    }
+}
+
+/* ============================================================
+   Final readability tuning
+   ============================================================ */
+
+/* Main textbook reading column */
+.content main {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-size: 17px;
+    line-height: 1.78;
+
+    padding-top: 42px;
+    padding-bottom: 80px;
+}
+
+/* More breathing room between paragraphs */
+.content main p {
+    margin-top: 0;
+    margin-bottom: 1.35em;
+}
+
+/* Lists should breathe more like normal prose */
+.content main ul,
+.content main ol {
+    margin-top: 0.7em;
+    margin-bottom: 1.4em;
+}
+
+.content main li {
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
+
+/* More separation before major sections */
+.content main h1 {
+    margin-bottom: 30px;
+}
+
+.content main h2 {
+    margin-top: 48px;
+    margin-bottom: 22px;
+}
+
+.content main h3 {
+    margin-top: 36px;
+    margin-bottom: 16px;
+}
+
+/* Keep headings strong but not overly heavy */
+.content main h1,
+.content main h2,
+.content main h3 {
+    font-weight: 600;
+}
+
+/* Slightly softer page background */
+html,
+body,
+.content {
+    background: #fcfcfb;
+}
+
+/* White reading surface */
+.content main {
+    background: #ffffff;
+}
+
+/* ------------------------------------------------------------
+   Sidebar
+   ------------------------------------------------------------ */
+
+.sidebar {
+    font-size: 14px;
+    background: #f7f8f9;
+}
+
+/* A little less horizontal crowding */
+.sidebar .chapter {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+/* More space between individual chapters */
+.sidebar .chapter li a {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    line-height: 1.45;
+}
+
+/* Module labels should be easy to distinguish */
+.sidebar .chapter li.part-title {
+    margin-top: 24px;
+    padding-top: 16px;
+    margin-bottom: 8px;
+
+    font-size: 12.5px;
+    line-height: 1.4;
+}
+
+/* ------------------------------------------------------------
+   Tables
+   ------------------------------------------------------------ */
+
+.content main table {
+    line-height: 1.6;
+}
+
+.content main table th,
+.content main table td {
+    padding: 10px 14px;
+}
+
+/* ------------------------------------------------------------
+   Blockquotes / notes
+   ------------------------------------------------------------ */
+
+.content main blockquote {
+    margin-top: 1.6em;
+    margin-bottom: 1.6em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}
+
+/* ------------------------------------------------------------
+   Figures and equations
+   ------------------------------------------------------------ */
+
+.content main div[align="center"],
+.content main figure {
+    margin-top: 2em;
+    margin-bottom: 2.4em;
+}
+
+.content main .katex-display {
+    margin-top: 1.8em;
+    margin-bottom: 1.8em;
+}
+
+/* ------------------------------------------------------------
+   Top navigation bar
+   ------------------------------------------------------------ */
+
+.menu-title {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+/* ------------------------------------------------------------
+   Mobile
+   ------------------------------------------------------------ */
+
+@media (max-width: 900px) {
+    .content main {
+        max-width: none;
+        font-size: 16.5px;
+        line-height: 1.72;
+        padding-top: 30px;
+    }
+}
+
+/* ------------------------------------------------------------
+   Top book title bar
+   ------------------------------------------------------------ */
+
+.menu-bar {
+    min-height: 68px;
+    padding-top: 0;
+    padding-bottom: 0;
+
+    display: flex;
+    align-items: center;
+
+    border-bottom: 1px solid var(--oeb-border);
+    box-shadow: none;
+}
+
+.menu-title {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.35;
+}
