@@ -9,6 +9,7 @@ This page records major reader-visible additions and corrections to *Electronic 
 - Completed the reviewed draft of **Introduction to Electronic Packaging**.
 - Added original instructional figures and supporting explanations.
 - Added a chapter summary, practice problems, and practice problem keys.
+- Verified the automatic OpenEngineeringBooks deployment workflow for the in-progress EPAC publication.
 
 ### Current Status
 
