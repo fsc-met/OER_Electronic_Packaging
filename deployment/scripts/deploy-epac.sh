@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-BOOK_DIR="/srv/oer/epac/website/book"
+BOOK_DIR="/srv/oer/fsc_epac/website/book"
 DESTINATION="oer-web-deploy:/var/www/openengineeringbooks/epac/"
 STATE_DIR="/srv/oer/state"
 LOCK_DIR="$STATE_DIR/epac-deploy.lock"

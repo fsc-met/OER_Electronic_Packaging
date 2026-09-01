@@ -4,7 +4,7 @@ set -euo pipefail
 
 export PATH="/root/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 
-REPO_DIR="/srv/oer/epac"
+REPO_DIR="/srv/oer/fsc_epac"
 BRANCH="main"
 PUBLISH_SCRIPT="/srv/oer/bin/publish-epac.sh"
 

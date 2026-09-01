@@ -30,7 +30,7 @@ Gitea repository
         | git fetch / fast-forward update
         v
 oer-build
-  /srv/oer/epac
+  /srv/oer/fsc_epac
         |
         | website/run.sh
         v
@@ -168,9 +168,9 @@ The EPA608 deployment model is preserved. The necessary MET406/EPAC substitution
 
 | Purpose | Electronic Packaging value |
 | --- | --- |
-| Repository checkout | `/srv/oer/epac` |
+| Repository checkout | `/srv/oer/fsc_epac` |
 | Branch | `main` |
-| Generated site | `/srv/oer/epac/website/book` |
+| Generated site | `/srv/oer/fsc_epac/website/book` |
 | Public destination | `/var/www/openengineeringbooks/epac/` |
 | Public URL | `https://openengineeringbooks.org/epac/` |
 | SSH alias | `oer-web-deploy` |
@@ -180,7 +180,7 @@ The EPA608 deployment model is preserved. The necessary MET406/EPAC substitution
 | systemd service | `oer-epac-publish.service` |
 | systemd timer | `oer-epac-publish.timer` |
 
-If the final repository checkout is intentionally given a different name on `oer-build`, update `/srv/oer/epac` consistently in this README and in the scripts before installation.
+If the final repository checkout is intentionally given a different name on `oer-build`, update `/srv/oer/fsc_epac` consistently in this README and in the scripts before installation.
 
 ---
 
@@ -211,7 +211,7 @@ ssh -V
 The website build itself is controlled by:
 
 ```text
-/srv/oer/epac/website/run.sh
+/srv/oer/fsc_epac/website/run.sh
 ```
 
 The deployment scripts do not duplicate the mdBook build logic.
@@ -286,7 +286,7 @@ The repository copies can be used to install or rebuild the deployment configura
 From `oer-build`:
 
 ```bash
-cd /srv/oer/epac
+cd /srv/oer/fsc_epac
 ```
 
 Create the infrastructure script directory:
@@ -332,14 +332,14 @@ Re-run the `install` commands whenever an installed deployment script is intenti
 Before enabling automatic deployment, confirm that the book can be built independently:
 
 ```bash
-cd /srv/oer/epac
+cd /srv/oer/fsc_epac
 ./website/run.sh
 ```
 
 A successful build should create:
 
 ```text
-/srv/oer/epac/website/book/index.html
+/srv/oer/fsc_epac/website/book/index.html
 ```
 
 Verify:
@@ -361,7 +361,7 @@ The three deployment scripts can also be run manually.
 ### Build only
 
 ```bash
-cd /srv/oer/epac
+cd /srv/oer/fsc_epac
 ./website/run.sh
 ```
 
@@ -411,11 +411,11 @@ Copy the backed-up systemd files into the systemd unit directory:
 
 ```bash
 install -m 0644 \
-    /srv/oer/epac/deployment/systemd/oer-epac-publish.service \
+    /srv/oer/fsc_epac/deployment/systemd/oer-epac-publish.service \
     /etc/systemd/system/oer-epac-publish.service
 
 install -m 0644 \
-    /srv/oer/epac/deployment/systemd/oer-epac-publish.timer \
+    /srv/oer/fsc_epac/deployment/systemd/oer-epac-publish.timer \
     /etc/systemd/system/oer-epac-publish.timer
 ```
 
@@ -528,7 +528,7 @@ systemctl list-timers --all | grep epac
 ### Repository status
 
 ```bash
-cd /srv/oer/epac
+cd /srv/oer/fsc_epac
 git status
 git branch --show-current
 git log -1 --oneline
@@ -540,7 +540,7 @@ git rev-parse origin/main
 ### Build output
 
 ```bash
-test -f /srv/oer/epac/website/book/index.html \
+test -f /srv/oer/fsc_epac/website/book/index.html \
     && echo "Local generated index exists"
 ```
 
@@ -568,7 +568,7 @@ is nonempty.
 Inspect the server checkout rather than forcing a pull:
 
 ```bash
-cd /srv/oer/epac
+cd /srv/oer/fsc_epac
 git status
 ```
 
@@ -593,7 +593,7 @@ main
 Run the website pipeline manually:
 
 ```bash
-cd /srv/oer/epac
+cd /srv/oer/fsc_epac
 ./website/run.sh
 ```
 
@@ -657,7 +657,7 @@ systemctl list-timers --all | grep epac
 If the active deployment scripts on `oer-build` are lost or damaged:
 
 ```bash
-cd /srv/oer/epac
+cd /srv/oer/fsc_epac
 ```
 
 Reinstall them from the repository copies:
@@ -701,7 +701,7 @@ Test manually before enabling automatic publication again.
 For a new Electronic Packaging deployment, use the same conservative sequence used by the EPA608 workflow:
 
 1. Push the current `main` branch to Gitea.
-2. Clone the repository on `oer-build` as `/srv/oer/epac`.
+2. Clone the repository on `oer-build` as `/srv/oer/fsc_epac`.
 3. Verify a clean `main` checkout.
 4. Run `./website/run.sh`.
 5. Confirm `website/book/index.html`.
