@@ -1,0 +1,10 @@
+[Unit]
+Description=Periodically check Electronic Packaging Applications for updates
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=5min
+Unit=oer-epac-publish.service
+
+[Install]
+WantedBy=timers.target

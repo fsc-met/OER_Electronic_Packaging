@@ -1,0 +1,6 @@
+[Unit]
+Description=Check and publish Electronic Packaging Applications website
+
+[Service]
+Type=oneshot
+ExecStart=/srv/oer/bin/check-publish-epac.sh
