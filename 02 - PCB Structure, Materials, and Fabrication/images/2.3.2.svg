@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1525"
+   height="900"
+   viewBox="0 0 1525 900"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="2.3.2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.3.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs38">
+    <marker
+       style="overflow:visible"
+       id="marker9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.51017267"
+     inkscape:cx="859.51292"
+     inkscape:cy="532.17276"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="328.22339"
+     y="183.10631"
+     width="901.77594"
+     height="29.998556"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.50144"
+     id="rect2" />
+  <rect
+     x="330"
+     y="214"
+     width="900"
+     height="140"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect4" />
+  <rect
+     x="330"
+     y="354"
+     width="900"
+     height="20"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect5" />
+  <rect
+     x="330"
+     y="374"
+     width="900"
+     height="250"
+     rx="0"
+     fill="#d8d1be"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect6" />
+  <rect
+     x="330"
+     y="624"
+     width="900"
+     height="20"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect7" />
+  <rect
+     x="330"
+     y="644"
+     width="900"
+     height="140"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect8" />
+  <rect
+     x="329.73975"
+     y="784.2121"
+     width="900"
+     height="30"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect10" />
+  <rect
+     x="493.27304"
+     y="191.22546"
+     width="89.899178"
+     height="21.829721"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.31713"
+     id="rect11" />
+  <rect
+     x="748.28217"
+     y="191.23456"
+     width="114.881"
+     height="21.811535"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.2704"
+     id="rect12" />
+  <rect
+     x="1008.282"
+     y="191.23439"
+     width="94.881294"
+     height="21.81184"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.27067"
+     id="rect13" />
+  <rect
+     x="499.83533"
+     y="784.53857"
+     width="89.808792"
+     height="22.930187"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.6912"
+     id="rect14" />
+  <rect
+     x="747.37354"
+     y="784.52289"
+     width="114.8401"
+     height="22.072821"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.6599"
+     id="rect15" />
+  <rect
+     x="1021.068"
+     y="784.54816"
+     width="84.789474"
+     height="23.465149"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.71052"
+     id="rect16" />
+  <line
+     x1="330"
+     y1="499"
+     x2="1230"
+     y2="499"
+     stroke="#666666"
+     stroke-width="2"
+     stroke-dasharray="14, 10"
+     id="line16" />
+  <text
+     x="95"
+     y="135"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text16">Solder mask</text>
+  <line
+     x1="247.5527"
+     y1="131.1593"
+     x2="356.88464"
+     y2="188.58905"
+     stroke="#444444"
+     stroke-width="2.40133"
+     id="line17" />
+  <circle
+     cx="358.43527"
+     cy="189.44101"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle17" />
+  <text
+     x="119.50718"
+     y="202.54066"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text17">L1 - Signal</text>
+  <line
+     x1="252.60635"
+     y1="200.63692"
+     x2="517.84979"
+     y2="204.39018"
+     stroke="#444444"
+     stroke-width="2.82839"
+     id="line18" />
+  <circle
+     cx="520.84088"
+     cy="204.22169"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle18" />
+  <line
+     x1="254.40666"
+     y1="259.43958"
+     x2="314.13824"
+     y2="273.12018"
+     stroke="#444444"
+     stroke-width="2.56251"
+     id="line18-8" />
+  <circle
+     cx="320.52924"
+     cy="274.87796"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle18-3" />
+  <text
+     x="87.622009"
+     y="321.25677"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text18">L2 - Ground /</text>
+  <text
+     x="65"
+     y="348"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text19">reference plane</text>
+  <line
+     x1="260"
+     y1="332"
+     x2="320"
+     y2="364"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line19" />
+  <circle
+     cx="320"
+     cy="364"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle19" />
+  <text
+     x="190"
+     y="440"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text20">Core</text>
+  <line
+     x1="255"
+     y1="435"
+     x2="340"
+     y2="464"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line20" />
+  <circle
+     cx="340"
+     cy="464"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle20" />
+  <text
+     x="63.770336"
+     y="492"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text21">Board mid-plane</text>
+  <line
+     x1="260"
+     y1="487"
+     x2="320"
+     y2="499"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line21" />
+  <circle
+     cx="320"
+     cy="499"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle21" />
+  <text
+     x="119.66986"
+     y="582.37799"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text22">L3 - Power /</text>
+  <text
+     x="58.087719"
+     y="604.72253"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text23">distribution plane</text>
+  <line
+     x1="252.6916"
+     y1="591.35541"
+     x2="319.76773"
+     y2="633.25226"
+     stroke="#444444"
+     stroke-width="2.48981"
+     id="line23" />
+  <circle
+     cx="320"
+     cy="634"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle23" />
+  <text
+     x="124.53428"
+     y="765.16266"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text24">L4 - Signal</text>
+  <line
+     x1="245.49478"
+     y1="760.89716"
+     x2="510.70276"
+     y2="793.35071"
+     stroke="#444444"
+     stroke-width="2.12962"
+     id="line24" />
+  <circle
+     cx="513.11237"
+     cy="794.74194"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle24" />
+  <text
+     x="110.08134"
+     y="821.36523"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text25">Solder mask</text>
+  <line
+     x1="249.20311"
+     y1="816.65869"
+     x2="340.29749"
+     y2="804.20911"
+     stroke="#444444"
+     stroke-width="1.16194"
+     id="line25" />
+  <circle
+     cx="341.38705"
+     cy="802.87103"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle25" />
+  <text
+     x="69.694633"
+     y="677.15759"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text31"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="69.694633"
+       y="677.15759">Prepreg-derived</tspan><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="69.694633"
+       y="704.65759" /></text>
+  <text
+     x="142.11552"
+     y="700.18024"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text31-8"><tspan
+       sodipodi:role="line"
+       id="tspan3-3"
+       x="142.11552"
+       y="700.18024">dielectric</tspan></text>
+  <text
+     x="61.654606"
+     y="252.61887"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text31-2"><tspan
+       sodipodi:role="line"
+       id="tspan2-2"
+       x="61.654606"
+       y="252.61887">Prepreg-derived</tspan><tspan
+       sodipodi:role="line"
+       id="tspan3-6"
+       x="61.654606"
+       y="280.11887" /></text>
+  <text
+     x="134.07549"
+     y="275.64151"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text31-8-6"><tspan
+       sodipodi:role="line"
+       id="tspan3-3-7"
+       x="134.07549"
+       y="275.64151">dielectric</tspan></text>
+  <line
+     x1="252.45683"
+     y1="688.02698"
+     x2="320.43677"
+     y2="734.85498"
+     stroke="#444444"
+     stroke-width="1.29515"
+     id="line24-3" />
+  <ellipse
+     cx="320.44958"
+     cy="734.91357"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.22785"
+     id="circle24-6"
+     rx="2.6966558"
+     ry="2.2362783" />
+  <text
+     xml:space="preserve"
+     style="font-size:26.6667px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#1f5fd2;stroke-width:3.422;stroke-miterlimit:4.7;stroke-dasharray:3.91191, 7.82383"
+     x="6.2838912"
+     y="725.16107"
+     id="text4"><tspan
+       sodipodi:role="line"
+       id="tspan4"></tspan></text>
+  <line
+     x1="1253.329"
+     y1="216.07217"
+     x2="1271.329"
+     y2="216.07217"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line26" />
+  <line
+     x1="1262.1265"
+     y1="216.07217"
+     x2="1262.1265"
+     y2="356.07217"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line27"
+     style="marker-end:url(#ArrowWide);marker-start:url(#marker5)" />
+  <line
+     x1="1253.329"
+     y1="356.07217"
+     x2="1271.329"
+     y2="356.07217"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line28" />
+  <line
+     x1="1252.9506"
+     y1="646.01312"
+     x2="1270.9506"
+     y2="646.01312"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line26-9" />
+  <line
+     x1="1261.748"
+     y1="646.01312"
+     x2="1261.748"
+     y2="786.01312"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line27-1"
+     style="marker-start:url(#marker8);marker-end:url(#marker9)" />
+  <line
+     x1="1252.9506"
+     y1="786.01312"
+     x2="1270.9506"
+     y2="786.01312"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line28-5" />
+  <line
+     x1="1253.5933"
+     y1="375.35446"
+     x2="1271.5933"
+     y2="375.35446"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line26-9-2" />
+  <line
+     x1="1263.0192"
+     y1="375.35446"
+     x2="1263.0192"
+     y2="625.32263"
+     stroke="#444444"
+     stroke-width="2.00433"
+     id="line27-1-9"
+     style="marker-start:url(#marker6);marker-end:url(#marker7)" />
+  <line
+     x1="1253.5933"
+     y1="624.69421"
+     x2="1271.5933"
+     y2="624.69421"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line28-5-8" />
+  <text
+     x="1388.4103"
+     y="295.14511"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text33"
+     style="text-align:center;text-anchor:middle"><tspan
+       sodipodi:role="line"
+       id="tspan9"
+       x="1295.5387"
+       y="295.14511">Dielectric spacing</tspan><tspan
+       sodipodi:role="line"
+       id="tspan10"
+       x="1295.5387"
+       y="322.64511">(L1-L2)</tspan></text>
+  <text
+     x="1391.7865"
+     y="497.93246"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#222222"
+     id="text33-2"
+     style="text-align:center;text-anchor:middle"><tspan
+       sodipodi:role="line"
+       id="tspan9-1"
+       x="1391.7865"
+       y="497.93246">Dielectric spacing</tspan><tspan
+       sodipodi:role="line"
+       id="tspan10-1"
+       x="1391.7865"
+       y="525.4325">(L2-L3)</tspan></text>
+  <g
+     id="svg38-6"
+     transform="translate(1.1842161,423.9197)">
+    <text
+       x="1388.4103"
+       y="295.14511"
+       text-anchor="start"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="22px"
+       font-weight="600"
+       fill="#222222"
+       id="text33-3"
+       style="text-align:center;text-anchor:middle"><tspan
+         sodipodi:role="line"
+         id="tspan9-0"
+         x="1388.4103"
+         y="295.14511">Dielectric spacing</tspan><tspan
+         sodipodi:role="line"
+         id="tspan10-8"
+         x="1388.4103"
+         y="322.64511">(L3-L4)</tspan></text>
+  </g>
+</svg>

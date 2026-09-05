@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2200"
+   height="1130"
+   viewBox="0 0 2200 1130"
+   version="1.1"
+   id="svg96"
+   sodipodi:docname="2.3.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs96" />
+  <sodipodi:namedview
+     id="namedview96"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.54748956"
+     inkscape:cx="1958.9415"
+     inkscape:cy="841.11192"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg96"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="87.884979"
+     y="242.97697"
+     width="329.31424"
+     height="18.022825"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.47717"
+     id="rect18-4" />
+  <line
+     x1="482.21155"
+     y1="50.28846"
+     x2="482.21155"
+     y2="480.28845"
+     stroke="#c9c9c9"
+     stroke-width="1"
+     id="line1" />
+  <line
+     x1="1003.3654"
+     y1="52.451923"
+     x2="1003.3654"
+     y2="482.4519"
+     stroke="#c9c9c9"
+     stroke-width="1"
+     id="line2" />
+  <line
+     x1="1654.327"
+     y1="41.634617"
+     x2="1654.327"
+     y2="471.63461"
+     stroke="#c9c9c9"
+     stroke-width="1"
+     id="line3" />
+  <line
+     x1="720.09619"
+     y1="627.93268"
+     x2="720.09619"
+     y2="1037.9327"
+     stroke="#c9c9c9"
+     stroke-width="1"
+     id="line4" />
+  <line
+     x1="1381.8269"
+     y1="617.11536"
+     x2="1381.8269"
+     y2="1027.1154"
+     stroke="#c9c9c9"
+     stroke-width="1"
+     id="line5" />
+  <line
+     x1="27.38652"
+     y1="556.63763"
+     x2="2169.3577"
+     y2="556.63763"
+     stroke="#c9c9c9"
+     stroke-width="1.17178"
+     id="line6" />
+  <text
+     x="251.92308"
+     y="116.25"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#222222"
+     id="text6">Single-layer</text>
+  <text
+     x="251.92308"
+     y="148.25"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="400"
+     fill="#222222"
+     id="text7">One copper layer</text>
+  <rect
+     x="86.92308"
+     y="281.25"
+     width="330"
+     height="105"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect7" />
+  <rect
+     x="86.92308"
+     y="261.25"
+     width="330"
+     height="20"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect8" />
+  <rect
+     x="176.82033"
+     y="248.00905"
+     width="44.20549"
+     height="13.343704"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.29451"
+     id="rect9" />
+  <rect
+     x="276.82034"
+     y="248.00905"
+     width="44.205494"
+     height="13.343704"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.29451"
+     id="rect10" />
+  <rect
+     x="356.81473"
+     y="248.24657"
+     width="44.216633"
+     height="13.111753"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.28337"
+     id="rect11" />
+  <text
+     x="76.214493"
+     y="212.12752"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="600"
+     fill="#222222"
+     id="text11">Solder mask</text>
+  <line
+     x1="151.21449"
+     y1="217.12752"
+     x2="151.21449"
+     y2="247.12752"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line11" />
+  <circle
+     cx="151.21449"
+     cy="247.12752"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle11" />
+  <text
+     x="304.87003"
+     y="222.83611"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="600"
+     fill="#222222"
+     id="text12">Copper</text>
+  <line
+     x1="326.85962"
+     y1="227.09402"
+     x2="311.98651"
+     y2="266.22717"
+     stroke="#444444"
+     stroke-width="1.70592"
+     id="line12" />
+  <circle
+     cx="311.92307"
+     cy="266.25"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle12" />
+  <text
+     x="236.92308"
+     y="421.25"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="600"
+     fill="#222222"
+     id="text13">Dielectric substrate</text>
+  <line
+     x1="241.92308"
+     y1="401.25"
+     x2="231.92308"
+     y2="356.25"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line13" />
+  <circle
+     cx="231.92308"
+     cy="356.25"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle13" />
+  <text
+     x="736.29803"
+     y="107.59615"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#222222"
+     id="text14">Two-layer</text>
+  <text
+     x="736.29803"
+     y="139.59615"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="400"
+     fill="#222222"
+     id="text15">Copper on both sides</text>
+  <rect
+     x="566.29803"
+     y="272.59616"
+     width="340"
+     height="120"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect15" />
+  <rect
+     x="566.29803"
+     y="254.59615"
+     width="340"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect16" />
+  <rect
+     x="566.29803"
+     y="392.59616"
+     width="340"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect17" />
+  <rect
+     x="566.29803"
+     y="236.59615"
+     width="340"
+     height="18"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect18" />
+  <rect
+     x="566.29803"
+     y="410.59616"
+     width="340"
+     height="18"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect19" />
+  <rect
+     x="636.21698"
+     y="240.40456"
+     width="48.162052"
+     height="14.272623"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.33795"
+     id="rect20" />
+  <rect
+     x="771.22766"
+     y="239.92903"
+     width="48.140739"
+     height="14.737489"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.35926"
+     id="rect21" />
+  <rect
+     x="720.29803"
+     y="254.59615"
+     width="32"
+     height="156"
+     rx="0"
+     fill="#ffffff"
+     stroke="#444444"
+     stroke-width="1.2"
+     id="rect22" />
+  <rect
+     x="720.29803"
+     y="254.59615"
+     width="6"
+     height="156"
+     rx="0"
+     fill="#d98b36"
+     stroke="#b7661e"
+     stroke-width="1"
+     id="rect23" />
+  <rect
+     x="746.29803"
+     y="254.59615"
+     width="6"
+     height="156"
+     rx="0"
+     fill="#d98b36"
+     stroke="#b7661e"
+     stroke-width="1"
+     id="rect24" />
+  <text
+     x="541.82129"
+     y="214.94716"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="600"
+     fill="#222222"
+     id="text24">Solder mask</text>
+  <line
+     x1="611.82129"
+     y1="219.94716"
+     x2="611.82129"
+     y2="244.94716"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line24" />
+  <circle
+     cx="611.82129"
+     cy="244.94716"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle24" />
+  <text
+     x="816.95032"
+     y="220.30145"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="600"
+     fill="#222222"
+     id="text25">Copper</text>
+  <line
+     x1="836.29803"
+     y1="227.59615"
+     x2="826.29803"
+     y2="259.59616"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line25" />
+  <circle
+     cx="826.29803"
+     cy="259.59616"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle25" />
+  <text
+     x="736.29803"
+     y="452.89413"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="600"
+     fill="#222222"
+     id="text26">Plated through-hole</text>
+  <line
+     x1="758.36426"
+     y1="437.457"
+     x2="749.52649"
+     y2="377.62268"
+     stroke="#444444"
+     stroke-width="2.06138"
+     id="line26" />
+  <circle
+     cx="749.29803"
+     cy="377.59616"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle26" />
+  <text
+     x="1270.4327"
+     y="101.10577"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#222222"
+     id="text27">Multilayer rigid</text>
+  <text
+     x="1270.4327"
+     y="133.10577"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="400"
+     fill="#222222"
+     id="text28">Multiple copper + dielectric layers</text>
+  <rect
+     x="1095.4327"
+     y="221.10577"
+     width="335"
+     height="18"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect28" />
+  <rect
+     x="1095.4327"
+     y="239.10577"
+     width="335"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect29" />
+  <rect
+     x="1095.4327"
+     y="257.10577"
+     width="335"
+     height="55"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect30" />
+  <rect
+     x="1095.4327"
+     y="312.10577"
+     width="335"
+     height="16"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect31" />
+  <rect
+     x="1095.4327"
+     y="328.10577"
+     width="335"
+     height="55"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect32" />
+  <rect
+     x="1095.4327"
+     y="383.10577"
+     width="335"
+     height="16"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect33" />
+  <rect
+     x="1095.4327"
+     y="399.10577"
+     width="335"
+     height="55"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect34" />
+  <rect
+     x="1095.4327"
+     y="454.10577"
+     width="335"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect35" />
+  <rect
+     x="1095.4327"
+     y="472.10577"
+     width="335"
+     height="18"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect36" />
+  <rect
+     x="1150.347"
+     y="225.90955"
+     width="40.171307"
+     height="13.281878"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.32869"
+     id="rect37" />
+  <rect
+     x="1245.3356"
+     y="226.38423"
+     width="40.194305"
+     height="12.818699"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.30569"
+     id="rect38" />
+  <rect
+     x="1340.3356"
+     y="226.38423"
+     width="40.194305"
+     height="12.818699"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.30569"
+     id="rect39" />
+  <text
+     x="1452.4327"
+     y="235.10577"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text39">Solder mask</text>
+  <line
+     x1="1430.4327"
+     y1="230.10577"
+     x2="1440.4327"
+     y2="230.10577"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line39" />
+  <circle
+     cx="1430.4327"
+     cy="230.10577"
+     r="2.5"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle39" />
+  <text
+     x="1452.4327"
+     y="253.10577"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text40">Top copper</text>
+  <line
+     x1="1430.4327"
+     y1="248.10577"
+     x2="1440.4327"
+     y2="248.10577"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line40" />
+  <circle
+     cx="1430.4327"
+     cy="248.10577"
+     r="2.5"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle40" />
+  <text
+     x="1452.4327"
+     y="290.10577"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text41">Dielectric</text>
+  <line
+     x1="1430.4327"
+     y1="285.10577"
+     x2="1440.4327"
+     y2="285.10577"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line41" />
+  <circle
+     cx="1430.4327"
+     cy="285.10577"
+     r="2.5"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle41" />
+  <text
+     x="1451.7634"
+     y="325.56812"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text42">Inner copper</text>
+  <line
+     x1="1429.7634"
+     y1="320.56812"
+     x2="1439.7634"
+     y2="320.56812"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line42" />
+  <circle
+     cx="1429.7634"
+     cy="320.56812"
+     r="2.5"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle42" />
+  <text
+     x="1452.4327"
+     y="368.10577"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text43">Dielectric</text>
+  <line
+     x1="1430.4327"
+     y1="363.10577"
+     x2="1440.4327"
+     y2="363.10577"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line43" />
+  <circle
+     cx="1430.4327"
+     cy="363.10577"
+     r="2.5"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle43" />
+  <text
+     x="1451.4862"
+     y="398.72235"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text44">Inner copper</text>
+  <line
+     x1="1429.351"
+     y1="392.37021"
+     x2="1439.351"
+     y2="392.37021"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line44" />
+  <circle
+     cx="1429.351"
+     cy="392.37021"
+     r="2.5"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle44" />
+  <text
+     x="1452.4327"
+     y="446.10577"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text45">Dielectric</text>
+  <line
+     x1="1430.4327"
+     y1="441.10577"
+     x2="1440.4327"
+     y2="441.10577"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line45" />
+  <circle
+     cx="1430.4327"
+     cy="441.10577"
+     r="2.5"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle45" />
+  <text
+     x="1452.4327"
+     y="468.36719"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text46">Bottom copper</text>
+  <line
+     x1="1430.4327"
+     y1="463.36719"
+     x2="1440.4327"
+     y2="463.36719"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line46" />
+  <circle
+     cx="1430.4327"
+     cy="463.36719"
+     r="2.5"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle46" />
+  <text
+     x="1452.2975"
+     y="488.125"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text47">Solder mask</text>
+  <line
+     x1="1430.2975"
+     y1="483.125"
+     x2="1440.2975"
+     y2="483.125"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line47" />
+  <circle
+     cx="1430.2975"
+     cy="483.125"
+     r="2.5"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle47" />
+  <text
+     x="1912.7405"
+     y="98.942307"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#222222"
+     id="text48">Flex</text>
+  <text
+     x="1912.7405"
+     y="130.94231"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="400"
+     fill="#222222"
+     id="text49">Flexible circuit construction</text>
+  <path
+     d="m 1747.7404,328.94231 c 61.5967,0 77.2211,9.2374 100.9008,-34.16586 23.9467,-43.89257 89.0992,-45.83414 224.0992,-45.83414 l -0.9724,78.54146 c -138.265,-1.94471 -159.5138,-6.8065 -189.5138,28.1935 -30,35 -74.5138,43.26504 -134.5138,43.26504 z"
+     fill="#e8b24b"
+     stroke="#9a6a1a"
+     stroke-width="1.5"
+     id="path49"
+     sodipodi:nodetypes="csccscc" />
+  <path
+     d="m 1747.7404,353.27661 c 75,0 90,0 120,-43.15754 25,-38.49185 70,-38.49185 205,-38.49185"
+     fill="none"
+     stroke="#d98b36"
+     stroke-width="8.64007"
+     id="path50" />
+  <path
+     d="m 1747.7404,373.05146 c 75,0 93,0 125,-42.79482 25,-30.56772 70,-30.56772 200,-30.56772"
+     fill="none"
+     stroke="#d98b36"
+     stroke-width="8.84609"
+     id="path51" />
+  <text
+     x="1943.2814"
+     y="207.4519"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="600"
+     fill="#222222"
+     id="text51">Copper</text>
+  <line
+     x1="1973.2814"
+     y1="212.4519"
+     x2="1973.2814"
+     y2="272.45193"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line51" />
+  <circle
+     cx="1973.2814"
+     cy="272.45193"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle51" />
+  <text
+     x="1960.577"
+     y="389.45914"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="600"
+     fill="#222222"
+     id="text52">Flexible dielectric</text>
+  <text
+     x="1960.577"
+     y="413.45914"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="400"
+     fill="#222222"
+     id="text53">(polyimide)</text>
+  <line
+     x1="1950.577"
+     y1="374.45914"
+     x2="1915.577"
+     y2="329.45914"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line53" />
+  <circle
+     cx="1915.577"
+     cy="329.45914"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle53" />
+  <text
+     x="321.10577"
+     y="701.875"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#222222"
+     id="text54">Rigid-flex</text>
+  <text
+     x="321.10577"
+     y="733.875"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="400"
+     fill="#222222"
+     id="text55">Integrated rigid + flexible regions</text>
+  <rect
+     x="81.105774"
+     y="836.875"
+     width="160"
+     height="85"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect55" />
+  <rect
+     x="81.105774"
+     y="818.875"
+     width="160"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect56" />
+  <rect
+     x="81.105774"
+     y="800.875"
+     width="160"
+     height="18"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect57" />
+  <rect
+     x="81.105774"
+     y="921.875"
+     width="160"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect58" />
+  <rect
+     x="81.105774"
+     y="939.875"
+     width="160"
+     height="18"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect59" />
+  <rect
+     x="431.10577"
+     y="836.875"
+     width="160"
+     height="85"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect60" />
+  <rect
+     x="431.10577"
+     y="818.875"
+     width="160"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect61" />
+  <rect
+     x="431.10577"
+     y="800.875"
+     width="160"
+     height="18"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect62" />
+  <rect
+     x="431.10577"
+     y="921.875"
+     width="160"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect63" />
+  <rect
+     x="431.10577"
+     y="939.875"
+     width="160"
+     height="18"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect64" />
+  <path
+     d="m 241.76771,862.51622 c 54.89469,-0.40974 49.90426,18.82507 94.8181,18.48984 44.91385,-0.33525 39.92342,-19.49556 94.81811,-19.9053 v 53.59843 c -54.89469,0.40975 -49.90426,15.68634 -94.81811,16.02159 -44.91384,0.33525 -39.92341,-15.01585 -94.8181,-14.60611 z"
+     fill="#e8b24b"
+     stroke="#9a6a1a"
+     stroke-width="1.22388"
+     id="path64-0"
+     inkscape:transform-center-x="3.2500434"
+     inkscape:transform-center-y="13.913436"
+     sodipodi:nodetypes="csccscc" />
+  <path
+     d="m 241.10577,874.11596 c 54.84343,0 49.85766,18.4604 94.72956,18.4604 44.87191,0 39.88615,-18.4604 94.72958,-18.4604"
+     fill="none"
+     stroke="#d98b36"
+     stroke-width="8.1405"
+     id="path65" />
+  <path
+     d="m 241.10577,890.10927 c 54.68687,0 49.71533,14.90165 94.45913,14.90165 44.74381,0 39.77227,-14.90165 94.45914,-14.90165"
+     fill="none"
+     stroke="#d98b36"
+     stroke-width="7.30347"
+     id="path66" />
+  <path
+     d="m 242.1875,903.20693 c 54.21717,0 49.28834,14.97076 93.64784,14.97076 44.3595,0 39.43066,-14.97076 93.64783,-14.97076"
+     fill="none"
+     stroke="#d98b36"
+     stroke-width="7.28887"
+     id="path67" />
+  <text
+     x="161.10577"
+     y="781.875"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="600"
+     fill="#222222"
+     id="text67">Rigid region</text>
+  <text
+     x="342.59616"
+     y="850.02405"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="600"
+     fill="#222222"
+     id="text68">Flexible region</text>
+  <text
+     x="511.10577"
+     y="781.875"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="600"
+     fill="#222222"
+     id="text69">Rigid region</text>
+  <text
+     x="1048.7981"
+     y="695.38464"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#222222"
+     id="text70">HDI</text>
+  <text
+     x="1048.7981"
+     y="727.38464"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="400"
+     fill="#222222"
+     id="text71">High-density interconnection</text>
+  <rect
+     x="848.66736"
+     y="821.88831"
+     width="400.26144"
+     height="13.627071"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.23857"
+     id="rect71" />
+  <rect
+     x="848.7981"
+     y="835.38464"
+     width="400"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect72" />
+  <rect
+     x="848.7981"
+     y="853.38464"
+     width="400"
+     height="60"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect73" />
+  <rect
+     x="848.7981"
+     y="913.38464"
+     width="400"
+     height="16"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect74" />
+  <rect
+     x="848.7981"
+     y="929.38464"
+     width="400"
+     height="55"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect75" />
+  <rect
+     x="848.7981"
+     y="984.38464"
+     width="400"
+     height="16"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect76" />
+  <rect
+     x="848.65417"
+     y="1000.2407"
+     width="400.28787"
+     height="13.050398"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.21212"
+     id="rect77" />
+  <rect
+     x="928.70856"
+     y="825.49152"
+     width="18.179035"
+     height="9.9826279"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.32096"
+     id="rect78" />
+  <rect
+     x="998.70856"
+     y="825.49152"
+     width="18.179035"
+     height="9.9826279"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.32096"
+     id="rect79" />
+  <rect
+     x="1078.7484"
+     y="824.1615"
+     width="18.099344"
+     height="11.272826"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.40065"
+     id="rect80" />
+  <polyline
+     points="690,645 697,663 697,723"
+     fill="none"
+     stroke="#b7661e"
+     stroke-width="5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="polyline80"
+     transform="matrix(1.008336,0,0,0.96872005,261.00401,213.0292)" />
+  <polyline
+     points="710,645 703,663 703,723"
+     fill="none"
+     stroke="#b7661e"
+     stroke-width="5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="polyline81"
+     transform="matrix(1.0117289,0,0,0.95621332,258.49856,222.08344)" />
+  <text
+     x="932.7843"
+     y="777.88647"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="600"
+     fill="#222222"
+     id="text81">Microvia</text>
+  <line
+     x1="967.7843"
+     y1="782.88647"
+     x2="967.7843"
+     y2="842.88647"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line81" />
+  <circle
+     cx="966.78503"
+     cy="845.38464"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle81" />
+  <text
+     x="1076.0355"
+     y="779.78149"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="600"
+     fill="#222222"
+     id="text82">Fine trace</text>
+  <line
+     x1="1126.0355"
+     y1="784.78149"
+     x2="1086.0355"
+     y2="829.78149"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line82" />
+  <circle
+     cx="1086.0355"
+     cy="829.78149"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle82"
+     r="3" />
+  <text
+     x="1049.4012"
+     y="1039.4315"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text83">Can be used in rigid / flex / rigid-flex</text>
+  <text
+     x="1761.3461"
+     y="686.73077"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#222222"
+     id="text84">Metal-core / IMS</text>
+  <text
+     x="1761.3461"
+     y="718.73077"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="400"
+     fill="#222222"
+     id="text85">Metal base supports heat spreading</text>
+  <rect
+     x="1531.2153"
+     y="813.23444"
+     width="390.26141"
+     height="13.627062"
+     rx="0"
+     fill="#3c8b4f"
+     stroke="#444444"
+     stroke-width="1.23858"
+     id="rect85" />
+  <rect
+     x="1531.3461"
+     y="826.73077"
+     width="390"
+     height="18"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect86" />
+  <rect
+     x="1531.3461"
+     y="844.73077"
+     width="390"
+     height="70"
+     rx="0"
+     fill="#f0dfb8"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect87" />
+  <rect
+     x="1531.3461"
+     y="914.73077"
+     width="390"
+     height="100"
+     rx="0"
+     fill="#b9bcc2"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="rect88" />
+  <rect
+     x="1586.2118"
+     y="818.16278"
+     width="40.268623"
+     height="8.7023268"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.23138"
+     id="rect89" />
+  <rect
+     x="1701.2264"
+     y="817.72083"
+     width="40.23922"
+     height="9.1295528"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.26078"
+     id="rect90" />
+  <rect
+     x="1791.2408"
+     y="817.27856"
+     width="40.210476"
+     height="9.5574369"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.28953"
+     id="rect91" />
+  <text
+     x="1930.568"
+     y="805.1745"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="600"
+     fill="#222222"
+     id="text91">Solder mask</text>
+  <line
+     x1="1922.1053"
+     y1="803.54016"
+     x2="1862.1053"
+     y2="818.54016"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line91" />
+  <circle
+     cx="1862.1053"
+     cy="818.54016"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle91" />
+  <text
+     x="1955.8992"
+     y="837.34949"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="600"
+     fill="#222222"
+     id="text92">Copper</text>
+  <line
+     x1="1951.6584"
+     y1="832.93701"
+     x2="1891.6584"
+     y2="836.93701"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line92" />
+  <circle
+     cx="1891.6584"
+     cy="836.93701"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle92" />
+  <text
+     x="1959.5178"
+     y="883.54016"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="600"
+     fill="#222222"
+     id="text93">Thermal dielectric</text>
+  <text
+     x="1959.5178"
+     y="906.54016"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text94">(insulating layer)</text>
+  <line
+     x1="1950.4521"
+     y1="878.36511"
+     x2="1890.4521"
+     y2="885.36511"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line94" />
+  <circle
+     cx="1890.4521"
+     cy="885.36511"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle94" />
+  <text
+     x="1960.7241"
+     y="962.50891"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="600"
+     fill="#222222"
+     id="text95">Metal base</text>
+  <text
+     x="1960.7241"
+     y="985.50891"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     font-weight="400"
+     fill="#222222"
+     id="text96">(aluminum, etc.)</text>
+  <line
+     x1="1949.9661"
+     y1="960.93945"
+     x2="1889.9661"
+     y2="967.93945"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="line96" />
+  <circle
+     cx="1889.9661"
+     cy="967.93945"
+     r="3"
+     fill="#222222"
+     stroke="#444444"
+     stroke-width="1.5"
+     id="circle96" />
+</svg>
