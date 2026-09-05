@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1660"
+   height="700"
+   viewBox="0 0 1660 700"
+   version="1.1"
+   id="svg51"
+   sodipodi:docname="2.4.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.4.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs51">
+    <marker
+       style="overflow:visible"
+       id="marker56"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none;stroke-width:0.428571"
+         d="M 0,0 -2.1428572,2.1428573 5.3571431,0 -2.1428572,-2.1428573 Z"
+         id="path56" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none;stroke-width:0.428571"
+         d="M 0,0 -2.1428572,2.1428573 5.3571431,0 -2.1428572,-2.1428573 Z"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker54"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M -1.2000001,-2.4000002 5.4000002,0 -1.2000001,2.4000002 C 0,1.0020001 0,-0.99600013 -1.2000001,-2.4000002 Z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none;stroke-width:0.6"
+         id="path54" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M -1.2000001,-2.4000002 5.4000002,0 -1.2000001,2.4000002 C 0,1.0020001 0,-0.99600013 -1.2000001,-2.4000002 Z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none;stroke-width:0.6"
+         id="path7" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.73295427"
+     inkscape:cx="838.38791"
+     inkscape:cy="465.92266"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg51"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="46.169514"
+     y="67.197899"
+     width="402.61792"
+     height="89.953827"
+     rx="9.3632078"
+     fill="#fbf1e6"
+     stroke="#aab3bb"
+     stroke-width="1.07475"
+     id="rect2" />
+  <text
+     x="61.574993"
+     y="93.746246"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#222222"
+     id="text2"
+     style="font-size:18.6667px;stroke-width:0.857143">Thermal conductivity, k</text>
+  <text
+     x="61.574993"
+     y="119.46052"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="400"
+     fill="#222222"
+     id="text3"
+     style="font-size:18.6667px;stroke-width:0.857143"><tspan
+       sodipodi:role="line"
+       id="tspan51"
+       x="61.574993"
+       y="119.46052"
+       style="font-size:18.6667px;stroke-width:0.857143">Copper: strong heat path</tspan><tspan
+       sodipodi:role="line"
+       id="tspan52"
+       x="61.574993"
+       y="142.7939"
+       style="font-size:18.6667px;stroke-width:0.857143">Dielectric: higher thermal resistance</tspan></text>
+  <rect
+     x="46.169529"
+     y="178.6265"
+     width="402.61789"
+     height="102.81095"
+     rx="9.3632069"
+     fill="#edf4fa"
+     stroke="#aab3bb"
+     stroke-width="1.07479"
+     id="rect3" />
+  <text
+     x="61.574993"
+     y="205.17484"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#222222"
+     id="text4"
+     style="font-size:18.6667px;stroke-width:0.857143">CTE - X/Y and Z</text>
+  <text
+     x="61.574993"
+     y="230.88911"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="400"
+     fill="#222222"
+     id="text5"
+     style="font-size:18.6667px;white-space:pre;inline-size:340.64;display:inline;stroke-width:0.857143"
+     xml:space="preserve"><tspan
+       x="61.574993"
+       y="230.88911"
+       id="tspan1">Dimensional change with temperature → </tspan><tspan
+       x="61.574993"
+       y="254.22248"
+       id="tspan2">mismatch stress</tspan></text>
+  <rect
+     x="46.168644"
+     y="302.91138"
+     width="401.30841"
+     height="89.955566"
+     rx="9.3327541"
+     fill="#edf6ef"
+     stroke="#aab3bb"
+     stroke-width="1.07301"
+     id="rect5" />
+  <text
+     x="61.574993"
+     y="329.46057"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#222222"
+     id="text6"
+     style="font-size:18.6667px;stroke-width:0.857143">Glass-transition temperature, Tg</text>
+  <text
+     x="61.574993"
+     y="355.17487"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="400"
+     fill="#222222"
+     id="text7"
+     style="font-size:18.6667px;white-space:pre;inline-size:258.792;display:inline;stroke-width:0.857143"
+     xml:space="preserve"><tspan
+       x="61.574993"
+       y="355.17487"
+       id="tspan3">Polymer transition region → </tspan><tspan
+       x="61.574993"
+       y="378.50824"
+       id="tspan4">modulus and CTE change</tspan></text>
+  <rect
+     x="46.168667"
+     y="414.33997"
+     width="401.30835"
+     height="107.09838"
+     rx="9.3327522"
+     fill="#fbf1e6"
+     stroke="#aab3bb"
+     stroke-width="1.07306"
+     id="rect7" />
+  <text
+     x="61.574993"
+     y="440.8891"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#222222"
+     id="text8"
+     style="font-size:18.6667px;stroke-width:0.857143">Td and T260 / T288</text>
+  <text
+     x="61.574993"
+     y="466.60336"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="400"
+     fill="#222222"
+     id="text9"
+     style="font-size:18.6667px;stroke-width:0.857143"><tspan
+       sodipodi:role="line"
+       id="tspan53"
+       x="61.574993"
+       y="466.60336"
+       style="font-size:18.6667px;stroke-width:0.857143">Td: chemical degradation</tspan><tspan
+       sodipodi:role="line"
+       id="tspan54"
+       x="61.574993"
+       y="489.93674"
+       style="font-size:18.6667px;stroke-width:0.857143">T260/T288: time-to-delamination</tspan></text>
+  <rect
+     x="46.168644"
+     y="542.91138"
+     width="401.30841"
+     height="89.955566"
+     rx="9.3327541"
+     fill="#f4f4f4"
+     stroke="#aab3bb"
+     stroke-width="1.07301"
+     id="rect9" />
+  <text
+     x="61.574993"
+     y="569.46057"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#222222"
+     id="text10"
+     style="font-size:18.6667px;stroke-width:0.857143">Elastic / flexural modulus</text>
+  <text
+     x="61.574993"
+     y="595.17487"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="400"
+     fill="#222222"
+     id="text11"
+     style="font-size:18.6667px;stroke-width:0.857143"><tspan
+       sodipodi:role="line"
+       id="tspan64"
+       x="61.574993"
+       y="595.17487"
+       style="font-size:18.6667px">Resistance to deformation →</tspan><tspan
+       sodipodi:role="line"
+       id="tspan65"
+       x="61.574993"
+       y="618.50824"
+       style="font-size:18.6667px">material stiffness response</tspan></text>
+  <rect
+     x="1202.2947"
+     y="76.482376"
+     width="421.6937"
+     height="89.928818"
+     rx="9.8068304"
+     fill="#edf4fa"
+     stroke="#aab3bb"
+     stroke-width="1.09976"
+     id="rect11" />
+  <text
+     x="1217.6876"
+     y="103.01822"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#222222"
+     id="text12"
+     style="font-size:18.6667px;stroke-width:0.857143">Moisture absorption</text>
+  <text
+     x="1217.6876"
+     y="128.73251"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="400"
+     fill="#222222"
+     id="text13"
+     style="font-size:18.6667px;white-space:pre;inline-size:400.893;display:inline;stroke-width:0.857143"
+     xml:space="preserve"><tspan
+       x="1217.6876"
+       y="128.73251"
+       id="tspan5">Water uptake → 
+</tspan><tspan
+       x="1217.6876"
+       y="152.0659"
+       id="tspan6">electrical / dimensional / thermal-process effects</tspan></text>
+  <rect
+     x="1202.293"
+     y="187.90916"
+     width="418.91556"
+     height="89.932426"
+     rx="9.7422209"
+     fill="#edf6ef"
+     stroke="#aab3bb"
+     stroke-width="1.09616"
+     id="rect13" />
+  <text
+     x="1217.6876"
+     y="214.44679"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#222222"
+     id="text14"
+     style="font-size:18.6667px;stroke-width:0.857143">Dielectric constant, Dk</text>
+  <text
+     x="1217.6876"
+     y="240.16109"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="400"
+     fill="#222222"
+     id="text15"
+     style="font-size:18.6667px;stroke-width:0.857143"><tspan
+       sodipodi:role="line"
+       id="tspan61"
+       x="1217.6876"
+       y="240.16109"
+       style="font-size:18.6667px">Relative permittivity →</tspan><tspan
+       sodipodi:role="line"
+       id="tspan62"
+       x="1217.6876"
+       y="263.49448"
+       style="font-size:18.6667px">capacitance / propagation / impedance</tspan></text>
+  <rect
+     x="1214.563"
+     y="299.3288"
+     width="405.23697"
+     height="89.950363"
+     rx="9.4241161"
+     fill="#f4f4f4"
+     stroke="#aab3bb"
+     stroke-width="1.07823"
+     id="rect15" />
+  <text
+     x="1217.6876"
+     y="325.8754"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#222222"
+     id="text16"
+     style="font-size:18.6667px;stroke-width:0.857143">Dissipation factor, Df</text>
+  <text
+     x="1217.6876"
+     y="351.58969"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="400"
+     fill="#222222"
+     id="text17"
+     style="font-size:18.6667px;stroke-width:0.857143">Dielectric loss → signal attenuation</text>
+  <rect
+     x="1202.292"
+     y="410.76547"
+     width="417.44684"
+     height="107.07712"
+     rx="9.708066"
+     fill="#fbf1e6"
+     stroke="#aab3bb"
+     stroke-width="1.09431"
+     id="rect17" />
+  <text
+     x="1217.6876"
+     y="437.30399"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#222222"
+     id="text18"
+     style="font-size:18.6667px;stroke-width:0.857143">Copper thickness / weight</text>
+  <text
+     x="1217.6876"
+     y="463.01822"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="400"
+     fill="#222222"
+     id="text19"
+     style="font-size:18.6667px;stroke-width:0.857143"><tspan
+       sodipodi:role="line"
+       id="tspan66"
+       x="1217.6876"
+       y="463.01822">Resistance / current / heat spreading</tspan><tspan
+       sodipodi:role="line"
+       id="tspan67"
+       x="1217.6876"
+       y="486.35159">/ manufacturability</tspan></text>
+  <rect
+     x="624.09979"
+     y="122.8479"
+     width="411.42859"
+     height="15.428573"
+     rx="0"
+     fill="#3d8b4f"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect19" />
+  <rect
+     x="624.09979"
+     y="138.27647"
+     width="411.42859"
+     height="15.428573"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect20" />
+  <rect
+     x="624.09979"
+     y="153.70505"
+     width="411.42859"
+     height="81.428581"
+     rx="0"
+     fill="#efe2bf"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect21" />
+  <rect
+     x="624.09979"
+     y="235.13362"
+     width="411.42859"
+     height="12.000001"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect22" />
+  <rect
+     x="624.09979"
+     y="247.13362"
+     width="411.42859"
+     height="145.71429"
+     rx="0"
+     fill="#d7d0bd"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect23" />
+  <rect
+     x="624.09979"
+     y="392.84793"
+     width="411.42859"
+     height="12.000001"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect24" />
+  <rect
+     x="624.09979"
+     y="404.84796"
+     width="411.42859"
+     height="81.428581"
+     rx="0"
+     fill="#efe2bf"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect25" />
+  <rect
+     x="624.09979"
+     y="486.27646"
+     width="411.42859"
+     height="15.428573"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect26" />
+  <rect
+     x="624.09979"
+     y="501.70505"
+     width="411.42859"
+     height="15.428573"
+     rx="0"
+     fill="#3d8b4f"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect27" />
+  <rect
+     x="679.81403"
+     y="128.8479"
+     width="60"
+     height="9.4285727"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.2"
+     id="rect28" />
+  <rect
+     x="799.81403"
+     y="128.8479"
+     width="81.428581"
+     height="9.4285727"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.2"
+     id="rect29" />
+  <rect
+     x="974.04993"
+     y="128.8479"
+     width="55.714287"
+     height="9.4285727"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.2"
+     id="rect30" />
+  <rect
+     x="691.74402"
+     y="501.78027"
+     width="60"
+     height="9.4285727"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.2"
+     id="rect31" />
+  <rect
+     x="813.59839"
+     y="501.54846"
+     width="68.571434"
+     height="9.4285727"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.2"
+     id="rect32" />
+  <rect
+     x="971.38165"
+     y="501.78027"
+     width="60"
+     height="9.4285727"
+     rx="0"
+     fill="#d98b36"
+     stroke="#444444"
+     stroke-width="1.2"
+     id="rect33" />
+  <rect
+     x="922.38544"
+     y="122.8479"
+     width="29.142857"
+     height="394.28574"
+     rx="0"
+     fill="#ffffff"
+     stroke="#444444"
+     stroke-width="0.857143"
+     id="rect34" />
+  <rect
+     x="922.38544"
+     y="122.8479"
+     width="6.0000005"
+     height="394.28574"
+     rx="0"
+     fill="#d98b36"
+     stroke="#b96b20"
+     stroke-width="0.857143"
+     id="rect35" />
+  <rect
+     x="945.52826"
+     y="122.8479"
+     width="6.0000005"
+     height="394.28574"
+     rx="0"
+     fill="#d98b36"
+     stroke="#b96b20"
+     stroke-width="0.857143"
+     id="rect36" />
+  <rect
+     x="906.95685"
+     y="131.41933"
+     width="60"
+     height="18.857145"
+     rx="2.5714288"
+     fill="#d98b36"
+     stroke="#b96b20"
+     stroke-width="0.857143"
+     id="rect37" />
+  <rect
+     x="906.95685"
+     y="489.70505"
+     width="60"
+     height="18.857145"
+     rx="2.5714288"
+     fill="#d98b36"
+     stroke="#b96b20"
+     stroke-width="0.857143"
+     id="rect38" />
+  <line
+     x1="764.42596"
+     y1="201.16521"
+     x2="764.42596"
+     y2="432.59381"
+     stroke="#b85b2e"
+     stroke-width="3.42857"
+     id="line38" />
+  <polyline
+     points="608,525 615,540 622,525"
+     fill="none"
+     stroke="#b85b2e"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="polyline38"
+     transform="matrix(0.85714286,0,0,0.85714289,237.28311,-30.263378)" />
+  <text
+     x="784.14026"
+     y="321.16522"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="600"
+     fill="#222222"
+     id="text38"
+     style="font-size:16px;stroke-width:0.857143">Heat flow</text>
+  <line
+     x1="748.36267"
+     y1="79.068321"
+     x2="881.21985"
+     y2="79.068321"
+     stroke="#4b78a8"
+     stroke-width="2.57143"
+     id="line39"
+     style="marker-start:url(#marker54);marker-end:url(#ConcaveTriangle)" />
+  <text
+     x="815.21985"
+     y="67.068314"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17.1429px"
+     font-weight="600"
+     fill="#4b78a8"
+     id="text40"
+     style="stroke-width:0.857143">CTE - X/Y</text>
+  <line
+     x1="1076.6713"
+     y1="204.27647"
+     x2="1076.6713"
+     y2="379.99078"
+     stroke="#4b78a8"
+     stroke-width="2.57143"
+     id="line40"
+     style="marker-start:url(#marker56);marker-end:url(#DartArrow)" />
+  <text
+     x="1092.0999"
+     y="298.56219"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="16.2857px"
+     font-weight="600"
+     fill="#4b78a8"
+     id="text42"
+     style="stroke-width:0.857143">CTE - Z</text>
+  <text
+     x="492.17303"
+     y="131.51668"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="12.8571px"
+     font-weight="600"
+     fill="#222222"
+     id="text43"
+     style="font-size:16px;stroke-width:0.857143">Solder mask</text>
+  <text
+     x="529.38049"
+     y="152.30476"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="12.8571px"
+     font-weight="600"
+     fill="#222222"
+     id="text44"
+     style="font-size:16px;stroke-width:0.857143">Copper</text>
+  <text
+     x="514.69788"
+     y="201.57245"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="12.8571px"
+     font-weight="600"
+     fill="#222222"
+     id="text45"
+     style="font-size:16px;stroke-width:0.857143">Dielectric</text>
+  <text
+     x="545.02417"
+     y="324.27649"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="12.8571px"
+     font-weight="600"
+     fill="#222222"
+     id="text46"
+     style="font-size:16px;stroke-width:0.857143">Core</text>
+  <text
+     x="1185.295"
+     y="467.6669"
+     text-anchor="end"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="14.5714px"
+     font-weight="600"
+     fill="#222222"
+     id="text47"
+     style="font-size:16px;stroke-width:0.857143">Via / barrel strain</text>
+  <polyline
+     points="1028,562 943,510"
+     fill="none"
+     stroke="#444444"
+     stroke-width="1.4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="polyline47"
+     transform="matrix(1.1285209,0,0,0.77919273,-114.53487,12.329236)" />
+  <text
+     x="936.95685"
+     y="544.56219"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13.7143px"
+     font-weight="600"
+     fill="#222222"
+     id="text48"
+     style="font-size:16px;stroke-width:0.857143">Plated through-hole</text>
+  <rect
+     x="613.20007"
+     y="572.86292"
+     width="435.9567"
+     height="89.969963"
+     rx="9.0824308"
+     fill="#f7f7f7"
+     stroke="#aaaaaa"
+     stroke-width="1.05861"
+     id="rect48" />
+  <text
+     x="829.81403"
+     y="598.56219"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15.4286px"
+     font-weight="700"
+     fill="#222222"
+     id="text49"
+     style="font-size:16px;stroke-width:0.857143">FR-4 is a material family, not one fixed property set.</text>
+  <text
+     x="829.81403"
+     y="623.41937"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13.7143px"
+     font-weight="400"
+     fill="#222222"
+     id="text50"
+     style="font-size:16px;stroke-width:0.857143">Actual values depend on laminate system, construction,</text>
+  <text
+     x="829.81403"
+     y="643.99078"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13.7143px"
+     font-weight="400"
+     fill="#222222"
+     id="text51"
+     style="font-size:16px;stroke-width:0.857143">direction, temperature, frequency, and test method.</text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.857143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 593.34325,127.84744 h 34.74827"
+     id="path57"
+     inkscape:connector-curvature="0"
+     inkscape:connector-type="polyline" />
+  <path
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.857143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 592.68761,148.82754 39.99331,1e-5"
+     id="path58"
+     inkscape:connector-curvature="0"
+     inkscape:connector-type="polyline" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.857143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 593.34325,197.99963 38.68204,0.65563"
+     id="path59"
+     inkscape:connector-curvature="0"
+     inkscape:connector-type="polyline" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.857143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 590.0651,319.2908 44.5827,1.96689"
+     id="path60"
+     inkscape:connector-curvature="0"
+     inkscape:connector-type="polyline" />
+</svg>
