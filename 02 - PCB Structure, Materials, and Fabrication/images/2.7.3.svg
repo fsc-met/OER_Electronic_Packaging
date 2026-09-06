@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1850"
+   height="1000"
+   viewBox="0 0 1850 1000"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg44"
+   sodipodi:docname="2.7.3.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.7.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview44"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.58831284"
+     inkscape:cx="957.82373"
+     inkscape:cy="611.06944"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg44"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1"
+     x="0"
+     y="0" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker46"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path46" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker45"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path45" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker44"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path44" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowEnd"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#17324d"
+         id="path1" />
+    </marker>
+  </defs>
+  <text
+     x="470"
+     y="82"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     fill="#17324d"
+     id="text1">More planar finished pad</text>
+  <text
+     x="1330"
+     y="82"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     fill="#17324d"
+     id="text2">Less-planar finished pad</text>
+  <rect
+     x="165"
+     y="510"
+     width="610"
+     height="200"
+     fill="#e7e2d5"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect2" />
+  <rect
+     x="320"
+     y="460"
+     width="300"
+     height="50"
+     fill="#d58b2c"
+     stroke="#263947"
+     stroke-width="2"
+     rx="4"
+     id="rect3" />
+  <rect
+     x="165"
+     y="447"
+     width="140"
+     height="63"
+     fill="#5d9c62"
+     stroke="#3e7542"
+     stroke-width="2"
+     rx="6"
+     id="rect4" />
+  <rect
+     x="635"
+     y="447"
+     width="140"
+     height="63"
+     fill="#5d9c62"
+     stroke="#3e7542"
+     stroke-width="2"
+     rx="6"
+     id="rect5" />
+  <rect
+     x="320"
+     y="447"
+     width="300"
+     height="13"
+     fill="#c7cdd2"
+     stroke="#737c83"
+     stroke-width="2"
+     rx="2"
+     id="rect6" />
+  <rect
+     x="155"
+     y="399"
+     width="185"
+     height="48"
+     fill="#aeb6be"
+     stroke="#263947"
+     stroke-width="2"
+     rx="4"
+     id="rect7" />
+  <rect
+     x="600"
+     y="399"
+     width="185"
+     height="48"
+     fill="#aeb6be"
+     stroke="#263947"
+     stroke-width="2"
+     rx="4"
+     id="rect8" />
+  <rect
+     x="348"
+     y="407"
+     width="244"
+     height="40"
+     fill="#8a9299"
+     stroke="#60676d"
+     stroke-width="2"
+     rx="3"
+     id="rect9" />
+  <text
+     x="272.82599"
+     y="186.7991"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="28px"
+     font-weight="700"
+     fill="#17324d"
+     id="text9">Close stencil contact</text>
+  <text
+     x="272.82599"
+     y="220.7991"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="400"
+     fill="#6d7a84"
+     id="text10">Good gasketing around the aperture</text>
+  <line
+     x1="244.72794"
+     y1="247.85481"
+     x2="324.66599"
+     y2="437.34778"
+     stroke="#17324d"
+     stroke-width="2.69545"
+     marker-end="url(#arrowEnd)"
+     id="line10"
+     style="marker-end:url(#marker44)" />
+  <text
+     x="58.620617"
+     y="301.69977"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#17324d"
+     id="text11">Stencil</text>
+  <line
+     x1="119.69254"
+     y1="331.00958"
+     x2="194.04759"
+     y2="420.61804"
+     stroke="#17324d"
+     stroke-width="1.93587"
+     marker-end="url(#arrowEnd)"
+     id="line11"
+     style="stroke-width:2.636;stroke-dasharray:none;marker-end:url(#RoundedArrow)"
+     inkscape:transform-center-x="-33.583834"
+     inkscape:transform-center-y="-7.9937338" />
+  <text
+     x="470"
+     y="275"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#17324d"
+     id="text12">Stencil aperture</text>
+  <line
+     x1="340"
+     y1="322"
+     x2="600"
+     y2="322"
+     stroke="#17324d"
+     stroke-width="3"
+     id="line12" />
+  <line
+     x1="340"
+     y1="322"
+     x2="340"
+     y2="340"
+     stroke="#17324d"
+     stroke-width="3"
+     id="line13" />
+  <line
+     x1="600"
+     y1="322"
+     x2="600"
+     y2="340"
+     stroke="#17324d"
+     stroke-width="3"
+     id="line14" />
+  <line
+     x1="470"
+     y1="286"
+     x2="470"
+     y2="308.84033"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line15"
+     style="marker-end:url(#marker45)" />
+  <text
+     x="811.6886"
+     y="291.50113"
+     text-anchor="end"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#17324d"
+     id="text15">Solder paste</text>
+  <line
+     x1="700"
+     y1="305"
+     x2="552"
+     y2="427"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line16"
+     style="marker-end:url(#marker46)" />
+  <text
+     x="554.98877"
+     y="581.89844"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#17324d"
+     id="text16">Surface finish</text>
+  <line
+     x1="554.98877"
+     y1="558.69977"
+     x2="554.98877"
+     y2="466.34778"
+     stroke="#17324d"
+     stroke-width="2.94219"
+     marker-end="url(#arrowEnd)"
+     id="line17"
+     style="marker-end:url(#marker46)" />
+  <text
+     x="464.46976"
+     y="642.60492"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text17">Dielectric</text>
+  <text
+     x="458.10156"
+     y="491.32489"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#17324d"
+     id="text18">Copper pad</text>
+  <text
+     x="706.5011"
+     y="491.32486"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#17324d"
+     id="text19">Solder mask</text>
+  <text
+     x="470"
+     y="775"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="600"
+     fill="#17324d"
+     id="text20">Paste remains confined to the intended opening</text>
+  <text
+     x="470"
+     y="805"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="400"
+     fill="#6d7a84"
+     id="text21">in this simplified example.</text>
+  <rect
+     x="1025"
+     y="510"
+     width="610"
+     height="200"
+     fill="#e7e2d5"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect21" />
+  <rect
+     x="1180"
+     y="460"
+     width="300"
+     height="50"
+     fill="#d58b2c"
+     stroke="#263947"
+     stroke-width="2"
+     rx="4"
+     id="rect22" />
+  <rect
+     x="1025"
+     y="447"
+     width="140"
+     height="63"
+     fill="#5d9c62"
+     stroke="#3e7542"
+     stroke-width="2"
+     rx="6"
+     id="rect23" />
+  <rect
+     x="1495"
+     y="447"
+     width="140"
+     height="63"
+     fill="#5d9c62"
+     stroke="#3e7542"
+     stroke-width="2"
+     rx="6"
+     id="rect24" />
+  <path
+     d="m 1180,460 v -12 q 65,-8 125,-2 70,-8 120,-2 30,-6 40,-17 11,5 15,13 v 20 z"
+     fill="#c7cdd2"
+     stroke="#737c83"
+     stroke-width="2"
+     id="path24" />
+  <rect
+     x="1015"
+     y="379"
+     width="185"
+     height="48"
+     fill="#aeb6be"
+     stroke="#263947"
+     stroke-width="2"
+     rx="4"
+     id="rect25" />
+  <rect
+     x="1460"
+     y="379"
+     width="185"
+     height="48"
+     fill="#aeb6be"
+     stroke="#263947"
+     stroke-width="2"
+     rx="4"
+     id="rect26" />
+  <rect
+     x="1208"
+     y="387"
+     width="244"
+     height="51"
+     fill="#8a9299"
+     stroke="#60676d"
+     stroke-width="2"
+     rx="3"
+     id="rect27" />
+  <rect
+     x="1454"
+     y="429"
+     width="96"
+     height="14"
+     fill="#8a9299"
+     stroke="#60676d"
+     stroke-width="1.5"
+     rx="3"
+     id="rect28" />
+  <text
+     x="1601.9641"
+     y="178.30022"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="27px"
+     font-weight="700"
+     fill="#17324d"
+     id="text28">Reduced stencil contact</text>
+  <text
+     x="1601.9641"
+     y="212.30022"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="400"
+     fill="#6d7a84"
+     id="text29">Uneven finish can locally lift the stencil</text>
+  <line
+     x1="1589.6055"
+     y1="234.16989"
+     x2="1495.0503"
+     y2="424.64032"
+     stroke="#17324d"
+     stroke-width="3.03965"
+     marker-end="url(#arrowEnd)"
+     id="line29"
+     style="marker-end:url(#marker46)" />
+  <text
+     x="952.61615"
+     y="296.99777"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#17324d"
+     id="text30">Stencil</text>
+  <line
+     x1="999.67859"
+     y1="311.38452"
+     x2="1069.1256"
+     y2="407.01724"
+     stroke="#17324d"
+     stroke-width="2.31007"
+     marker-end="url(#arrowEnd)"
+     id="line30"
+     style="marker-end:url(#marker46)" />
+  <text
+     x="1330"
+     y="255"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#17324d"
+     id="text31">Stencil aperture</text>
+  <line
+     x1="1200"
+     y1="302"
+     x2="1460"
+     y2="302"
+     stroke="#17324d"
+     stroke-width="3"
+     id="line31" />
+  <line
+     x1="1200"
+     y1="302"
+     x2="1200"
+     y2="320"
+     stroke="#17324d"
+     stroke-width="3"
+     id="line32" />
+  <line
+     x1="1460"
+     y1="302"
+     x2="1460"
+     y2="320"
+     stroke="#17324d"
+     stroke-width="3"
+     id="line33" />
+  <line
+     x1="1330"
+     y1="266"
+     x2="1330"
+     y2="297"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line34" />
+  <line
+     x1="1515"
+     y1="429"
+     x2="1585"
+     y2="429"
+     stroke="#c74b32"
+     stroke-width="4"
+     id="line35" />
+  <line
+     x1="1515"
+     y1="445"
+     x2="1585"
+     y2="445"
+     stroke="#c74b32"
+     stroke-width="4"
+     id="line36" />
+  <text
+     x="1703.4855"
+     y="346.60043"
+     text-anchor="end"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#c74b32"
+     id="text36">Local gap</text>
+  <line
+     x1="1601.4946"
+     y1="361.41739"
+     x2="1563.3923"
+     y2="429.07248"
+     stroke="#c74b32"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line37"
+     style="marker-end:url(#marker46)" />
+  <text
+     x="1391.1919"
+     y="588.39954"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#17324d"
+     id="text37">Uneven surface finish</text>
+  <line
+     x1="1428.8022"
+     y1="560.87183"
+     x2="1403.151"
+     y2="459.0459"
+     stroke="#17324d"
+     stroke-width="2.57793"
+     marker-end="url(#arrowEnd)"
+     id="line38"
+     style="marker-end:url(#marker46)"
+     inkscape:transform-center-x="12.605008"
+     inkscape:transform-center-y="10.780225" />
+  <text
+     x="1324.4697"
+     y="634.10608"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text38">Dielectric</text>
+  <text
+     x="1330"
+     y="493.02466"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#17324d"
+     id="text39">Copper pad</text>
+  <text
+     x="1564.8014"
+     y="493.02466"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#17324d"
+     id="text40">Solder mask</text>
+  <text
+     x="1330"
+     y="775"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="600"
+     fill="#17324d"
+     id="text41">Paste can spread beneath the stencil</text>
+  <text
+     x="1330"
+     y="805"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="400"
+     fill="#6d7a84"
+     id="text42">and increase print variability.</text>
+  <rect
+     x="275"
+     y="870"
+     width="1250"
+     height="72"
+     fill="#f5f7f9"
+     stroke="#bcc8d2"
+     stroke-width="2"
+     rx="14"
+     id="rect42" />
+  <text
+     x="900"
+     y="902"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text43">Conceptual comparison: surface finish is only one factor in stencil-print quality.</text>
+  <text
+     x="900"
+     y="928"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="400"
+     fill="#6d7a84"
+     id="text44">The less-planar example shows a possible mechanism, not a guaranteed printing defect.</text>
+</svg>

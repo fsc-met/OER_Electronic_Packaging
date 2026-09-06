@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1000"
+   viewBox="0 0 1800 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="2.7.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.7.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.58831284"
+     inkscape:cx="684.15981"
+     inkscape:cy="645.06496"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1"
+     x="2.4038463"
+     y="-2.4038463" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker32"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path32" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker31"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path31" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker30"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path30" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker29"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path29" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path28" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowEnd"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M0 0 L10 5 L0 10 z"
+         fill="#17324D"
+         id="path1" />
+    </marker>
+  </defs>
+  <text
+     x="430"
+     y="84"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="40"
+     font-weight="700"
+     fill="#17324D"
+     id="text1">Top view</text>
+  <text
+     x="1320"
+     y="84"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="40"
+     font-weight="700"
+     fill="#17324D"
+     id="text2">Cross-section</text>
+  <rect
+     x="115"
+     y="160"
+     width="650"
+     height="535"
+     fill="#5D9C62"
+     fill-opacity="1"
+     stroke="#3E7542"
+     stroke-width="2"
+     rx="18"
+     id="rect2" />
+  <rect
+     x="205"
+     y="390"
+     width="320"
+     height="54"
+     fill="#D58B2C"
+     fill-opacity="0.2"
+     stroke="#8D6327"
+     stroke-width="2"
+     rx="8"
+     id="rect3" />
+  <rect
+     x="205"
+     y="390"
+     width="320"
+     height="54"
+     fill="none"
+     stroke="#D58B2C"
+     stroke-width="3"
+     stroke-dasharray="12 10"
+     rx="8"
+     id="rect4" />
+  <rect
+     x="476"
+     y="296"
+     width="218"
+     height="218"
+     fill="#FFFFFF"
+     fill-opacity="1"
+     stroke="#3E7542"
+     stroke-width="2"
+     rx="26"
+     id="rect5" />
+  <rect
+     x="500"
+     y="320"
+     width="170"
+     height="170"
+     fill="#D58B2C"
+     fill-opacity="1"
+     stroke="#263947"
+     stroke-width="2"
+     rx="18"
+     id="rect6" />
+  <rect
+     x="510"
+     y="330"
+     width="150"
+     height="150"
+     fill="#E7D79B"
+     fill-opacity="1"
+     stroke="#9A8A53"
+     stroke-width="2"
+     rx="14"
+     id="rect7" />
+  <text
+     x="150"
+     y="215"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="28"
+     font-weight="700"
+     fill="#17324D"
+     id="text7">Solder mask</text>
+  <line
+     x1="276.10382"
+     y1="236.99776"
+     x2="321.10382"
+     y2="311.99777"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line7"
+     style="marker-end:url(#RoundedArrow)" />
+  <text
+     x="209.2935"
+     y="620.79462"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#17324d"
+     id="text8">Copper trace</text>
+  <text
+     x="209.2935"
+     y="652.79462"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="500"
+     fill="#17324d"
+     id="text9">under solder mask</text>
+  <line
+     x1="332.80359"
+     y1="590"
+     x2="327.80359"
+     y2="425"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line9"
+     style="marker-end:url(#marker29)" />
+  <text
+     x="591.00964"
+     y="237.98077"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#17324d"
+     id="text10">Mask opening</text>
+  <line
+     x1="586.2019"
+     y1="258.99039"
+     x2="586.2019"
+     y2="295.99039"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line10"
+     style="marker-end:url(#marker28)" />
+  <text
+     x="582.59613"
+     y="576.63464"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#17324d"
+     id="text11">Exposed pad</text>
+  <text
+     x="582.59613"
+     y="608.63464"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="500"
+     fill="#17324d"
+     id="text12">with surface finish</text>
+  <line
+     x1="586.2019"
+     y1="548.41345"
+     x2="586.2019"
+     y2="496.41345"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line12"
+     style="marker-end:url(#marker30)" />
+  <rect
+     x="900"
+     y="430"
+     width="800"
+     height="230"
+     fill="#E7E2D5"
+     fill-opacity="1"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect12" />
+  <rect
+     x="1010"
+     y="395"
+     width="205"
+     height="35"
+     fill="#D58B2C"
+     fill-opacity="1"
+     stroke="#263947"
+     stroke-width="2"
+     rx="4"
+     id="rect13" />
+  <rect
+     x="1390"
+     y="395"
+     width="205"
+     height="35"
+     fill="#D58B2C"
+     fill-opacity="1"
+     stroke="#263947"
+     stroke-width="2"
+     rx="4"
+     id="rect14" />
+  <rect
+     x="1390"
+     y="379"
+     width="205"
+     height="16"
+     fill="#E7D79B"
+     fill-opacity="1"
+     stroke="#9A8A53"
+     stroke-width="2"
+     rx="3"
+     id="rect15" />
+  <rect
+     x="928.7981"
+     y="358.00961"
+     width="425"
+     height="35"
+     fill="#5d9c62"
+     fill-opacity="1"
+     stroke="#3e7542"
+     stroke-width="2"
+     rx="8"
+     id="rect16" />
+  <rect
+     x="1628.7981"
+     y="364.01923"
+     width="50"
+     height="35"
+     fill="#5d9c62"
+     fill-opacity="1"
+     stroke="#3e7542"
+     stroke-width="2"
+     rx="8"
+     id="rect17" />
+  <text
+     x="1093.7981"
+     y="214.61539"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#17324d"
+     id="text17">Copper protected</text>
+  <text
+     x="1093.7981"
+     y="245.61539"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#17324d"
+     id="text18">by solder mask</text>
+  <line
+     x1="1096.2019"
+     y1="264.42307"
+     x2="1106.2019"
+     y2="364.42307"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line18"
+     style="marker-end:url(#marker31)" />
+  <text
+     x="1495"
+     y="210"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="25"
+     font-weight="700"
+     fill="#17324D"
+     id="text19">Solder-mask opening</text>
+  <line
+     x1="1370"
+     y1="285"
+     x2="1615"
+     y2="285"
+     stroke="#17324D"
+     stroke-width="3"
+     id="line19" />
+  <line
+     x1="1370"
+     y1="285"
+     x2="1370"
+     y2="307"
+     stroke="#17324D"
+     stroke-width="3"
+     id="line20" />
+  <line
+     x1="1615"
+     y1="285"
+     x2="1615"
+     y2="307"
+     stroke="#17324D"
+     stroke-width="3"
+     id="line21" />
+  <line
+     x1="1495"
+     y1="225"
+     x2="1495"
+     y2="270.44772"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line22"
+     style="marker-end:url(#marker32)" />
+  <text
+     x="1615.8173"
+     y="331.39423"
+     text-anchor="end"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#17324d"
+     id="text22">Surface finish</text>
+  <line
+     x1="1575"
+     y1="340"
+     x2="1520"
+     y2="378"
+     stroke="#17324D"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line23"
+     style="marker-end:url(#marker30)" />
+  <text
+     x="1655.4807"
+     y="499.64423"
+     text-anchor="end"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#17324d"
+     id="text23">Copper pad</text>
+  <line
+     x1="1575"
+     y1="466"
+     x2="1510"
+     y2="420"
+     stroke="#17324D"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line24"
+     style="marker-end:url(#marker30)" />
+  <text
+     x="949.80768"
+     y="510.43268"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#17324d"
+     id="text24">Copper trace</text>
+  <line
+     x1="1085"
+     y1="485"
+     x2="1115"
+     y2="426"
+     stroke="#17324D"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line25"
+     style="marker-end:url(#marker30)" />
+  <text
+     x="1300"
+     y="700"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="25"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text25">Dielectric substrate</text>
+  <text
+     x="1300"
+     y="748"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="21"
+     font-weight="400"
+     fill="#6D7A84"
+     id="text26">Surface-finish thickness exaggerated for visibility</text>
+  <rect
+     x="320"
+     y="825"
+     width="1160"
+     height="90"
+     fill="#F5F7F9"
+     fill-opacity="1"
+     stroke="#BCC8D2"
+     stroke-width="2"
+     rx="16"
+     id="rect26" />
+  <text
+     x="900"
+     y="863"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#17324D"
+     id="text27">Solder mask covers copper that should remain protected.</text>
+  <text
+     x="900"
+     y="897"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="26"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text28">Surface finish covers copper intentionally left exposed and usable.</text>
+</svg>
