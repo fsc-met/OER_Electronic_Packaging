@@ -1,15 +1,311 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000" viewBox="0 0 1800 1000" preserveAspectRatio="xMidYMid meet">
-  <defs>
-    <marker id="arrowDark" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#24313a"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1000"
+   viewBox="0 0 1800 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="2.5.4.svg"
+   inkscape:export-filename="2.5.4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.832"
+     inkscape:cx="1078.726"
+     inkscape:cy="438.10096"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <defs
+     id="defs3">
+    <marker
+       style="overflow:visible"
+       id="marker42"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path42" />
     </marker>
-    <marker id="arrowHeat" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#b7432f"/>
+    <marker
+       style="overflow:visible"
+       id="marker41"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path41" />
     </marker>
-    <marker id="arrowHeatSmall" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L8,4 L0,8 Z" fill="#b7432f"/>
+    <marker
+       style="overflow:visible"
+       id="marker40"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1.001"
+       markerHeight="1.001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="strokeWidth">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path40" />
     </marker>
-    <style>
+    <marker
+       style="overflow:visible"
+       id="marker39"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path39" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker38"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path38" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path37" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker36"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path36" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker35"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path35" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker34"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path34" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker33"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path33" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker32"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path32" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowDark"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M0,0 L10,5 L0,10 Z"
+         fill="#24313a"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowHeat"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M0,0 L10,5 L0,10 Z"
+         fill="#b7432f"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowHeatSmall"
+       markerWidth="8"
+       markerHeight="8"
+       refX="6.5"
+       refY="4"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M0,0 L8,4 L0,8 Z"
+         fill="#b7432f"
+         id="path3" />
+    </marker>
+    <style
+       id="style3">
       .label { font-family: Arial, Helvetica, sans-serif; fill:#1f2933; font-size:30px; }
       .small { font-family: Arial, Helvetica, sans-serif; fill:#1f2933; font-size:25px; }
       .panel { font-family: Arial, Helvetica, sans-serif; fill:#1f2933; font-size:38px; font-weight:700; }
@@ -18,74 +314,372 @@
       .heat { stroke:#b7432f; stroke-width:8; fill:none; marker-end:url(#arrowHeat); stroke-linecap:round; }
       .heatRestricted { stroke:#b7432f; stroke-width:5; fill:none; marker-end:url(#arrowHeatSmall); stroke-linecap:round; }
     </style>
+    <marker
+       id="arrowHeatSmall-7"
+       markerWidth="8"
+       markerHeight="8"
+       refX="6.5"
+       refY="4"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 8,4 0,8 Z"
+         fill="#b7432f"
+         id="path3-9" />
+    </marker>
   </defs>
-
-  <rect x="0" y="0" width="1800" height="1000" fill="#ffffff"/>
-  <line x1="900" y1="70" x2="900" y2="905" stroke="#8a9399" stroke-width="3" stroke-dasharray="12 12"/>
-
-  <text x="450" y="75" class="panel" text-anchor="middle">Solid connection</text>
-  <text x="1350" y="75" class="panel" text-anchor="middle">Thermal-relief connection</text>
-
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1000"
+     fill="#ffffff"
+     id="rect3" />
+  <line
+     x1="900"
+     y1="70"
+     x2="900"
+     y2="905"
+     stroke="#8a9399"
+     stroke-width="3"
+     stroke-dasharray="12 12"
+     id="line3" />
+  <text
+     x="450"
+     y="75"
+     class="panel"
+     text-anchor="middle"
+     id="text3">Solid connection</text>
+  <text
+     x="1350"
+     y="75"
+     class="panel"
+     text-anchor="middle"
+     id="text4">Thermal-relief connection</text>
   <!-- LEFT PANEL: SOLID CONNECTION -->
-  <rect x="150" y="170" width="600" height="520" rx="8" fill="#d89a3a" stroke="#5b4b2b" stroke-width="4"/>
+  <rect
+     x="150"
+     y="170"
+     width="600"
+     height="520"
+     rx="8"
+     fill="#d89a3a"
+     stroke="#5b4b2b"
+     stroke-width="4"
+     id="rect4" />
   <!-- conceptual pad boundary; copper remains fully continuous -->
-  <circle cx="450" cy="430" r="112" fill="#d89a3a" stroke="#5b4b2b" stroke-width="4"/>
-  <circle cx="450" cy="430" r="69" fill="#b9792f" stroke="#5b4b2b" stroke-width="4"/>
-  <circle cx="450" cy="430" r="51" fill="#ffffff" stroke="#5b4b2b" stroke-width="4"/>
-
+  <circle
+     cx="450"
+     cy="430"
+     r="112"
+     fill="#d89a3a"
+     stroke="#5b4b2b"
+     stroke-width="4"
+     id="circle4" />
+  <circle
+     cx="450"
+     cy="430"
+     r="69"
+     fill="#b9792f"
+     stroke="#5b4b2b"
+     stroke-width="4"
+     id="circle5" />
+  <circle
+     cx="450"
+     cy="430"
+     r="51"
+     fill="#ffffff"
+     stroke="#5b4b2b"
+     stroke-width="4"
+     id="circle6" />
   <!-- more direct conceptual heat spreading -->
-  <line x1="450" y1="315" x2="450" y2="220" class="heat"/>
-  <line x1="535" y1="345" x2="620" y2="270" class="heat"/>
-  <line x1="565" y1="430" x2="690" y2="430" class="heat"/>
-  <line x1="535" y1="515" x2="620" y2="595" class="heat"/>
-  <line x1="450" y1="545" x2="450" y2="645" class="heat"/>
-  <line x1="365" y1="515" x2="280" y2="595" class="heat"/>
-  <line x1="335" y1="430" x2="210" y2="430" class="heat"/>
-  <line x1="365" y1="345" x2="280" y2="270" class="heat"/>
-
-  <text x="112" y="155" class="label">Copper plane / pour</text>
-  <path d="M255,160 L285,200" class="leader"/>
-  <text x="585" y="355" class="label">Plated hole</text>
-  <path d="M580,365 L500,405" class="leader"/>
-  <text x="450" y="735" class="small" text-anchor="middle">More direct heat spreading into the plane during soldering</text>
-
+  <line
+     x1="450"
+     y1="315"
+     x2="450"
+     y2="220"
+     class="heat"
+     id="line6"
+     style="marker-end:url(#marker35)" />
+  <line
+     x1="535"
+     y1="345"
+     x2="620"
+     y2="270"
+     class="heat"
+     id="line7"
+     style="marker-end:url(#RoundedArrow)" />
+  <line
+     x1="565"
+     y1="430"
+     x2="690"
+     y2="430"
+     class="heat"
+     id="line8"
+     style="marker-end:url(#marker32)" />
+  <line
+     x1="535"
+     y1="515"
+     x2="620"
+     y2="595"
+     class="heat"
+     id="line9"
+     style="marker-end:url(#marker33)" />
+  <line
+     x1="450"
+     y1="545"
+     x2="450"
+     y2="645"
+     class="heat"
+     id="line10"
+     style="marker-end:url(#marker34)" />
+  <line
+     x1="365"
+     y1="515"
+     x2="280"
+     y2="595"
+     class="heat"
+     id="line11"
+     style="marker-end:url(#marker38)" />
+  <line
+     x1="335"
+     y1="430"
+     x2="210"
+     y2="430"
+     class="heat"
+     id="line12"
+     style="marker-end:url(#marker37)" />
+  <line
+     x1="365"
+     y1="345"
+     x2="280"
+     y2="270"
+     class="heat"
+     id="line13"
+     style="marker-end:url(#marker36)" />
+  <text
+     x="62.721153"
+     y="124.95193"
+     class="label"
+     id="text13">Copper plane / pour</text>
+  <path
+     d="m 213.29836,142.32822 39.0041,52.13181"
+     class="leader"
+     id="path13"
+     style="marker-end:url(#RoundedArrow)" />
+  <text
+     x="589.80768"
+     y="359.80768"
+     class="label"
+     id="text14">Plated hole</text>
+  <path
+     d="M 579.76177,365.62494 473.24476,418.53505"
+     class="leader"
+     id="path14"
+     style="marker-end:url(#marker42)" />
+  <text
+     x="450"
+     y="735"
+     class="small"
+     text-anchor="middle"
+     id="text15">More direct heat spreading into the plane during soldering</text>
   <!-- RIGHT PANEL: THERMAL RELIEF -->
-  <rect x="1050" y="170" width="600" height="520" rx="8" fill="#d89a3a" stroke="#5b4b2b" stroke-width="4"/>
-  <circle cx="1350" cy="430" r="142" fill="#cfe3d2" stroke="#5b4b2b" stroke-width="3"/>
-
+  <rect
+     x="1050"
+     y="170"
+     width="600"
+     height="520"
+     rx="8"
+     fill="#d89a3a"
+     stroke="#5b4b2b"
+     stroke-width="4"
+     id="rect15" />
+  <circle
+     cx="1350"
+     cy="430"
+     r="142"
+     fill="#cfe3d2"
+     stroke="#5b4b2b"
+     stroke-width="3"
+     id="circle15" />
   <!-- four copper spokes -->
-  <rect x="1324" y="288" width="52" height="90" fill="#d89a3a"/>
-  <rect x="1324" y="482" width="52" height="90" fill="#d89a3a"/>
-  <rect x="1208" y="404" width="90" height="52" fill="#d89a3a"/>
-  <rect x="1402" y="404" width="90" height="52" fill="#d89a3a"/>
-
-  <circle cx="1350" cy="430" r="92" fill="#d89a3a" stroke="#5b4b2b" stroke-width="4"/>
-  <circle cx="1350" cy="430" r="69" fill="#b9792f" stroke="#5b4b2b" stroke-width="4"/>
-  <circle cx="1350" cy="430" r="51" fill="#ffffff" stroke="#5b4b2b" stroke-width="4"/>
-
+  <rect
+     x="1324"
+     y="288"
+     width="52"
+     height="90"
+     fill="#d89a3a"
+     id="rect16" />
+  <rect
+     x="1324"
+     y="482"
+     width="52"
+     height="90"
+     fill="#d89a3a"
+     id="rect17" />
+  <rect
+     x="1208"
+     y="404"
+     width="90"
+     height="52"
+     fill="#d89a3a"
+     id="rect18" />
+  <rect
+     x="1402"
+     y="404"
+     width="90"
+     height="52"
+     fill="#d89a3a"
+     id="rect19" />
+  <circle
+     cx="1350"
+     cy="430"
+     r="92"
+     fill="#d89a3a"
+     stroke="#5b4b2b"
+     stroke-width="4"
+     id="circle19" />
+  <circle
+     cx="1350"
+     cy="430"
+     r="69"
+     fill="#b9792f"
+     stroke="#5b4b2b"
+     stroke-width="4"
+     id="circle20" />
+  <circle
+     cx="1350"
+     cy="430"
+     r="51"
+     fill="#ffffff"
+     stroke="#5b4b2b"
+     stroke-width="4"
+     id="circle21" />
   <!-- fewer / narrower conceptual heat arrows, all constrained to copper spokes -->
-  <line x1="1350" y1="338" x2="1350" y2="246" class="heatRestricted"/>
-  <line x1="1442" y1="430" x2="1534" y2="430" class="heatRestricted"/>
-  <line x1="1350" y1="522" x2="1350" y2="614" class="heatRestricted"/>
-
-  <text x="1015" y="155" class="label">Copper plane / pour</text>
-  <path d="M1165,160 L1195,205" class="leader"/>
-  <text x="1510" y="340" class="label">Plated hole</text>
-  <path d="M1505,350 L1400,405" class="leader"/>
-  <text x="1485" y="585" class="label">Copper spokes</text>
-  <path d="M1475,575 L1380,520" class="leader"/>
-  <text x="1015" y="575" class="label">Clearance gaps</text>
-  <path d="M1195,565 L1250,510" class="leader"/>
-  <text x="1350" y="735" class="small" text-anchor="middle">Heat flow is restricted to the copper spokes during soldering</text>
-
+  <line
+     x1="1350"
+     y1="338"
+     x2="1350"
+     y2="246"
+     class="heatRestricted"
+     id="line21" />
+  <line
+     x1="1442"
+     y1="430"
+     x2="1534"
+     y2="430"
+     class="heatRestricted"
+     id="line22" />
+  <line
+     x1="1254.7852"
+     y1="430.76923"
+     x2="1155.2888"
+     y2="430.76923"
+     class="heatRestricted"
+     id="line22-8"
+     style="fill:none;stroke:#b7432f;stroke-width:5.19972;stroke-linecap:round;marker-end:url(#arrowHeatSmall-7)" />
+  <line
+     x1="1350"
+     y1="522"
+     x2="1350"
+     y2="614"
+     class="heatRestricted"
+     id="line23" />
+  <text
+     x="1012.5961"
+     y="148.99039"
+     class="label"
+     id="text23">Copper plane / pour</text>
+  <path
+     d="m 1161.3942,156.39423 30,45"
+     class="leader"
+     id="path23"
+     style="marker-end:url(#marker41)" />
+  <text
+     x="1510"
+     y="340"
+     class="label"
+     id="text24">Plated hole</text>
+  <path
+     d="m 1504.8557,350.34439 -124.5392,64.81116"
+     class="leader"
+     id="path24"
+     style="marker-end:url(#marker34)" />
+  <text
+     x="1439.3269"
+     y="639.08655"
+     class="label"
+     id="text25">Copper spokes</text>
+  <path
+     d="m 1471.3942,606.25 -95,-55"
+     class="leader"
+     id="path25"
+     style="marker-end:url(#marker40)" />
+  <text
+     x="1078.702"
+     y="611.05768"
+     class="label"
+     id="text26">Clearance gaps</text>
+  <path
+     d="m 1208.2212,581.82692 55,-55"
+     class="leader"
+     id="path26"
+     style="marker-end:url(#marker39)" />
+  <text
+     x="1350"
+     y="735"
+     class="small"
+     text-anchor="middle"
+     id="text27">Heat flow is restricted to the copper spokes during soldering</text>
   <!-- concise comparison -->
-  <rect x="120" y="790" width="660" height="92" rx="14" fill="#f5f7f8" stroke="#c7d0d6" stroke-width="3"/>
-  <text x="450" y="826" class="compare" text-anchor="middle">Solid connection</text>
-  <text x="450" y="860" class="small" text-anchor="middle">Lower electrical and thermal resistance to plane</text>
-
-  <rect x="1020" y="790" width="660" height="92" rx="14" fill="#f5f7f8" stroke="#c7d0d6" stroke-width="3"/>
-  <text x="1350" y="826" class="compare" text-anchor="middle">Thermal relief</text>
-  <text x="1350" y="860" class="small" text-anchor="middle">Easier localized heating during soldering</text>
-
-  <text x="900" y="930" class="small" text-anchor="middle">Both remain electrically connected to the plane; a thermal relief is not a thermal via.</text>
+  <rect
+     x="120"
+     y="790"
+     width="660"
+     height="92"
+     rx="14"
+     fill="#f5f7f8"
+     stroke="#c7d0d6"
+     stroke-width="3"
+     id="rect27" />
+  <text
+     x="450"
+     y="826"
+     class="compare"
+     text-anchor="middle"
+     id="text28">Solid connection</text>
+  <text
+     x="450"
+     y="860"
+     class="small"
+     text-anchor="middle"
+     id="text29">Lower electrical and thermal resistance to plane</text>
+  <rect
+     x="1020"
+     y="790"
+     width="660"
+     height="92"
+     rx="14"
+     fill="#f5f7f8"
+     stroke="#c7d0d6"
+     stroke-width="3"
+     id="rect29" />
+  <text
+     x="1350"
+     y="826"
+     class="compare"
+     text-anchor="middle"
+     id="text30">Thermal relief</text>
+  <text
+     x="1350"
+     y="860"
+     class="small"
+     text-anchor="middle"
+     id="text31">Easier localized heating during soldering</text>
+  <text
+     x="900"
+     y="930"
+     class="small"
+     text-anchor="middle"
+     id="text32">Both remain electrically connected to the plane; a thermal relief is not a thermal via.</text>
 </svg>

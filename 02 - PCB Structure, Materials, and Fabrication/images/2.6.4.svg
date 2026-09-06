@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1000"
+   viewBox="0 0 1800 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg45"
+   sodipodi:docname="2.6.4.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.6.4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.416"
+     inkscape:cx="604.56731"
+     inkscape:cy="775.24039"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg45"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     width="100%"
+     height="100%"
+     fill="#FFFFFF"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker52"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path52" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker51"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path51" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker49"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path49" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker48"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path48" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path47" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker46"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path46" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker45"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path45" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowEnd"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M0 0 L10 5 L0 10 z"
+         fill="#17324D"
+         id="path1" />
+    </marker>
+  </defs>
+  <text
+     x="90"
+     y="90"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#17324D"
+     id="text1">A  Conventional pad + nearby via</text>
+  <text
+     x="90"
+     y="126"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="22"
+     font-weight="400"
+     fill="#6C7B86"
+     id="text2">Top view</text>
+  <text
+     x="970"
+     y="90"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#17324D"
+     id="text3">B  Via-in-pad</text>
+  <text
+     x="970"
+     y="126"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="22"
+     font-weight="400"
+     fill="#6C7B86"
+     id="text4">Top view</text>
+  <text
+     x="90"
+     y="500"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#17324D"
+     id="text5">C  Filled via</text>
+  <text
+     x="90"
+     y="536"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="22"
+     font-weight="400"
+     fill="#6C7B86"
+     id="text6">Cross-section</text>
+  <text
+     x="970"
+     y="500"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#17324D"
+     id="text7">D  Capped / plated-over via</text>
+  <text
+     x="970"
+     y="536"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="22"
+     font-weight="400"
+     fill="#6C7B86"
+     id="text8">Cross-section</text>
+  <rect
+     x="135"
+     y="155"
+     width="650"
+     height="200"
+     fill="#BFD8C2"
+     stroke="#95AF99"
+     stroke-width="2"
+     rx="14"
+     id="rect8" />
+  <rect
+     x="245"
+     y="220"
+     width="220"
+     height="88"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="22"
+     id="rect9" />
+  <rect
+     x="465"
+     y="253"
+     width="114"
+     height="22"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect10" />
+  <circle
+     cx="625"
+     cy="264"
+     r="47"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     id="circle10" />
+  <circle
+     cx="625"
+     cy="264"
+     r="21"
+     fill="#FFFFFF"
+     stroke="#263947"
+     stroke-width="2"
+     id="circle11" />
+  <text
+     x="275"
+     y="195"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="23"
+     font-weight="600"
+     fill="#17324D"
+     id="text11">Component pad</text>
+  <line
+     x1="367"
+     y1="202"
+     x2="355"
+     y2="225"
+     stroke="#17324D"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line11"
+     style="marker-end:url(#RoundedArrow)" />
+  <text
+     x="566"
+     y="195"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="23"
+     font-weight="600"
+     fill="#17324D"
+     id="text12">Via outside pad</text>
+  <line
+     x1="661.20197"
+     y1="209.21153"
+     x2="641.20197"
+     y2="243.21153"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line12"
+     style="marker-end:url(#marker45)" />
+  <rect
+     x="1015"
+     y="155"
+     width="650"
+     height="200"
+     fill="#BFD8C2"
+     stroke="#95AF99"
+     stroke-width="2"
+     rx="14"
+     id="rect12" />
+  <rect
+     x="1195"
+     y="220"
+     width="250"
+     height="88"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="22"
+     id="rect13" />
+  <circle
+     cx="1320.0"
+     cy="264.0"
+     r="28"
+     fill="#FFFFFF"
+     stroke="#263947"
+     stroke-width="2"
+     id="circle13" />
+  <text
+     x="1185"
+     y="195"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="23"
+     font-weight="600"
+     fill="#17324D"
+     id="text13">Via located within component pad</text>
+  <line
+     x1="1370"
+     y1="202"
+     x2="1326.0"
+     y2="240.0"
+     stroke="#17324D"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line13"
+     style="marker-end:url(#marker46)" />
+  <rect
+     x="295"
+     y="595"
+     width="450"
+     height="220"
+     fill="#DCE8DD"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect14" />
+  <rect
+     x="295"
+     y="595"
+     width="450"
+     height="24"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect15" />
+  <rect
+     x="295"
+     y="791"
+     width="450"
+     height="24"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect16" />
+  <rect
+     x="295"
+     y="667"
+     width="450"
+     height="18"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect17" />
+  <rect
+     x="295"
+     y="731"
+     width="450"
+     height="18"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect18" />
+  <rect
+     x="475.0"
+     y="595"
+     width="90"
+     height="220"
+     fill="#FFFFFF"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect19" />
+  <rect
+     x="459.0"
+     y="595"
+     width="16"
+     height="220"
+     fill="#D99532"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect20" />
+  <rect
+     x="565.0"
+     y="595"
+     width="16"
+     height="220"
+     fill="#D99532"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect21" />
+  <rect
+     x="479.0"
+     y="599"
+     width="82"
+     height="212"
+     fill="#C7CDD2"
+     stroke="#737C83"
+     stroke-width="2"
+     rx="0"
+     id="rect22" />
+  <rect
+     x="414.0"
+     y="589"
+     width="61"
+     height="30"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="6"
+     id="rect23" />
+  <rect
+     x="565.0"
+     y="589"
+     width="61"
+     height="30"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="6"
+     id="rect24" />
+  <rect
+     x="414.0"
+     y="791"
+     width="61"
+     height="30"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="6"
+     id="rect25" />
+  <rect
+     x="565.0"
+     y="791"
+     width="61"
+     height="30"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="6"
+     id="rect26" />
+  <text
+     x="105"
+     y="680"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="23"
+     font-weight="600"
+     fill="#17324D"
+     id="text26">Plated barrel</text>
+  <line
+     x1="264.82224"
+     y1="678.36554"
+     x2="455.09177"
+     y2="708.04425"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line26"
+     style="marker-end:url(#marker47)" />
+  <text
+     x="886.2981"
+     y="687.21155"
+     text-anchor="end"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="600"
+     fill="#17324d"
+     id="text27">Fill material</text>
+  <line
+     x1="761.50763"
+     y1="697.02972"
+     x2="533.90747"
+     y2="735.50275"
+     stroke="#17324d"
+     stroke-width="3.85751"
+     marker-end="url(#arrowEnd)"
+     id="line27"
+     style="marker-end:url(#marker48);stroke-width:3;stroke-dasharray:none" />
+  <text
+     x="520"
+     y="850"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="21"
+     font-weight="400"
+     fill="#6C7B86"
+     id="text28">Fill may be conductive or nonconductive,</text>
+  <text
+     x="520"
+     y="878"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="21"
+     font-weight="400"
+     fill="#6C7B86"
+     id="text29">depending on process and application.</text>
+  <rect
+     x="1135"
+     y="595"
+     width="450"
+     height="220"
+     fill="#DCE8DD"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect29" />
+  <rect
+     x="1135"
+     y="595"
+     width="450"
+     height="24"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect30" />
+  <rect
+     x="1135"
+     y="791"
+     width="450"
+     height="24"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect31" />
+  <rect
+     x="1135"
+     y="667"
+     width="450"
+     height="18"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect32" />
+  <rect
+     x="1135"
+     y="731"
+     width="450"
+     height="18"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect33" />
+  <rect
+     x="1315.0"
+     y="595"
+     width="90"
+     height="220"
+     fill="#FFFFFF"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect34" />
+  <rect
+     x="1299.0"
+     y="595"
+     width="16"
+     height="220"
+     fill="#D99532"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect35" />
+  <rect
+     x="1405.0"
+     y="595"
+     width="16"
+     height="220"
+     fill="#D99532"
+     stroke="#263947"
+     stroke-width="2"
+     rx="0"
+     id="rect36" />
+  <rect
+     x="1319.0"
+     y="599"
+     width="82"
+     height="212"
+     fill="#C7CDD2"
+     stroke="#737C83"
+     stroke-width="2"
+     rx="0"
+     id="rect37" />
+  <rect
+     x="1254.0"
+     y="589"
+     width="61"
+     height="30"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="6"
+     id="rect38" />
+  <rect
+     x="1405.0"
+     y="589"
+     width="61"
+     height="30"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="6"
+     id="rect39" />
+  <rect
+     x="1254.0"
+     y="791"
+     width="61"
+     height="30"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="6"
+     id="rect40" />
+  <rect
+     x="1405.0"
+     y="791"
+     width="61"
+     height="30"
+     fill="#F0B04A"
+     stroke="#263947"
+     stroke-width="2"
+     rx="6"
+     id="rect41" />
+  <rect
+     x="1260.0"
+     y="577"
+     width="200"
+     height="18"
+     fill="#D99532"
+     stroke="#263947"
+     stroke-width="2"
+     rx="3"
+     id="rect42" />
+  <text
+     x="974.18268"
+     y="678.7981"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="600"
+     fill="#17324d"
+     id="text42">Plated barrel</text>
+  <line
+     x1="1116.7788"
+     y1="682.39423"
+     x2="1293.7788"
+     y2="711.39423"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line42"
+     style="marker-end:url(#marker49)" />
+  <text
+     x="1763.8943"
+     y="678.79803"
+     text-anchor="end"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="600"
+     fill="#17324d"
+     id="text43">Filled cavity</text>
+  <line
+     x1="1618.1078"
+     y1="685.138"
+     x2="1391.105"
+     y2="708.40295"
+     stroke="#17324d"
+     stroke-width="3.98367"
+     marker-end="url(#arrowEnd)"
+     id="line43"
+     style="marker-end:url(#marker51);stroke-width:2.4;stroke-dasharray:none" />
+  <text
+     x="1360"
+     y="557.78845"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#17324d"
+     id="text44">Copper cap / plated-over surface</text>
+  <line
+     x1="1357.4862"
+     y1="565.13574"
+     x2="1380.406"
+     y2="582.63672"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowEnd)"
+     id="line44"
+     style="marker-end:url(#marker52)" />
+  <rect
+     x="350"
+     y="925"
+     width="1100"
+     height="52"
+     fill="#F5F7F9"
+     stroke="#BEC9D2"
+     stroke-width="2"
+     rx="13"
+     id="rect44" />
+  <text
+     x="900"
+     y="960"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="26"
+     font-weight="700"
+     fill="#17324D"
+     id="text45">Location (via-in-pad) ≠ cavity fill ≠ surface cap</text>
+</svg>
