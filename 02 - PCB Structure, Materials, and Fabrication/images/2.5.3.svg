@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1000"
+   viewBox="0 0 1800 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="2.5.3.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.5.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.58831284"
+     inkscape:cx="983.32037"
+     inkscape:cy="588.97236"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker38"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path38" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path37" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker36"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path36" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker35"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path35" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker34"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path34" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker33"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path33" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker32"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path32" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker31"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path31" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker30"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path30" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path29" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="9"
+       markerHeight="9"
+       refX="4.5"
+       refY="4.5"
+       orient="auto-start-reverse"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0 0 L 9 4.5 L 0 9 z"
+         fill="#1f2937"
+         id="path1" />
+    </marker>
+    <style
+       id="style1">
+      .label { font-family: Arial, Helvetica, sans-serif; font-size: 33px; fill: #172033; }
+      .small { font-family: Arial, Helvetica, sans-serif; font-size: 29px; fill: #172033; }
+      .panel { font-family: Arial, Helvetica, sans-serif; font-size: 39px; font-weight: 700; fill: #172033; }
+      .dim { stroke: #1f2937; stroke-width: 3.5; fill: none; marker-start: url(#arrow); marker-end: url(#arrow); }
+      .ext { stroke: #475569; stroke-width: 2.5; fill: none; }
+      .leader { stroke: #1f2937; stroke-width: 3.5; fill: none; marker-end: url(#arrow); }
+      .center { stroke: #64748b; stroke-width: 2.5; stroke-dasharray: 8 7; fill: none; }
+    </style>
+  </defs>
+  <line
+     x1="900"
+     y1="65"
+     x2="900"
+     y2="940"
+     stroke="#cbd5e1"
+     stroke-width="3"
+     stroke-dasharray="11 11"
+     id="line1" />
+  <text
+     x="450"
+     y="92"
+     text-anchor="middle"
+     class="panel"
+     id="text1">Ideal centered geometry</text>
+  <text
+     x="1350"
+     y="92"
+     text-anchor="middle"
+     class="panel"
+     id="text2">Representative offset after fabrication</text>
+  <!-- LEFT centered geometry -->
+  <circle
+     cx="450"
+     cy="500"
+     r="220"
+     fill="#dca63c"
+     stroke="#172033"
+     stroke-width="5"
+     id="circle2" />
+  <circle
+     cx="450"
+     cy="500"
+     r="108"
+     fill="#966b3f"
+     stroke="#172033"
+     stroke-width="3"
+     id="circle3" />
+  <circle
+     cx="450"
+     cy="500"
+     r="95"
+     fill="#ffffff"
+     stroke="#172033"
+     stroke-width="4"
+     id="circle4" />
+  <!-- center mark -->
+  <line
+     x1="432"
+     y1="500"
+     x2="468"
+     y2="500"
+     class="center"
+     id="line4" />
+  <line
+     x1="450"
+     y1="482"
+     x2="450"
+     y2="518"
+     class="center"
+     id="line5" />
+  <!-- Pad diameter -->
+  <line
+     x1="230"
+     y1="220"
+     x2="230"
+     y2="285"
+     class="ext"
+     id="line6" />
+  <line
+     x1="670"
+     y1="220"
+     x2="670"
+     y2="285"
+     class="ext"
+     id="line7" />
+  <line
+     x1="233.29369"
+     y1="238"
+     x2="665.00653"
+     y2="238"
+     class="dim"
+     id="line8"
+     style="marker-start:url(#marker30);marker-end:url(#ArrowWide)" />
+  <text
+     x="450"
+     y="198"
+     text-anchor="middle"
+     class="small"
+     id="text8">Pad diameter, D<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan41">p</tspan></text>
+  <!-- Finished hole diameter below -->
+  <line
+     x1="355"
+     y1="595"
+     x2="355"
+     y2="776.99774"
+     class="ext"
+     id="line9" />
+  <line
+     x1="545"
+     y1="595"
+     x2="545"
+     y2="770.19867"
+     class="ext"
+     id="line10" />
+  <line
+     x1="358.42474"
+     y1="753.69751"
+     x2="539.87555"
+     y2="753.69751"
+     class="dim"
+     id="line11"
+     style="marker-start:url(#marker32);marker-end:url(#marker31)" />
+  <text
+     x="453.39957"
+     y="808.69751"
+     text-anchor="middle"
+     class="small"
+     id="text11">Finished hole diameter, D<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan38">h</tspan></text>
+  <!-- Annular-ring radial width -->
+  <line
+     x1="561.25281"
+     y1="500"
+     x2="662.24609"
+     y2="500"
+     class="dim"
+     id="line12"
+     style="marker-start:url(#marker34);marker-end:url(#marker33)" />
+  <text
+     x="610.39954"
+     y="474.89844"
+     text-anchor="middle"
+     class="small"
+     font-style="italic"
+     id="text12">a</text>
+  <text
+     x="560.70648"
+     y="438.32266"
+     class="label"
+     id="text13">Annular-ring width</text>
+  <!-- Labels -->
+  <text
+     x="54.006718"
+     y="389.73566"
+     class="label"
+     id="text14">Pad / land</text>
+  <path
+     d="m 217.70074,389.62467 68.59137,41.28889"
+     class="leader"
+     id="path14"
+     style="marker-end:url(#RoundedArrow)" />
+  <text
+     x="679.6908"
+     y="666.20312"
+     class="label"
+     id="text15">Plated hole</text>
+  <path
+     d="M 667.76988,639.8848 470.52358,513.29344"
+     class="leader"
+     id="path15"
+     style="marker-end:url(#marker35)" />
+  <!-- Equation -->
+  <rect
+     x="300"
+     y="845"
+     width="300"
+     height="82"
+     rx="12"
+     fill="#f8fafc"
+     stroke="#cbd5e1"
+     stroke-width="2"
+     id="rect15" />
+  <text
+     x="450"
+     y="897"
+     text-anchor="middle"
+     class="label"
+     font-style="italic"
+     id="text16">a = (D<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan40">p</tspan> − D<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan39">h</tspan>) / 2</text>
+  <!-- RIGHT offset geometry; same pad/hole sizes -->
+  <circle
+     cx="1300"
+     cy="500"
+     r="220"
+     fill="#dca63c"
+     stroke="#172033"
+     stroke-width="5"
+     id="circle16" />
+  <circle
+     cx="1360"
+     cy="500"
+     r="108"
+     fill="#966b3f"
+     stroke="#172033"
+     stroke-width="3"
+     id="circle17" />
+  <circle
+     cx="1360"
+     cy="500"
+     r="95"
+     fill="#ffffff"
+     stroke="#172033"
+     stroke-width="4"
+     id="circle18" />
+  <!-- pad and hole center marks -->
+  <line
+     x1="1282"
+     y1="500"
+     x2="1318"
+     y2="500"
+     class="center"
+     id="line18" />
+  <line
+     x1="1300"
+     y1="482"
+     x2="1300"
+     y2="518"
+     class="center"
+     id="line19" />
+  <line
+     x1="1342"
+     y1="500"
+     x2="1378"
+     y2="500"
+     class="center"
+     id="line20" />
+  <line
+     x1="1360"
+     y1="482"
+     x2="1360"
+     y2="518"
+     class="center"
+     id="line21" />
+  <!-- Relative offset cue -->
+  <line
+     x1="1300"
+     y1="228.2121"
+     x2="1300"
+     y2="410"
+     class="center"
+     id="line22" />
+  <line
+     x1="1360"
+     y1="224.81255"
+     x2="1360"
+     y2="410"
+     class="center"
+     id="line23" />
+  <line
+     x1="1305.2618"
+     y1="248.76176"
+     x2="1358.1378"
+     y2="248.76176"
+     class="dim"
+     id="line24"
+     style="marker-start:url(#ArrowWide);marker-end:url(#ArrowWide)" />
+  <text
+     x="1330"
+     y="213.31143"
+     text-anchor="middle"
+     class="small"
+     id="text24">Relative offset</text>
+  <!-- Reduced / larger ring labels -->
+  <text
+     x="1668.587"
+     y="375.79465"
+     text-anchor="middle"
+     class="label"
+     id="text25"><tspan
+       x="1668.587"
+       dy="0"
+       id="tspan24">Reduced</tspan><tspan
+       x="1668.587"
+       dy="38"
+       id="tspan25">annular ring</tspan></text>
+  <path
+     d="m 1570.1987,418.99552 -68,70"
+     class="leader"
+     id="path25"
+     style="marker-end:url(#marker38)" />
+  <text
+     x="936.10382"
+     y="715.08813"
+     class="small"
+     id="text26">Larger annular ring</text>
+  <path
+     d="M 1102.0393,671.93278 1194.918,569.04231"
+     class="leader"
+     id="path26"
+     style="marker-end:url(#marker37)" />
+  <!-- Right labels -->
+  <text
+     x="1146.8872"
+     y="805.89392"
+     class="label"
+     id="text27">Pad / land</text>
+  <path
+     d="m 1255.8939,753.89843 35,-64"
+     class="leader"
+     id="path27"
+     style="marker-end:url(#marker36)" />
+  <text
+     x="1490.4966"
+     y="746.40179"
+     class="label"
+     id="text28">Plated hole</text>
+  <path
+     d="m 1511.1038,701.20538 -118,-162"
+     class="leader"
+     id="path28" />
+  <text
+     x="1330"
+     y="885"
+     text-anchor="middle"
+     class="small"
+     id="text29">Same pad and finished-hole sizes; only relative position changes.</text>
+</svg>

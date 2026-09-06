@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1907"
+   height="1000"
+   viewBox="0 0 1907 1000"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="2.5.2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.5.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.416"
+     inkscape:cx="816.10577"
+     inkscape:cy="239.18269"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker31"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path31" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker30"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path30" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker29"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path29" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path28" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="40"
+       markerHeight="40"
+       refX="6"
+       refY="6"
+       orient="auto-start-reverse"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#1f2937"
+         id="path1" />
+    </marker>
+    <marker
+       id="flow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#355c8a"
+         id="path2" />
+    </marker>
+    <style
+       id="style2">
+      .lbl{font-family:Arial,Helvetica,sans-serif;font-size:42px;fill:#111827}
+      .sub{font-family:Arial,Helvetica,sans-serif;font-size:34px;fill:#111827}
+      .dim{stroke:#1f2937;stroke-width:5;fill:none;marker-start:url(#arrow);marker-end:url(#arrow)}
+      .ext{stroke:#1f2937;stroke-width:3;stroke-dasharray:10 8}
+      .lead{stroke:#1f2937;stroke-width:4;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect
+     width="1910.5769"
+     height="1000"
+     fill="#ffffff"
+     id="rect2"
+     x="1.0976518e-06"
+     y="0"
+     style="stroke-width:1.03026" />
+  <!-- Left panel: top view -->
+  <text
+     x="537.88464"
+     y="99.615387"
+     text-anchor="middle"
+     class="lbl"
+     font-weight="700"
+     id="text2">Top view</text>
+  <rect
+     x="90"
+     y="235"
+     width="910"
+     height="420"
+     rx="12"
+     fill="#dfeee0"
+     stroke="#254d3b"
+     stroke-width="5"
+     id="rect3" />
+  <!-- Straight trace and pads -->
+  <rect
+     x="165"
+     y="345"
+     width="155"
+     height="200"
+     rx="8"
+     fill="#d39a37"
+     stroke="#7a5b1d"
+     stroke-width="4"
+     id="rect4" />
+  <rect
+     x="770"
+     y="345"
+     width="155"
+     height="200"
+     rx="8"
+     fill="#d39a37"
+     stroke="#7a5b1d"
+     stroke-width="4"
+     id="rect5" />
+  <rect
+     x="320"
+     y="400"
+     width="450"
+     height="90"
+     fill="#d39a37"
+     stroke="#7a5b1d"
+     stroke-width="4"
+     id="rect6" />
+  <!-- Length dimension: exactly between trace ends -->
+  <line
+     x1="320"
+     y1="180"
+     x2="320"
+     y2="388"
+     class="ext"
+     id="line6" />
+  <line
+     x1="770"
+     y1="180"
+     x2="770"
+     y2="388"
+     class="ext"
+     id="line7" />
+  <line
+     x1="330.60156"
+     y1="195"
+     x2="759.3985"
+     y2="195"
+     class="dim"
+     id="line8"
+     style="marker-start:url(#marker29);marker-end:url(#ArrowWide)" />
+  <text
+     x="545"
+     y="155"
+     text-anchor="middle"
+     class="lbl"
+     id="text8">Trace length, <tspan
+   font-style="italic"
+   id="tspan8">L</tspan></text>
+  <!-- Width dimension -->
+  <line
+     x1="565"
+     y1="400"
+     x2="635"
+     y2="400"
+     class="ext"
+     id="line9" />
+  <line
+     x1="565"
+     y1="490"
+     x2="635"
+     y2="490"
+     class="ext"
+     id="line10" />
+  <line
+     x1="452.78848"
+     y1="411.01907"
+     x2="452.78848"
+     y2="481.3848"
+     class="dim"
+     id="line11"
+     style="marker-start:url(#marker31);marker-end:url(#marker31)" />
+  <text
+     x="487.78848"
+     y="457"
+     class="sub"
+     id="text11">Trace width, <tspan
+   font-style="italic"
+   id="tspan11">w</tspan></text>
+  <!-- Current direction within trace -->
+  <!-- Pad labels -->
+  <text
+     x="242"
+     y="720"
+     text-anchor="middle"
+     class="sub"
+     id="text13">Pad / land</text>
+  <line
+     x1="242"
+     y1="680"
+     x2="242"
+     y2="570.01605"
+     class="lead"
+     id="line13" />
+  <text
+     x="848"
+     y="720"
+     text-anchor="middle"
+     class="sub"
+     id="text14">Pad / land</text>
+  <line
+     x1="848"
+     y1="680"
+     x2="848"
+     y2="568.01282"
+     class="lead"
+     id="line14" />
+  <text
+     x="537.78845"
+     y="621.53845"
+     text-anchor="middle"
+     class="sub"
+     id="text15">Copper trace on PCB surface</text>
+  <!-- Right panel: cross-section -->
+  <text
+     x="1452.2115"
+     y="114.03846"
+     text-anchor="middle"
+     class="lbl"
+     font-weight="700"
+     id="text16">Cross-section</text>
+  <rect
+     x="1152.2115"
+     y="459.03845"
+     width="560"
+     height="245"
+     fill="#dfeee0"
+     stroke="#254d3b"
+     stroke-width="5"
+     id="rect16" />
+  <rect
+     x="1282.2115"
+     y="334.03845"
+     width="300"
+     height="125"
+     fill="#d39a37"
+     stroke="#7a5b1d"
+     stroke-width="4"
+     id="rect17" />
+  <!-- Width dimension -->
+  <line
+     x1="1282.2115"
+     y1="269.03845"
+     x2="1282.2115"
+     y2="324.03845"
+     class="ext"
+     id="line17" />
+  <line
+     x1="1582.2115"
+     y1="269.03845"
+     x2="1582.2115"
+     y2="324.03845"
+     class="ext"
+     id="line18" />
+  <line
+     x1="1288.2473"
+     y1="284.03845"
+     x2="1573.772"
+     y2="284.03845"
+     class="dim"
+     id="line19"
+     style="marker-start:url(#marker30);marker-end:url(#marker30)" />
+  <text
+     x="1432.2115"
+     y="244.03847"
+     text-anchor="middle"
+     class="lbl"
+     id="text19">Trace width, <tspan
+   font-style="italic"
+   id="tspan19">w</tspan></text>
+  <!-- Thickness dimension -->
+  <line
+     x1="1632.2115"
+     y1="342.8541"
+     x2="1632.2115"
+     y2="447.81897"
+     class="dim"
+     id="line20"
+     style="marker-start:url(#marker31);marker-end:url(#marker30)" />
+  <line
+     x1="1592.2115"
+     y1="334.03845"
+     x2="1672.2115"
+     y2="334.03845"
+     class="ext"
+     id="line21" />
+  <line
+     x1="1592.2115"
+     y1="459.03845"
+     x2="1672.2115"
+     y2="459.03845"
+     class="ext"
+     id="line22" />
+  <text
+     x="1692.2115"
+     y="379.03845"
+     class="sub"
+     id="text22">Copper</text>
+  <text
+     x="1692.2115"
+     y="426.03845"
+     class="sub"
+     id="text23">thickness, <tspan
+   font-style="italic"
+   id="tspan22">t</tspan></text>
+  <!-- Cross-section labels -->
+  <text
+     x="1233.1731"
+     y="241.63461"
+     text-anchor="end"
+     class="sub"
+     id="text24">Copper trace</text>
+  <line
+     x1="1160.1027"
+     y1="266.63226"
+     x2="1263.6215"
+     y2="375.15549"
+     class="lead"
+     id="line24"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="1432.2115"
+     y="584.03845"
+     text-anchor="middle"
+     class="lbl"
+     id="text25">PCB dielectric / laminate</text>
+  <text
+     x="1432.2115"
+     y="649.03845"
+     text-anchor="middle"
+     class="sub"
+     id="text26">Trace cross-sectional area: <tspan
+   font-style="italic"
+   id="tspan25">A = wt</tspan></text>
+  <!-- Bottom relation -->
+  <rect
+     x="165.67308"
+     y="797.69232"
+     width="1560"
+     height="90"
+     rx="16"
+     fill="#f3f4f6"
+     stroke="#9ca3af"
+     stroke-width="3"
+     id="rect26" />
+  <text
+     x="945.67303"
+     y="854.69232"
+     text-anchor="middle"
+     class="sub"
+     id="text28">Longer <tspan
+   font-style="italic"
+   id="tspan26">L</tspan> increases resistance; wider <tspan
+   font-style="italic"
+   id="tspan27">w</tspan> or thicker <tspan
+   font-style="italic"
+   id="tspan28">t</tspan> decreases resistance.</text>
+</svg>

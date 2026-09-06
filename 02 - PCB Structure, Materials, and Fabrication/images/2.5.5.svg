@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1000"
+   viewBox="0 0 1800 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg51"
+   sodipodi:docname="2.5.3.svg"
+   inkscape:export-filename="2.5.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.832"
+     inkscape:cx="1091.9471"
+     inkscape:cy="183.29327"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg51" />
+  <defs
+     id="defs1">
+    <pattern
+       id="hatch"
+       width="16"
+       height="16"
+       patternUnits="userSpaceOnUse"
+       patternTransform="rotate(45)">
+      <rect
+         width="16"
+         height="16"
+         fill="#d6a642"
+         id="rect1" />
+      <line
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="16"
+         stroke="#8a6424"
+         stroke-width="4"
+         id="line1" />
+    </pattern>
+    <style
+       id="style1">
+      .panel { fill:#ffffff; stroke:#344244; stroke-width:3; }
+      .board { fill:#e1eee8; stroke:#2c5140; stroke-width:4; }
+      .panelboard { fill:#f1f3f1; stroke:#485456; stroke-width:4; }
+      .copper { fill:#d7a741; stroke:#70531b; stroke-width:3; }
+      .copperline { fill:none; stroke:#d7a741; stroke-width:14; stroke-linecap:round; stroke-linejoin:round; }
+      .dummy { fill:url(#hatch); stroke:#70531b; stroke-width:3; }
+      .thief { fill:url(#hatch); stroke:#70531b; stroke-width:2.5; }
+      .title { font-family:'DejaVu Sans', Arial, sans-serif; font-size:30px; font-weight:700; fill:#20292b; }
+      .label { font-family:'DejaVu Sans', Arial, sans-serif; font-size:26px; font-weight:700; fill:#20292b; }
+      .small { font-family:'DejaVu Sans', Arial, sans-serif; font-size:23px; font-weight:600; fill:#20292b; }
+      .leader { fill:none; stroke:#20292b; stroke-width:4; stroke-linecap:round; stroke-linejoin:round; }
+      .divider { stroke:#a9b1b2; stroke-width:3; stroke-dasharray:10 10; }
+    </style>
+  </defs>
+  <rect
+     width="1800"
+     height="1000"
+     fill="#ffffff"
+     id="rect2" />
+  <!-- Three equal concept panels; no process arrows -->
+  <rect
+     class="panel"
+     x="35"
+     y="35"
+     width="550"
+     height="930"
+     rx="12"
+     id="rect3" />
+  <rect
+     class="panel"
+     x="625"
+     y="35"
+     width="550"
+     height="930"
+     rx="12"
+     id="rect4" />
+  <rect
+     class="panel"
+     x="1215"
+     y="35"
+     width="550"
+     height="930"
+     rx="12"
+     id="rect5" />
+  <!-- PANEL 1 -->
+  <text
+     class="title"
+     x="310"
+     y="90"
+     text-anchor="middle"
+     id="text5">Strong copper imbalance</text>
+  <rect
+     class="board"
+     x="80"
+     y="145"
+     width="460"
+     height="620"
+     rx="6"
+     id="rect6" />
+  <line
+     class="divider"
+     x1="310"
+     y1="160"
+     x2="310"
+     y2="750"
+     id="line6" />
+  <text
+     class="small"
+     x="195"
+     y="195"
+     text-anchor="middle"
+     id="text6">Dense region</text>
+  <text
+     class="small"
+     x="425"
+     y="195"
+     text-anchor="middle"
+     id="text7">Sparse region</text>
+  <!-- Dense region: one large copper area plus traces/pads -->
+  <path
+     class="copper"
+     d="M100 245 H275 V485 H230 V605 H100 Z"
+     id="path7" />
+  <path
+     class="copperline"
+     d="M110 690 H185 V650 H245"
+     id="path8" />
+  <circle
+     class="copper"
+     cx="115"
+     cy="690"
+     r="19"
+     id="circle8" />
+  <circle
+     class="copper"
+     cx="185"
+     cy="650"
+     r="18"
+     id="circle9" />
+  <rect
+     class="copper"
+     x="232"
+     y="630"
+     width="42"
+     height="42"
+     rx="4"
+     id="rect9" />
+  <!-- Sparse region: only a few functional features -->
+  <path
+     class="copperline"
+     d="M345 320 H395 V285 H455"
+     id="path9" />
+  <circle
+     class="copper"
+     cx="345"
+     cy="320"
+     r="16"
+     id="circle10" />
+  <circle
+     class="copper"
+     cx="455"
+     cy="285"
+     r="16"
+     id="circle11" />
+  <rect
+     class="copper"
+     x="390"
+     y="610"
+     width="50"
+     height="50"
+     rx="4"
+     id="rect11" />
+  <circle
+     class="copper"
+     cx="485"
+     cy="520"
+     r="15"
+     id="circle12" />
+  <path
+     class="copperline"
+     d="M440 635 H485 V520"
+     id="path12" />
+  <!-- PANEL 2 -->
+  <text
+     class="title"
+     x="900"
+     y="90"
+     text-anchor="middle"
+     id="text12">Improved copper balance</text>
+  <rect
+     class="board"
+     x="670"
+     y="145"
+     width="460"
+     height="620"
+     rx="6"
+     id="rect12" />
+  <line
+     class="divider"
+     x1="900"
+     y1="160"
+     x2="900"
+     y2="750"
+     id="line12" />
+  <!-- Same functional copper as Panel 1 -->
+  <path
+     class="copper"
+     d="M690 245 H865 V485 H820 V605 H690 Z"
+     id="path13" />
+  <path
+     class="copperline"
+     d="M700 690 H775 V650 H835"
+     id="path14" />
+  <circle
+     class="copper"
+     cx="705"
+     cy="690"
+     r="19"
+     id="circle14" />
+  <circle
+     class="copper"
+     cx="775"
+     cy="650"
+     r="18"
+     id="circle15" />
+  <rect
+     class="copper"
+     x="822"
+     y="630"
+     width="42"
+     height="42"
+     rx="4"
+     id="rect15" />
+  <path
+     class="copperline"
+     d="M935 320 H985 V285 H1045"
+     id="path15" />
+  <circle
+     class="copper"
+     cx="935"
+     cy="320"
+     r="16"
+     id="circle16" />
+  <circle
+     class="copper"
+     cx="1045"
+     cy="285"
+     r="16"
+     id="circle17" />
+  <rect
+     class="copper"
+     x="980"
+     y="610"
+     width="50"
+     height="50"
+     rx="4"
+     id="rect17" />
+  <circle
+     class="copper"
+     cx="1075"
+     cy="520"
+     r="15"
+     id="circle18" />
+  <path
+     class="copperline"
+     d="M1030 635 H1075 V520"
+     id="path18" />
+  <!-- Added nonfunctional copper in sparse area; not mirror symmetry -->
+  <rect
+     class="dummy"
+     x="930"
+     y="390"
+     width="72"
+     height="58"
+     rx="5"
+     id="rect18" />
+  <rect
+     class="dummy"
+     x="1020"
+     y="375"
+     width="64"
+     height="76"
+     rx="5"
+     id="rect19" />
+  <rect
+     class="dummy"
+     x="940"
+     y="485"
+     width="56"
+     height="52"
+     rx="5"
+     id="rect20" />
+  <rect
+     class="dummy"
+     x="1018"
+     y="475"
+     width="72"
+     height="58"
+     rx="5"
+     id="rect21" />
+  <rect
+     class="dummy"
+     x="932"
+     y="685"
+     width="66"
+     height="42"
+     rx="5"
+     id="rect22" />
+  <rect
+     class="dummy"
+     x="1018"
+     y="685"
+     width="72"
+     height="42"
+     rx="5"
+     id="rect23" />
+  <text
+     class="label"
+     x="900"
+     y="845"
+     text-anchor="middle"
+     id="text23">Example dummy copper</text>
+  <path
+     class="leader"
+     d="M900 815 C915 775, 940 735, 965 705"
+     id="path23" />
+  <circle
+     cx="965"
+     cy="705"
+     r="6"
+     fill="#20292b"
+     id="circle23" />
+  <!-- PANEL 3 -->
+  <text
+     class="title"
+     x="1490"
+     y="90"
+     text-anchor="middle"
+     id="text24">Panel-level thieving example</text>
+  <rect
+     class="panelboard"
+     x="1260"
+     y="145"
+     width="460"
+     height="620"
+     rx="6"
+     id="rect24" />
+  <!-- Thieving in unused panel area: rails and gutters -->
+  <rect
+     class="thief"
+     x="1280"
+     y="170"
+     width="420"
+     height="28"
+     id="rect25" />
+  <rect
+     class="thief"
+     x="1280"
+     y="712"
+     width="420"
+     height="28"
+     id="rect26" />
+  <rect
+     class="thief"
+     x="1280"
+     y="215"
+     width="28"
+     height="480"
+     id="rect27" />
+  <rect
+     class="thief"
+     x="1672"
+     y="215"
+     width="28"
+     height="480"
+     id="rect28" />
+  <!-- Four PCB images -->
+  <rect
+     class="board"
+     x="1330"
+     y="235"
+     width="150"
+     height="185"
+     rx="5"
+     id="rect29" />
+  <rect
+     class="board"
+     x="1500"
+     y="235"
+     width="150"
+     height="185"
+     rx="5"
+     id="rect30" />
+  <rect
+     class="board"
+     x="1330"
+     y="465"
+     width="150"
+     height="185"
+     rx="5"
+     id="rect31" />
+  <rect
+     class="board"
+     x="1500"
+     y="465"
+     width="150"
+     height="185"
+     rx="5"
+     id="rect32" />
+  <!-- Functional copper inside board images -->
+  <g
+     id="g39">
+    <path
+       class="copperline"
+       d="M1350 275 H1400 V310 H1450"
+       id="path32" />
+    <circle
+       class="copper"
+       cx="1350"
+       cy="275"
+       r="11"
+       id="circle32" />
+    <circle
+       class="copper"
+       cx="1450"
+       cy="310"
+       r="11"
+       id="circle33" />
+    <rect
+       class="copper"
+       x="1370"
+       y="350"
+       width="85"
+       height="36"
+       rx="4"
+       id="rect33" />
+    <path
+       class="copperline"
+       d="M1520 275 H1570 V310 H1620"
+       id="path33" />
+    <circle
+       class="copper"
+       cx="1520"
+       cy="275"
+       r="11"
+       id="circle34" />
+    <circle
+       class="copper"
+       cx="1620"
+       cy="310"
+       r="11"
+       id="circle35" />
+    <rect
+       class="copper"
+       x="1540"
+       y="350"
+       width="85"
+       height="36"
+       rx="4"
+       id="rect35" />
+    <path
+       class="copperline"
+       d="M1350 505 H1400 V540 H1450"
+       id="path35" />
+    <circle
+       class="copper"
+       cx="1350"
+       cy="505"
+       r="11"
+       id="circle36" />
+    <circle
+       class="copper"
+       cx="1450"
+       cy="540"
+       r="11"
+       id="circle37" />
+    <rect
+       class="copper"
+       x="1370"
+       y="580"
+       width="85"
+       height="36"
+       rx="4"
+       id="rect37" />
+    <path
+       class="copperline"
+       d="M1520 505 H1570 V540 H1620"
+       id="path37" />
+    <circle
+       class="copper"
+       cx="1520"
+       cy="505"
+       r="11"
+       id="circle38" />
+    <circle
+       class="copper"
+       cx="1620"
+       cy="540"
+       r="11"
+       id="circle39" />
+    <rect
+       class="copper"
+       x="1540"
+       y="580"
+       width="85"
+       height="36"
+       rx="4"
+       id="rect39" />
+  </g>
+  <!-- Additional thieving in unused center gutters -->
+  <g
+     id="g49">
+    <rect
+       class="thief"
+       x="1484"
+       y="255"
+       width="12"
+       height="44"
+       id="rect40" />
+    <rect
+       class="thief"
+       x="1484"
+       y="320"
+       width="12"
+       height="44"
+       id="rect41" />
+    <rect
+       class="thief"
+       x="1484"
+       y="385"
+       width="12"
+       height="44"
+       id="rect42" />
+    <rect
+       class="thief"
+       x="1484"
+       y="485"
+       width="12"
+       height="44"
+       id="rect43" />
+    <rect
+       class="thief"
+       x="1484"
+       y="550"
+       width="12"
+       height="44"
+       id="rect44" />
+    <rect
+       class="thief"
+       x="1484"
+       y="615"
+       width="12"
+       height="44"
+       id="rect45" />
+    <rect
+       class="thief"
+       x="1320"
+       y="438"
+       width="54"
+       height="12"
+       id="rect46" />
+    <rect
+       class="thief"
+       x="1390"
+       y="438"
+       width="54"
+       height="12"
+       id="rect47" />
+    <rect
+       class="thief"
+       x="1535"
+       y="438"
+       width="54"
+       height="12"
+       id="rect48" />
+    <rect
+       class="thief"
+       x="1605"
+       y="438"
+       width="54"
+       height="12"
+       id="rect49" />
+  </g>
+  <!-- Required labels with clear leaders -->
+  <text
+     class="label"
+     x="1490"
+     y="835"
+     text-anchor="middle"
+     id="text49">Manufacturing panel</text>
+  <path
+     class="leader"
+     d="M1490 805 L1490 765"
+     id="path49" />
+  <text
+     class="small"
+     x="1246.5385"
+     y="880.96155"
+     text-anchor="start"
+     id="text50">PCB image</text>
+  <path
+     class="leader"
+     d="m 1312.1099,848.97665 77.3187,-198.40522"
+     id="path50" />
+  <circle
+     cx="1390"
+     cy="650"
+     r="6"
+     fill="#20292b"
+     id="circle50" />
+  <text
+     class="small"
+     x="1610.2404"
+     y="901.39423"
+     text-anchor="start"
+     id="text51">Thieving</text>
+  <path
+     class="leader"
+     d="m 1650.2411,867.38391 10.7678,-141.39282"
+     id="path51" />
+  <circle
+     cx="1660"
+     cy="727"
+     r="6"
+     fill="#20292b"
+     id="circle51" />
+</svg>
