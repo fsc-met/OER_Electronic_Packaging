@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2759"
+   height="1209"
+   viewBox="0 0 2759 1209"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg123"
+   sodipodi:docname="2.9.3.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.9.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs123">
+    <marker
+       style="overflow:visible"
+       id="marker142"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path142" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker141"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path141" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker138"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path138" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker137"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path137" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker136"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path136" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker135"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker134"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path134" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker133"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path133" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker131"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path131" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker130"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path130" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker127"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path127" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker125"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path125" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker124"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path124" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview123"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.58650017"
+     inkscape:cx="769.82075"
+     inkscape:cy="989.76953"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg123"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="41.628441"
+     y="40.931042"
+     width="1453.8544"
+     height="847.76849"
+     fill="#fbfcfd"
+     stroke="#c5ced6"
+     stroke-width="2.01437"
+     rx="19.384726"
+     id="rect2" />
+  <rect
+     x="1543.5751"
+     y="43.439972"
+     width="1169.1874"
+     height="845.1792"
+     fill="#fbfcfd"
+     stroke="#c5ced6"
+     stroke-width="2.42799"
+     rx="28.248821"
+     id="rect3" />
+  <text
+     x="783.97424"
+     y="98.878563"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="31px"
+     font-weight="700"
+     fill="#17324d"
+     id="text3">Top view — local fabrication geometry</text>
+  <text
+     x="2145.1724"
+     y="104.22789"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="31px"
+     font-weight="700"
+     fill="#17324d"
+     id="text4">Cross-section — Z-direction capabilities</text>
+  <rect
+     x="348.93286"
+     y="182.55289"
+     width="820"
+     height="540"
+     fill="#5d9c62"
+     stroke="#3e7542"
+     stroke-width="2.5"
+     rx="20"
+     id="rect4" />
+  <line
+     x1="1186.9329"
+     y1="200.55289"
+     x2="1186.9329"
+     y2="704.55292"
+     stroke="#b5bfc8"
+     stroke-width="2"
+     stroke-dasharray="9, 7"
+     id="line4" />
+  <text
+     x="1196.9329"
+     y="210.55289"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="15px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text5">nominal</text>
+  <path
+     d="m 458.93285,312.55289 h 280 v 75 h 260"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="22"
+     id="path5" />
+  <path
+     d="m 458.93285,372.55289 h 225 v 75 h 255"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="22"
+     id="path6" />
+  <circle
+     cx="903.328"
+     cy="563.76501"
+     r="68"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="2"
+     id="circle6" />
+  <circle
+     cx="903.328"
+     cy="563.76501"
+     r="31"
+     fill="#ffffff"
+     stroke="#314554"
+     stroke-width="2"
+     id="circle7" />
+  <circle
+     cx="581.62518"
+     cy="509.47598"
+     r="31"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1.7"
+     id="circle8" />
+  <circle
+     cx="581.62518"
+     cy="509.47598"
+     r="15"
+     fill="#ffffff"
+     stroke="#314554"
+     stroke-width="1.4"
+     id="circle9" />
+  <circle
+     cx="469.90005"
+     cy="624.78137"
+     r="44"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1.7"
+     id="circle10" />
+  <circle
+     cx="469.90005"
+     cy="624.78137"
+     r="22"
+     fill="#ffffff"
+     stroke="#314554"
+     stroke-width="1.6"
+     id="circle11" />
+  <line
+     x1="458.90005"
+     y1="624.78137"
+     x2="480.90005"
+     y2="624.78137"
+     stroke="#b5bfc8"
+     stroke-width="1.4"
+     id="line11" />
+  <line
+     x1="469.90005"
+     y1="613.78137"
+     x2="469.90005"
+     y2="635.78137"
+     stroke="#b5bfc8"
+     stroke-width="1.4"
+     id="line12" />
+  <circle
+     cx="485.90005"
+     cy="614.78137"
+     r="3"
+     fill="#7b6a9b"
+     stroke="#7b6a9b"
+     stroke-width="1"
+     id="circle12" />
+  <circle
+     cx="646.63397"
+     cy="617.34363"
+     r="36"
+     fill="#ffffff"
+     stroke="#3e7542"
+     stroke-width="1.5"
+     id="circle13" />
+  <circle
+     cx="646.63397"
+     cy="617.34363"
+     r="25"
+     fill="#d6c472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle14" />
+  <circle
+     cx="731.63397"
+     cy="617.34363"
+     r="36"
+     fill="#ffffff"
+     stroke="#3e7542"
+     stroke-width="1.5"
+     id="circle15" />
+  <circle
+     cx="731.63397"
+     cy="617.34363"
+     r="25"
+     fill="#d6c472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle16" />
+  <rect
+     x="1005.226"
+     y="662.80554"
+     width="100"
+     height="24"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1.2"
+     rx="4"
+     id="rect16" />
+  <text
+     x="844.10742"
+     y="221.98199"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="600"
+     fill="#ffffff"
+     id="text16">simplified rigid PCB region</text>
+  <rect
+     x="66.011864"
+     y="115.54638"
+     width="255.75528"
+     height="100.12935"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.57066"
+     rx="10.230211"
+     id="rect17" />
+  <text
+     x="80.076538"
+     y="142.61104"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text17">Trace width</text>
+  <text
+     x="80.076538"
+     y="167.61104"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text18">0.10 mm (4 mil) minimum</text>
+  <text
+     x="80.076538"
+     y="191.61105"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text19">~0.15 mm (6 mil) preferred</text>
+  <rect
+     x="64.023872"
+     y="235.25436"
+     width="259.86618"
+     height="100.11687"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.58313"
+     rx="10.394647"
+     id="rect21" />
+  <rect
+     x="65.088715"
+     y="381.13794"
+     width="259.86618"
+     height="100.11687"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.58313"
+     rx="10.394647"
+     id="rect21-6" />
+  <text
+     x="78.082306"
+     y="262.31281"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text21">Trace spacing</text>
+  <text
+     x="78.082306"
+     y="287.31281"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text22">0.10 mm (4 mil) minimum</text>
+  <text
+     x="78.082306"
+     y="311.31281"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text23">~0.15 mm (6 mil) preferred</text>
+  <rect
+     x="844.79071"
+     y="764.99536"
+     width="246.23297"
+     height="100.20722"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.49278"
+     rx="9.233737"
+     id="rect25" />
+  <rect
+     x="333.34354"
+     y="765.87152"
+     width="277.71164"
+     height="100.1154"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.5846"
+     rx="10.414187"
+     id="rect25-4" />
+  <text
+     x="858.89429"
+     y="792.09894"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text25">PTH annular ring</text>
+  <text
+     x="858.89429"
+     y="817.09894"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text26">0.15 mm (6 mil) minimum</text>
+  <text
+     x="858.89429"
+     y="841.09894"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text27">0.20–0.25 mm preferred</text>
+  <rect
+     x="1217.4468"
+     y="237.40533"
+     width="239.68568"
+     height="100.16637"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.53363"
+     rx="9.7499266"
+     id="rect29" />
+  <text
+     x="1231.5299"
+     y="264.48849"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text29">Routed profile</text>
+  <text
+     x="1231.5299"
+     y="289.48849"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text30">±0.10 to ±0.20 mm</text>
+  <text
+     x="1231.5299"
+     y="313.48849"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text31">nominal vs actual edge</text>
+  <line
+     x1="1330.9784"
+     y1="337.66632"
+     x2="1179.3486"
+     y2="547.37512"
+     stroke="#17324d"
+     stroke-width="2.17659"
+     id="line31"
+     style="stroke-width:0.977;stroke-dasharray:none" />
+  <text
+     x="82.702858"
+     y="408.58923"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text33">Mechanical drill</text>
+  <text
+     x="82.702858"
+     y="433.58923"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text34">0.20 mm (8 mil) routine</text>
+  <text
+     x="82.702858"
+     y="457.58923"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text35">0.15 mm tighter</text>
+  <rect
+     x="65.15081"
+     y="508.69083"
+     width="259.86618"
+     height="100.11687"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.58313"
+     rx="10.394647"
+     id="rect21-4" />
+  <text
+     x="85.679832"
+     y="535.58417"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text37">Hole position</text>
+  <text
+     x="85.679832"
+     y="560.58417"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text38">±0.05 to ±0.10 mm</text>
+  <text
+     x="85.679832"
+     y="584.58417"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text39">center displacement</text>
+  <text
+     x="346.42413"
+     y="789.99182"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text41">Mask opening allowance</text>
+  <text
+     x="346.42413"
+     y="814.99182"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text42">0.05–0.10 mm / side</text>
+  <text
+     x="346.42413"
+     y="838.99182"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text43">pad-to-mask allowance</text>
+  <line
+     x1="502.63837"
+     y1="761.32068"
+     x2="614.88904"
+     y2="622.67072"
+     stroke="#17324d"
+     stroke-width="0.727011"
+     id="line43"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <line
+     x1="690.8454"
+     y1="621.32397"
+     x2="718.08893"
+     y2="763.93054"
+     stroke="#17324d"
+     stroke-width="0.324517"
+     id="line47"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <rect
+     x="1221.4685"
+     y="645.90558"
+     width="247.09572"
+     height="119.78803"
+     fill="#ffffff"
+     stroke="#c7d0d8"
+     stroke-width="1.91197"
+     rx="15.205891"
+     id="rect49" />
+  <text
+     x="1235.3625"
+     y="672.79962"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text49">Outer Cu to edge</text>
+  <text
+     x="1235.3625"
+     y="697.79962"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text50">0.20–0.25 mm</text>
+  <text
+     x="1235.3625"
+     y="721.79962"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text51">minimum routed-edge</text>
+  <text
+     x="1235.3625"
+     y="745.79962"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text52">clearance</text>
+  <rect
+     x="1924.4114"
+     y="242.17572"
+     width="410"
+     height="500"
+     fill="#e9e2d3"
+     stroke="#314554"
+     stroke-width="2"
+     rx="8"
+     id="rect54" />
+  <rect
+     x="1924.4114"
+     y="274.17572"
+     width="410"
+     height="12"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect55" />
+  <rect
+     x="1924.4114"
+     y="367.17572"
+     width="410"
+     height="9"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect56" />
+  <rect
+     x="1924.4114"
+     y="462.17572"
+     width="410"
+     height="9"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect57" />
+  <rect
+     x="1924.4114"
+     y="557.17572"
+     width="410"
+     height="9"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect58" />
+  <rect
+     x="1924.4114"
+     y="652.17572"
+     width="410"
+     height="9"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect59" />
+  <rect
+     x="1924.4114"
+     y="704.17572"
+     width="410"
+     height="12"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect60" />
+  <rect
+     x="1924.4114"
+     y="224.17572"
+     width="410"
+     height="18"
+     fill="#5d9c62"
+     stroke="#3e7542"
+     stroke-width="1.3"
+     rx="3"
+     id="rect61" />
+  <rect
+     x="1924.4114"
+     y="742.17572"
+     width="410"
+     height="18"
+     fill="#5d9c62"
+     stroke="#3e7542"
+     stroke-width="1.3"
+     rx="3"
+     id="rect62" />
+  <rect
+     x="2123.2114"
+     y="232.17572"
+     width="78"
+     height="520"
+     fill="#ffffff"
+     stroke="#314554"
+     stroke-width="1.8"
+     rx="28"
+     id="rect63" />
+  <rect
+     x="2110.2114"
+     y="232.17572"
+     width="13"
+     height="520"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect64" />
+  <rect
+     x="2201.2114"
+     y="232.17572"
+     width="13"
+     height="520"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect65" />
+  <rect
+     x="1952.4114"
+     y="512.17572"
+     width="145"
+     height="9"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect66" />
+  <rect
+     x="1970.4114"
+     y="544.17572"
+     width="145"
+     height="9"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect67" />
+  <rect
+     x="2184.4114"
+     y="592.17572"
+     width="90"
+     height="9"
+     fill="#d58b2c"
+     stroke="#986321"
+     stroke-width="1"
+     rx="0"
+     id="rect68" />
+  <line
+     x1="1894.4114"
+     y1="242.17572"
+     x2="1894.4114"
+     y2="742.17572"
+     stroke="#17324d"
+     stroke-width="2.2"
+     id="line68" />
+  <line
+     x1="1894.4114"
+     y1="242.17572"
+     x2="1899.3613"
+     y2="251.17572"
+     stroke="#17324d"
+     stroke-width="2.2"
+     id="line69" />
+  <line
+     x1="1894.4114"
+     y1="242.17572"
+     x2="1889.4614"
+     y2="251.17572"
+     stroke="#17324d"
+     stroke-width="2.2"
+     id="line70" />
+  <rect
+     x="1562.8466"
+     y="425.22638"
+     width="305.05255"
+     height="100.05257"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.64744"
+     rx="11.263479"
+     id="rect72" />
+  <text
+     x="1576.8728"
+     y="452.25266"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text72">Finished board thickness</text>
+  <text
+     x="1576.8728"
+     y="477.25266"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text73">1.6 mm common; ±10%</text>
+  <text
+     x="1576.8728"
+     y="501.25262"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text74">1.44–1.76 mm example</text>
+  <rect
+     x="2380.1316"
+     y="217.51134"
+     width="301.63644"
+     height="100.098"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.602"
+     rx="10.645992"
+     id="rect76" />
+  <text
+     x="2394.1807"
+     y="244.56033"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text76">PTH wall copper</text>
+  <text
+     x="2394.1807"
+     y="269.56033"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text77">18–25 μm typical</text>
+  <text
+     x="2394.1807"
+     y="293.56033"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text78">20 μm common minimum</text>
+  <line
+     x1="2368.3975"
+     y1="278.2616"
+     x2="2209.3882"
+     y2="389.50421"
+     stroke="#17324d"
+     stroke-width="1.1274"
+     id="line78" />
+  <line
+     x1="2205.3789"
+     y1="391.92838"
+     x2="2209.0215"
+     y2="384.81821"
+     stroke="#17324d"
+     stroke-width="1.6"
+     id="line79" />
+  <line
+     x1="2205.3789"
+     y1="391.92838"
+     x2="2213.3342"
+     y2="391.19708"
+     stroke="#17324d"
+     stroke-width="1.6"
+     id="line80" />
+  <line
+     x1="2386.2419"
+     y1="550.82672"
+     x2="2306.9119"
+     y2="607.14368"
+     stroke="#17324d"
+     stroke-width="0.566592"
+     id="line78-1" />
+  <line
+     x1="2303.063"
+     y1="609.33832"
+     x2="2306.7056"
+     y2="602.22815"
+     stroke="#17324d"
+     stroke-width="1.6"
+     id="line79-3" />
+  <line
+     x1="2303.063"
+     y1="609.33832"
+     x2="2311.0183"
+     y2="608.60706"
+     stroke="#17324d"
+     stroke-width="1.6"
+     id="line80-8" />
+  <rect
+     x="2382.8362"
+     y="362.90829"
+     width="297.38092"
+     height="100.07324"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.62676"
+     rx="10.980219"
+     id="rect80" />
+  <rect
+     x="2386.9272"
+     y="491.01682"
+     width="292.77811"
+     height="100.08578"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.61422"
+     rx="10.810267"
+     id="rect80-9" />
+  <text
+     x="2396.8728"
+     y="389.94492"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text80">Through-hole aspect ratio</text>
+  <text
+     x="2396.8728"
+     y="414.94492"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text81">8:1 routine; ~10:1 tighter</text>
+  <text
+     x="2396.8728"
+     y="438.94492"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text82">thickness / drill</text>
+  <rect
+     x="1560.9088"
+     y="560.59625"
+     width="307.77423"
+     height="100.08191"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.61809"
+     rx="10.862619"
+     id="rect84" />
+  <text
+     x="1574.9498"
+     y="587.63721"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text84">Layer registration</text>
+  <text
+     x="1574.9498"
+     y="612.63721"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text85">±0.075 to ±0.10 mm</text>
+  <text
+     x="1574.9498"
+     y="636.63721"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text86">~±0.05 mm tighter</text>
+  <line
+     x1="2381.3694"
+     y1="420.89337"
+     x2="2169.1804"
+     y2="482.46927"
+     stroke="#17324d"
+     stroke-width="1.06211"
+     id="line86" />
+  <line
+     x1="2169.4351"
+     y1="482.56961"
+     x2="2175.272"
+     y2="477.1152"
+     stroke="#17324d"
+     stroke-width="1.6"
+     id="line87" />
+  <line
+     x1="2169.4351"
+     y1="482.56961"
+     x2="2177.1672"
+     y2="484.57822"
+     stroke="#17324d"
+     stroke-width="1.6"
+     id="line88" />
+  <text
+     x="2399.103"
+     y="521.72113"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text88">Inner Cu / plane to edge</text>
+  <text
+     x="2399.103"
+     y="546.72113"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text89">about 0.40 mm</text>
+  <text
+     x="2399.103"
+     y="570.72113"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text90">kept farther from profile</text>
+  <rect
+     x="31.839493"
+     y="928.45184"
+     width="1465.9067"
+     height="242.44514"
+     fill="#f5f8fa"
+     stroke="#c5ced6"
+     stroke-width="1.94718"
+     rx="16.287853"
+     id="rect92" />
+  <text
+     x="648.51605"
+     y="963.32825"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text92">Whole-board flatness</text>
+  <line
+     x1="307.86978"
+     y1="1040.3282"
+     x2="667.86975"
+     y2="1040.3282"
+     stroke="#b5bfc8"
+     stroke-width="1.8"
+     stroke-dasharray="10, 7"
+     id="line93" />
+  <path
+     d="m 307.86976,1028.3282 q 180,50 360,0"
+     fill="none"
+     stroke="#3e7542"
+     stroke-width="11"
+     id="path93" />
+  <text
+     x="494.3649"
+     y="1106.0417"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text93">Bow</text>
+  <text
+     x="1024.8568"
+     y="1104.8475"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text93-5">Twist</text>
+  <text
+     x="492.17548"
+     y="1147.2396"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text94">≤0.75% with SMDs; ~≤1.5% without SMDs</text>
+  <text
+     x="1051.0397"
+     y="1146.999"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text95">whole-board requirement; product may require tighter</text>
+  <rect
+     x="1541.9485"
+     y="927.0224"
+     width="1164.15"
+     height="245.69983"
+     fill="#f3f6f8"
+     stroke="#c5ced6"
+     stroke-width="2.16537"
+     rx="19.875731"
+     id="rect95" />
+  <text
+     x="1926.1959"
+     y="974.84436"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text96">Typical mainstream rigid-FR-4 values for engineering intuition</text>
+  <text
+     x="2121.7271"
+     y="982.56189"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text97" />
+  <text
+     x="1620.7556"
+     y="1020.6632"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text98">• not universal IPC limits</text>
+  <text
+     x="1620.7556"
+     y="1050.6632"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text99">• verify the selected fabricator before release</text>
+  <text
+     x="1620.7556"
+     y="1080.6632"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text100"
+     style="font-size:19px">• copper weight, layer count, material, and process tier matter</text>
+  <text
+     x="1620.7556"
+     y="1108.3584"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text101"
+     style="font-size:19px">• geometry / plating thickness exaggerated for clarity</text>
+  <line
+     x1="558.93286"
+     y1="301.55289"
+     x2="558.93286"
+     y2="323.55289"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line101"
+     style="stroke:#8f324d;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker135);marker-end:url(#marker135)" />
+  <line
+     x1="608.93286"
+     y1="323.55289"
+     x2="608.93286"
+     y2="361.55289"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line102"
+     style="stroke:#8f324d;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker137);marker-end:url(#marker136)" />
+  <line
+     x1="934.328"
+     y1="562.99579"
+     x2="971.328"
+     y2="562.99579"
+     stroke="#17324d"
+     stroke-width="2.2"
+     id="line104"
+     style="stroke:#7f324d;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker130);marker-end:url(#marker138)" />
+  <line
+     x1="566.62518"
+     y1="509.86057"
+     x2="596.62518"
+     y2="509.86057"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line106"
+     style="stroke:#81324d;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker134);marker-end:url(#marker133)" />
+  <line
+     x1="610.48016"
+     y1="618.88208"
+     x2="621.4801"
+     y2="618.88208"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line109"
+     style="stroke:#74324d;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ArrowWide);marker-end:url(#ArrowWide)" />
+  <line
+     x1="683.21094"
+     y1="617.26672"
+     x2="696.21094"
+     y2="617.26672"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line111"
+     style="stroke:#74324d;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker125);marker-end:url(#marker124)" />
+  <line
+     x1="2274.4114"
+     y1="618.17572"
+     x2="2334.4114"
+     y2="618.17572"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line121"
+     style="stroke:#7b324d;stroke-opacity:1" />
+  <path
+     d="m 2274.4112,618.17571 7,-4 m -7,4 7,4"
+     fill="none"
+     stroke="#17324d"
+     stroke-width="2"
+     id="path122"
+     style="stroke:#7b324d;stroke-opacity:1" />
+  <path
+     d="m 2334.4112,618.17571 -7,-4 m 7,4 -7,4"
+     fill="none"
+     stroke="#17324d"
+     stroke-width="2"
+     id="path123"
+     style="stroke:#7b324d;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#930000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker127)"
+     d="m 469.90005,624.78137 13.45606,-8.41003"
+     id="path126"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0"
+     inkscape:connection-start="#line12"
+     inkscape:connection-end="#circle12" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 325.86158,570.35825 150.76923,47.69231"
+     id="path128"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.821887;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 332.86634,432.15739 247.32023,75.02827"
+     id="path128-9"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.686585;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 328.67833,299.87148 275.69069,46.97059"
+     id="path128-9-0"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.03623;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="M 322.57686,182.51067 553.49651,310.24482"
+     id="path128-9-0-8"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#630000;stroke-width:0.969911;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker131);marker-end:url(#marker130)"
+     d="m 1059.5305,688.95494 0.3474,31.51298"
+     id="path129"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.677528px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1063.7071,703.80677 156.1207,15.3505"
+     id="path132"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 954.86241,566.13284 21.17956,196.39445"
+     id="path139"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#680000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker142);marker-end:url(#marker141)"
+     d="m 1169.4458,549.9115 h 17.4057"
+     id="path140"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <rect
+     x="625.43445"
+     y="765.61011"
+     width="207.19273"
+     height="100.32983"
+     fill="#f5f8fa"
+     stroke="#c7d0d8"
+     stroke-width="1.37017"
+     rx="7.7697282"
+     id="rect25-8" />
+  <text
+     x="644.54474"
+     y="788.92511"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#17324d"
+     id="text45">Mask web</text>
+  <text
+     x="644.54474"
+     y="813.92511"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text46">~0.10 mm common</text>
+  <text
+     x="644.54474"
+     y="837.92511"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="550"
+     fill="#6d7a84"
+     id="text47">process-dependent</text>
+  <path
+     d="m 871.45108,1018.0442 c 70,-30 129.99992,15 249.99992,-21.99996 l 42,59.99996 c -80,-21 -154,31 -243.99992,20 z"
+     fill="#e7f0e7"
+     stroke="#3e7542"
+     stroke-width="2"
+     id="path94" />
+  <line
+     x1="924.65521"
+     y1="1073.254"
+     x2="1121.1371"
+     y2="996.42456"
+     stroke="#b5bfc8"
+     stroke-width="2.95866"
+     stroke-dasharray="7, 6"
+     id="line94-1"
+     style="stroke-width:1;stroke-dasharray:2.36594, 2.02795;stroke-dashoffset:0" />
+</svg>
