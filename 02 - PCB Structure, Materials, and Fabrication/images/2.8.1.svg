@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1980"
+   height="1000"
+   viewBox="0 0 1980 1000"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg65"
+   sodipodi:docname="2.8.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.8.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview65"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.416"
+     inkscape:cx="1145.4327"
+     inkscape:cy="532.45192"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg65"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1"
+     x="0"
+     y="0" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker68"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path68" />
+    </marker>
+    <marker
+       id="arrowEnd"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#17324d"
+         id="path1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker68-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path68-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker68-2-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path68-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker68-2-2-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path68-2-3-8" />
+    </marker>
+  </defs>
+  <rect
+     x="55"
+     y="70"
+     width="318.79999"
+     height="790"
+     fill="#fbfcfd"
+     stroke="#bcc8d2"
+     stroke-width="2"
+     rx="18"
+     id="rect2" />
+  <rect
+     x="73"
+     y="88"
+     width="48"
+     height="48"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="24"
+     id="rect3" />
+  <text
+     x="97"
+     y="121"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text3">1</text>
+  <text
+     x="133"
+     y="120"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text4">Create inner</text>
+  <text
+     x="133"
+     y="151"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text5">copper layers</text>
+  <rect
+     x="80"
+     y="180"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect5" />
+  <text
+     x="214.39999"
+     y="204"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text6">Clean • image</text>
+  <rect
+     x="80"
+     y="226"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect6" />
+  <text
+     x="214.39999"
+     y="250"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text7">Etch • inspect</text>
+  <rect
+     x="105"
+     y="470"
+     width="218.8"
+     height="100"
+     fill="#e8e1d2"
+     stroke="#2d4053"
+     stroke-width="2"
+     rx="8"
+     id="rect7" />
+  <rect
+     x="130"
+     y="458"
+     width="55"
+     height="12"
+     fill="#d58b2c"
+     stroke="#d58b2c"
+     stroke-width="1"
+     rx="4"
+     id="rect8" />
+  <rect
+     x="205"
+     y="458"
+     width="85"
+     height="12"
+     fill="#d58b2c"
+     stroke="#d58b2c"
+     stroke-width="1"
+     rx="4"
+     id="rect9" />
+  <path
+     d="m 145,464 h 30 v 26 h 85 v -26 h 15"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="8"
+     id="path9" />
+  <text
+     x="214.39999"
+     y="615"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#6d7a84"
+     id="text9">Patterned inner layer</text>
+  <rect
+     x="445.87692"
+     y="72.403847"
+     width="318.79999"
+     height="790"
+     fill="#fbfcfd"
+     stroke="#bcc8d2"
+     stroke-width="2"
+     rx="18"
+     id="rect10" />
+  <rect
+     x="463.87692"
+     y="90.403847"
+     width="48"
+     height="48"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="24"
+     id="rect11" />
+  <text
+     x="487.87692"
+     y="123.40385"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text11">2</text>
+  <text
+     x="523.87689"
+     y="122.40385"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text12">Build multilayer</text>
+  <text
+     x="523.87689"
+     y="153.40384"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text13">structure</text>
+  <rect
+     x="470.87692"
+     y="182.40384"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect13" />
+  <text
+     x="605.27692"
+     y="206.40384"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text14">Layup</text>
+  <rect
+     x="470.87692"
+     y="228.40384"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect14" />
+  <text
+     x="605.27692"
+     y="252.40384"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text15">Laminate</text>
+  <rect
+     x="520.87689"
+     y="442.40384"
+     width="168.8"
+     height="12"
+     fill="#d58b2c"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect15" />
+  <rect
+     x="520.87689"
+     y="457.40384"
+     width="168.8"
+     height="24"
+     fill="#d7e6d0"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect16" />
+  <rect
+     x="520.87689"
+     y="484.40384"
+     width="168.8"
+     height="22"
+     fill="#e8e1d2"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect17" />
+  <rect
+     x="520.87689"
+     y="509.40384"
+     width="168.8"
+     height="10"
+     fill="#d58b2c"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect18" />
+  <rect
+     x="520.87689"
+     y="522.40387"
+     width="168.8"
+     height="24"
+     fill="#d7e6d0"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect19" />
+  <rect
+     x="520.87689"
+     y="549.40387"
+     width="168.8"
+     height="22"
+     fill="#e8e1d2"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect20" />
+  <rect
+     x="520.87689"
+     y="574.40387"
+     width="168.8"
+     height="10"
+     fill="#d58b2c"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect21" />
+  <rect
+     x="520.87689"
+     y="587.40387"
+     width="168.8"
+     height="24"
+     fill="#d7e6d0"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect22" />
+  <rect
+     x="520.87689"
+     y="614.40387"
+     width="168.8"
+     height="12"
+     fill="#d58b2c"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect23" />
+  <text
+     x="605.27692"
+     y="662.40387"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#6d7a84"
+     id="text23">Bonded multilayer panel</text>
+  <rect
+     x="837.95569"
+     y="71.201927"
+     width="318.79999"
+     height="790"
+     fill="#fbfcfd"
+     stroke="#bcc8d2"
+     stroke-width="2"
+     rx="18"
+     id="rect24" />
+  <rect
+     x="855.95569"
+     y="89.201927"
+     width="48"
+     height="48"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="24"
+     id="rect25" />
+  <text
+     x="879.95569"
+     y="122.20192"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text25">3</text>
+  <text
+     x="915.95569"
+     y="121.20193"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text26">Create vertical</text>
+  <text
+     x="915.95569"
+     y="152.20192"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text27">interconnections</text>
+  <rect
+     x="862.95569"
+     y="181.20192"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect27" />
+  <text
+     x="997.35577"
+     y="205.20192"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text28">Drill • desmear</text>
+  <rect
+     x="862.95569"
+     y="227.20192"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect28" />
+  <text
+     x="997.35577"
+     y="251.2019"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text29">Metallize</text>
+  <rect
+     x="907.95569"
+     y="461.2019"
+     width="178.8"
+     height="170"
+     fill="#e8e1d2"
+     stroke="#2d4053"
+     stroke-width="2"
+     rx="0"
+     id="rect29" />
+  <rect
+     x="907.95569"
+     y="491.2019"
+     width="178.8"
+     height="8"
+     fill="#d58b2c"
+     stroke="#d58b2c"
+     stroke-width="1"
+     rx="0"
+     id="rect30" />
+  <rect
+     x="907.95569"
+     y="541.20197"
+     width="178.8"
+     height="8"
+     fill="#d58b2c"
+     stroke="#d58b2c"
+     stroke-width="1"
+     rx="0"
+     id="rect31" />
+  <rect
+     x="907.95569"
+     y="591.20197"
+     width="178.8"
+     height="8"
+     fill="#d58b2c"
+     stroke="#d58b2c"
+     stroke-width="1"
+     rx="0"
+     id="rect32" />
+  <rect
+     x="973.35571"
+     y="453.2019"
+     width="48"
+     height="186"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="2"
+     rx="20"
+     id="rect33" />
+  <rect
+     x="965.35571"
+     y="453.2019"
+     width="8"
+     height="186"
+     fill="#d58b2c"
+     stroke="#d58b2c"
+     stroke-width="1"
+     rx="4"
+     id="rect34" />
+  <rect
+     x="1021.3557"
+     y="453.2019"
+     width="8"
+     height="186"
+     fill="#d58b2c"
+     stroke="#d58b2c"
+     stroke-width="1"
+     rx="4"
+     id="rect35" />
+  <text
+     x="997.35577"
+     y="671.20197"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#6d7a84"
+     id="text35">Metallized through-hole</text>
+  <rect
+     x="1224.95"
+     y="71.201927"
+     width="318.79999"
+     height="790"
+     fill="#fbfcfd"
+     stroke="#bcc8d2"
+     stroke-width="2"
+     rx="18"
+     id="rect36" />
+  <rect
+     x="1242.95"
+     y="89.201927"
+     width="48"
+     height="48"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="24"
+     id="rect37" />
+  <text
+     x="1266.95"
+     y="122.20192"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text37">4</text>
+  <text
+     x="1302.95"
+     y="121.20193"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text38">Create and protect</text>
+  <text
+     x="1302.95"
+     y="152.20192"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text39">outer circuitry</text>
+  <rect
+     x="1249.95"
+     y="181.20192"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect39" />
+  <text
+     x="1384.35"
+     y="205.20192"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text40">Outer image • plate</text>
+  <rect
+     x="1249.95"
+     y="227.20192"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect40" />
+  <text
+     x="1384.35"
+     y="251.2019"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text41">Etch • solder mask</text>
+  <rect
+     x="1249.95"
+     y="273.2019"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect41" />
+  <text
+     x="1384.35"
+     y="297.2019"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text42">Finish • legend</text>
+  <rect
+     x="1277.95"
+     y="443.2019"
+     width="212.8"
+     height="195"
+     fill="#5d9c62"
+     stroke="#3e7542"
+     stroke-width="2"
+     rx="12"
+     id="rect42" />
+  <rect
+     x="1311.1499"
+     y="483.8519"
+     width="40"
+     height="24"
+     fill="#d8c56d"
+     stroke="#9a8a53"
+     stroke-width="1.5"
+     rx="5"
+     id="rect43" />
+  <rect
+     x="1374.9899"
+     y="483.8519"
+     width="40"
+     height="24"
+     fill="#d8c56d"
+     stroke="#9a8a53"
+     stroke-width="1.5"
+     rx="5"
+     id="rect44" />
+  <rect
+     x="1328.174"
+     y="561.85199"
+     width="40"
+     height="24"
+     fill="#d8c56d"
+     stroke="#9a8a53"
+     stroke-width="1.5"
+     rx="5"
+     id="rect45" />
+  <rect
+     x="1402.6539"
+     y="561.85199"
+     width="40"
+     height="24"
+     fill="#d8c56d"
+     stroke="#9a8a53"
+     stroke-width="1.5"
+     rx="5"
+     id="rect46" />
+  <path
+     d="m 1331.15,495.85193 h 31.92 v 78 h -14.896"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="6"
+     id="path46" />
+  <path
+     d="m 1394.99,495.85193 h 36.176 v 40.95 h 34.048"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="6"
+     id="path47" />
+  <path
+     d="m 1348.174,573.85193 h 74.48"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="6"
+     id="path48" />
+  <circle
+     cx="1456.7019"
+     cy="579.70197"
+     r="11"
+     fill="#d8c56d"
+     stroke="#2d4053"
+     stroke-width="2"
+     id="circle48" />
+  <text
+     x="1295.95"
+     y="624.20197"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text48">R1</text>
+  <text
+     x="1472.7499"
+     y="624.20197"
+     text-anchor="end"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text49">J1</text>
+  <text
+     x="1384.35"
+     y="671.20197"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#6d7a84"
+     id="text50">Protected outer circuitry</text>
+  <rect
+     x="1617.0433"
+     y="71.201927"
+     width="318.79999"
+     height="790"
+     fill="#fbfcfd"
+     stroke="#bcc8d2"
+     stroke-width="2"
+     rx="18"
+     id="rect50" />
+  <rect
+     x="1635.0433"
+     y="89.201927"
+     width="48"
+     height="48"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="24"
+     id="rect51" />
+  <text
+     x="1659.0433"
+     y="122.20192"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text51">5</text>
+  <text
+     x="1695.0433"
+     y="121.20193"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text52">Profile and</text>
+  <text
+     x="1695.0433"
+     y="152.20192"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#17324d"
+     id="text53">verify</text>
+  <rect
+     x="1642.0433"
+     y="181.20192"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect53" />
+  <text
+     x="1776.4434"
+     y="205.20192"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text54">Profile</text>
+  <rect
+     x="1642.0433"
+     y="227.20192"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect54" />
+  <text
+     x="1776.4434"
+     y="251.2019"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text55">Electrical test</text>
+  <rect
+     x="1642.0433"
+     y="273.2019"
+     width="268.79999"
+     height="36"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="18"
+     id="rect55" />
+  <text
+     x="1776.4434"
+     y="297.2019"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text56">Final inspection</text>
+  <rect
+     x="1676.0433"
+     y="443.2019"
+     width="200.8"
+     height="195"
+     fill="#5d9c62"
+     stroke="#3e7542"
+     stroke-width="2"
+     rx="12"
+     id="rect56" />
+  <rect
+     x="1705.2354"
+     y="468.2019"
+     width="38"
+     height="22"
+     fill="#d8c56d"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="4"
+     id="rect57" />
+  <rect
+     x="1757.4434"
+     y="468.2019"
+     width="38"
+     height="22"
+     fill="#d8c56d"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="4"
+     id="rect58" />
+  <rect
+     x="1809.6514"
+     y="468.2019"
+     width="38"
+     height="22"
+     fill="#d8c56d"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="4"
+     id="rect59" />
+  <circle
+     cx="1732.2673"
+     cy="571.90198"
+     r="12"
+     fill="#d8c56d"
+     stroke="#2d4053"
+     stroke-width="2"
+     id="circle59" />
+  <circle
+     cx="1820.6194"
+     cy="571.90198"
+     r="12"
+     fill="#d8c56d"
+     stroke="#2d4053"
+     stroke-width="2"
+     id="circle60" />
+  <path
+     d="m 1712.1875,517.30193 h 48.192 v 72.15 h 40.16"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="5"
+     id="path60" />
+  <path
+     d="m 1780.4595,491.95193 v 48.75 h 52.208"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="5"
+     id="path61" />
+  <circle
+     cx="1828.6514"
+     cy="509.50192"
+     r="20"
+     fill="#ffffff"
+     stroke="#4c86b8"
+     stroke-width="3"
+     id="circle61" />
+  <path
+     d="m 1819.6515,509.50193 6,6 14,-16"
+     fill="none"
+     stroke="#4c86b8"
+     stroke-width="4"
+     id="path62" />
+  <text
+     x="1776.4434"
+     y="671.20197"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#17324d"
+     id="text62">Verified bare PCB</text>
+  <line
+     x1="375.39615"
+     y1="466.20193"
+     x2="430.25381"
+     y2="466.20193"
+     stroke="#4c86b8"
+     stroke-width="7.59878"
+     marker-end="url(#arrowEnd)"
+     id="line62"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker68)" />
+  <line
+     x1="766.23077"
+     y1="471.6073"
+     x2="821.08844"
+     y2="471.6073"
+     stroke="#4c86b8"
+     stroke-width="7.59878"
+     marker-end="url(#arrowEnd)"
+     id="line62-3"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker68-2)" />
+  <line
+     x1="1156.7981"
+     y1="476.8092"
+     x2="1211.6558"
+     y2="476.8092"
+     stroke="#4c86b8"
+     stroke-width="7.59878"
+     marker-end="url(#arrowEnd)"
+     id="line62-3-9"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker68-2-2)" />
+  <line
+     x1="1544.9552"
+     y1="478.10114"
+     x2="1599.8129"
+     y2="478.10114"
+     stroke="#4c86b8"
+     stroke-width="7.59878"
+     marker-end="url(#arrowEnd)"
+     id="line62-3-9-5"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker68-2-2-9)" />
+  <rect
+     x="493.94232"
+     y="907.21155"
+     width="990"
+     height="52"
+     fill="#f7f9fb"
+     stroke="#c8d1da"
+     stroke-width="1.5"
+     rx="12"
+     id="rect65" />
+  <text
+     x="988.94232"
+     y="941.21155"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="600"
+     fill="#6d7a84"
+     id="text65">Representative route — exact sequence varies by fabricator and board technology.</text>
+</svg>

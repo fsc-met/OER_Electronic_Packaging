@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2090"
+   height="1050"
+   viewBox="0 0 2090 1050"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg63"
+   sodipodi:docname="2.8.3.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.8.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview63"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.56029794"
+     inkscape:cx="962.88056"
+     inkscape:cy="593.43427"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg63" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="marker63"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path63" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowEnd"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#17324d"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowBlue"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4c86b8"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowHeat"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#c76a3d"
+         id="path3" />
+    </marker>
+    <marker
+       id="arrowFlow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#58a06a"
+         id="path4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker63-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path63-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker63-8-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path63-3-0" />
+    </marker>
+  </defs>
+  <rect
+     x="55"
+     y="65"
+     width="604.66669"
+     height="825"
+     fill="#fbfcfd"
+     stroke="#c4cdd6"
+     stroke-width="2"
+     rx="18"
+     id="rect4" />
+  <text
+     x="357.33334"
+     y="113"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#17324d"
+     id="text4">Layup</text>
+  <text
+     x="357.33334"
+     y="147"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="20px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text5">Arrange and register the stack</text>
+  <rect
+     x="742.28583"
+     y="68.569527"
+     width="604.66669"
+     height="825"
+     fill="#fbfcfd"
+     stroke="#c4cdd6"
+     stroke-width="2"
+     rx="18"
+     id="rect5" />
+  <text
+     x="1044.6191"
+     y="116.56953"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#17324d"
+     id="text6">Lamination</text>
+  <text
+     x="1044.6191"
+     y="150.56953"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="20px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text7">Heat + pressure -&gt; resin flow + cure</text>
+  <rect
+     x="1433.1411"
+     y="68.569527"
+     width="604.66669"
+     height="825"
+     fill="#fbfcfd"
+     stroke="#c4cdd6"
+     stroke-width="2"
+     rx="18"
+     id="rect7" />
+  <text
+     x="1735.4744"
+     y="116.56953"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#17324d"
+     id="text8">Bonded multilayer panel</text>
+  <text
+     x="1735.4744"
+     y="150.56953"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="20px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text9">One consolidated rigid structure</text>
+  <rect
+     x="235"
+     y="225"
+     width="244.66667"
+     height="18"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1.5"
+     rx="2"
+     id="rect9" />
+  <rect
+     x="235"
+     y="301"
+     width="244.66667"
+     height="30"
+     fill="#cfe2c8"
+     stroke="#8ba67e"
+     stroke-width="1.5"
+     rx="3"
+     id="rect10" />
+  <rect
+     x="235"
+     y="377"
+     width="244.66667"
+     height="34"
+     fill="#e8e1d2"
+     stroke="#2d4053"
+     stroke-width="1.8"
+     rx="3"
+     id="rect11" />
+  <path
+     d="m 259.46667,385 h 58.72 v 12 h 51.38 V 382 H 425.84"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="7"
+     id="path11" />
+  <rect
+     x="411.16"
+     y="379"
+     width="29.360001"
+     height="12"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1"
+     rx="3"
+     id="rect12" />
+  <path
+     d="M 269.25333,403 H 308.4 v -10 h 48.93333 v 13 H 411.16"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="6"
+     id="path12" />
+  <rect
+     x="235"
+     y="453"
+     width="244.66667"
+     height="30"
+     fill="#cfe2c8"
+     stroke="#8ba67e"
+     stroke-width="1.5"
+     rx="3"
+     id="rect13" />
+  <rect
+     x="235"
+     y="529"
+     width="244.66667"
+     height="34"
+     fill="#e8e1d2"
+     stroke="#2d4053"
+     stroke-width="1.8"
+     rx="3"
+     id="rect14" />
+  <path
+     d="m 259.46667,549 h 58.72 v 12 h 51.38 V 546 H 425.84"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="7"
+     id="path14" />
+  <rect
+     x="411.16"
+     y="543"
+     width="29.360001"
+     height="12"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1"
+     rx="3"
+     id="rect15" />
+  <path
+     d="M 269.25333,537 H 308.4 v -10 h 48.93333 v 13 H 411.16"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="6"
+     id="path15" />
+  <rect
+     x="235"
+     y="605"
+     width="244.66667"
+     height="30"
+     fill="#cfe2c8"
+     stroke="#8ba67e"
+     stroke-width="1.5"
+     rx="3"
+     id="rect16" />
+  <rect
+     x="235"
+     y="681"
+     width="244.66667"
+     height="18"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1.5"
+     rx="2"
+     id="rect17" />
+  <circle
+     cx="255"
+     cy="185"
+     r="12"
+     fill="#ffffff"
+     stroke="#17324d"
+     stroke-width="2"
+     id="circle17" />
+  <line
+     x1="248"
+     y1="185"
+     x2="262"
+     y2="185"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line17" />
+  <line
+     x1="255"
+     y1="178"
+     x2="255"
+     y2="192"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line18" />
+  <circle
+     cx="459.66666"
+     cy="185"
+     r="12"
+     fill="#ffffff"
+     stroke="#17324d"
+     stroke-width="2"
+     id="circle18" />
+  <line
+     x1="452.66666"
+     y1="185"
+     x2="466.66666"
+     y2="185"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line19" />
+  <line
+     x1="459.66666"
+     y1="178"
+     x2="459.66666"
+     y2="192"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line20" />
+  <line
+     x1="255"
+     y1="200"
+     x2="255"
+     y2="726"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line21" />
+  <line
+     x1="459.66666"
+     y1="200"
+     x2="459.66666"
+     y2="726"
+     stroke="#17324d"
+     stroke-width="2"
+     id="line22" />
+  <text
+     x="357.33334"
+     y="775"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="20px"
+     font-weight="650"
+     fill="#6d7a84"
+     id="text22">Registration targets align every layer</text>
+  <rect
+     x="92.874237"
+     y="821"
+     width="32"
+     height="18"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1.5"
+     rx="2"
+     id="rect22" />
+  <text
+     x="137.87424"
+     y="835"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text23">Outer copper foil</text>
+  <rect
+     x="315"
+     y="821"
+     width="32"
+     height="18"
+     fill="#cfe2c8"
+     stroke="#8ba67e"
+     stroke-width="1.5"
+     rx="2"
+     id="rect23" />
+  <text
+     x="360"
+     y="835"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text24">Prepreg</text>
+  <rect
+     x="455"
+     y="821"
+     width="32"
+     height="18"
+     fill="#e8e1d2"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     rx="2"
+     id="rect24" />
+  <text
+     x="500"
+     y="835"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="600"
+     fill="#17324d"
+     id="text25">Patterned core</text>
+  <rect
+     x="802.28583"
+     y="273.56952"
+     width="484.66666"
+     height="55"
+     fill="#aeb7c0"
+     stroke="#697783"
+     stroke-width="2"
+     rx="5"
+     id="rect25" />
+  <rect
+     x="804.07056"
+     y="648.60944"
+     width="484.66666"
+     height="55"
+     fill="#aeb7c0"
+     stroke="#697783"
+     stroke-width="2"
+     rx="5"
+     id="rect26" />
+  <line
+     x1="893.04474"
+     y1="214.37459"
+     x2="893.04474"
+     y2="254.86679"
+     stroke="#4c86b8"
+     stroke-width="4.68884"
+     marker-end="url(#arrowBlue)"
+     id="line26"
+     style="marker-end:url(#RoundedArrow)" />
+  <line
+     x1="890.59778"
+     y1="757.83075"
+     x2="890.59778"
+     y2="721.72766"
+     stroke="#4c86b8"
+     stroke-width="4.46304"
+     marker-end="url(#arrowBlue)"
+     id="line27"
+     style="marker-end:url(#RoundedArrow)" />
+  <line
+     x1="1044.6182"
+     y1="214.37459"
+     x2="1044.6182"
+     y2="253.89006"
+     stroke="#4c86b8"
+     stroke-width="4.63195"
+     marker-end="url(#arrowBlue)"
+     id="line28"
+     style="marker-end:url(#RoundedArrow)" />
+  <line
+     x1="1044.6191"
+     y1="757.83075"
+     x2="1044.6191"
+     y2="721.72766"
+     stroke="#4c86b8"
+     stroke-width="4.46304"
+     marker-end="url(#arrowBlue)"
+     id="line29"
+     style="marker-end:url(#RoundedArrow)" />
+  <line
+     x1="1196.1915"
+     y1="214.37459"
+     x2="1196.1915"
+     y2="255.84352"
+     stroke="#4c86b8"
+     stroke-width="4.74506"
+     marker-end="url(#arrowBlue)"
+     id="line30"
+     style="marker-end:url(#RoundedArrow)" />
+  <line
+     x1="1198.6405"
+     y1="757.83075"
+     x2="1198.6405"
+     y2="721.72766"
+     stroke="#4c86b8"
+     stroke-width="4.46304"
+     marker-end="url(#arrowBlue)"
+     id="line31"
+     style="marker-end:url(#RoundedArrow)" />
+  <text
+     x="1044.6191"
+     y="188.56953"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#4c86b8"
+     id="text31">Pressure</text>
+  <rect
+     x="852.28583"
+     y="355.56952"
+     width="384.66666"
+     height="14"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1.5"
+     rx="2"
+     id="rect31" />
+  <rect
+     x="852.28583"
+     y="377.56952"
+     width="384.66666"
+     height="30"
+     fill="#cfe2c8"
+     stroke="#8ba67e"
+     stroke-width="1.5"
+     rx="2"
+     id="rect32" />
+  <rect
+     x="852.28583"
+     y="415.56952"
+     width="384.66666"
+     height="38"
+     fill="#e8e1d2"
+     stroke="#2d4053"
+     stroke-width="1.8"
+     rx="3"
+     id="rect33" />
+  <path
+     d="m 890.75245,423.56953 h 92.32 v 12 h 80.78005 v -15 h 88.4733"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="7"
+     id="path33" />
+  <rect
+     x="1129.2458"
+     y="417.56952"
+     width="46.16"
+     height="12"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1"
+     rx="3"
+     id="rect34" />
+  <path
+     d="m 906.13912,445.56953 h 61.54666 v -10 h 76.93332 v 13 h 84.6267"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="6"
+     id="path34" />
+  <rect
+     x="852.28583"
+     y="461.56952"
+     width="384.66666"
+     height="30"
+     fill="#cfe2c8"
+     stroke="#8ba67e"
+     stroke-width="1.5"
+     rx="2"
+     id="rect35" />
+  <rect
+     x="852.28583"
+     y="499.56952"
+     width="384.66666"
+     height="38"
+     fill="#e8e1d2"
+     stroke="#2d4053"
+     stroke-width="1.8"
+     rx="3"
+     id="rect36" />
+  <path
+     d="m 890.75245,523.56953 h 92.32 v 12 h 80.78005 v -15 h 88.4733"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="7"
+     id="path36" />
+  <rect
+     x="1129.2458"
+     y="517.56952"
+     width="46.16"
+     height="12"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1"
+     rx="3"
+     id="rect37" />
+  <path
+     d="m 906.13912,507.56953 h 61.54666 v -10 h 76.93332 v 13 h 84.6267"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="6"
+     id="path37" />
+  <rect
+     x="852.28583"
+     y="545.56952"
+     width="384.66666"
+     height="30"
+     fill="#cfe2c8"
+     stroke="#8ba67e"
+     stroke-width="1.5"
+     rx="2"
+     id="rect38" />
+  <rect
+     x="852.28583"
+     y="583.56952"
+     width="384.66666"
+     height="14"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1.5"
+     rx="2"
+     id="rect39" />
+  <line
+     x1="800.28583"
+     y1="400.56952"
+     x2="844.28583"
+     y2="400.56952"
+     stroke="#c76a3d"
+     stroke-width="5"
+     marker-end="url(#arrowHeat)"
+     id="line39"
+     style="marker-end:url(#marker63)" />
+  <line
+     x1="1288.9525"
+     y1="400.56952"
+     x2="1244.9525"
+     y2="400.56952"
+     stroke="#c76a3d"
+     stroke-width="5"
+     marker-end="url(#arrowHeat)"
+     id="line40"
+     style="marker-end:url(#marker63)" />
+  <line
+     x1="800.28583"
+     y1="475.56952"
+     x2="844.28583"
+     y2="475.56952"
+     stroke="#c76a3d"
+     stroke-width="5"
+     marker-end="url(#arrowHeat)"
+     id="line41"
+     style="marker-end:url(#marker63)" />
+  <line
+     x1="1288.9525"
+     y1="475.56952"
+     x2="1244.9525"
+     y2="475.56952"
+     stroke="#c76a3d"
+     stroke-width="5"
+     marker-end="url(#arrowHeat)"
+     id="line42"
+     style="marker-end:url(#marker63)" />
+  <line
+     x1="800.28583"
+     y1="550.56952"
+     x2="844.28583"
+     y2="550.56952"
+     stroke="#c76a3d"
+     stroke-width="5"
+     marker-end="url(#arrowHeat)"
+     id="line43"
+     style="marker-end:url(#marker63)" />
+  <line
+     x1="1288.9525"
+     y1="550.56952"
+     x2="1244.9525"
+     y2="550.56952"
+     stroke="#c76a3d"
+     stroke-width="5"
+     marker-end="url(#arrowHeat)"
+     id="line44"
+     style="marker-end:url(#marker63)" />
+  <text
+     x="1048.1887"
+     y="633.93713"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#c76a3d"
+     id="text44">Heat</text>
+  <line
+     x1="949.61914"
+     y1="392.56952"
+     x2="1024.6191"
+     y2="392.56952"
+     stroke="#58a06a"
+     stroke-width="4"
+     marker-end="url(#arrowFlow)"
+     id="line45" />
+  <line
+     x1="1139.6191"
+     y1="392.56952"
+     x2="1064.6191"
+     y2="392.56952"
+     stroke="#58a06a"
+     stroke-width="4"
+     marker-end="url(#arrowFlow)"
+     id="line46" />
+  <line
+     x1="949.61914"
+     y1="476.56952"
+     x2="1024.6191"
+     y2="476.56952"
+     stroke="#58a06a"
+     stroke-width="4"
+     marker-end="url(#arrowFlow)"
+     id="line47" />
+  <line
+     x1="1139.6191"
+     y1="476.56952"
+     x2="1064.6191"
+     y2="476.56952"
+     stroke="#58a06a"
+     stroke-width="4"
+     marker-end="url(#arrowFlow)"
+     id="line48" />
+  <line
+     x1="949.61914"
+     y1="560.56952"
+     x2="1024.6191"
+     y2="560.56952"
+     stroke="#58a06a"
+     stroke-width="4"
+     marker-end="url(#arrowFlow)"
+     id="line49" />
+  <line
+     x1="1139.6191"
+     y1="560.56952"
+     x2="1064.6191"
+     y2="560.56952"
+     stroke="#58a06a"
+     stroke-width="4"
+     marker-end="url(#arrowFlow)"
+     id="line50" />
+  <text
+     x="1044.6191"
+     y="798.56952"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#58a06a"
+     id="text50">Resin flow fills spaces around copper relief</text>
+  <text
+     x="1044.6191"
+     y="833.56952"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#17324d"
+     id="text51">Cure locks the consolidated structure</text>
+  <rect
+     x="1538.1411"
+     y="273.56952"
+     width="394.66666"
+     height="405"
+     fill="#d8e3cf"
+     stroke="#2d4053"
+     stroke-width="2"
+     rx="8"
+     id="rect51" />
+  <rect
+     x="1538.1411"
+     y="273.56952"
+     width="394.66666"
+     height="16"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1.5"
+     rx="2"
+     id="rect52" />
+  <rect
+     x="1538.1411"
+     y="662.56952"
+     width="394.66666"
+     height="16"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1.5"
+     rx="2"
+     id="rect53" />
+  <rect
+     x="1538.1411"
+     y="328.56952"
+     width="394.66666"
+     height="55"
+     fill="#d0e0c6"
+     stroke="none"
+     stroke-width="0"
+     rx="0"
+     id="rect54" />
+  <rect
+     x="1538.1411"
+     y="458.56952"
+     width="394.66666"
+     height="55"
+     fill="#d0e0c6"
+     stroke="none"
+     stroke-width="0"
+     rx="0"
+     id="rect55" />
+  <rect
+     x="1538.1411"
+     y="588.56952"
+     width="394.66666"
+     height="45"
+     fill="#d0e0c6"
+     stroke="none"
+     stroke-width="0"
+     rx="0"
+     id="rect56" />
+  <path
+     d="m 1585.5011,398.56953 h 78.9333 v 10 h 78.9333 v -14 h 110.5067"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="9"
+     id="path56" />
+  <rect
+     x="1806.5144"
+     y="391.56952"
+     width="47.360001"
+     height="14"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1"
+     rx="3"
+     id="rect57" />
+  <path
+     d="m 1585.5011,528.56953 h 78.9333 v 10 h 78.9333 v -14 h 110.5067"
+     fill="none"
+     stroke="#d58b2c"
+     stroke-width="9"
+     id="path57" />
+  <rect
+     x="1806.5144"
+     y="521.56952"
+     width="47.360001"
+     height="14"
+     fill="#d58b2c"
+     stroke="#9a6624"
+     stroke-width="1"
+     rx="3"
+     id="rect58" />
+  <text
+     x="1735.4744"
+     y="728.56952"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="20px"
+     font-weight="600"
+     fill="#6d7a84"
+     id="text58">Cured dielectric fills the former prepreg regions</text>
+  <text
+     x="1735.4744"
+     y="763.56952"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="20px"
+     font-weight="600"
+     fill="#6d7a84"
+     id="text59">and surrounds the embedded copper patterns</text>
+  <text
+     x="1735.4744"
+     y="823.56952"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#17324d"
+     id="text60">Rigid consolidated panel</text>
+  <text
+     x="1735.4744"
+     y="856.56952"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="20px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text61">ready for the next fabrication stage</text>
+  <line
+     x1="1346.9325"
+     y1="476.31143"
+     x2="1400.8687"
+     y2="476.31143"
+     stroke="#4c86b8"
+     stroke-width="6"
+     marker-end="url(#arrowBlue)"
+     id="line61-0"
+     style="fill:#1a1a1a;fill-opacity:1;stroke:#54687b;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker63-8)" />
+  <rect
+     x="476.40387"
+     y="930"
+     width="1140"
+     height="72"
+     fill="#f5f8fa"
+     stroke="#c5d0d8"
+     stroke-width="1.5"
+     rx="14"
+     id="rect62" />
+  <text
+     x="1046.4039"
+     y="963"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text62">Resin flows, fills spaces around copper, cures, and bonds the stack into one rigid panel.</text>
+  <text
+     x="1046.4039"
+     y="990"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="19px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text63">Conceptual cross-sections — thicknesses and resin-flow geometry are exaggerated for visibility.</text>
+  <line
+     x1="662.49335"
+     y1="469.79147"
+     x2="716.4295"
+     y2="469.79147"
+     stroke="#4c86b8"
+     stroke-width="6"
+     marker-end="url(#arrowBlue)"
+     id="line61-0-3"
+     style="fill:#1a1a1a;fill-opacity:1;stroke:#54687b;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker63-8-9)" />
+</svg>

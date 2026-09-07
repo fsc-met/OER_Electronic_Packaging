@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2210"
+   height="1100"
+   viewBox="0 0 2210 1100"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg136"
+   sodipodi:docname="2.8.5.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.8.5.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview136"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.37818182"
+     inkscape:cx="1111.899"
+     inkscape:cy="762.86058"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg136"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker136"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path136" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowEnd"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#17324d"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowBlue"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4c86b8"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker136-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path136-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker136-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path136-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker136-5-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path136-2-7" />
+    </marker>
+  </defs>
+  <rect
+     x="34"
+     y="60"
+     width="388.79999"
+     height="880"
+     fill="#fbfcfd"
+     stroke="#c4cdd6"
+     stroke-width="2"
+     rx="16"
+     id="rect2" />
+  <rect
+     x="50"
+     y="76"
+     width="42"
+     height="42"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="21"
+     id="rect3" />
+  <text
+     x="71"
+     y="106"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text3">1</text>
+  <text
+     x="106"
+     y="104"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text4">Metallized panel</text>
+  <text
+     x="106"
+     y="138"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text5">Starting condition</text>
+  <rect
+     x="64"
+     y="210"
+     width="328.79999"
+     height="205"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="2"
+     rx="10"
+     id="rect5" />
+  <circle
+     cx="313.74399"
+     cy="316.12"
+     r="20"
+     fill="#ffffff"
+     stroke="#925a1d"
+     stroke-width="2"
+     id="circle5" />
+  <circle
+     cx="313.74399"
+     cy="316.12"
+     r="26"
+     fill="none"
+     stroke="#925a1d"
+     stroke-width="4"
+     id="circle6" />
+  <text
+     x="228.39999"
+     y="443"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text6">Simplified top view</text>
+  <rect
+     x="74"
+     y="525"
+     width="308.79999"
+     height="210"
+     fill="#e9e2d3"
+     stroke="#2d4053"
+     stroke-width="2"
+     rx="5"
+     id="rect6" />
+  <rect
+     x="74"
+     y="615.29999"
+     width="182.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect7" />
+  <rect
+     x="310.98401"
+     y="615.29999"
+     width="71.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect8" />
+  <rect
+     x="74"
+     y="667.79999"
+     width="152.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect9" />
+  <rect
+     x="340.98401"
+     y="667.79999"
+     width="41.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect10" />
+  <rect
+     x="256.98401"
+     y="518"
+     width="54"
+     height="224"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="1.8"
+     rx="22"
+     id="rect11" />
+  <rect
+     x="74"
+     y="515"
+     width="182.98399"
+     height="10"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect12" />
+  <rect
+     x="310.98401"
+     y="515"
+     width="71.816002"
+     height="10"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect13" />
+  <rect
+     x="257.98401"
+     y="519"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect14" />
+  <rect
+     x="305.98401"
+     y="519"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect15" />
+  <text
+     x="228.39999"
+     y="763"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text15">Simplified cross-section</text>
+  <rect
+     x="62"
+     y="840"
+     width="332.79999"
+     height="58"
+     fill="#f5f8fa"
+     stroke="#d4dce3"
+     stroke-width="1.2"
+     rx="11"
+     id="rect16" />
+  <text
+     x="228.39999"
+     y="865"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text16">Initial conductive copper</text>
+  <text
+     x="228.39999"
+     y="889"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text17">already covers surfaces + hole wall</text>
+  <text
+     x="81.479012"
+     y="182.91173"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="15px"
+     font-weight="700"
+     fill="#925a1d"
+     id="text18">Initial conductive copper</text>
+  <line
+     x1="156.79013"
+     y1="193.65125"
+     x2="230.85413"
+     y2="220.65125"
+     stroke="#925a1d"
+     stroke-width="2"
+     marker-end="url(#arrowEnd)"
+     id="line18"
+     style="marker-end:url(#RoundedArrow)" />
+  <rect
+     x="473.88654"
+     y="62.64423"
+     width="388.79999"
+     height="880"
+     fill="#fbfcfd"
+     stroke="#c4cdd6"
+     stroke-width="2"
+     rx="16"
+     id="rect18" />
+  <rect
+     x="489.88654"
+     y="78.644234"
+     width="42"
+     height="42"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="21"
+     id="rect19" />
+  <text
+     x="510.88654"
+     y="108.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text19">2</text>
+  <text
+     x="545.88654"
+     y="106.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text20">Outer plating</text>
+  <text
+     x="545.88654"
+     y="134.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text21">resist imaged</text>
+  <text
+     x="545.88654"
+     y="168.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text22">Define where copper is added</text>
+  <rect
+     x="503.88654"
+     y="212.64423"
+     width="328.79999"
+     height="205"
+     fill="#8c7bc5"
+     stroke="#6655a1"
+     stroke-width="2"
+     rx="10"
+     id="rect22" />
+  <path
+     d="m 540.27054,342.29423 h 70.104 v -52.49 h 73.152 v 28.96 h 64.008"
+     fill="none"
+     stroke="#d99a43"
+     stroke-width="22"
+     id="path22" />
+  <circle
+     cx="570.75055"
+     cy="275.32422"
+     r="20"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle22" />
+  <circle
+     cx="698.76654"
+     cy="264.46423"
+     r="20"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle23" />
+  <circle
+     cx="753.63055"
+     cy="318.76422"
+     r="28"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle24" />
+  <circle
+     cx="753.63055"
+     cy="318.76422"
+     r="13"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     id="circle25" />
+  <text
+     x="668.28656"
+     y="445.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text25">Simplified top view</text>
+  <rect
+     x="513.88654"
+     y="527.64423"
+     width="308.79999"
+     height="210"
+     fill="#e9e2d3"
+     stroke="#2d4053"
+     stroke-width="2"
+     rx="5"
+     id="rect25" />
+  <rect
+     x="513.88654"
+     y="617.94421"
+     width="182.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect26" />
+  <rect
+     x="750.87054"
+     y="617.94421"
+     width="71.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect27" />
+  <rect
+     x="513.88654"
+     y="670.44421"
+     width="152.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect28" />
+  <rect
+     x="780.87054"
+     y="670.44421"
+     width="41.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect29" />
+  <rect
+     x="696.87054"
+     y="520.64423"
+     width="54"
+     height="224"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="1.8"
+     rx="22"
+     id="rect30" />
+  <rect
+     x="513.88654"
+     y="517.64423"
+     width="182.98399"
+     height="10"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect31" />
+  <rect
+     x="750.87054"
+     y="517.64423"
+     width="71.816002"
+     height="10"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect32" />
+  <rect
+     x="697.87054"
+     y="521.64423"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect33" />
+  <rect
+     x="745.87054"
+     y="521.64423"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect34" />
+  <rect
+     x="513.88654"
+     y="495.64423"
+     width="24.704"
+     height="22"
+     fill="#8c7bc5"
+     stroke="#6655a1"
+     stroke-width="1"
+     rx="0"
+     id="rect35" />
+  <rect
+     x="637.40656"
+     y="495.64423"
+     width="37.464001"
+     height="22"
+     fill="#8c7bc5"
+     stroke="#6655a1"
+     stroke-width="1"
+     rx="0"
+     id="rect36" />
+  <rect
+     x="772.87054"
+     y="495.64423"
+     width="49.816002"
+     height="22"
+     fill="#8c7bc5"
+     stroke="#6655a1"
+     stroke-width="1"
+     rx="0"
+     id="rect37" />
+  <text
+     x="668.28656"
+     y="765.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text37">Simplified cross-section</text>
+  <rect
+     x="501.88654"
+     y="842.64423"
+     width="332.79999"
+     height="58"
+     fill="#f5f8fa"
+     stroke="#d4dce3"
+     stroke-width="1.2"
+     rx="11"
+     id="rect38" />
+  <text
+     x="668.28656"
+     y="867.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text38">Plating resist exposes only</text>
+  <text
+     x="668.28656"
+     y="891.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text39">where copper should be built</text>
+  <text
+     x="532.58405"
+     y="193.03497"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="15px"
+     font-weight="700"
+     fill="#6655a1"
+     id="text40">Plating resist</text>
+  <line
+     x1="624.72296"
+     y1="198.16521"
+     x2="672.48297"
+     y2="241.16521"
+     stroke="#6655a1"
+     stroke-width="2"
+     marker-end="url(#arrowEnd)"
+     id="line40"
+     style="marker-end:url(#RoundedArrow)" />
+  <rect
+     x="916.4173"
+     y="62.64423"
+     width="388.79999"
+     height="880"
+     fill="#fbfcfd"
+     stroke="#c4cdd6"
+     stroke-width="2"
+     rx="16"
+     id="rect40" />
+  <rect
+     x="932.4173"
+     y="78.644234"
+     width="42"
+     height="42"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="21"
+     id="rect41" />
+  <text
+     x="953.4173"
+     y="108.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text41">3</text>
+  <text
+     x="988.4173"
+     y="106.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text42">Pattern copper</text>
+  <text
+     x="988.4173"
+     y="134.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text43">plated</text>
+  <text
+     x="988.4173"
+     y="168.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text44">Trace + hole-barrel build-up</text>
+  <rect
+     x="950.1568"
+     y="212.64423"
+     width="328.79999"
+     height="205"
+     fill="#8c7bc5"
+     stroke="#6655a1"
+     stroke-width="2"
+     rx="10"
+     id="rect44" />
+  <path
+     d="m 982.80131,342.29423 h 70.10399 v -52.49 h 73.152 v 28.96 h 64.008"
+     fill="none"
+     stroke="#c97822"
+     stroke-width="30"
+     id="path44" />
+  <path
+     d="m 982.80131,342.29423 h 70.10399 v -52.49 h 73.152 v 28.96 h 64.008"
+     fill="none"
+     stroke="#aeb7c0"
+     stroke-width="8"
+     id="path45" />
+  <circle
+     cx="1013.2813"
+     cy="275.32422"
+     r="25"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle45" />
+  <circle
+     cx="1013.2813"
+     cy="275.32422"
+     r="15"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="1"
+     id="circle46" />
+  <circle
+     cx="1141.2972"
+     cy="264.46423"
+     r="25"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle47" />
+  <circle
+     cx="1141.2972"
+     cy="264.46423"
+     r="15"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="1"
+     id="circle48" />
+  <circle
+     cx="1196.1613"
+     cy="318.76422"
+     r="34"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle49" />
+  <circle
+     cx="1196.1613"
+     cy="318.76422"
+     r="26"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="1"
+     id="circle50" />
+  <circle
+     cx="1196.1613"
+     cy="318.76422"
+     r="13"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     id="circle51" />
+  <text
+     x="1110.8173"
+     y="445.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text51">Simplified top view</text>
+  <rect
+     x="956.4173"
+     y="527.64423"
+     width="308.79999"
+     height="210"
+     fill="#e9e2d3"
+     stroke="#2d4053"
+     stroke-width="2"
+     rx="5"
+     id="rect51" />
+  <rect
+     x="956.4173"
+     y="617.94421"
+     width="182.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect52" />
+  <rect
+     x="1193.4012"
+     y="617.94421"
+     width="71.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect53" />
+  <rect
+     x="956.4173"
+     y="670.44421"
+     width="152.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect54" />
+  <rect
+     x="1223.4012"
+     y="670.44421"
+     width="41.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect55" />
+  <rect
+     x="1139.4012"
+     y="520.64423"
+     width="54"
+     height="224"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="1.8"
+     rx="22"
+     id="rect56" />
+  <rect
+     x="956.4173"
+     y="517.64423"
+     width="182.98399"
+     height="10"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect57" />
+  <rect
+     x="1193.4012"
+     y="517.64423"
+     width="71.816002"
+     height="10"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect58" />
+  <rect
+     x="1140.4012"
+     y="521.64423"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect59" />
+  <rect
+     x="1188.4012"
+     y="521.64423"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect60" />
+  <rect
+     x="956.4173"
+     y="495.64423"
+     width="24.704"
+     height="22"
+     fill="#8c7bc5"
+     stroke="#6655a1"
+     stroke-width="1"
+     rx="0"
+     id="rect61" />
+  <rect
+     x="1079.9373"
+     y="495.64423"
+     width="37.464001"
+     height="22"
+     fill="#8c7bc5"
+     stroke="#6655a1"
+     stroke-width="1"
+     rx="0"
+     id="rect62" />
+  <rect
+     x="1215.4012"
+     y="495.64423"
+     width="49.816002"
+     height="22"
+     fill="#8c7bc5"
+     stroke="#6655a1"
+     stroke-width="1"
+     rx="0"
+     id="rect63" />
+  <rect
+     x="981.12134"
+     y="501.64423"
+     width="98.816002"
+     height="16"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect64" />
+  <rect
+     x="1121.4012"
+     y="501.64423"
+     width="18"
+     height="16"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect65" />
+  <rect
+     x="1193.4012"
+     y="501.64423"
+     width="18"
+     height="16"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect66" />
+  <rect
+     x="1127.4012"
+     y="521.64423"
+     width="12"
+     height="222"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect67" />
+  <rect
+     x="1193.4012"
+     y="521.64423"
+     width="12"
+     height="222"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect68" />
+  <rect
+     x="981.12134"
+     y="495.64423"
+     width="98.816002"
+     height="6"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="0.8"
+     rx="0"
+     id="rect69" />
+  <rect
+     x="1121.4012"
+     y="495.64423"
+     width="18"
+     height="6"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="0.8"
+     rx="0"
+     id="rect70" />
+  <rect
+     x="1193.4012"
+     y="495.64423"
+     width="18"
+     height="6"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="0.8"
+     rx="0"
+     id="rect71" />
+  <text
+     x="1110.8173"
+     y="765.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text71">Simplified cross-section</text>
+  <rect
+     x="974.81732"
+     y="794.64423"
+     width="26"
+     height="10"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="1"
+     rx="2"
+     id="rect72" />
+  <text
+     x="1011.8173"
+     y="804.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="15px"
+     font-weight="600"
+     fill="#68757f"
+     id="text72">Temporary etch resist (where used)</text>
+  <rect
+     x="944.4173"
+     y="842.64423"
+     width="332.79999"
+     height="58"
+     fill="#f5f8fa"
+     stroke="#d4dce3"
+     stroke-width="1.2"
+     rx="11"
+     id="rect73" />
+  <text
+     x="1110.8173"
+     y="867.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text73">Pattern copper plating builds traces, pads,</text>
+  <text
+     x="1110.8173"
+     y="891.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text74">and the hole-barrel build-up.</text>
+  <text
+     x="950.4173"
+     y="193.03497"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="15px"
+     font-weight="700"
+     fill="#925a1d"
+     id="text75">Pattern copper plating</text>
+  <line
+     x1="1036.004"
+     y1="202.04184"
+     x2="1091.8707"
+     y2="285.35925"
+     stroke="#925a1d"
+     stroke-width="1.27477"
+     marker-end="url(#arrowEnd)"
+     id="line75"
+     style="marker-end:url(#marker136)" />
+  <rect
+     x="1353.6595"
+     y="62.64423"
+     width="388.79999"
+     height="880"
+     fill="#fbfcfd"
+     stroke="#c4cdd6"
+     stroke-width="2"
+     rx="16"
+     id="rect75" />
+  <rect
+     x="1369.6595"
+     y="78.644234"
+     width="42"
+     height="42"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="21"
+     id="rect76" />
+  <text
+     x="1390.6595"
+     y="108.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text76">4</text>
+  <text
+     x="1425.6595"
+     y="106.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text77">Plating resist</text>
+  <text
+     x="1425.6595"
+     y="134.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text78">stripped</text>
+  <text
+     x="1425.6595"
+     y="168.64423"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text79">Expose unwanted base copper</text>
+  <rect
+     x="1383.6595"
+     y="212.64423"
+     width="328.79999"
+     height="205"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="2"
+     rx="10"
+     id="rect79" />
+  <path
+     d="m 1420.0436,342.29423 h 70.104 v -52.49 h 73.152 v 28.96 h 64.008"
+     fill="none"
+     stroke="#c97822"
+     stroke-width="30"
+     id="path79" />
+  <path
+     d="m 1420.0436,342.29423 h 70.104 v -52.49 h 73.152 v 28.96 h 64.008"
+     fill="none"
+     stroke="#aeb7c0"
+     stroke-width="8"
+     id="path80" />
+  <circle
+     cx="1450.5236"
+     cy="275.32422"
+     r="25"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle80" />
+  <circle
+     cx="1450.5236"
+     cy="275.32422"
+     r="15"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="1"
+     id="circle81" />
+  <circle
+     cx="1578.5396"
+     cy="264.46423"
+     r="25"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle82" />
+  <circle
+     cx="1578.5396"
+     cy="264.46423"
+     r="15"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="1"
+     id="circle83" />
+  <circle
+     cx="1633.4036"
+     cy="318.76422"
+     r="34"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle84" />
+  <circle
+     cx="1633.4036"
+     cy="318.76422"
+     r="26"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="1"
+     id="circle85" />
+  <circle
+     cx="1633.4036"
+     cy="318.76422"
+     r="13"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     id="circle86" />
+  <text
+     x="1548.0596"
+     y="445.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text86">Simplified top view</text>
+  <rect
+     x="1393.6595"
+     y="527.64423"
+     width="308.79999"
+     height="210"
+     fill="#e9e2d3"
+     stroke="#2d4053"
+     stroke-width="2"
+     rx="5"
+     id="rect86" />
+  <rect
+     x="1393.6595"
+     y="617.94421"
+     width="182.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect87" />
+  <rect
+     x="1630.6436"
+     y="617.94421"
+     width="71.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect88" />
+  <rect
+     x="1393.6595"
+     y="670.44421"
+     width="152.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect89" />
+  <rect
+     x="1660.6436"
+     y="670.44421"
+     width="41.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect90" />
+  <rect
+     x="1576.6436"
+     y="520.64423"
+     width="54"
+     height="224"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="1.8"
+     rx="22"
+     id="rect91" />
+  <rect
+     x="1393.6595"
+     y="517.64423"
+     width="182.98399"
+     height="10"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect92" />
+  <rect
+     x="1630.6436"
+     y="517.64423"
+     width="71.816002"
+     height="10"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect93" />
+  <rect
+     x="1577.6436"
+     y="521.64423"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect94" />
+  <rect
+     x="1625.6436"
+     y="521.64423"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect95" />
+  <rect
+     x="1418.3635"
+     y="501.64423"
+     width="98.816002"
+     height="16"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect96" />
+  <rect
+     x="1558.6436"
+     y="501.64423"
+     width="18"
+     height="16"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect97" />
+  <rect
+     x="1630.6436"
+     y="501.64423"
+     width="18"
+     height="16"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect98" />
+  <rect
+     x="1564.6436"
+     y="521.64423"
+     width="12"
+     height="222"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect99" />
+  <rect
+     x="1630.6436"
+     y="521.64423"
+     width="12"
+     height="222"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect100" />
+  <rect
+     x="1418.3635"
+     y="495.64423"
+     width="98.816002"
+     height="6"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="0.8"
+     rx="0"
+     id="rect101" />
+  <rect
+     x="1558.6436"
+     y="495.64423"
+     width="18"
+     height="6"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="0.8"
+     rx="0"
+     id="rect102" />
+  <rect
+     x="1630.6436"
+     y="495.64423"
+     width="18"
+     height="6"
+     fill="#aeb7c0"
+     stroke="#68757f"
+     stroke-width="0.8"
+     rx="0"
+     id="rect103" />
+  <text
+     x="1548.0596"
+     y="765.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text103">Simplified cross-section</text>
+  <rect
+     x="1381.6595"
+     y="842.64423"
+     width="332.79999"
+     height="58"
+     fill="#f5f8fa"
+     stroke="#d4dce3"
+     stroke-width="1.2"
+     rx="11"
+     id="rect104" />
+  <text
+     x="1548.0596"
+     y="867.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text104">Strip resist;</text>
+  <text
+     x="1548.0596"
+     y="891.64423"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text105">unwanted base copper is exposed</text>
+  <text
+     x="1365.483"
+     y="193.03497"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="15px"
+     font-weight="700"
+     fill="#925a1d"
+     id="text106">Base copper exposed</text>
+  <line
+     x1="1399.7539"
+     y1="205.3956"
+     x2="1436.2716"
+     y2="245.38957"
+     stroke="#925a1d"
+     stroke-width="2"
+     marker-end="url(#arrowEnd)"
+     id="line106"
+     style="marker-end:url(#marker136)" />
+  <rect
+     x="1793.546"
+     y="57.35577"
+     width="388.79999"
+     height="880"
+     fill="#fbfcfd"
+     stroke="#c4cdd6"
+     stroke-width="2"
+     rx="16"
+     id="rect106" />
+  <rect
+     x="1809.546"
+     y="73.355774"
+     width="42"
+     height="42"
+     fill="#17324d"
+     stroke="#17324d"
+     stroke-width="1"
+     rx="21"
+     id="rect107" />
+  <text
+     x="1830.546"
+     y="103.35577"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text107">5</text>
+  <text
+     x="1865.546"
+     y="101.35577"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text108">Outer copper</text>
+  <text
+     x="1865.546"
+     y="129.35576"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#17324d"
+     id="text109">etched</text>
+  <text
+     x="1865.546"
+     y="163.35576"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text110">Final plated outer circuitry</text>
+  <rect
+     x="1823.546"
+     y="207.35576"
+     width="328.79999"
+     height="205"
+     fill="#e9e2d3"
+     stroke="#b9af9d"
+     stroke-width="2"
+     rx="10"
+     id="rect110" />
+  <path
+     d="m 1859.9301,337.00577 h 70.104 v -52.49 h 73.152 v 28.96 h 64.008"
+     fill="none"
+     stroke="#c97822"
+     stroke-width="28"
+     id="path110" />
+  <circle
+     cx="1890.41"
+     cy="270.03577"
+     r="24"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle110" />
+  <circle
+     cx="2018.426"
+     cy="259.17578"
+     r="24"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle111" />
+  <circle
+     cx="2073.29"
+     cy="313.47577"
+     r="33"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1.5"
+     id="circle112" />
+  <circle
+     cx="2073.29"
+     cy="313.47577"
+     r="13"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="1.5"
+     id="circle113" />
+  <text
+     x="1987.946"
+     y="440.35577"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text113">Simplified top view</text>
+  <rect
+     x="1833.546"
+     y="522.35577"
+     width="308.79999"
+     height="210"
+     fill="#e9e2d3"
+     stroke="#2d4053"
+     stroke-width="2"
+     rx="5"
+     id="rect113" />
+  <rect
+     x="1833.546"
+     y="612.65576"
+     width="182.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect114" />
+  <rect
+     x="2070.53"
+     y="612.65576"
+     width="71.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect115" />
+  <rect
+     x="1833.546"
+     y="665.15576"
+     width="152.98399"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect116" />
+  <rect
+     x="2100.53"
+     y="665.15576"
+     width="41.816002"
+     height="7"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect117" />
+  <rect
+     x="2016.53"
+     y="515.35577"
+     width="54"
+     height="224"
+     fill="#ffffff"
+     stroke="#2d4053"
+     stroke-width="1.8"
+     rx="22"
+     id="rect118" />
+  <rect
+     x="1858.2501"
+     y="512.35577"
+     width="98.816002"
+     height="10"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect119" />
+  <rect
+     x="1998.53"
+     y="512.35577"
+     width="18"
+     height="10"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect120" />
+  <rect
+     x="2070.53"
+     y="512.35577"
+     width="18"
+     height="10"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect121" />
+  <rect
+     x="2017.53"
+     y="516.35577"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect122" />
+  <rect
+     x="2065.53"
+     y="516.35577"
+     width="4"
+     height="222"
+     fill="#d99a43"
+     stroke="#925a1d"
+     stroke-width="0.8"
+     rx="2"
+     id="rect123" />
+  <rect
+     x="1858.2501"
+     y="496.35577"
+     width="98.816002"
+     height="16"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect124" />
+  <rect
+     x="1998.53"
+     y="496.35577"
+     width="18"
+     height="16"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect125" />
+  <rect
+     x="2070.53"
+     y="496.35577"
+     width="18"
+     height="16"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect126" />
+  <rect
+     x="2004.53"
+     y="516.35577"
+     width="12"
+     height="222"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect127" />
+  <rect
+     x="2070.53"
+     y="516.35577"
+     width="12"
+     height="222"
+     fill="#c97822"
+     stroke="#925a1d"
+     stroke-width="1"
+     rx="0"
+     id="rect128" />
+  <text
+     x="1987.946"
+     y="760.35577"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="17px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text128">Simplified cross-section</text>
+  <rect
+     x="1821.546"
+     y="837.35577"
+     width="332.79999"
+     height="58"
+     fill="#f5f8fa"
+     stroke="#d4dce3"
+     stroke-width="1.2"
+     rx="11"
+     id="rect129" />
+  <text
+     x="1987.946"
+     y="862.35577"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text129">Etch base copper; remove</text>
+  <text
+     x="1987.946"
+     y="886.35577"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="16px"
+     font-weight="650"
+     fill="#17324d"
+     id="text130">temporary etch resist where used</text>
+  <text
+     x="1831.546"
+     y="193.35576"
+     text-anchor="start"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="15px"
+     font-weight="700"
+     fill="#925a1d"
+     id="text131">Final outer circuitry</text>
+  <line
+     x1="1911.8494"
+     y1="199.71556"
+     x2="1954.3811"
+     y2="265.30084"
+     stroke="#925a1d"
+     stroke-width="1.23191"
+     marker-end="url(#arrowEnd)"
+     id="line131"
+     style="marker-end:url(#marker136)" />
+  <line
+     x1="425.79999"
+     y1="490"
+     x2="459.39542"
+     y2="490"
+     stroke="#4c86b8"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line132"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker136)" />
+  <line
+     x1="864.56732"
+     y1="484.16498"
+     x2="898.16272"
+     y2="484.16498"
+     stroke="#4c86b8"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line132-3"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker136-2)" />
+  <rect
+     x="384.95193"
+     y="985.28845"
+     width="1420"
+     height="72"
+     fill="#f5f8fa"
+     stroke="#c5d0d8"
+     stroke-width="1.5"
+     rx="14"
+     id="rect135" />
+  <text
+     x="1094.9519"
+     y="1017.2885"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#17324d"
+     id="text135">Representative pattern-plating route: build copper first, then remove unwanted base copper.</text>
+  <text
+     x="1094.9519"
+     y="1046.2885"
+     text-anchor="middle"
+     font-family="'DejaVu Sans', Arial, sans-serif"
+     font-size="18px"
+     font-weight="500"
+     fill="#6d7a84"
+     id="text136">Panel-plating and other qualified outer-layer routes also exist. Material thicknesses are exaggerated for visibility.</text>
+  <line
+     x1="1302.1827"
+     y1="485.25153"
+     x2="1335.7782"
+     y2="485.25153"
+     stroke="#4c86b8"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line132-7"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker136-5)" />
+  <line
+     x1="1744.7019"
+     y1="483.58807"
+     x2="1778.2974"
+     y2="483.58807"
+     stroke="#4c86b8"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line132-7-0"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker136-5-3)" />
+</svg>

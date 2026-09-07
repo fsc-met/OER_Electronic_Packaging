@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2100"
+   height="1050"
+   viewBox="0 0 2100 1050"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg109"
+   sodipodi:docname="2.8.8.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.8.8.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview109"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.56029794"
+     inkscape:cx="1194.9"
+     inkscape:cy="661.25533"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg109"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     width="100%"
+     height="100%"
+     fill="#FFFFFF"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowEnd"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M0 0 L10 5 L0 10 z"
+         fill="#17324D"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowBlue"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto">
+      <path
+         d="M0 0 L10 5 L0 10 z"
+         fill="#4C86B8"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-4" />
+    </marker>
+  </defs>
+  <rect
+     x="55"
+     y="250"
+     width="300"
+     height="210"
+     fill="#5D9C62"
+     stroke="#3E7542"
+     stroke-width="2.2"
+     rx="14"
+     id="rect2" />
+  <circle
+     cx="79.0"
+     cy="275.2"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle2" />
+  <circle
+     cx="79.0"
+     cy="275.2"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle3" />
+  <circle
+     cx="331.0"
+     cy="275.2"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle4" />
+  <circle
+     cx="331.0"
+     cy="275.2"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle5" />
+  <circle
+     cx="79.0"
+     cy="434.8"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle6" />
+  <circle
+     cx="79.0"
+     cy="434.8"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle7" />
+  <circle
+     cx="331.0"
+     cy="434.8"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle8" />
+  <circle
+     cx="331.0"
+     cy="434.8"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle9" />
+  <circle
+     cx="115.0"
+     cy="298.3"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle10" />
+  <circle
+     cx="169.0"
+     cy="292.0"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle11" />
+  <circle
+     cx="241.0"
+     cy="296.2"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle12" />
+  <circle
+     cx="292.0"
+     cy="308.8"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle13" />
+  <circle
+     cx="130.0"
+     cy="392.8"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle14" />
+  <circle
+     cx="199.0"
+     cy="397.0"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle15" />
+  <circle
+     cx="265.0"
+     cy="390.70000000000005"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle16" />
+  <circle
+     cx="301.0"
+     cy="365.5"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle17" />
+  <path
+     d="M 109.0 338.2 H 166.0 V 315.1 H 225.99999999999997 V 352.9 H 295.0"
+     fill="none"
+     stroke="#D58B2C"
+     stroke-width="5"
+     id="path17" />
+  <path
+     d="M 133.0 403.29999999999995 H 190.0 V 376.0 H 262.0"
+     fill="none"
+     stroke="#D58B2C"
+     stroke-width="4"
+     id="path18" />
+  <rect
+     x="187.0"
+     y="334.0"
+     width="36.0"
+     height="21.0"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.5"
+     rx="7"
+     id="rect18" />
+  <text
+     x="205.0"
+     y="488"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="20"
+     font-weight="700"
+     fill="#17324D"
+     id="text18">Completed bare PCB</text>
+  <text
+     x="205.0"
+     y="192"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#17324D"
+     id="text19">Finished bare board</text>
+  <text
+     x="205.0"
+     y="222"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text20">ready for verification</text>
+  <line
+     x1="377.50665"
+     y1="355"
+     x2="422.30624"
+     y2="355"
+     stroke="#4c86b8"
+     stroke-width="6.54261"
+     marker-end="url(#arrowBlue)"
+     id="line20"
+     style="marker-end:url(#RoundedArrow);stroke-width:4;stroke-dasharray:none" />
+  <rect
+     x="455"
+     y="95"
+     width="760"
+     height="770"
+     fill="#FBFCFD"
+     stroke="#C4CDD6"
+     stroke-width="2.2"
+     rx="18"
+     id="rect20" />
+  <text
+     x="835.0"
+     y="143"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="31"
+     font-weight="700"
+     fill="#17324D"
+     id="text21">Electrical test</text>
+  <text
+     x="835.0"
+     y="175"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text22">Compare continuity / isolation with the intended netlist or test program</text>
+  <rect
+     x="497"
+     y="230"
+     width="310"
+     height="330"
+     fill="#FFFFFF"
+     stroke="#CDD5DC"
+     stroke-width="1.7"
+     rx="14"
+     id="rect22" />
+  <text
+     x="652.0"
+     y="268"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="23"
+     font-weight="700"
+     fill="#17324D"
+     id="text23">Flying probe</text>
+  <rect
+     x="542"
+     y="345"
+     width="220"
+     height="120"
+     fill="#5D9C62"
+     stroke="#3E7542"
+     stroke-width="2.2"
+     rx="14"
+     id="rect23" />
+  <circle
+     cx="559.6"
+     cy="359.4"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle23" />
+  <circle
+     cx="559.6"
+     cy="359.4"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle24" />
+  <circle
+     cx="744.4"
+     cy="359.4"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle25" />
+  <circle
+     cx="744.4"
+     cy="359.4"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle26" />
+  <circle
+     cx="559.6"
+     cy="450.6"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle27" />
+  <circle
+     cx="559.6"
+     cy="450.6"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle28" />
+  <circle
+     cx="744.4"
+     cy="450.6"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle29" />
+  <circle
+     cx="744.4"
+     cy="450.6"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle30" />
+  <circle
+     cx="586.0"
+     cy="372.6"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle31" />
+  <circle
+     cx="625.6"
+     cy="369.0"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle32" />
+  <circle
+     cx="678.4"
+     cy="371.4"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle33" />
+  <circle
+     cx="715.8"
+     cy="378.6"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle34" />
+  <circle
+     cx="597.0"
+     cy="426.6"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle35" />
+  <circle
+     cx="647.6"
+     cy="429.0"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle36" />
+  <circle
+     cx="696.0"
+     cy="425.4"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle37" />
+  <circle
+     cx="722.4"
+     cy="411.0"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle38" />
+  <path
+     d="M 581.6 395.4 H 623.4 V 382.2 H 667.4 V 403.8 H 718.0"
+     fill="none"
+     stroke="#D58B2C"
+     stroke-width="5"
+     id="path38" />
+  <path
+     d="M 599.2 432.6 H 641.0 V 417.0 H 693.8"
+     fill="none"
+     stroke="#D58B2C"
+     stroke-width="4"
+     id="path39" />
+  <rect
+     x="638.8"
+     y="393.0"
+     width="26.4"
+     height="12.0"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.5"
+     rx="7"
+     id="rect39" />
+  <rect
+     x="592"
+     y="295"
+     width="14.4"
+     height="56.0"
+     fill="#AEB7C0"
+     stroke="#68757F"
+     stroke-width="1.5"
+     rx="6"
+     id="rect40" />
+  <path
+     d="M 599.2 351.0 L 593.6 375.0 L 604.8 375.0 Z"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="path40" />
+  <rect
+     x="692"
+     y="300"
+     width="14.4"
+     height="56.0"
+     fill="#AEB7C0"
+     stroke="#68757F"
+     stroke-width="1.5"
+     rx="6"
+     id="rect41" />
+  <path
+     d="M 699.2 356.0 L 693.6 380.0 L 704.8 380.0 Z"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="path41" />
+  <text
+     x="652.0"
+     y="515"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="18"
+     font-weight="600"
+     fill="#6D7A84"
+     id="text41">Representative method</text>
+  <rect
+     x="801.0"
+     y="375"
+     width="68"
+     height="38"
+     fill="#F5F8FA"
+     stroke="#C7D0D8"
+     stroke-width="1.3"
+     rx="19"
+     id="rect42" />
+  <text
+     x="835.0"
+     y="401"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="18"
+     font-weight="700"
+     fill="#17324D"
+     id="text42">OR</text>
+  <rect
+     x="863"
+     y="230"
+     width="310"
+     height="330"
+     fill="#FFFFFF"
+     stroke="#CDD5DC"
+     stroke-width="1.7"
+     rx="14"
+     id="rect43" />
+  <text
+     x="1018.0"
+     y="264"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#17324D"
+     id="text43">Dedicated fixture</text>
+  <text
+     x="1018.0"
+     y="289"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="16"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text44">(bed-of-nails example)</text>
+  <rect
+     x="903"
+     y="414.9"
+     width="230"
+     height="40.6"
+     fill="#AEB7C0"
+     stroke="#68757F"
+     stroke-width="2"
+     rx="6"
+     id="rect44" />
+  <line
+     x1="921.0"
+     y1="414.9"
+     x2="921.0"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line44" />
+  <circle
+     cx="921.0"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle44" />
+  <line
+     x1="940.4"
+     y1="414.9"
+     x2="940.4"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line45" />
+  <circle
+     cx="940.4"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle45" />
+  <line
+     x1="959.8"
+     y1="414.9"
+     x2="959.8"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line46" />
+  <circle
+     cx="959.8"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle46" />
+  <line
+     x1="979.2"
+     y1="414.9"
+     x2="979.2"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line47" />
+  <circle
+     cx="979.2"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle47" />
+  <line
+     x1="998.6"
+     y1="414.9"
+     x2="998.6"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line48" />
+  <circle
+     cx="998.6"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle48" />
+  <line
+     x1="1018.0"
+     y1="414.9"
+     x2="1018.0"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line49" />
+  <circle
+     cx="1018.0"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle49" />
+  <line
+     x1="1037.4"
+     y1="414.9"
+     x2="1037.4"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line50" />
+  <circle
+     cx="1037.4"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle50" />
+  <line
+     x1="1056.8"
+     y1="414.9"
+     x2="1056.8"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line51" />
+  <circle
+     cx="1056.8"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle51" />
+  <line
+     x1="1076.2"
+     y1="414.9"
+     x2="1076.2"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line52" />
+  <circle
+     cx="1076.2"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle52" />
+  <line
+     x1="1095.6"
+     y1="414.9"
+     x2="1095.6"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line53" />
+  <circle
+     cx="1095.6"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle53" />
+  <line
+     x1="1115.0"
+     y1="414.9"
+     x2="1115.0"
+     y2="361.25"
+     stroke="#68757F"
+     stroke-width="2"
+     id="line54" />
+  <circle
+     cx="1115.0"
+     cy="358.35"
+     r="3"
+     fill="#68757F"
+     stroke="#68757F"
+     stroke-width="1"
+     id="circle54" />
+  <rect
+     x="931"
+     y="325"
+     width="174"
+     height="39.150000000000006"
+     fill="#5D9C62"
+     stroke="#3E7542"
+     stroke-width="2.2"
+     rx="14"
+     id="rect54" />
+  <circle
+     cx="944.92"
+     cy="329.698"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle55" />
+  <circle
+     cx="944.92"
+     cy="329.698"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle56" />
+  <circle
+     cx="1091.08"
+     cy="329.698"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle57" />
+  <circle
+     cx="1091.08"
+     cy="329.698"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle58" />
+  <circle
+     cx="944.92"
+     cy="359.452"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle59" />
+  <circle
+     cx="944.92"
+     cy="359.452"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle60" />
+  <circle
+     cx="1091.08"
+     cy="359.452"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle61" />
+  <circle
+     cx="1091.08"
+     cy="359.452"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle62" />
+  <circle
+     cx="965.8"
+     cy="334.0045"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle63" />
+  <circle
+     cx="997.12"
+     cy="332.83"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle64" />
+  <circle
+     cx="1038.88"
+     cy="333.613"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle65" />
+  <circle
+     cx="1068.46"
+     cy="335.962"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle66" />
+  <circle
+     cx="974.5"
+     cy="351.622"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle67" />
+  <circle
+     cx="1014.52"
+     cy="352.405"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle68" />
+  <circle
+     cx="1052.8"
+     cy="351.2305"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle69" />
+  <circle
+     cx="1073.68"
+     cy="346.5325"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle70" />
+  <path
+     d="M 962.32 341.443 H 995.38 V 337.1365 H 1030.18 V 344.1835 H 1070.2"
+     fill="none"
+     stroke="#D58B2C"
+     stroke-width="5"
+     id="path70" />
+  <path
+     d="M 976.24 353.5795 H 1009.3 V 348.49 H 1051.06"
+     fill="none"
+     stroke="#D58B2C"
+     stroke-width="4"
+     id="path71" />
+  <rect
+     x="1007.56"
+     y="340.66"
+     width="20.88"
+     height="3.915000000000001"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.5"
+     rx="7"
+     id="rect71" />
+  <text
+     x="1018.0"
+     y="515"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="18"
+     font-weight="600"
+     fill="#6D7A84"
+     id="text71">Representative method</text>
+  <rect
+     x="497"
+     y="620"
+     width="676"
+     height="185"
+     fill="#F5F8FA"
+     stroke="#C7D0D8"
+     stroke-width="1.5"
+     rx="14"
+     id="rect72" />
+  <text
+     x="835.0"
+     y="655"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#17324D"
+     id="text72">Connectivity questions</text>
+  <text
+     x="570"
+     y="702"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="18"
+     font-weight="700"
+     fill="#17324D"
+     id="text73">Continuity</text>
+  <circle
+     cx="700"
+     cy="696"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#17324D"
+     stroke-width="2"
+     id="circle73" />
+  <circle
+     cx="810"
+     cy="696"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#17324D"
+     stroke-width="2"
+     id="circle74" />
+  <line
+     x1="708"
+     y1="696"
+     x2="802"
+     y2="696"
+     stroke="#D58B2C"
+     stroke-width="5"
+     id="line74" />
+  <circle
+     cx="855"
+     cy="696"
+     r="13"
+     fill="#FFFFFF"
+     stroke="#4D8A5A"
+     stroke-width="2.5"
+     id="circle75" />
+  <path
+     d="M 849.15 696 l 3.6400000000000006 3.9 l 7.8 -9.36"
+     fill="none"
+     stroke="#4D8A5A"
+     stroke-width="3.6"
+     id="path75" />
+  <text
+     x="570"
+     y="750"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="18"
+     font-weight="700"
+     fill="#17324D"
+     id="text75">Isolation</text>
+  <circle
+     cx="700"
+     cy="744"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#17324D"
+     stroke-width="2"
+     id="circle76" />
+  <circle
+     cx="810"
+     cy="744"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#17324D"
+     stroke-width="2"
+     id="circle77" />
+  <line
+     x1="708"
+     y1="744"
+     x2="740"
+     y2="744"
+     stroke="#D58B2C"
+     stroke-width="5"
+     id="line77" />
+  <line
+     x1="770"
+     y1="744"
+     x2="802"
+     y2="744"
+     stroke="#D58B2C"
+     stroke-width="5"
+     id="line78" />
+  <circle
+     cx="855"
+     cy="744"
+     r="13"
+     fill="#FFFFFF"
+     stroke="#4D8A5A"
+     stroke-width="2.5"
+     id="circle78" />
+  <path
+     d="M 849.15 744 l 3.6400000000000006 3.9 l 7.8 -9.36"
+     fill="none"
+     stroke="#4D8A5A"
+     stroke-width="3.6"
+     id="path78" />
+  <text
+     x="970"
+     y="706"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="16"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text78">required nets connected</text>
+  <text
+     x="970"
+     y="754"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="16"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text79">separate nets not shorted</text>
+  <rect
+     x="1305"
+     y="95"
+     width="740"
+     height="770"
+     fill="#FBFCFD"
+     stroke="#C4CDD6"
+     stroke-width="2.2"
+     rx="18"
+     id="rect79" />
+  <text
+     x="1675.0"
+     y="143"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="31"
+     font-weight="700"
+     fill="#17324D"
+     id="text80">Final quality verification</text>
+  <text
+     x="1675.0"
+     y="175"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text81">Electrical pass does not replace physical/process checks</text>
+  <rect
+     x="1360"
+     y="240"
+     width="320"
+     height="225"
+     fill="#5D9C62"
+     stroke="#3E7542"
+     stroke-width="2.2"
+     rx="14"
+     id="rect81" />
+  <circle
+     cx="1385.6"
+     cy="267.0"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle81" />
+  <circle
+     cx="1385.6"
+     cy="267.0"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle82" />
+  <circle
+     cx="1654.4"
+     cy="267.0"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle83" />
+  <circle
+     cx="1654.4"
+     cy="267.0"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle84" />
+  <circle
+     cx="1385.6"
+     cy="438.0"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle85" />
+  <circle
+     cx="1385.6"
+     cy="438.0"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle86" />
+  <circle
+     cx="1654.4"
+     cy="438.0"
+     r="15"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.5"
+     id="circle87" />
+  <circle
+     cx="1654.4"
+     cy="438.0"
+     r="7"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.2"
+     id="circle88" />
+  <circle
+     cx="1424.0"
+     cy="291.75"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle89" />
+  <circle
+     cx="1481.6"
+     cy="285.0"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle90" />
+  <circle
+     cx="1558.4"
+     cy="289.5"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle91" />
+  <circle
+     cx="1612.8"
+     cy="303.0"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle92" />
+  <circle
+     cx="1440.0"
+     cy="393.0"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle93" />
+  <circle
+     cx="1513.6"
+     cy="397.5"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle94" />
+  <circle
+     cx="1584.0"
+     cy="390.75"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle95" />
+  <circle
+     cx="1622.4"
+     cy="363.75"
+     r="10"
+     fill="#D6C472"
+     stroke="#978747"
+     stroke-width="1.2"
+     id="circle96" />
+  <path
+     d="M 1417.6 334.5 H 1478.4 V 309.75 H 1542.4 V 350.25 H 1616.0"
+     fill="none"
+     stroke="#D58B2C"
+     stroke-width="5"
+     id="path96" />
+  <path
+     d="M 1443.2 404.25 H 1504.0 V 375.0 H 1580.8"
+     fill="none"
+     stroke="#D58B2C"
+     stroke-width="4"
+     id="path97" />
+  <rect
+     x="1500.8"
+     y="330.0"
+     width="38.4"
+     height="22.5"
+     fill="#FFFFFF"
+     stroke="#2D4053"
+     stroke-width="1.5"
+     rx="7"
+     id="rect97" />
+  <circle
+     cx="1730"
+     cy="248"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#7B6A9B"
+     stroke-width="2"
+     id="circle97" />
+  <path
+     d="M 1727 248 l 3 4 l 7 -9"
+     fill="none"
+     stroke="#7B6A9B"
+     stroke-width="2.4"
+     id="path98" />
+  <text
+     x="1750"
+     y="253"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="600"
+     fill="#17324D"
+     id="text98">Visual / dimensional</text>
+  <circle
+     cx="1730"
+     cy="300"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#978747"
+     stroke-width="2"
+     id="circle98" />
+  <path
+     d="M 1727 300 l 3 4 l 7 -9"
+     fill="none"
+     stroke="#978747"
+     stroke-width="2.4"
+     id="path99" />
+  <text
+     x="1750"
+     y="305"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="600"
+     fill="#17324D"
+     id="text99">Surface finish / mask</text>
+  <circle
+     cx="1730"
+     cy="352"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#68757F"
+     stroke-width="2"
+     id="circle99" />
+  <path
+     d="M 1727 352 l 3 4 l 7 -9"
+     fill="none"
+     stroke="#68757F"
+     stroke-width="2.4"
+     id="path100" />
+  <text
+     x="1750"
+     y="357"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="600"
+     fill="#17324D"
+     id="text100">Hole / slot condition</text>
+  <circle
+     cx="1730"
+     cy="404"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#4D8A5A"
+     stroke-width="2"
+     id="circle100" />
+  <path
+     d="M 1727 404 l 3 4 l 7 -9"
+     fill="none"
+     stroke="#4D8A5A"
+     stroke-width="2.4"
+     id="path101" />
+  <text
+     x="1750"
+     y="409"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="600"
+     fill="#17324D"
+     id="text101">Cleanliness</text>
+  <circle
+     cx="1730"
+     cy="456"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#B56A52"
+     stroke-width="2"
+     id="circle101" />
+  <path
+     d="M 1727 456 l 3 4 l 7 -9"
+     fill="none"
+     stroke="#B56A52"
+     stroke-width="2.4"
+     id="path102" />
+  <text
+     x="1750"
+     y="461"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="600"
+     fill="#17324D"
+     id="text102">Warpage (where required)</text>
+  <circle
+     cx="1730"
+     cy="508"
+     r="8"
+     fill="#FFFFFF"
+     stroke="#4C86B8"
+     stroke-width="2"
+     id="circle102" />
+  <path
+     d="M 1727 508 l 3 4 l 7 -9"
+     fill="none"
+     stroke="#4C86B8"
+     stroke-width="2.4"
+     id="path103" />
+  <text
+     x="1750"
+     y="513"
+     text-anchor="start"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="600"
+     fill="#17324D"
+     id="text103">Records / traceability</text>
+  <rect
+     x="1357"
+     y="560"
+     width="636"
+     height="110"
+     fill="#F5F8FA"
+     stroke="#C7D0D8"
+     stroke-width="1.5"
+     rx="12"
+     id="rect103" />
+  <text
+     x="1675.0"
+     y="594"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="20"
+     font-weight="700"
+     fill="#17324D"
+     id="text104">Additional evidence where required</text>
+  <text
+     x="1675.0"
+     y="625"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="18"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text105">test records • coupons / microsections • lot / traceability</text>
+  <rect
+     x="1420"
+     y="720"
+     width="510"
+     height="95"
+     fill="#F3F8F4"
+     stroke="#B7CDBB"
+     stroke-width="1.8"
+     rx="14"
+     id="rect105" />
+  <circle
+     cx="1470"
+     cy="768"
+     r="20"
+     fill="#FFFFFF"
+     stroke="#4D8A5A"
+     stroke-width="2.5"
+     id="circle105" />
+  <path
+     d="M 1461.0 768 l 5.6000000000000005 6.0 l 12.0 -14.399999999999999"
+     fill="none"
+     stroke="#4D8A5A"
+     stroke-width="3.6"
+     id="path105" />
+  <text
+     x="1695.0"
+     y="758"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="24"
+     font-weight="700"
+     fill="#4D8A5A"
+     id="text106">Accepted bare PCB</text>
+  <text
+     x="1695.0"
+     y="787"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="18"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text107">or assembly-ready bare-board array</text>
+  <rect
+     x="250"
+     y="910"
+     width="1600"
+     height="82"
+     fill="#F5F8FA"
+     stroke="#C5D0D8"
+     stroke-width="1.5"
+     rx="14"
+     id="rect107" />
+  <text
+     x="1050"
+     y="944"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#17324D"
+     id="text108">Electrical test asks: are the intended connections correct?</text>
+  <text
+     x="1050"
+     y="973"
+     text-anchor="middle"
+     font-family="DejaVu Sans, Arial, sans-serif"
+     font-size="19"
+     font-weight="500"
+     fill="#6D7A84"
+     id="text109">Final quality verification asks: is the finished bare board physically and procedurally acceptable?</text>
+  <line
+     x1="1232.0762"
+     y1="350.2153"
+     x2="1276.8757"
+     y2="350.2153"
+     stroke="#4c86b8"
+     stroke-width="6.54261"
+     marker-end="url(#arrowBlue)"
+     id="line20-3"
+     style="stroke-width:4;stroke-dasharray:none;marker-end:url(#RoundedArrow-2)" />
+</svg>
