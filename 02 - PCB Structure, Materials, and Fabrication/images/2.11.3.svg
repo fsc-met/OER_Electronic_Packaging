@@ -1,192 +1,626 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000"
-     viewBox="0 0 1800 1000" preserveAspectRatio="xMidYMid meet">
-  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
-
-  <defs>
-    <marker id="arrowWarm" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14"
-            viewBox="0 0 14 14" refX="12" refY="7" orient="auto">
-      <path d="M0,0 L14,7 L0,14 z" fill="#c85f2c"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="930"
+   viewBox="0 0 1800 930"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="2.11.3.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.46587171"
+     inkscape:cx="568.82612"
+     inkscape:cy="494.7714"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
     </marker>
-    <marker id="arrowNavy" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12"
-            viewBox="0 0 12 12" refX="10" refY="6" orient="auto">
-      <path d="M0,0 L12,6 L0,12 z" fill="#17324d"/>
+    <marker
+       id="arrowWarm"
+       markerUnits="userSpaceOnUse"
+       markerWidth="14"
+       markerHeight="14"
+       viewBox="0 0 14 14"
+       refX="12"
+       refY="7"
+       orient="auto">
+      <path
+         d="M 0,0 14,7 0,14 Z"
+         fill="#c85f2c"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowNavy"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="12"
+       viewBox="0 0 12 12"
+       refX="10"
+       refY="6"
+       orient="auto">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#17324d"
+         id="path2" />
     </marker>
   </defs>
-
   <!-- panel divider -->
-  <line x1="900" y1="80" x2="900" y2="760" stroke="#d0d7de" stroke-width="2"/>
-
+  <line
+     x1="900"
+     y1="88.586052"
+     x2="900"
+     y2="768.58606"
+     stroke="#d0d7de"
+     stroke-width="2"
+     id="line2" />
   <!-- LEFT PANEL -->
-  <text x="450" y="80" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17324d">
-    Incomplete thermal path
-  </text>
-
+  <text
+     x="450"
+     y="88.586052"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     fill="#17324d"
+     id="text2">Incomplete thermal path</text>
   <!-- component -->
-  <rect x="300" y="170" width="300" height="95" rx="7"
-        fill="#8e969e" stroke="#22364a" stroke-width="3"/>
-  <text x="450" y="227" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="29" fill="#ffffff">
-    Hot component
-  </text>
-
+  <rect
+     x="300"
+     y="178.58606"
+     width="300"
+     height="95"
+     rx="7"
+     fill="#8e969e"
+     stroke="#22364a"
+     stroke-width="3"
+     id="rect2" />
+  <text
+     x="450"
+     y="235.58606"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="29px"
+     fill="#ffffff"
+     id="text3">Hot component</text>
   <!-- local thermal land -->
-  <rect x="350" y="265" width="200" height="28"
-        fill="#d8843b" stroke="#22364a" stroke-width="2"/>
-  <text x="205" y="150" font-family="Arial, sans-serif" font-size="26" fill="#17324d">
-    Isolated local copper
-  </text>
-  <line x1="335" y1="158" x2="365" y2="270"
-        stroke="#17324d" stroke-width="2.3" marker-end="url(#arrowNavy)"/>
-
+  <rect
+     x="350"
+     y="273.58606"
+     width="200"
+     height="28"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="2"
+     id="rect3" />
+  <text
+     x="18.430655"
+     y="268.49213"
+     font-family="Arial, sans-serif"
+     font-size="25.6762px"
+     fill="#17324d"
+     id="text4"
+     transform="scale(1.0635749,0.94022527)"
+     style="stroke-width:0.987546">Isolated local copper</text>
+  <line
+     x1="164.66893"
+     y1="264.55191"
+     x2="372.96393"
+     y2="283.84937"
+     stroke="#17324d"
+     stroke-width="2.51563"
+     marker-end="url(#arrowNavy)"
+     id="line4" />
   <!-- board stack -->
-  <rect x="170" y="293" width="560" height="300"
-        fill="none" stroke="#22364a" stroke-width="3"/>
-  <rect x="170" y="293" width="560" height="24"
-        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
-  <rect x="170" y="317" width="560" height="118"
-        fill="#d7e1c7" stroke="#22364a" stroke-width="1"/>
-  <rect x="170" y="435" width="560" height="24"
-        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
-  <rect x="170" y="459" width="560" height="110"
-        fill="#e7dbad" stroke="#22364a" stroke-width="1"/>
-  <rect x="170" y="569" width="560" height="24"
-        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
-
+  <rect
+     x="170"
+     y="301.58606"
+     width="560"
+     height="300"
+     fill="none"
+     stroke="#22364a"
+     stroke-width="3"
+     id="rect4" />
+  <rect
+     x="170"
+     y="301.58606"
+     width="560"
+     height="24"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="1.2"
+     id="rect5" />
+  <rect
+     x="170"
+     y="325.58606"
+     width="560"
+     height="118"
+     fill="#d7e1c7"
+     stroke="#22364a"
+     stroke-width="1"
+     id="rect6" />
+  <rect
+     x="170"
+     y="443.58606"
+     width="560"
+     height="24"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="1.2"
+     id="rect7" />
+  <rect
+     x="170"
+     y="467.58606"
+     width="560"
+     height="110"
+     fill="#e7dbad"
+     stroke="#22364a"
+     stroke-width="1"
+     id="rect8" />
+  <rect
+     x="170"
+     y="577.58606"
+     width="560"
+     height="24"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="1.2"
+     id="rect9" />
   <!-- deliberately isolated copper island inside board -->
-  <rect x="340" y="435" width="220" height="24"
-        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
-
+  <rect
+     x="340"
+     y="443.58606"
+     width="220"
+     height="24"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="1.2"
+     id="rect10" />
   <!-- heat arrows concentrated near source -->
-  <line x1="450" y1="230" x2="450" y2="345"
-        stroke="#c85f2c" stroke-width="6" marker-end="url(#arrowWarm)"/>
-  <line x1="410" y1="307" x2="300" y2="307"
-        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
-  <line x1="490" y1="307" x2="600" y2="307"
-        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
-
+  <line
+     x1="450"
+     y1="238.58606"
+     x2="450"
+     y2="353.58606"
+     stroke="#c85f2c"
+     stroke-width="6"
+     marker-end="url(#arrowWarm)"
+     id="line10"
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="410"
+     y1="315.58606"
+     x2="300"
+     y2="315.58606"
+     stroke="#c85f2c"
+     stroke-width="5"
+     marker-end="url(#arrowWarm)"
+     id="line11"
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="490"
+     y1="315.58606"
+     x2="600"
+     y2="315.58606"
+     stroke="#c85f2c"
+     stroke-width="5"
+     marker-end="url(#arrowWarm)"
+     id="line12"
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
   <!-- bottleneck cue -->
-  <text x="450" y="680" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17324d">
-    Heat remains concentrated
-  </text>
-  <text x="450" y="718" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="25" fill="#56697b">
-    Local copper is not connected to a larger path
-  </text>
-
-  <text x="225" y="505" font-family="Arial, sans-serif" font-size="25" fill="#17324d">
-    No vertical copper connection
-  </text>
-  <text x="225" y="536" font-family="Arial, sans-serif" font-size="23" fill="#56697b">
-    Heat must cross dielectric
-  </text>
-  <line x1="430" y1="510" x2="455" y2="390"
-        stroke="#17324d" stroke-width="2.2" marker-end="url(#arrowNavy)"/>
-
+  <text
+     x="450"
+     y="688.58606"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="30px"
+     font-weight="700"
+     fill="#17324d"
+     id="text12">Heat remains concentrated</text>
+  <text
+     x="450"
+     y="726.58606"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="25px"
+     fill="#56697b"
+     id="text13">Local copper is not connected to a larger path</text>
+  <text
+     x="225"
+     y="513.58606"
+     font-family="Arial, sans-serif"
+     font-size="25px"
+     fill="#17324d"
+     id="text14">No vertical copper connection</text>
+  <text
+     x="225"
+     y="544.58606"
+     font-family="Arial, sans-serif"
+     font-size="23px"
+     fill="#56697b"
+     id="text15">Heat must cross dielectric</text>
+  <line
+     x1="438.30295"
+     y1="487.54736"
+     x2="456.0798"
+     y2="398.05951"
+     stroke="#17324d"
+     stroke-width="1.60203"
+     marker-end="url(#arrowNavy)"
+     id="line15" />
   <!-- RIGHT PANEL -->
-  <text x="1350" y="80" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17324d">
-    Useful thermal path
-  </text>
-
+  <text
+     x="1350"
+     y="88.586052"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     fill="#17324d"
+     id="text16">Useful thermal path</text>
   <!-- component -->
-  <rect x="1200" y="170" width="300" height="95" rx="7"
-        fill="#8e969e" stroke="#22364a" stroke-width="3"/>
-  <text x="1350" y="227" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="29" fill="#ffffff">
-    Hot component
-  </text>
-
+  <rect
+     x="1200"
+     y="178.58606"
+     width="300"
+     height="95"
+     rx="7"
+     fill="#8e969e"
+     stroke="#22364a"
+     stroke-width="3"
+     id="rect16" />
+  <text
+     x="1350"
+     y="235.58606"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="29px"
+     fill="#ffffff"
+     id="text17">Hot component</text>
   <!-- thermal land -->
-  <rect x="1235" y="265" width="230" height="28"
-        fill="#d8843b" stroke="#22364a" stroke-width="2"/>
-
+  <rect
+     x="1235"
+     y="273.58606"
+     width="230"
+     height="28"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="2"
+     id="rect17" />
   <!-- board stack -->
-  <rect x="1070" y="293" width="560" height="300"
-        fill="none" stroke="#22364a" stroke-width="3"/>
-  <rect x="1070" y="293" width="560" height="24"
-        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
-  <rect x="1070" y="317" width="560" height="118"
-        fill="#d7e1c7" stroke="#22364a" stroke-width="1"/>
-  <rect x="1070" y="435" width="560" height="24"
-        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
-  <rect x="1070" y="459" width="560" height="110"
-        fill="#e7dbad" stroke="#22364a" stroke-width="1"/>
-  <rect x="1070" y="569" width="560" height="24"
-        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
-
+  <rect
+     x="1070"
+     y="301.58606"
+     width="560"
+     height="300"
+     fill="none"
+     stroke="#22364a"
+     stroke-width="3"
+     id="rect18" />
+  <rect
+     x="1070"
+     y="301.58606"
+     width="560"
+     height="24"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="1.2"
+     id="rect19" />
+  <rect
+     x="1070"
+     y="325.58606"
+     width="560"
+     height="118"
+     fill="#d7e1c7"
+     stroke="#22364a"
+     stroke-width="1"
+     id="rect20" />
+  <rect
+     x="1070"
+     y="443.58606"
+     width="560"
+     height="24"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="1.2"
+     id="rect21" />
+  <rect
+     x="1070"
+     y="467.58606"
+     width="560"
+     height="110"
+     fill="#e7dbad"
+     stroke="#22364a"
+     stroke-width="1"
+     id="rect22" />
+  <rect
+     x="1070"
+     y="577.58606"
+     width="560"
+     height="24"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="1.2"
+     id="rect23" />
   <!-- continuous internal copper plane emphasis -->
-  <rect x="1070" y="435" width="560" height="24"
-        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
-
+  <rect
+     x="1070"
+     y="443.58606"
+     width="560"
+     height="24"
+     fill="#d8843b"
+     stroke="#22364a"
+     stroke-width="1.2"
+     id="rect24" />
   <!-- thermal vias (plated hollow barrels) -->
-  <g>
-    <rect x="1250" y="293" width="34" height="300" fill="#d8843b" stroke="#22364a" stroke-width="1.3"/>
-    <rect x="1260" y="293" width="14" height="300" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
-    <rect x="1333" y="293" width="34" height="300" fill="#d8843b" stroke="#22364a" stroke-width="1.3"/>
-    <rect x="1343" y="293" width="14" height="300" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
-    <rect x="1416" y="293" width="34" height="300" fill="#d8843b" stroke="#22364a" stroke-width="1.3"/>
-    <rect x="1426" y="293" width="14" height="300" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
+  <g
+     id="g30"
+     transform="translate(0,8.5860547)">
+    <rect
+       x="1250"
+       y="293"
+       width="34"
+       height="300"
+       fill="#d8843b"
+       stroke="#22364a"
+       stroke-width="1.3"
+       id="rect25" />
+    <rect
+       x="1260"
+       y="293"
+       width="14"
+       height="300"
+       fill="#ffffff"
+       stroke="#22364a"
+       stroke-width="1"
+       id="rect26" />
+    <rect
+       x="1333"
+       y="293"
+       width="34"
+       height="300"
+       fill="#d8843b"
+       stroke="#22364a"
+       stroke-width="1.3"
+       id="rect27" />
+    <rect
+       x="1343"
+       y="293"
+       width="14"
+       height="300"
+       fill="#ffffff"
+       stroke="#22364a"
+       stroke-width="1"
+       id="rect28" />
+    <rect
+       x="1416"
+       y="293"
+       width="34"
+       height="300"
+       fill="#d8843b"
+       stroke="#22364a"
+       stroke-width="1.3"
+       id="rect29" />
+    <rect
+       x="1426"
+       y="293"
+       width="14"
+       height="300"
+       fill="#ffffff"
+       stroke="#22364a"
+       stroke-width="1"
+       id="rect30" />
   </g>
-
   <!-- component-to-land heat -->
-  <line x1="1310" y1="235" x2="1310" y2="262"
-        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
-  <line x1="1390" y1="235" x2="1390" y2="262"
-        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
-
+  <line
+     x1="1310"
+     y1="243.58606"
+     x2="1310"
+     y2="270.58606"
+     stroke="#c85f2c"
+     stroke-width="5"
+     marker-end="url(#arrowWarm)"
+     id="line30"
+     style="stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="1390"
+     y1="243.58606"
+     x2="1390"
+     y2="270.58606"
+     stroke="#c85f2c"
+     stroke-width="5"
+     marker-end="url(#arrowWarm)"
+     id="line31"
+     style="stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
   <!-- vertical via heat along barrel walls -->
-  <line x1="1278" y1="320" x2="1278" y2="545"
-        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
-  <line x1="1361" y1="320" x2="1361" y2="545"
-        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
-  <line x1="1444" y1="320" x2="1444" y2="545"
-        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
-
+  <line
+     x1="1268"
+     y1="328.58606"
+     x2="1268"
+     y2="553.58606"
+     stroke="#c85f2c"
+     stroke-width="5"
+     marker-end="url(#arrowWarm)"
+     id="line32"
+     style="stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="1351"
+     y1="328.58606"
+     x2="1351"
+     y2="553.58606"
+     stroke="#c85f2c"
+     stroke-width="5"
+     marker-end="url(#arrowWarm)"
+     id="line33"
+     style="stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="1434"
+     y1="328.58606"
+     x2="1434"
+     y2="553.58606"
+     stroke="#c85f2c"
+     stroke-width="5"
+     marker-end="url(#arrowWarm)"
+     id="line34"
+     style="stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
   <!-- lateral spreading in plane -->
-  <line x1="1320" y1="447" x2="1135" y2="447"
-        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
-  <line x1="1380" y1="447" x2="1565" y2="447"
-        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
-
+  <line
+     x1="1320"
+     y1="455.58606"
+     x2="1135"
+     y2="455.58606"
+     stroke="#c85f2c"
+     stroke-width="5"
+     marker-end="url(#arrowWarm)"
+     id="line35"
+     style="stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="1380"
+     y1="455.58606"
+     x2="1565"
+     y2="455.58606"
+     stroke="#c85f2c"
+     stroke-width="5"
+     marker-end="url(#arrowWarm)"
+     id="line36"
+     style="stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
   <!-- lower copper spreading -->
-  <line x1="1320" y1="581" x2="1165" y2="581"
-        stroke="#c85f2c" stroke-width="4.5" marker-end="url(#arrowWarm)"/>
-  <line x1="1380" y1="581" x2="1535" y2="581"
-        stroke="#c85f2c" stroke-width="4.5" marker-end="url(#arrowWarm)"/>
-
+  <line
+     x1="1320"
+     y1="589.58606"
+     x2="1165"
+     y2="589.58606"
+     stroke="#c85f2c"
+     stroke-width="4.5"
+     marker-end="url(#arrowWarm)"
+     id="line37"
+     style="stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="1380"
+     y1="589.58606"
+     x2="1535"
+     y2="589.58606"
+     stroke="#c85f2c"
+     stroke-width="4.5"
+     marker-end="url(#arrowWarm)"
+     id="line38"
+     style="stroke:#ff0000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)" />
   <!-- right labels -->
-  <text x="1495" y="170" font-family="Arial, sans-serif" font-size="26" fill="#17324d">
-    Thermal land
-  </text>
-  <line x1="1480" y1="180" x2="1455" y2="275"
-        stroke="#17324d" stroke-width="2.2" marker-end="url(#arrowNavy)"/>
-
-  <text x="1510" y="335" font-family="Arial, sans-serif" font-size="26" fill="#17324d">
-    Thermal vias
-  </text>
-  <line x1="1490" y1="342" x2="1448" y2="360"
-        stroke="#17324d" stroke-width="2.2" marker-end="url(#arrowNavy)"/>
-
-  <text x="1500" y="500" font-family="Arial, sans-serif" font-size="25" fill="#17324d">
-    Connected copper plane
-  </text>
-  <line x1="1480" y1="492" x2="1435" y2="448"
-        stroke="#17324d" stroke-width="2.2" marker-end="url(#arrowNavy)"/>
-
-  <text x="1350" y="680" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17324d">
-    Complete heat path
-  </text>
-  <text x="1350" y="718" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="25" fill="#56697b">
-    Collect → conduct → spread → continue to the next thermal destination
-  </text>
-
+  <text
+     x="1544.3699"
+     y="273.03265"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     fill="#17324d"
+     id="text38">Thermal land</text>
+  <line
+     x1="1543.9624"
+     y1="272.86447"
+     x2="1458.5846"
+     y2="284.47372"
+     stroke="#17324d"
+     stroke-width="1.42123"
+     marker-end="url(#arrowNavy)"
+     id="line39"
+     style="stroke-width:2.66667;stroke-dasharray:none" />
+  <text
+     x="1475.6558"
+     y="366.12448"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     fill="#17324d"
+     id="text39">Thermal vias</text>
+  <line
+     x1="1487.8535"
+     y1="380.63724"
+     x2="1445.8535"
+     y2="398.63724"
+     stroke="#17324d"
+     stroke-width="2.2"
+     marker-end="url(#arrowNavy)"
+     id="line40" />
+  <text
+     x="1498.9268"
+     y="524.68488"
+     font-family="Arial, sans-serif"
+     font-size="25px"
+     fill="#17324d"
+     id="text40">Connected copper plane</text>
+  <line
+     x1="1489.6593"
+     y1="513.46515"
+     x2="1444.6593"
+     y2="469.46515"
+     stroke="#17324d"
+     stroke-width="2.2"
+     marker-end="url(#arrowNavy)"
+     id="line41" />
+  <text
+     x="1350"
+     y="688.58606"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="30px"
+     font-weight="700"
+     fill="#17324d"
+     id="text41">Complete heat path</text>
+  <text
+     x="1350"
+     y="726.58606"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="25px"
+     fill="#56697b"
+     id="text42">Collect → conduct → spread → continue to the next thermal destination</text>
   <!-- shared comparison note -->
-  <text x="900" y="865" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="31" fill="#667788">
-    Same heat source; path connectivity is the key difference
-  </text>
+  <text
+     x="900"
+     y="873.58606"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#667788"
+     id="text43">Same heat source; path connectivity is the key difference</text>
 </svg>
