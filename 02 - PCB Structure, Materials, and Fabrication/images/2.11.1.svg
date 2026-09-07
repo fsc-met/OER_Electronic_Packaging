@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1050" viewBox="0 0 1800 1050" preserveAspectRatio="xMidYMid meet">
+  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+
+  <defs>
+    <marker id="arrowNavy" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14"
+            viewBox="0 0 14 14" refX="12" refY="7" orient="auto">
+      <path d="M0,0 L14,7 L0,14 z" fill="#17324d"/>
+    </marker>
+    <marker id="arrowWarm" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14"
+            viewBox="0 0 14 14" refX="12" refY="7" orient="auto">
+      <path d="M0,0 L14,7 L0,14 z" fill="#c8622d"/>
+    </marker>
+  </defs>
+
+  <!-- Hot component -->
+  <rect x="725" y="105" width="350" height="120" rx="8" fill="#8e969e" stroke="#23384d" stroke-width="3"/>
+  <text x="900" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" fill="#ffffff">Hot component</text>
+
+  <!-- PCB stack-up -->
+  <rect x="300" y="330" width="1200" height="380" fill="none" stroke="#23384d" stroke-width="3"/>
+
+  <!-- top copper land -->
+  <rect x="300" y="330" width="1200" height="28" fill="#d8843b" stroke="#23384d" stroke-width="1.5"/>
+
+  <!-- dielectric 1 -->
+  <rect x="300" y="358" width="1200" height="90" fill="#d8e2c9" stroke="#23384d" stroke-width="1"/>
+
+  <!-- copper plane 1 -->
+  <rect x="300" y="448" width="1200" height="22" fill="#d8843b" stroke="#23384d" stroke-width="1.5"/>
+
+  <!-- dielectric core -->
+  <rect x="300" y="470" width="1200" height="105" fill="#e5d9aa" stroke="#23384d" stroke-width="1"/>
+
+  <!-- copper plane 2 -->
+  <rect x="300" y="575" width="1200" height="22" fill="#d8843b" stroke="#23384d" stroke-width="1.5"/>
+
+  <!-- dielectric 2 -->
+  <rect x="300" y="597" width="1200" height="85" fill="#d8e2c9" stroke="#23384d" stroke-width="1"/>
+
+  <!-- bottom copper -->
+  <rect x="300" y="682" width="1200" height="28" fill="#d8843b" stroke="#23384d" stroke-width="1.5"/>
+
+  <!-- component-to-board contact cue -->
+  <rect x="785" y="225" width="230" height="105" fill="#c8d8b8" stroke="#23384d" stroke-width="2"/>
+  <text x="1125" y="285" text-anchor="start" font-family="Arial, sans-serif" font-size="25" fill="#23384d">Thermal land</text>
+  <line x1="1110" y1="278" x2="1005" y2="300" stroke="#17324d" stroke-width="2.5" marker-end="url(#arrowNavy)"/>
+
+  <!-- in-plane arrows on top copper -->
+  <line x1="820" y1="350" x2="525" y2="350" stroke="#c8622d" stroke-width="6" marker-end="url(#arrowWarm)"/>
+  <line x1="980" y1="350" x2="1275" y2="350" stroke="#c8622d" stroke-width="6" marker-end="url(#arrowWarm)"/>
+
+  <!-- in-plane arrows in internal planes -->
+  <line x1="860" y1="459" x2="560" y2="459" stroke="#c8622d" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="940" y1="459" x2="1240" y2="459" stroke="#c8622d" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="860" y1="586" x2="560" y2="586" stroke="#c8622d" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="940" y1="586" x2="1240" y2="586" stroke="#c8622d" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- through-thickness arrows -->
+  <line x1="850" y1="250" x2="850" y2="670" stroke="#17324d" stroke-width="5" marker-end="url(#arrowNavy)"/>
+  <line x1="950" y1="250" x2="950" y2="670" stroke="#17324d" stroke-width="5" marker-end="url(#arrowNavy)"/>
+
+  <!-- Labels -->
+  <text x="545" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17324d">
+    In-plane (X-Y) heat spreading
+  </text>
+  <line x1="620" y1="270" x2="625" y2="335" stroke="#17324d" stroke-width="2.5" marker-end="url(#arrowNavy)"/>
+
+  <text x="1270" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17324d">
+    Through-thickness (Z) heat flow
+  </text>
+  <line x1="1200" y1="270" x2="975" y2="390" stroke="#17324d" stroke-width="2.5" marker-end="url(#arrowNavy)"/>
+
+  <text x="1515" y="430" font-family="Arial, sans-serif" font-size="25" fill="#17324d">Copper plane</text>
+  <line x1="1500" y1="438" x2="1435" y2="458" stroke="#17324d" stroke-width="2.5" marker-end="url(#arrowNavy)"/>
+
+  <text x="1515" y="535" font-family="Arial, sans-serif" font-size="25" fill="#17324d">Dielectric / laminate</text>
+  <line x1="1500" y1="542" x2="1438" y2="522" stroke="#17324d" stroke-width="2.5" marker-end="url(#arrowNavy)"/>
+
+  <!-- concise thermal-property cues -->
+  <text x="515" y="795" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" fill="#c8622d">
+    High-k copper path
+  </text>
+  <line x1="515" y1="765" x2="515" y2="700" stroke="#c8622d" stroke-width="2.5" marker-end="url(#arrowWarm)"/>
+
+  <text x="1285" y="795" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" fill="#17324d">
+    Low-k dielectric bottleneck
+  </text>
+  <line x1="1285" y1="765" x2="1285" y2="625" stroke="#17324d" stroke-width="2.5" marker-end="url(#arrowNavy)"/>
+
+  <!-- axis cue -->
+  <g transform="translate(885,875)">
+    <circle cx="0" cy="0" r="7" fill="#17324d"/>
+    <line x1="0" y1="0" x2="100" y2="0" stroke="#17324d" stroke-width="3" marker-end="url(#arrowNavy)"/>
+    <line x1="0" y1="0" x2="-70" y2="58" stroke="#17324d" stroke-width="3" marker-end="url(#arrowNavy)"/>
+    <line x1="0" y1="0" x2="0" y2="-105" stroke="#17324d" stroke-width="3" marker-end="url(#arrowNavy)"/>
+    <text x="118" y="8" font-family="Arial, sans-serif" font-size="25" fill="#17324d">X</text>
+    <text x="-95" y="74" font-family="Arial, sans-serif" font-size="25" fill="#17324d">Y</text>
+    <text x="12" y="-115" font-family="Arial, sans-serif" font-size="25" fill="#17324d">Z</text>
+  </g>
+
+</svg>

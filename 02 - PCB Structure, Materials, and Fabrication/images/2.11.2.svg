@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1050"
+     viewBox="0 0 1800 1050" preserveAspectRatio="xMidYMid meet">
+  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+
+  <defs>
+    <marker id="arrowWarm" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14"
+            viewBox="0 0 14 14" refX="12" refY="7" orient="auto">
+      <path d="M0,0 L14,7 L0,14 z" fill="#c85f2c"/>
+    </marker>
+    <marker id="arrowNavy" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12"
+            viewBox="0 0 12 12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#17324d"/>
+    </marker>
+  </defs>
+
+  <!-- Component -->
+  <rect x="700" y="95" width="400" height="120" rx="8"
+        fill="#8d969f" stroke="#22364a" stroke-width="3"/>
+  <text x="900" y="162" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="32" fill="#ffffff">Hot component</text>
+
+  <line x1="835" y1="188" x2="835" y2="238"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="965" y1="188" x2="965" y2="238"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- Solder / exposed thermal interface -->
+  <rect x="760" y="215" width="280" height="28"
+        fill="#c7a24a" stroke="#80621e" stroke-width="1.5"/>
+
+  <!-- Thermal land -->
+  <rect x="655" y="243" width="490" height="34"
+        fill="#d8843b" stroke="#22364a" stroke-width="2"/>
+
+  <!-- PCB stack-up -->
+  <rect x="250" y="277" width="1300" height="490"
+        fill="none" stroke="#22364a" stroke-width="3"/>
+  <rect x="250" y="277" width="1300" height="26"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+  <rect x="250" y="303" width="1300" height="125"
+        fill="#d7e1c7" stroke="#22364a" stroke-width="1"/>
+  <rect x="250" y="428" width="1300" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+  <rect x="250" y="452" width="1300" height="125"
+        fill="#e7dbad" stroke="#22364a" stroke-width="1"/>
+  <rect x="250" y="577" width="1300" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+  <rect x="250" y="601" width="1300" height="140"
+        fill="#d7e1c7" stroke="#22364a" stroke-width="1"/>
+  <rect x="250" y="741" width="1300" height="26"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+
+  <!-- Thermal vias: plated hollow barrels -->
+  <g>
+    <!-- via 1 -->
+    <rect x="700" y="277" width="36" height="490" fill="#d8843b" stroke="#22364a" stroke-width="1.5"/>
+    <rect x="710" y="277" width="16" height="490" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
+    <!-- via 2 -->
+    <rect x="790" y="277" width="36" height="490" fill="#d8843b" stroke="#22364a" stroke-width="1.5"/>
+    <rect x="800" y="277" width="16" height="490" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
+    <!-- via 3 -->
+    <rect x="882" y="277" width="36" height="490" fill="#d8843b" stroke="#22364a" stroke-width="1.5"/>
+    <rect x="892" y="277" width="16" height="490" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
+    <!-- via 4 -->
+    <rect x="974" y="277" width="36" height="490" fill="#d8843b" stroke="#22364a" stroke-width="1.5"/>
+    <rect x="984" y="277" width="16" height="490" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
+    <!-- via 5 -->
+    <rect x="1064" y="277" width="36" height="490" fill="#d8843b" stroke="#22364a" stroke-width="1.5"/>
+    <rect x="1074" y="277" width="16" height="490" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
+  </g>
+
+  <!-- Vertical heat arrows through via barrels -->
+  <line x1="730" y1="315" x2="730" y2="700"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="820" y1="315" x2="820" y2="700"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="912" y1="315" x2="912" y2="700"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="1004" y1="315" x2="1004" y2="700"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="1094" y1="315" x2="1094" y2="700"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- Lateral spreading arrows in top land / plane -->
+  <line x1="650" y1="292" x2="380" y2="292"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="1150" y1="292" x2="1420" y2="292"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- Lateral spreading arrows in internal copper planes -->
+  <line x1="860" y1="440" x2="420" y2="440"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="940" y1="440" x2="1380" y2="440"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="860" y1="589" x2="420" y2="589"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="940" y1="589" x2="1380" y2="589"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- Bottom spreading -->
+  <line x1="860" y1="754" x2="510" y2="754"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="940" y1="754" x2="1290" y2="754"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- Labels -->
+  <text x="1180" y="155" font-family="Arial, sans-serif" font-size="28" fill="#17324d">
+    Thermal land
+  </text>
+  <line x1="1165" y1="165" x2="1080" y2="248"
+        stroke="#17324d" stroke-width="2.4" marker-end="url(#arrowNavy)"/>
+
+  <text x="1320" y="345" font-family="Arial, sans-serif" font-size="28" fill="#17324d">
+    Thermal vias
+  </text>
+  <text x="1320" y="378" font-family="Arial, sans-serif" font-size="23" fill="#55697c">
+    plated copper barrels
+  </text>
+  <line x1="1300" y1="350" x2="1095" y2="360"
+        stroke="#17324d" stroke-width="2.4" marker-end="url(#arrowNavy)"/>
+
+  <text x="1340" y="475" font-family="Arial, sans-serif" font-size="28" fill="#17324d">
+    Copper plane
+  </text>
+  <line x1="1320" y1="482" x2="1235" y2="444"
+        stroke="#17324d" stroke-width="2.4" marker-end="url(#arrowNavy)"/>
+
+  <text x="1350" y="655" font-family="Arial, sans-serif" font-size="28" fill="#17324d">
+    Dielectric / laminate
+  </text>
+  <line x1="1330" y1="660" x2="1230" y2="645"
+        stroke="#17324d" stroke-width="2.4" marker-end="url(#arrowNavy)"/>
+
+  <text x="375" y="210" font-family="Arial, sans-serif" font-size="28" fill="#17324d">
+    Heat collected by copper land
+  </text>
+  <line x1="600" y1="215" x2="705" y2="255"
+        stroke="#17324d" stroke-width="2.4" marker-end="url(#arrowNavy)"/>
+
+  <text x="365" y="850" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#17324d">
+    Vertical conduction
+  </text>
+  <text x="365" y="885" font-family="Arial, sans-serif" font-size="26" fill="#55697c">
+    through multiple copper paths
+  </text>
+  <line x1="650" y1="845" x2="740" y2="700"
+        stroke="#17324d" stroke-width="2.4" marker-end="url(#arrowNavy)"/>
+
+  <text x="1140" y="850" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#17324d">
+    Lateral heat spreading
+  </text>
+  <text x="1140" y="885" font-family="Arial, sans-serif" font-size="26" fill="#55697c">
+    in continuous copper regions
+  </text>
+  <line x1="1280" y1="835" x2="1285" y2="758"
+        stroke="#17324d" stroke-width="2.4" marker-end="url(#arrowNavy)"/>
+
+  <text x="1470" y="730" font-family="Arial, sans-serif" font-size="25" fill="#17324d">
+    Lower copper region
+  </text>
+  <line x1="1450" y1="735" x2="1385" y2="752"
+        stroke="#17324d" stroke-width="2.3" marker-end="url(#arrowNavy)"/>
+
+  <text x="900" y="970" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="#667788">
+    Conceptual cross-section — not to scale
+  </text>
+</svg>

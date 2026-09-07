@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000"
+     viewBox="0 0 1800 1000" preserveAspectRatio="xMidYMid meet">
+  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+
+  <defs>
+    <marker id="arrowWarm" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14"
+            viewBox="0 0 14 14" refX="12" refY="7" orient="auto">
+      <path d="M0,0 L14,7 L0,14 z" fill="#c85f2c"/>
+    </marker>
+    <marker id="arrowNavy" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12"
+            viewBox="0 0 12 12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#17324d"/>
+    </marker>
+  </defs>
+
+  <!-- panel divider -->
+  <line x1="900" y1="80" x2="900" y2="760" stroke="#d0d7de" stroke-width="2"/>
+
+  <!-- LEFT PANEL -->
+  <text x="450" y="80" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17324d">
+    Incomplete thermal path
+  </text>
+
+  <!-- component -->
+  <rect x="300" y="170" width="300" height="95" rx="7"
+        fill="#8e969e" stroke="#22364a" stroke-width="3"/>
+  <text x="450" y="227" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="29" fill="#ffffff">
+    Hot component
+  </text>
+
+  <!-- local thermal land -->
+  <rect x="350" y="265" width="200" height="28"
+        fill="#d8843b" stroke="#22364a" stroke-width="2"/>
+  <text x="205" y="150" font-family="Arial, sans-serif" font-size="26" fill="#17324d">
+    Isolated local copper
+  </text>
+  <line x1="335" y1="158" x2="365" y2="270"
+        stroke="#17324d" stroke-width="2.3" marker-end="url(#arrowNavy)"/>
+
+  <!-- board stack -->
+  <rect x="170" y="293" width="560" height="300"
+        fill="none" stroke="#22364a" stroke-width="3"/>
+  <rect x="170" y="293" width="560" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+  <rect x="170" y="317" width="560" height="118"
+        fill="#d7e1c7" stroke="#22364a" stroke-width="1"/>
+  <rect x="170" y="435" width="560" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+  <rect x="170" y="459" width="560" height="110"
+        fill="#e7dbad" stroke="#22364a" stroke-width="1"/>
+  <rect x="170" y="569" width="560" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+
+  <!-- deliberately isolated copper island inside board -->
+  <rect x="340" y="435" width="220" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+
+  <!-- heat arrows concentrated near source -->
+  <line x1="450" y1="230" x2="450" y2="345"
+        stroke="#c85f2c" stroke-width="6" marker-end="url(#arrowWarm)"/>
+  <line x1="410" y1="307" x2="300" y2="307"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="490" y1="307" x2="600" y2="307"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- bottleneck cue -->
+  <text x="450" y="680" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17324d">
+    Heat remains concentrated
+  </text>
+  <text x="450" y="718" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="25" fill="#56697b">
+    Local copper is not connected to a larger path
+  </text>
+
+  <text x="225" y="505" font-family="Arial, sans-serif" font-size="25" fill="#17324d">
+    No vertical copper connection
+  </text>
+  <text x="225" y="536" font-family="Arial, sans-serif" font-size="23" fill="#56697b">
+    Heat must cross dielectric
+  </text>
+  <line x1="430" y1="510" x2="455" y2="390"
+        stroke="#17324d" stroke-width="2.2" marker-end="url(#arrowNavy)"/>
+
+  <!-- RIGHT PANEL -->
+  <text x="1350" y="80" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17324d">
+    Useful thermal path
+  </text>
+
+  <!-- component -->
+  <rect x="1200" y="170" width="300" height="95" rx="7"
+        fill="#8e969e" stroke="#22364a" stroke-width="3"/>
+  <text x="1350" y="227" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="29" fill="#ffffff">
+    Hot component
+  </text>
+
+  <!-- thermal land -->
+  <rect x="1235" y="265" width="230" height="28"
+        fill="#d8843b" stroke="#22364a" stroke-width="2"/>
+
+  <!-- board stack -->
+  <rect x="1070" y="293" width="560" height="300"
+        fill="none" stroke="#22364a" stroke-width="3"/>
+  <rect x="1070" y="293" width="560" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+  <rect x="1070" y="317" width="560" height="118"
+        fill="#d7e1c7" stroke="#22364a" stroke-width="1"/>
+  <rect x="1070" y="435" width="560" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+  <rect x="1070" y="459" width="560" height="110"
+        fill="#e7dbad" stroke="#22364a" stroke-width="1"/>
+  <rect x="1070" y="569" width="560" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+
+  <!-- continuous internal copper plane emphasis -->
+  <rect x="1070" y="435" width="560" height="24"
+        fill="#d8843b" stroke="#22364a" stroke-width="1.2"/>
+
+  <!-- thermal vias (plated hollow barrels) -->
+  <g>
+    <rect x="1250" y="293" width="34" height="300" fill="#d8843b" stroke="#22364a" stroke-width="1.3"/>
+    <rect x="1260" y="293" width="14" height="300" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
+    <rect x="1333" y="293" width="34" height="300" fill="#d8843b" stroke="#22364a" stroke-width="1.3"/>
+    <rect x="1343" y="293" width="14" height="300" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
+    <rect x="1416" y="293" width="34" height="300" fill="#d8843b" stroke="#22364a" stroke-width="1.3"/>
+    <rect x="1426" y="293" width="14" height="300" fill="#ffffff" stroke="#22364a" stroke-width="1"/>
+  </g>
+
+  <!-- component-to-land heat -->
+  <line x1="1310" y1="235" x2="1310" y2="262"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="1390" y1="235" x2="1390" y2="262"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- vertical via heat along barrel walls -->
+  <line x1="1278" y1="320" x2="1278" y2="545"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="1361" y1="320" x2="1361" y2="545"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="1444" y1="320" x2="1444" y2="545"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- lateral spreading in plane -->
+  <line x1="1320" y1="447" x2="1135" y2="447"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+  <line x1="1380" y1="447" x2="1565" y2="447"
+        stroke="#c85f2c" stroke-width="5" marker-end="url(#arrowWarm)"/>
+
+  <!-- lower copper spreading -->
+  <line x1="1320" y1="581" x2="1165" y2="581"
+        stroke="#c85f2c" stroke-width="4.5" marker-end="url(#arrowWarm)"/>
+  <line x1="1380" y1="581" x2="1535" y2="581"
+        stroke="#c85f2c" stroke-width="4.5" marker-end="url(#arrowWarm)"/>
+
+  <!-- right labels -->
+  <text x="1495" y="170" font-family="Arial, sans-serif" font-size="26" fill="#17324d">
+    Thermal land
+  </text>
+  <line x1="1480" y1="180" x2="1455" y2="275"
+        stroke="#17324d" stroke-width="2.2" marker-end="url(#arrowNavy)"/>
+
+  <text x="1510" y="335" font-family="Arial, sans-serif" font-size="26" fill="#17324d">
+    Thermal vias
+  </text>
+  <line x1="1490" y1="342" x2="1448" y2="360"
+        stroke="#17324d" stroke-width="2.2" marker-end="url(#arrowNavy)"/>
+
+  <text x="1500" y="500" font-family="Arial, sans-serif" font-size="25" fill="#17324d">
+    Connected copper plane
+  </text>
+  <line x1="1480" y1="492" x2="1435" y2="448"
+        stroke="#17324d" stroke-width="2.2" marker-end="url(#arrowNavy)"/>
+
+  <text x="1350" y="680" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17324d">
+    Complete heat path
+  </text>
+  <text x="1350" y="718" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="25" fill="#56697b">
+    Collect → conduct → spread → continue to the next thermal destination
+  </text>
+
+  <!-- shared comparison note -->
+  <text x="900" y="865" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="31" fill="#667788">
+    Same heat source; path connectivity is the key difference
+  </text>
+</svg>
