@@ -687,3 +687,64 @@ not:
 > **Draft -> redesign -> redesign again -> redesign again**
 
 The final figure should look like a refined version of the selected baseline, not like an unrelated new figure.
+
+---
+
+## 26. Editable SVG Deliverable Requirements
+
+For diagrammatic technical figures, the final candidate should normally include both the publication PNG and an editable SVG when the user requests manual-edit capability or when vector geometry is the appropriate source format.
+
+The final SVG should:
+
+- be true vector artwork rather than a raster image embedded inside an SVG wrapper;
+- keep text editable where practical;
+- keep major objects, arrows, dimensions, leaders, and labels as separate editable vector objects;
+- define explicit `width`, `height`, and `viewBox` values;
+- use `preserveAspectRatio="xMidYMid meet"`;
+- preserve adequate outer margins and avoid clipping;
+- use a canvas/aspect ratio large enough to accommodate the content without shrinking important text below readable book size.
+
+If the figure is too crowded, enlarge or reshape the SVG canvas before reducing label size excessively.
+
+## 27. Multi-Resolution Render QA
+
+Before recommending a final candidate, render and inspect the figure at multiple sizes. The normal checks are:
+
+- native authoring size;
+- approximately 1600 px width;
+- approximately 1200 px width;
+- approximately 900 px width, representing the common mdBook display size.
+
+At each size check:
+
+- text readability;
+- line and arrow visibility;
+- dimension clarity;
+- leader-line separation;
+- clipping;
+- relative visual balance.
+
+A figure that is only readable at full authoring resolution has not passed publication QA.
+
+## 28. Figure QA Records and Download Package
+
+For iterative figure-development workflows, preserve the artifacts needed to review and continue the work. When practical, provide:
+
+- every meaningful numbered PNG revision;
+- editable SVG revisions when they exist;
+- the recommended final-candidate PNG;
+- the recommended final-candidate SVG when applicable;
+- a `Figure Revision and QA Record.md` summarizing the revision progression and final checks;
+- an all-revisions ZIP archive.
+
+The user-facing response should contain actual download links to the requested files, not only local filesystem paths.
+
+## 29. User-Adjusted Figure Baseline
+
+If the project owner manually adjusts a figure or SVG and requests a targeted correction, treat the uploaded/adjusted file as the new visual baseline.
+
+- Modify only the requested object or defect unless another change is technically necessary to complete that correction.
+- Do not revert unrelated user adjustments.
+- Save the corrected artifact under a new filename.
+- Re-QA the modified region and confirm that surrounding content was not unintentionally changed.
+

@@ -290,7 +290,13 @@ Topics:
 
 **Key rule:** Typical numerical values may be used as documented examples, but never as universal IPC limits or universal manufacturer capabilities.
 
-Where useful, provide a clearly labeled **example fabricator capability table** for worked problems.
+Where useful, provide a clearly labeled **typical mainstream rigid-board capability/tolerance summary** so readers develop a realistic sense of engineering scale. Distinguish common minimum, preferred, and tighter/advanced capability where useful, and state clearly that the values are not universal IPC limits or a substitute for the selected fabricator's current capability table.
+
+**Planned figures:**
+
+- Figure 2.9.1 - Different Sources of PCB Manufacturing Limits and Requirements.
+- Figure 2.9.2 - Nominal Annular Ring and Manufacturing Variation.
+- Figure 2.9.3 - Where Typical PCB Fabrication Capabilities and Tolerances Act.
 
 ### 2.10 PCB Thickness, Flexural Stiffness, and Warpage
 
@@ -455,7 +461,7 @@ Provide deterministic Chapter 2 practice problems covering:
 - manufacturing-document/data interpretation;
 - standards-family role matching.
 
-Numerical questions should clearly identify all assumptions and any example fabricator capability table being used.
+Numerical questions should clearly identify all assumptions and any fabrication capability/tolerance data supplied for the problem.
 
 ### 2.16 Practice Problem Keys
 

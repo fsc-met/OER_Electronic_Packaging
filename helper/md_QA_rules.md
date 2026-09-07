@@ -40,14 +40,16 @@ Do not let outside sources replace the book's applied framing.
 
 ## 2. Outline Alignment
 
-Before drafting a section:
+Before drafting or revising a section:
 
-1. identify the exact section title from the approved Chapter outline;
-2. identify the section's instructional purpose;
-3. identify the required topics;
-4. identify topics intentionally deferred to later chapters;
-5. identify the transition from the previous section;
-6. identify the transition to the next section.
+1. read the current section revision if one already exists;
+2. identify the exact section title from the approved Chapter outline;
+3. identify the section's instructional purpose;
+4. identify the required topics;
+5. identify topics intentionally deferred to later chapters;
+6. identify the transition from the previous section;
+7. identify the transition to the next section;
+8. review the applicable project/helper rules and any already-approved figure specifications for the section.
 
 A section should not introduce major topics that belong elsewhere unless a short recognition-level preview is needed.
 
@@ -249,6 +251,8 @@ Use the standard HTML block:
 
 Do not rely on figure comments alone. The actual HTML image block must be present in the section Markdown.
 
+If a figure is planned but the artwork has not yet been generated, the public section should still contain the complete HTML image/caption block using the intended canonical `./images/...png` path, display width, alt text, and caption. The figure can then be dropped into place later without restructuring the section.
+
 ## 15. Figure/Prose Consistency QA
 
 After a figure is finalized, recheck the section prose.
@@ -262,6 +266,8 @@ Confirm that:
 - the text does not describe features no longer present in the accepted figure.
 
 If the figure changes materially, update the section file.
+
+After all planned figures for a section have been generated or materially revised, rerun the section QA as a whole. Recheck terminology, captions, alt text, process order, figure placement, section transitions, and the internal QA/acceptance status.
 
 ## 16. Section Takeaway QA
 
@@ -321,8 +327,11 @@ Before accepting a section, verify:
 - [ ] qualified wording is used where needed;
 - [ ] no major technical overstatement remains;
 - [ ] prose matches the intended applied introductory level and standalone-book voice;
+- [ ] specialized abbreviations and potentially unfamiliar technical terms are expanded or defined at first public use;
+- [ ] public prose does not expose internal curriculum/source-note language such as `the lecture says`, `the Chapter 2 notes`, or similar authoring provenance;
 - [ ] redundant content has been minimized;
 - [ ] figures are placed correctly;
+- [ ] every planned figure has its actual HTML image/caption block, even if final artwork is still pending;
 - [ ] figure filenames are correct;
 - [ ] captions match accepted figures;
 - [ ] alt text matches accepted figures;
@@ -330,7 +339,8 @@ Before accepting a section, verify:
 - [ ] section takeaway introduces no new material;
 - [ ] transition to the next section is explicit;
 - [ ] authoring notes are current;
-- [ ] provenance action is identified.
+- [ ] provenance action is identified;
+- [ ] if figures already exist, final figure/prose integration QA has been completed.
 
 ## 20. Revision Workflow
 
@@ -356,6 +366,14 @@ Review figure placement, captions, alt text, and terminology consistency.
 
 Check filename, mdBook compatibility, authoring notes, takeaway, and next-section transition.
 
+### Step 6 - Independent post-generation QA
+
+After the revised Markdown file is written, reopen/recheck the generated file rather than relying only on the drafting pass. Confirm that intended edits were applied, no unrelated content changed, figure blocks remain intact, and no new formatting or terminology defect was introduced.
+
+### Step 7 - Delivery / revision preservation
+
+Preserve the prior reviewed revision, save the new revision under a different filename, and provide the requested downloadable file. When several meaningful revisions are produced, identify the recommended current version and provide a revision archive when practical.
+
 Avoid unnecessary rewrites after the structure is working.
 
 Prefer **targeted corrections** over broad redesign.
@@ -375,6 +393,8 @@ Example:
 This avoids cached-file confusion and preserves revision history.
 
 Once a version is accepted, it may be copied into the canonical project filename.
+
+When a revised section is created for the project owner, provide an actual downloadable link to the new Markdown file. If multiple preserved revisions are relevant to the same review cycle, keep them available individually and package them together when practical.
 
 ## 22. Acceptance Rule
 

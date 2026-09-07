@@ -244,3 +244,18 @@ Before a public release, complete at least:
 - revision-history update.
 
 Use `publication_checklist.md` as the release gate.
+
+## 16. Revision, QA, Acceptance, and Artifact Delivery
+
+These rules apply whenever the project creates or revises a public section, figure, table, problem set, answer key, or related publication artifact.
+
+- Use a **new filename for every meaningful reviewed revision**. Do not overwrite a reviewed revision.
+- Preserve meaningful prior revisions so changes can be compared and recovered.
+- QA is **cyclic**: identify a concrete defect, make a targeted correction, recheck the result, and repeat only while a real issue remains.
+- Do not label an artifact `Final` while a known technical, pedagogical, visual, formatting, or integration issue remains unresolved.
+- A QA-reviewed artifact is a **final candidate**, not automatically the canonical project file. Copy or rename it to the canonical project filename only after explicit project-owner acceptance.
+- When the project owner requests a file for download, provide an actual downloadable file link rather than only a local filesystem path.
+- When a workflow produces multiple meaningful revisions, provide links to the preserved revisions, identify the recommended current candidate, and provide a consolidated archive when practical.
+- When a separate QA record is created, preserve it with the revision set.
+- Figure-specific editable-source, SVG, render-size, and revision-package requirements are governed by `figure_QA_rules.md` and `image_generation_rules.md`.
+

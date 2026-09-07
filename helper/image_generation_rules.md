@@ -51,7 +51,7 @@ Before generating or drawing a complex figure, define:
 - final caption;
 - technical sources used for verification.
 
-Use `templates/figure_specification.md`.
+Use the approved project figure-specification / suggested-content Markdown file. `templates/figure_specification.md` may be used to create that specification when needed.
 
 ## 5. Technical Correctness
 
@@ -149,3 +149,45 @@ Before publication check:
 - no source-like copied composition;
 - legible at typical laptop/tablet width;
 - acceptable in print output.
+
+## 12. Iterative Figure-Generation Workflow
+
+For technical figures that require review and refinement, use an iterative workflow rather than treating the first generated image as final.
+
+1. Review the surrounding section and the approved figure specification/suggested-content file.
+2. Create the first concept as a numbered revision such as `Rev1`; do not overwrite it later.
+3. Inspect the concept for technical, text, geometry, and layout defects.
+4. If the concept is structurally sound, make targeted revisions while preserving the established visual baseline.
+5. If exact geometry, dimensions, arrows, or text cannot be made reliable in the generated raster, rebuild/refine the figure as controlled vector artwork rather than forcing the raster concept to become the final technical source.
+6. Save every meaningful revision under a new filename and re-QA after each meaningful change.
+
+Follow `figure_QA_rules.md` for the detailed progressive-QA and acceptance process.
+
+## 13. Editable SVG Source
+
+When the figure is diagrammatic or the project owner requests manual-edit capability, provide an editable SVG with the final candidate.
+
+The SVG should:
+
+- use true vector geometry;
+- avoid an embedded raster image as the primary artwork;
+- keep text and major objects editable where practical;
+- define explicit `width`, `height`, and `viewBox`;
+- use `preserveAspectRatio="xMidYMid meet"`;
+- use an aspect ratio/canvas large enough to fit all content without clipping or excessive text reduction.
+
+## 14. Render-Size QA
+
+Before acceptance, inspect the figure at native resolution and at approximately 1600 px, 1200 px, and 900 px width.
+
+The 900 px render is especially important because it approximates the normal mdBook display width. Verify that labels, arrows, dimensions, and line weights remain readable.
+
+## 15. Revision Preservation, Acceptance, and Download Delivery
+
+- Do not overwrite meaningful figure revisions.
+- Preserve the numbered revision sequence.
+- A QA-reviewed revision is a **final candidate**, not automatically the canonical public file.
+- Create/copy the canonical publication filename only after explicit project-owner acceptance.
+- When iterative QA is requested, provide actual download links to the preserved revisions and identify the recommended candidate.
+- When practical, include the figure QA record and an all-revisions ZIP package.
+

@@ -15,6 +15,30 @@ Reference books, standards, technical papers, manufacturer resources, and reputa
 
 They are **references for knowledge and verification**, not source material to copy into the OER.
 
+## Project Source Priority and Roles
+
+For this OER, use the project sources according to their intended role:
+
+1. **Approved instructional materials** are the primary guide for scope, teaching emphasis, sequencing, and the level expected in the book.
+2. **Approved reference books** are the main secondary sources for technical verification, terminology, process clarification, and identifying oversimplifications.
+3. **Current authoritative standards, official resources, and manufacturer/fabricator technical data** are used for facts that are current, variable, process-dependent, or likely to have changed. When a current authoritative source conflicts with an older numerical or standards statement, resolve the discrepancy explicitly rather than silently preserving the older value.
+4. **General model knowledge** is supplementary only and should not override the project sources above.
+
+This hierarchy governs authoring decisions; it does not require the public book prose to expose the internal source workflow.
+
+## Public Book Voice and Internal Source Separation
+
+Internal authoring notes may record that a value or explanation came from instructional material, a reference book, a standard, or an online verification source. Public teaching prose should state the technical content directly.
+
+Do not write public sentences such as:
+
+- `the lecture says ...`;
+- `the Chapter 2 notes use ...`;
+- `the course teaches ...`;
+- `the instructional material gives ...`.
+
+When source attribution is needed publicly, cite the appropriate technical source in normal book/reference form. Keep curriculum provenance, QA comparisons, and source-reconciliation notes in internal authoring/provenance sections.
+
 ---
 
 ## Fundamental Rule
