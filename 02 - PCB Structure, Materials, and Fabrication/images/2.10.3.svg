@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1600"
+   height="1000"
+   viewBox="0 0 1600 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="2.10.3.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.58831284"
+     inkscape:cx="818.44211"
+     inkscape:cy="469.98804"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="12"
+       viewBox="0 0 12 12"
+       refX="10"
+       refY="6"
+       orient="auto">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#17324d"
+         id="path1" />
+    </marker>
+  </defs>
+  <line
+     x1="803.39954"
+     y1="82.604927"
+     x2="803.39954"
+     y2="852.60492"
+     stroke="#bcc6d1"
+     stroke-width="2"
+     id="line1" />
+  <text
+     x="371.10382"
+     y="91.20314"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="42px"
+     font-weight="700"
+     fill="#172f49"
+     id="text1">Bow</text>
+  <text
+     x="1233.9955"
+     y="92.902916"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="42px"
+     font-weight="700"
+     fill="#172f49"
+     id="text2">Twist</text>
+  <!-- Left reference plane -->
+  <polygon
+     points="555,625 645,558 185,558 95,625 "
+     fill="#f5f7f9"
+     stroke="#aeb9c5"
+     stroke-width="2.5"
+     stroke-dasharray="10, 8"
+     id="polygon2"
+     transform="translate(-1.6997759,-49.293502)" />
+  <text
+     x="118.30022"
+     y="710.70648"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     fill="#172f49"
+     id="text3">Reference plane</text>
+  <line
+     x1="198.30022"
+     y1="680.70648"
+     x2="198.30022"
+     y2="590.70648"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line3" />
+  <!-- Left board bow -->
+  <path
+     d="m 138.30022,560.7065 q 250,55 460,0 v 25 q -210,55 -460,0 z"
+     fill="#c8d9b6"
+     stroke="#1d3552"
+     stroke-width="2.5"
+     id="path3" />
+  <path
+     d="m 138.30022,560.7065 q 250,55 460,0 v 10 q -210,55 -460,0 z"
+     fill="#db8b3e"
+     stroke="#1d3552"
+     stroke-width="1.5"
+     id="path4" />
+  <path
+     d="m 138.30022,575.7065 q 250,55 460,0 v 10 q -210,55 -460,0 z"
+     fill="#db8b3e"
+     stroke="#1d3552"
+     stroke-width="1.5"
+     id="path5" />
+  <path
+     d="m 138.30022,560.7065 90,-60 q 160,25 370,0 v 60 q -210,55 -460,0 z"
+     fill="#cfe0bf"
+     stroke="#1d3552"
+     stroke-width="2.5"
+     id="path6" />
+  <path
+     d="m 138.30022,560.7065 90,-60"
+     stroke="#1d3552"
+     stroke-width="2.5"
+     id="path7" />
+  <path
+     d="m 598.30022,560.7065 v -60"
+     stroke="#1d3552"
+     stroke-width="2.5"
+     id="path8" />
+  <path
+     d="m 228.30022,500.7065 q 160,25 370,0"
+     fill="none"
+     stroke="#1d3552"
+     stroke-width="2.5"
+     id="path9" />
+  <path
+     d="m 228.30022,500.7065 q 160,10 370,0"
+     fill="none"
+     stroke="#db8b3e"
+     stroke-width="5"
+     id="path10" />
+  <path
+     d="m 138.30022,568.7065 q 250,55 460,0"
+     fill="none"
+     stroke="#db8b3e"
+     stroke-width="4"
+     id="path11" />
+  <text
+     x="363.30023"
+     y="190.7065"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     fill="#172f49"
+     id="text11">Smooth curvature</text>
+  <line
+     x1="363.30023"
+     y1="210.7065"
+     x2="358.30023"
+     y2="460.70651"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line11" />
+  <text
+     x="498.30023"
+     y="740.70648"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     fill="#172f49"
+     id="text12">Corners approximately</text>
+  <text
+     x="498.30023"
+     y="770.70648"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     fill="#172f49"
+     id="text13">coplanar</text>
+  <line
+     x1="453.30023"
+     y1="710.70648"
+     x2="183.30022"
+     y2="560.70648"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line13" />
+  <line
+     x1="573.30023"
+     y1="710.70648"
+     x2="593.30023"
+     y2="582.70648"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line14" />
+  <!-- Right reference plane -->
+  <polygon
+     points="1415,625 1505,558 1045,558 955,625 "
+     fill="#f5f7f9"
+     stroke="#aeb9c5"
+     stroke-width="2.5"
+     stroke-dasharray="10, 8"
+     id="polygon14"
+     transform="translate(-1.6997759,-49.293502)" />
+  <text
+     x="978.30023"
+     y="710.70648"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     fill="#172f49"
+     id="text14">Reference plane</text>
+  <line
+     x1="1058.3002"
+     y1="680.70648"
+     x2="1058.3002"
+     y2="590.70648"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line15" />
+  <!-- Right board twist -->
+  <polygon
+     points="1340,615 1455,530 1135,515 1015,595 "
+     fill="#d3e2c4"
+     stroke="#1d3552"
+     stroke-width="2.5"
+     id="polygon15"
+     transform="translate(-1.6997759,-49.293502)" />
+  <polygon
+     points="1340,615 1340,628 1015,608 1015,595 "
+     fill="#db8b3e"
+     stroke="#1d3552"
+     stroke-width="1.5"
+     id="polygon16"
+     transform="translate(-1.6997759,-49.293502)" />
+  <polygon
+     points="1455,530 1455,543 1340,628 1340,615 "
+     fill="#d68638"
+     stroke="#1d3552"
+     stroke-width="1.5"
+     id="polygon17"
+     transform="translate(-1.6997759,-49.293502)" />
+  <polygon
+     points="1340,628 1455,543 1135,528 1015,608 "
+     fill="#c8d9b6"
+     stroke="#1d3552"
+     stroke-width="1.5"
+     opacity="0"
+     id="polygon18"
+     transform="translate(-1.6997759,-49.293502)" />
+  <line
+     x1="1133.3002"
+     y1="465.70651"
+     x2="1453.3002"
+     y2="480.70651"
+     stroke="#1d3552"
+     stroke-width="2.5"
+     id="line19" />
+  <line
+     x1="1013.3002"
+     y1="545.70648"
+     x2="1133.3002"
+     y2="465.70651"
+     stroke="#1d3552"
+     stroke-width="2.5"
+     id="line20" />
+  <line
+     x1="1453.3002"
+     y1="480.70651"
+     x2="1453.3002"
+     y2="493.70651"
+     stroke="#1d3552"
+     stroke-width="2.5"
+     id="line21" />
+  <text
+     x="1268.3002"
+     y="195.7065"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     fill="#172f49"
+     id="text21">Diagonal out-of-plane</text>
+  <text
+     x="1268.3002"
+     y="225.7065"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     fill="#172f49"
+     id="text22">deformation</text>
+  <line
+     x1="1243.3002"
+     y1="245.7065"
+     x2="1233.3002"
+     y2="450.70651"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line22" />
+  <text
+     x="1318.3002"
+     y="740.70648"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     fill="#172f49"
+     id="text23">Corners no longer</text>
+  <text
+     x="1318.3002"
+     y="770.70648"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     fill="#172f49"
+     id="text24">coplanar</text>
+  <line
+     x1="1288.3002"
+     y1="710.70648"
+     x2="1448.3002"
+     y2="502.70651"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line24" />
+  <line
+     x1="1208.3002"
+     y1="710.70648"
+     x2="1348.3002"
+     y2="575.70648"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line25" />
+</svg>

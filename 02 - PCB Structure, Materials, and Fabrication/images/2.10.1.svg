@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1672"
+   height="697"
+   viewBox="0 0 1672 697"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg44"
+   sodipodi:docname="2.10.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.10.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview44"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.44208289"
+     inkscape:cx="960.22717"
+     inkscape:cy="408.29447"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg44"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1"
+     x="2.2620192"
+     y="2.2620192" />
+  <defs
+     id="defs3">
+    <marker
+       style="overflow:visible"
+       id="marker44"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path44" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#173b5c"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowSmall"
+       markerWidth="8"
+       markerHeight="8"
+       refX="6"
+       refY="4"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 8,4 0,8 Z"
+         fill="#111827"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowSmallStart"
+       markerWidth="8"
+       markerHeight="8"
+       refX="2"
+       refY="4"
+       orient="auto-start-reverse"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 8,4 0,8 Z"
+         fill="#111827"
+         id="path3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker44-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path44-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker44-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path44-2" />
+    </marker>
+  </defs>
+  <!-- Left inset -->
+  <rect
+     x="33.834137"
+     y="56.471157"
+     width="335"
+     height="596"
+     rx="4"
+     fill="none"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="rect3" />
+  <!-- Cross-section -->
+  <rect
+     x="66.834137"
+     y="221.47115"
+     width="208"
+     height="71"
+     fill="#c9d7b8"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="rect4" />
+  <rect
+     x="66.834137"
+     y="221.47115"
+     width="208"
+     height="8"
+     fill="#e58b47"
+     stroke="#1b2a3a"
+     stroke-width="1.5"
+     id="rect5" />
+  <rect
+     x="66.834137"
+     y="284.47116"
+     width="208"
+     height="8"
+     fill="#e58b47"
+     stroke="#1b2a3a"
+     stroke-width="1.5"
+     id="rect6" />
+  <!-- b dimension -->
+  <line
+     x1="67.834137"
+     y1="186.47115"
+     x2="273.83414"
+     y2="186.47115"
+     stroke="#111827"
+     stroke-width="2"
+     marker-start="url(#arrowSmallStart)"
+     marker-end="url(#arrowSmall)"
+     id="line6" />
+  <line
+     x1="67.834137"
+     y1="173.47115"
+     x2="67.834137"
+     y2="206.47115"
+     stroke="#111827"
+     stroke-width="2"
+     id="line7" />
+  <line
+     x1="273.83414"
+     y1="173.47115"
+     x2="273.83414"
+     y2="206.47115"
+     stroke="#111827"
+     stroke-width="2"
+     id="line8" />
+  <text
+     x="170.83414"
+     y="174.47115"
+     text-anchor="middle"
+     font-family="Georgia, serif"
+     font-size="38px"
+     font-style="italic"
+     fill="#111827"
+     id="text8">b</text>
+  <!-- t dimension -->
+  <line
+     x1="300.83414"
+     y1="222.47115"
+     x2="300.83414"
+     y2="291.47116"
+     stroke="#111827"
+     stroke-width="2"
+     marker-start="url(#arrowSmallStart)"
+     marker-end="url(#arrowSmall)"
+     id="line9" />
+  <line
+     x1="284.83414"
+     y1="222.47115"
+     x2="315.83414"
+     y2="222.47115"
+     stroke="#111827"
+     stroke-width="2"
+     id="line10" />
+  <line
+     x1="284.83414"
+     y1="291.47116"
+     x2="315.83414"
+     y2="291.47116"
+     stroke="#111827"
+     stroke-width="2"
+     id="line11" />
+  <text
+     x="323.83414"
+     y="267.47116"
+     font-family="Georgia, serif"
+     font-size="38px"
+     font-style="italic"
+     fill="#111827"
+     id="text11">t</text>
+  <!-- Equation -->
+  <text
+     x="106.83414"
+     y="430.47116"
+     font-family="Georgia, serif"
+     font-size="42px"
+     font-style="italic"
+     fill="#111827"
+     id="text12">I =</text>
+  <text
+     x="196.83414"
+     y="403.47116"
+     font-family="Georgia, serif"
+     font-size="42px"
+     font-style="italic"
+     fill="#111827"
+     id="text13">bt³</text>
+  <line
+     x1="192.83414"
+     y1="417.47116"
+     x2="265.83414"
+     y2="417.47116"
+     stroke="#111827"
+     stroke-width="2"
+     id="line13" />
+  <text
+     x="209.83414"
+     y="458.47116"
+     font-family="Georgia, serif"
+     font-size="39px"
+     fill="#111827"
+     id="text14">12</text>
+  <text
+     x="69.834137"
+     y="543.47113"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#16263a"
+     id="text15">First-order</text>
+  <text
+     x="69.834137"
+     y="575.47113"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#16263a"
+     id="text16">rectangular-section</text>
+  <text
+     x="69.834137"
+     y="607.47113"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#16263a"
+     id="text17">model</text>
+  <!-- Main heading -->
+  <text
+     x="593.83417"
+     y="95.471153"
+     font-family="Arial, sans-serif"
+     font-size="39px"
+     fill="#15263a"
+     id="text18">Same load</text>
+  <text
+     x="799.83417"
+     y="95.471153"
+     font-family="Arial, sans-serif"
+     font-size="39px"
+     fill="#15263a"
+     id="text19">|</text>
+  <text
+     x="840.83417"
+     y="95.471153"
+     font-family="Arial, sans-serif"
+     font-size="39px"
+     fill="#15263a"
+     id="text20">Same span</text>
+  <text
+     x="1055.8341"
+     y="95.471153"
+     font-family="Arial, sans-serif"
+     font-size="39px"
+     fill="#15263a"
+     id="text21">|</text>
+  <text
+     x="1102.8341"
+     y="95.471153"
+     font-family="Arial, sans-serif"
+     font-size="39px"
+     fill="#15263a"
+     id="text22">Same material</text>
+  <!-- Beam 1 -->
+  <text
+     x="581.83417"
+     y="200.47115"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#16263a"
+     id="text23">Same load</text>
+  <line
+     x1="581.83417"
+     y1="247.13942"
+     x2="581.83417"
+     y2="307.12631"
+     stroke="#173b5c"
+     stroke-width="13"
+     marker-end="url(#arrow)"
+     id="line23"
+     style="stroke-width:2.8177;stroke-dasharray:none;marker-end:url(#marker44)" />
+  <line
+     x1="1017.4839"
+     y1="236.73317"
+     x2="1017.4839"
+     y2="296.72006"
+     stroke="#173b5c"
+     stroke-width="13"
+     marker-end="url(#arrow)"
+     id="line23-3"
+     style="stroke-width:2.8177;stroke-dasharray:none;marker-end:url(#marker44-2)" />
+  <line
+     x1="405.83414"
+     y1="290.47116"
+     x2="756.83417"
+     y2="290.47116"
+     stroke="#173b5c"
+     stroke-width="2.5"
+     stroke-dasharray="10, 10"
+     id="line24" />
+  <path
+     d="m 405.83414,294.47115 q 176,62 351,0 v 25 q -175,56 -351,0 z"
+     fill="#c9d7b8"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="path24" />
+  <path
+     d="m 405.83414,294.47115 q 176,57 351,0 v 8 q -175,57 -351,0 z"
+     fill="#e58b47"
+     stroke="#1b2a3a"
+     stroke-width="1.5"
+     id="path25" />
+  <path
+     d="m 405.83414,311.47115 q 176,56 351,0 v 8 q -175,56 -351,0 z"
+     fill="#e58b47"
+     stroke="#1b2a3a"
+     stroke-width="1.5"
+     id="path26" />
+  <polygon
+     points="390,431 373,455 407,455 "
+     fill="#b8bec5"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="polygon26"
+     transform="translate(15.834135,-106.3149)" />
+  <circle
+     cx="756.83417"
+     cy="336.68509"
+     r="13"
+     fill="#b8bec5"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="circle26" />
+  <line
+     x1="405.83414"
+     y1="382.68509"
+     x2="756.83417"
+     y2="382.68509"
+     stroke="#111827"
+     stroke-width="2"
+     marker-start="url(#arrowSmallStart)"
+     marker-end="url(#arrowSmall)"
+     id="line26" />
+  <line
+     x1="405.83414"
+     y1="362.68509"
+     x2="405.83414"
+     y2="398.68509"
+     stroke="#111827"
+     stroke-width="2"
+     id="line27" />
+  <line
+     x1="756.83417"
+     y1="362.68509"
+     x2="756.83417"
+     y2="398.68509"
+     stroke="#111827"
+     stroke-width="2"
+     id="line28" />
+  <text
+     x="581.83417"
+     y="417.68509"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#16263a"
+     id="text28">Same span</text>
+  <text
+     x="581.83417"
+     y="488.24399"
+     text-anchor="middle"
+     font-family="Georgia, serif"
+     font-size="34px"
+     font-weight="bold"
+     fill="#111827"
+     id="text29">1.00t → 1.00 × I</text>
+  <!-- Beam 2 -->
+  <text
+     x="1016.8342"
+     y="200.47115"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#16263a"
+     id="text30">Same load</text>
+  <line
+     x1="839.83417"
+     y1="290.47116"
+     x2="1192.8341"
+     y2="290.47116"
+     stroke="#173b5c"
+     stroke-width="2.5"
+     stroke-dasharray="10, 10"
+     id="line31" />
+  <path
+     d="m 839.83414,294.47115 q 177.00006,36 353.00006,0 v 33 q -176,34 -353.00006,0 z"
+     fill="#c9d7b8"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="path31" />
+  <path
+     d="m 839.83414,294.47115 q 177.00006,30 353.00006,0 v 8 q -176,30 -353.00006,0 z"
+     fill="#e58b47"
+     stroke="#1b2a3a"
+     stroke-width="1.5"
+     id="path32" />
+  <path
+     d="m 839.83414,312.68509 q 177.00006,34 353.00006,0 v 8 q -176,34 -353.00006,0 z"
+     fill="#e58b47"
+     stroke="#1b2a3a"
+     stroke-width="1.5"
+     id="path33" />
+  <polygon
+     points="824,439 807,463 841,463 "
+     fill="#b8bec5"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="polygon33"
+     transform="translate(15.834135,-106.3149)" />
+  <circle
+     cx="1192.8341"
+     cy="344.68509"
+     r="13"
+     fill="#b8bec5"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="circle33" />
+  <line
+     x1="839.83417"
+     y1="382.68509"
+     x2="1192.8341"
+     y2="382.68509"
+     stroke="#111827"
+     stroke-width="2"
+     marker-start="url(#arrowSmallStart)"
+     marker-end="url(#arrowSmall)"
+     id="line33" />
+  <line
+     x1="839.83417"
+     y1="362.68509"
+     x2="839.83417"
+     y2="398.68509"
+     stroke="#111827"
+     stroke-width="2"
+     id="line34" />
+  <line
+     x1="1192.8341"
+     y1="362.68509"
+     x2="1192.8341"
+     y2="398.68509"
+     stroke="#111827"
+     stroke-width="2"
+     id="line35" />
+  <text
+     x="1016.8342"
+     y="417.68509"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#16263a"
+     id="text35">Same span</text>
+  <text
+     x="1016.8342"
+     y="488.24399"
+     text-anchor="middle"
+     font-family="Georgia, serif"
+     font-size="34px"
+     font-weight="bold"
+     fill="#111827"
+     id="text36">1.25t → 1.95 × I</text>
+  <!-- Beam 3 -->
+  <text
+     x="1448.8341"
+     y="200.47115"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#16263a"
+     id="text37">Same load</text>
+  <line
+     x1="1277.8341"
+     y1="290.47116"
+     x2="1631.8341"
+     y2="290.47116"
+     stroke="#173b5c"
+     stroke-width="2.5"
+     stroke-dasharray="10, 10"
+     id="line38" />
+  <path
+     d="m 1277.8342,294.47115 q 177,17 354,0 v 38 q -177,17 -354,0 z"
+     fill="#c9d7b8"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="path38" />
+  <path
+     d="m 1277.8342,294.47115 q 177,13 354,0 v 8 q -177,13 -354,0 z"
+     fill="#e58b47"
+     stroke="#1b2a3a"
+     stroke-width="1.5"
+     id="path39" />
+  <path
+     d="m 1277.8342,317.68509 q 177,17 354,0 v 8 q -177,17 -354,0 z"
+     fill="#e58b47"
+     stroke="#1b2a3a"
+     stroke-width="1.5"
+     id="path40" />
+  <polygon
+     points="1262,444 1245,468 1279,468 "
+     fill="#b8bec5"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="polygon40"
+     transform="translate(15.834135,-106.3149)" />
+  <circle
+     cx="1631.8341"
+     cy="349.68509"
+     r="13"
+     fill="#b8bec5"
+     stroke="#1b2a3a"
+     stroke-width="2"
+     id="circle40" />
+  <line
+     x1="1277.8341"
+     y1="382.68509"
+     x2="1631.8341"
+     y2="382.68509"
+     stroke="#111827"
+     stroke-width="2"
+     marker-start="url(#arrowSmallStart)"
+     marker-end="url(#arrowSmall)"
+     id="line40" />
+  <line
+     x1="1277.8341"
+     y1="362.68509"
+     x2="1277.8341"
+     y2="398.68509"
+     stroke="#111827"
+     stroke-width="2"
+     id="line41" />
+  <line
+     x1="1631.8341"
+     y1="362.68509"
+     x2="1631.8341"
+     y2="398.68509"
+     stroke="#111827"
+     stroke-width="2"
+     id="line42" />
+  <text
+     x="1454.8341"
+     y="417.68509"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="31px"
+     fill="#16263a"
+     id="text42">Same span</text>
+  <text
+     x="1454.8341"
+     y="488.24399"
+     text-anchor="middle"
+     font-family="Georgia, serif"
+     font-size="34px"
+     font-weight="bold"
+     fill="#111827"
+     id="text43">1.50t → 3.38 × I</text>
+  <!-- Bottom trend -->
+  <line
+     x1="467.83414"
+     y1="555.24396"
+     x2="1564.8341"
+     y2="555.24396"
+     stroke="#173b5c"
+     stroke-width="3"
+     marker-end="url(#arrow)"
+     id="line43" />
+  <text
+     x="1015.8342"
+     y="608.24396"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="34px"
+     fill="#16263a"
+     id="text44">Less deflection as thickness increases</text>
+  <line
+     x1="1455.9886"
+     y1="224.40144"
+     x2="1455.9886"
+     y2="284.38834"
+     stroke="#173b5c"
+     stroke-width="13"
+     marker-end="url(#arrow)"
+     id="line23-7"
+     style="stroke-width:2.8177;stroke-dasharray:none;marker-end:url(#marker44-5)" />
+</svg>
