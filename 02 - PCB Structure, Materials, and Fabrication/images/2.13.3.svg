@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1050"
+   viewBox="0 0 1800 1050"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg42"
+   sodipodi:docname="2.13.3.svg"
+   inkscape:export-filename="2.13.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.56029794"
+     inkscape:cx="923.61574"
+     inkscape:cy="513.11986"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg42" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       id="arrow"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="12"
+       viewBox="0 0 12 12"
+       refX="10"
+       refY="6"
+       orient="auto">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#28445d"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowFeedback"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="12"
+       viewBox="0 0 12 12"
+       refX="10"
+       refY="6"
+       orient="auto">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#8a5b3a"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- MAIN FLOW -->
+  <rect
+     x="37.24184"
+     y="135.08949"
+     width="287.30106"
+     height="229.82101"
+     rx="16.088861"
+     fill="#e7f0f7"
+     stroke="#9eb4c6"
+     stroke-width="2.67899"
+     id="rect2" />
+  <text
+     x="183.56953"
+     y="190"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="700"
+     fill="#17324d"
+     id="text2">Controlled</text>
+  <text
+     x="183.56953"
+     y="226"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="700"
+     fill="#17324d"
+     id="text3">engineering release</text>
+  <line
+     x1="98.569527"
+     y1="255"
+     x2="268.56952"
+     y2="255"
+     stroke="#b3c2cf"
+     stroke-width="2"
+     id="line3" />
+  <text
+     x="183.56953"
+     y="298"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#56697b"
+     id="text4">Authorized bare-board</text>
+  <text
+     x="183.56953"
+     y="328"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#56697b"
+     id="text5">manufacturing definition</text>
+  <rect
+     x="364.63242"
+     y="135"
+     width="250"
+     height="230"
+     rx="14"
+     fill="#eef3e7"
+     stroke="#a9b99b"
+     stroke-width="2.5"
+     id="rect5" />
+  <text
+     x="489.63242"
+     y="188"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="27px"
+     font-weight="700"
+     fill="#17324d"
+     id="text6">Supplier capability</text>
+  <text
+     x="489.63242"
+     y="224"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="27px"
+     font-weight="700"
+     fill="#17324d"
+     id="text7">/ CAM review</text>
+  <line
+     x1="404.63242"
+     y1="255"
+     x2="574.63239"
+     y2="255"
+     stroke="#bdc9b5"
+     stroke-width="2"
+     id="line7" />
+  <text
+     x="489.63242"
+     y="298"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#56697b"
+     id="text8">Check completeness,</text>
+  <text
+     x="489.63242"
+     y="328"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#56697b"
+     id="text9">capability, and conflicts</text>
+  <rect
+     x="654.63239"
+     y="135"
+     width="225"
+     height="230"
+     rx="14"
+     fill="#f6edd3"
+     stroke="#c8b67b"
+     stroke-width="2.5"
+     id="rect9" />
+  <text
+     x="767.13239"
+     y="208"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     fill="#17324d"
+     id="text10">Fabrication</text>
+  <line
+     x1="694.63239"
+     y1="255"
+     x2="839.63239"
+     y2="255"
+     stroke="#d0c295"
+     stroke-width="2"
+     id="line10" />
+  <text
+     x="767.13239"
+     y="298"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#56697b"
+     id="text11">Build to the</text>
+  <text
+     x="767.13239"
+     y="328"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#56697b"
+     id="text12">controlled release</text>
+  <rect
+     x="919.63239"
+     y="105"
+     width="285"
+     height="290"
+     rx="14"
+     fill="#eef0f6"
+     stroke="#a7adc2"
+     stroke-width="2.5"
+     id="rect12" />
+  <text
+     x="1062.1324"
+     y="160"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     fill="#17324d"
+     id="text13">Verification</text>
+  <line
+     x1="959.63239"
+     y1="188"
+     x2="1164.6324"
+     y2="188"
+     stroke="#bdc2d1"
+     stroke-width="2"
+     id="line13" />
+  <text
+     x="1062.1324"
+     y="232"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#17324d"
+     id="text14">Electrical</text>
+  <text
+     x="1062.1324"
+     y="270"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#17324d"
+     id="text15">Visual / dimensional</text>
+  <text
+     x="1062.1324"
+     y="308"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#17324d"
+     id="text16">Coupon / microsection</text>
+  <text
+     x="1062.1324"
+     y="338"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#56697b"
+     id="text17">when required</text>
+  <text
+     x="1062.1324"
+     y="375"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#667788"
+     id="text18">Against released requirements</text>
+  <rect
+     x="1244.6324"
+     y="135"
+     width="260"
+     height="230"
+     rx="14"
+     fill="#f3eee6"
+     stroke="#bcae9a"
+     stroke-width="2.5"
+     id="rect18" />
+  <text
+     x="1374.6324"
+     y="190"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="700"
+     fill="#17324d"
+     id="text19">Quality evidence</text>
+  <line
+     x1="1284.6324"
+     y1="220"
+     x2="1464.6324"
+     y2="220"
+     stroke="#c8bcab"
+     stroke-width="2"
+     id="line19" />
+  <text
+     x="1374.6324"
+     y="265"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#17324d"
+     id="text20">Inspection / test records</text>
+  <text
+     x="1374.6324"
+     y="305"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#17324d"
+     id="text21">Traceability / conformance</text>
+  <text
+     x="1374.6324"
+     y="335"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#17324d"
+     id="text22">records</text>
+  <rect
+     x="1544.6324"
+     y="135"
+     width="220"
+     height="230"
+     rx="14"
+     fill="#e7f0f7"
+     stroke="#9eb4c6"
+     stroke-width="2.5"
+     id="rect22" />
+  <text
+     x="1654.6324"
+     y="195"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="700"
+     fill="#17324d"
+     id="text23">Verified</text>
+  <text
+     x="1654.6324"
+     y="231"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="700"
+     fill="#17324d"
+     id="text24">bare PCB</text>
+  <rect
+     x="1589.6324"
+     y="270"
+     width="130"
+     height="62"
+     rx="5"
+     fill="#d9e2c8"
+     stroke="#657a64"
+     stroke-width="2"
+     id="rect24" />
+  <circle
+     cx="1609.6324"
+     cy="288"
+     r="6"
+     fill="#ffffff"
+     stroke="#657a64"
+     stroke-width="1.6"
+     id="circle24" />
+  <circle
+     cx="1699.6324"
+     cy="288"
+     r="6"
+     fill="#ffffff"
+     stroke="#657a64"
+     stroke-width="1.6"
+     id="circle25" />
+  <circle
+     cx="1609.6324"
+     cy="314"
+     r="6"
+     fill="#ffffff"
+     stroke="#657a64"
+     stroke-width="1.6"
+     id="circle26" />
+  <circle
+     cx="1699.6324"
+     cy="314"
+     r="6"
+     fill="#ffffff"
+     stroke="#657a64"
+     stroke-width="1.6"
+     id="circle27" />
+  <!-- MAIN FLOW ARROWS -->
+  <line
+     x1="324.63242"
+     y1="250"
+     x2="354.63242"
+     y2="250"
+     stroke="#28445d"
+     stroke-width="4.5"
+     marker-end="url(#arrow)"
+     id="line27" />
+  <line
+     x1="614.63239"
+     y1="250"
+     x2="644.63239"
+     y2="250"
+     stroke="#28445d"
+     stroke-width="4.5"
+     marker-end="url(#arrow)"
+     id="line28" />
+  <line
+     x1="879.63239"
+     y1="250"
+     x2="909.63239"
+     y2="250"
+     stroke="#28445d"
+     stroke-width="4.5"
+     marker-end="url(#arrow)"
+     id="line29" />
+  <line
+     x1="1204.6324"
+     y1="250"
+     x2="1234.6324"
+     y2="250"
+     stroke="#28445d"
+     stroke-width="4.5"
+     marker-end="url(#arrow)"
+     id="line30" />
+  <line
+     x1="1504.6324"
+     y1="250"
+     x2="1534.6324"
+     y2="250"
+     stroke="#28445d"
+     stroke-width="4.5"
+     marker-end="url(#arrow)"
+     id="line31" />
+  <!-- requirement-verification-evidence cue -->
+  <text
+     x="1217.6324"
+     y="445"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#667788"
+     id="text31">Requirement → verification → evidence</text>
+  <!-- FEEDBACK / ENGINEERING RESOLUTION LOOP -->
+  <g
+     id="g42"
+     transform="translate(19.632412)">
+    <!-- branch from review -->
+    <text
+       x="495"
+       y="435"
+       font-family="Arial, sans-serif"
+       font-size="20px"
+       fill="#6f5b4d"
+       id="text32">If concern</text>
+    <line
+       x1="470"
+       y1="365"
+       x2="470"
+       y2="500"
+       stroke="#8a5b3a"
+       stroke-width="4"
+       marker-end="url(#arrowFeedback)"
+       id="line32" />
+    <rect
+       x="250"
+       y="525"
+       width="440"
+       height="125"
+       rx="12"
+       fill="#fbf3ec"
+       stroke="#c5a58b"
+       stroke-width="2.5"
+       id="rect32" />
+    <text
+       x="470"
+       y="558"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24px"
+       font-weight="700"
+       fill="#6f472e"
+       id="text33">Question / conflict /</text>
+    <text
+       x="470"
+       y="590"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24px"
+       font-weight="700"
+       fill="#6f472e"
+       id="text34">capability concern</text>
+    <text
+       x="470"
+       y="625"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="19px"
+       fill="#6f5b4d"
+       id="text35">No undocumented shop-floor assumption</text>
+    <line
+       x1="690"
+       y1="587"
+       x2="775"
+       y2="587"
+       stroke="#8a5b3a"
+       stroke-width="4"
+       marker-end="url(#arrowFeedback)"
+       id="line35" />
+    <rect
+       x="795"
+       y="525"
+       width="315"
+       height="125"
+       rx="12"
+       fill="#f4e8dd"
+       stroke="#bc9576"
+       stroke-width="2.5"
+       id="rect35" />
+    <text
+       x="952.5"
+       y="578"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="26px"
+       font-weight="700"
+       fill="#6f472e"
+       id="text36">Engineering resolution</text>
+    <text
+       x="952.5"
+       y="616"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="20px"
+       fill="#6f5b4d"
+       id="text37">Documented authorization</text>
+    <line
+       x1="1110"
+       y1="587"
+       x2="1185"
+       y2="587"
+       stroke="#8a5b3a"
+       stroke-width="4"
+       marker-end="url(#arrowFeedback)"
+       id="line37" />
+    <rect
+       x="1205"
+       y="505"
+       width="450"
+       height="165"
+       rx="12"
+       fill="#fbf3ec"
+       stroke="#c5a58b"
+       stroke-width="2.5"
+       id="rect37" />
+    <text
+       x="1430"
+       y="548"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24px"
+       font-weight="700"
+       fill="#6f472e"
+       id="text38">Controlled outcome</text>
+    <text
+       x="1430"
+       y="585"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21px"
+       fill="#17324d"
+       id="text39">Clarification</text>
+    <text
+       x="1430"
+       y="615"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21px"
+       fill="#17324d"
+       id="text40">Authorized deviation</text>
+    <text
+       x="1430"
+       y="645"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21px"
+       fill="#17324d"
+       id="text41">Design change / updated release</text>
+    <!-- return path to controlled release / review -->
+    <path
+       d="M 1430,670 V 810 H 180 V 380"
+       fill="none"
+       stroke="#8a5b3a"
+       stroke-width="4"
+       marker-end="url(#arrowFeedback)"
+       id="path41" />
+    <text
+       x="820"
+       y="850"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21px"
+       fill="#6f5b4d"
+       id="text42">Return to controlled release / review before fabrication</text>
+  </g>
+</svg>
