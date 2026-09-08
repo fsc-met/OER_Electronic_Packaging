@@ -38,7 +38,7 @@ The book assumes:
 - introductory thermodynamics and heat-transfer knowledge;
 - only limited experience with circuits, PCB design, or electronics manufacturing.
 
-Chapter 1 provides the electrical, semiconductor, device, circuit, and manufacturing foundations needed for the packaging topics that follow.
+Chapter 1 provides the electrical, semiconductor, device, circuit, and manufacturing foundations needed for the packaging topics that follow. Chapter 2 then develops the physical and manufacturing foundations of the bare PCB before the book moves into DFM, assembly, electrical, thermal, mechanical, and reliability topics.
 
 ## How to Use This Book
 
@@ -80,7 +80,9 @@ The book is being developed chapter by chapter.
 
 **Chapter 1 - Introduction to Electronic Packaging** has completed its current development and QA milestone, including the chapter summary, deterministic practice problems, and synchronized problem keys.
 
-Chapters 2 through 8 remain under development.
+**Chapter 2 - PCB Structure, Materials, and Fabrication** has also completed its current development and QA milestone. The chapter now covers the bare PCB from physical structure and materials through copper features, vias and holes, surface finishes, rigid multilayer fabrication, manufacturing capabilities and tolerances, stiffness and warpage, thermal behavior, bare-board defects, manufacturing-data quality, supplier communication, and verification. It includes the chapter summary, deterministic practice problems, synchronized problem keys, and the planned original instructional figures.
+
+**Chapters 3 through 8 remain under development.**
 
 The detailed table of contents will be added to this README after the complete first draft is finished and the full book structure has undergone a book-level review.
 
