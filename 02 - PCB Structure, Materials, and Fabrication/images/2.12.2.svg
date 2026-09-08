@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1200"
+   viewBox="0 0 1800 1200"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg44"
+   sodipodi:docname="2.12.2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.12.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview44"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.4902607"
+     inkscape:cx="1039.243"
+     inkscape:cy="731.2436"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg44"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="12"
+       viewBox="0 0 12 12"
+       refX="10"
+       refY="6"
+       orient="auto">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#17324d"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- helper styles are represented directly in vector objects -->
+  <!-- PANEL 1: NORMAL REFERENCE -->
+  <g
+     id="g8">
+    <rect
+       x="55"
+       y="70"
+       width="520"
+       height="465"
+       rx="8"
+       fill="#ffffff"
+       stroke="#c7d0d9"
+       stroke-width="2"
+       id="rect2" />
+    <text
+       x="315"
+       y="120"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="34"
+       font-weight="700"
+       fill="#17324d"
+       id="text2">Normal reference</text>
+    <!-- board -->
+    <rect
+       x="120"
+       y="190"
+       width="390"
+       height="240"
+       fill="#d8e3c9"
+       stroke="#405466"
+       stroke-width="2"
+       id="rect3" />
+    <!-- internal copper plane -->
+    <rect
+       x="120"
+       y="298"
+       width="390"
+       height="18"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect4" />
+    <!-- top and bottom pads -->
+    <rect
+       x="215"
+       y="176"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect5" />
+    <rect
+       x="215"
+       y="416"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect6" />
+    <!-- barrel + hole -->
+    <rect
+       x="270"
+       y="190"
+       width="90"
+       height="240"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.4"
+       id="rect7" />
+    <rect
+       x="286"
+       y="190"
+       width="58"
+       height="240"
+       fill="#ffffff"
+       stroke="#405466"
+       stroke-width="1.2"
+       id="rect8" />
+    <text
+       x="315"
+       y="485"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24"
+       fill="#56697b"
+       id="text8">Centered hole; continuous plated barrel</text>
+  </g>
+  <!-- PANEL 2: REGISTRATION / BREAKOUT -->
+  <g
+     id="g18">
+    <rect
+       x="640"
+       y="70"
+       width="520"
+       height="465"
+       rx="8"
+       fill="#ffffff"
+       stroke="#c7d0d9"
+       stroke-width="2"
+       id="rect9" />
+    <text
+       x="900"
+       y="108"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="31"
+       font-weight="700"
+       fill="#17324d"
+       id="text9">Registration error /</text>
+    <text
+       x="900"
+       y="142"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="31"
+       font-weight="700"
+       fill="#17324d"
+       id="text10">annular-ring breakout</text>
+    <rect
+       x="705"
+       y="190"
+       width="390"
+       height="240"
+       fill="#d8e3c9"
+       stroke="#405466"
+       stroke-width="2"
+       id="rect10" />
+    <rect
+       x="705"
+       y="298"
+       width="390"
+       height="18"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect11" />
+    <rect
+       x="800"
+       y="176"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect12" />
+    <rect
+       x="800"
+       y="416"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect13" />
+    <!-- intended centerline -->
+    <line
+       x1="900"
+       y1="165"
+       x2="900"
+       y2="454"
+       stroke="#aab5bf"
+       stroke-width="2"
+       stroke-dasharray="8,7"
+       id="line13" />
+    <!-- actual hole shifted right -->
+    <rect
+       x="915"
+       y="190"
+       width="90"
+       height="240"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.4"
+       id="rect14" />
+    <rect
+       x="931"
+       y="190"
+       width="58"
+       height="240"
+       fill="#ffffff"
+       stroke="#405466"
+       stroke-width="1.2"
+       id="rect15" />
+    <!-- show breakout by masking pad edge around actual hole -->
+    <rect
+       x="985"
+       y="176"
+       width="15"
+       height="28"
+       fill="#ffffff"
+       id="rect16" />
+    <rect
+       x="985"
+       y="416"
+       width="15"
+       height="28"
+       fill="#ffffff"
+       id="rect17" />
+    <text
+       x="1035"
+       y="250"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       fill="#17324d"
+       id="text17">Breakout</text>
+    <line
+       x1="1018"
+       y1="255"
+       x2="992"
+       y2="202"
+       stroke="#17324d"
+       stroke-width="2.3"
+       marker-end="url(#arrow)"
+       id="line17" />
+    <text
+       x="900"
+       y="485"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24"
+       fill="#56697b"
+       id="text18">Hole shifted relative to intended land center</text>
+  </g>
+  <!-- PANEL 3: PLATING VOID -->
+  <g
+     id="g26">
+    <rect
+       x="1225"
+       y="70"
+       width="520"
+       height="465"
+       rx="8"
+       fill="#ffffff"
+       stroke="#c7d0d9"
+       stroke-width="2"
+       id="rect18" />
+    <text
+       x="1485"
+       y="120"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="34"
+       font-weight="700"
+       fill="#17324d"
+       id="text19">Plating void</text>
+    <rect
+       x="1290"
+       y="190"
+       width="390"
+       height="240"
+       fill="#d8e3c9"
+       stroke="#405466"
+       stroke-width="2"
+       id="rect19" />
+    <rect
+       x="1290"
+       y="298"
+       width="390"
+       height="18"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect20" />
+    <rect
+       x="1385"
+       y="176"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect21" />
+    <rect
+       x="1385"
+       y="416"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect22" />
+    <rect
+       x="1440"
+       y="190"
+       width="90"
+       height="240"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.4"
+       id="rect23" />
+    <rect
+       x="1456"
+       y="190"
+       width="58"
+       height="240"
+       fill="#ffffff"
+       stroke="#405466"
+       stroke-width="1.2"
+       id="rect24" />
+    <!-- local missing plating on right barrel wall -->
+    <rect
+       x="1514"
+       y="280"
+       width="16"
+       height="58"
+       fill="#d8e3c9"
+       id="rect25" />
+    <path
+       d="M1514 280 C1504 290,1506 305,1514 312 C1505 320,1507 330,1514 338"
+       fill="none"
+       stroke="#405466"
+       stroke-width="1.3"
+       id="path25" />
+    <text
+       x="1600"
+       y="260"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       fill="#17324d"
+       id="text25">Local void</text>
+    <line
+       x1="1585"
+       y1="266"
+       x2="1525"
+       y2="298"
+       stroke="#17324d"
+       stroke-width="2.3"
+       marker-end="url(#arrow)"
+       id="line25" />
+    <text
+       x="1485"
+       y="485"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24"
+       fill="#56697b"
+       id="text26">Local discontinuity in copper barrel wall</text>
+  </g>
+  <!-- PANEL 4: THIN / NONUNIFORM PLATING -->
+  <g
+     id="g35">
+    <rect
+       x="350"
+       y="630"
+       width="520"
+       height="465"
+       rx="8"
+       fill="#ffffff"
+       stroke="#c7d0d9"
+       stroke-width="2"
+       id="rect26" />
+    <text
+       x="610"
+       y="680"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="32"
+       font-weight="700"
+       fill="#17324d"
+       id="text27">Thin / nonuniform plating</text>
+    <rect
+       x="415"
+       y="750"
+       width="390"
+       height="240"
+       fill="#d8e3c9"
+       stroke="#405466"
+       stroke-width="2"
+       id="rect27" />
+    <rect
+       x="415"
+       y="858"
+       width="390"
+       height="18"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect28" />
+    <rect
+       x="510"
+       y="736"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect29" />
+    <rect
+       x="510"
+       y="976"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect30" />
+    <!-- left wall normal, right wall thin -->
+    <rect
+       x="565"
+       y="750"
+       width="18"
+       height="240"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1"
+       id="rect31" />
+    <rect
+       x="637"
+       y="750"
+       width="8"
+       height="240"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1"
+       id="rect32" />
+    <rect
+       x="583"
+       y="750"
+       width="54"
+       height="240"
+       fill="#ffffff"
+       stroke="#405466"
+       stroke-width="1.2"
+       id="rect33" />
+    <text
+       x="690"
+       y="810"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       fill="#17324d"
+       id="text33">Thin barrel</text>
+    <text
+       x="690"
+       y="842"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       fill="#17324d"
+       id="text34">wall</text>
+    <line
+       x1="675"
+       y1="835"
+       x2="646"
+       y2="845"
+       stroke="#17324d"
+       stroke-width="2.3"
+       marker-end="url(#arrow)"
+       id="line34" />
+    <text
+       x="610"
+       y="1045"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24"
+       fill="#56697b"
+       id="text35">Plating present, but thickness is not uniform</text>
+  </g>
+  <!-- PANEL 5: BARREL CRACK -->
+  <g
+     id="g43">
+    <rect
+       x="930"
+       y="630"
+       width="520"
+       height="465"
+       rx="8"
+       fill="#ffffff"
+       stroke="#c7d0d9"
+       stroke-width="2"
+       id="rect35" />
+    <text
+       x="1190"
+       y="680"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="34"
+       font-weight="700"
+       fill="#17324d"
+       id="text36">Barrel crack</text>
+    <rect
+       x="995"
+       y="750"
+       width="390"
+       height="240"
+       fill="#d8e3c9"
+       stroke="#405466"
+       stroke-width="2"
+       id="rect36" />
+    <rect
+       x="995"
+       y="858"
+       width="390"
+       height="18"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect37" />
+    <rect
+       x="1090"
+       y="736"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect38" />
+    <rect
+       x="1090"
+       y="976"
+       width="200"
+       height="28"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.2"
+       id="rect39" />
+    <rect
+       x="1145"
+       y="750"
+       width="90"
+       height="240"
+       fill="#d9853c"
+       stroke="#7c4a1e"
+       stroke-width="1.4"
+       id="rect40" />
+    <rect
+       x="1161"
+       y="750"
+       width="58"
+       height="240"
+       fill="#ffffff"
+       stroke="#405466"
+       stroke-width="1.2"
+       id="rect41" />
+    <!-- transverse crack across right copper barrel wall -->
+    <path
+       d="M1219 856 L1225 851 L1235 860"
+       fill="none"
+       stroke="#7a2f2f"
+       stroke-width="4"
+       id="path41" />
+    <path
+       d="M1219 866 L1226 871 L1235 862"
+       fill="none"
+       stroke="#7a2f2f"
+       stroke-width="4"
+       id="path42" />
+    <text
+       x="1283.2848"
+       y="787.36432"
+       font-family="Arial, sans-serif"
+       font-size="27px"
+       fill="#17324d"
+       id="text42"><tspan
+         sodipodi:role="line"
+         id="tspan44"
+         x="1283.2848"
+         y="787.36432">Crack in</tspan><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         x="1283.2848"
+         y="821.11432">plated barrel</tspan></text>
+    <line
+       x1="1290.9095"
+       y1="831.96869"
+       x2="1231.7489"
+       y2="861.15051"
+       stroke="#17324d"
+       stroke-width="1.9589"
+       marker-end="url(#arrow)"
+       id="line42" />
+    <text
+       x="1190"
+       y="1045"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24"
+       fill="#56697b"
+       id="text43">Crack interrupts or weakens conductive wall</text>
+  </g>
+  <text
+     x="900"
+     y="1155"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="25"
+     fill="#667788"
+     id="text44">Conceptual PCB cross-sections — copper thickness exaggerated for clarity</text>
+</svg>

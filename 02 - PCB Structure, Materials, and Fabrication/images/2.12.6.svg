@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1100"
+   viewBox="0 0 1800 1100"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg66"
+   sodipodi:docname="2.12.5.svg"
+   inkscape:export-filename="2.12.5.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview66"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.53482986"
+     inkscape:cx="786.23135"
+     inkscape:cy="631.04181"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg66" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="12"
+       viewBox="0 0 12 12"
+       refX="10"
+       refY="6"
+       orient="auto">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#17324d"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- Main seven-step workflow -->
+  <!-- Step 1 -->
+  <g
+     id="g5">
+    <rect
+       x="55"
+       y="95"
+       width="210"
+       height="205"
+       rx="10"
+       fill="#eef5fb"
+       stroke="#6f9fc6"
+       stroke-width="2"
+       id="rect2" />
+    <text
+       x="160"
+       y="145"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="29"
+       font-weight="700"
+       fill="#17324d"
+       id="text2">Observed</text>
+    <text
+       x="160"
+       y="180"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="29"
+       font-weight="700"
+       fill="#17324d"
+       id="text3">condition</text>
+    <text
+       x="160"
+       y="230"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="23"
+       fill="#56697b"
+       id="text4">Document what</text>
+    <text
+       x="160"
+       y="260"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="23"
+       fill="#56697b"
+       id="text5">is actually seen</text>
+  </g>
+  <!-- Step 2 -->
+  <g
+     id="g9">
+    <rect
+       x="300"
+       y="95"
+       width="210"
+       height="205"
+       rx="10"
+       fill="#f1f7f1"
+       stroke="#80aa87"
+       stroke-width="2"
+       id="rect5" />
+    <text
+       x="405"
+       y="145"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="29"
+       font-weight="700"
+       fill="#17324d"
+       id="text6">Locate defect</text>
+    <text
+       x="405"
+       y="180"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="29"
+       font-weight="700"
+       fill="#17324d"
+       id="text7">family</text>
+    <text
+       x="405"
+       y="230"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text8">Where in the PCB</text>
+    <text
+       x="405"
+       y="258"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text9">does it occur?</text>
+  </g>
+  <!-- Step 3 -->
+  <g
+     id="g14"
+     transform="matrix(1.0354478,0,0,0.99982944,-26.780609,0.03368636)">
+    <rect
+       x="545"
+       y="95"
+       width="210"
+       height="205"
+       rx="10"
+       fill="#fbf6e9"
+       stroke="#c8a454"
+       stroke-width="2"
+       id="rect9" />
+    <text
+       x="650"
+       y="132"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="26px"
+       font-weight="700"
+       fill="#17324d"
+       id="text10">Identify</text>
+    <text
+       x="650"
+       y="163"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="26px"
+       font-weight="700"
+       fill="#17324d"
+       id="text11">physical</text>
+    <text
+       x="650"
+       y="194"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="26px"
+       font-weight="700"
+       fill="#17324d"
+       id="text12">mechanism</text>
+    <text
+       x="650"
+       y="238"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21px"
+       fill="#56697b"
+       id="text13">What structure or</text>
+    <text
+       x="650"
+       y="265"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21px"
+       fill="#56697b"
+       id="text14">process has changed?</text>
+  </g>
+  <!-- Step 4 -->
+  <g
+     id="g18">
+    <rect
+       x="790"
+       y="95"
+       width="210"
+       height="205"
+       rx="10"
+       fill="#f7f3fb"
+       stroke="#9a81b5"
+       stroke-width="2"
+       id="rect14" />
+    <text
+       x="895"
+       y="145"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#17324d"
+       id="text15">List plausible</text>
+    <text
+       x="895"
+       y="179"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#17324d"
+       id="text16">causes</text>
+    <text
+       x="895"
+       y="230"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text17">Treat causes as</text>
+    <text
+       x="895"
+       y="258"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text18">hypotheses</text>
+  </g>
+  <!-- Step 5 -->
+  <g
+     id="g22">
+    <rect
+       x="1035"
+       y="95"
+       width="210"
+       height="205"
+       rx="10"
+       fill="#eef4fa"
+       stroke="#718eae"
+       stroke-width="2"
+       id="rect18" />
+    <text
+       x="1140"
+       y="145"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#17324d"
+       id="text19">Gather</text>
+    <text
+       x="1140"
+       y="179"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#17324d"
+       id="text20">evidence</text>
+    <text
+       x="1140"
+       y="230"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text21">Confirm or rule</text>
+    <text
+       x="1140"
+       y="258"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text22">out hypotheses</text>
+  </g>
+  <!-- Step 6 -->
+  <g
+     id="g26">
+    <rect
+       x="1280"
+       y="95"
+       width="210"
+       height="205"
+       rx="10"
+       fill="#fbf0f0"
+       stroke="#b87979"
+       stroke-width="2"
+       id="rect22" />
+    <text
+       x="1385"
+       y="145"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#17324d"
+       id="text23">Confirm</text>
+    <text
+       x="1385"
+       y="179"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#17324d"
+       id="text24">cause</text>
+    <text
+       x="1385"
+       y="230"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text25">Use the evidence,</text>
+    <text
+       x="1385"
+       y="258"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text26">not assumption</text>
+  </g>
+  <!-- Step 7 -->
+  <g
+     id="g31">
+    <rect
+       x="1525"
+       y="95"
+       width="220"
+       height="205"
+       rx="10"
+       fill="#eef5fb"
+       stroke="#6f9fc6"
+       stroke-width="2"
+       id="rect26" />
+    <text
+       x="1635"
+       y="145"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#17324d"
+       id="text27">Corrective</text>
+    <text
+       x="1635"
+       y="179"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#17324d"
+       id="text28">action</text>
+    <text
+       x="1635"
+       y="225"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21"
+       fill="#56697b"
+       id="text29">Correct process,</text>
+    <text
+       x="1635"
+       y="251"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21"
+       fill="#56697b"
+       id="text30">design, or inspection</text>
+    <text
+       x="1635"
+       y="277"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21"
+       fill="#56697b"
+       id="text31">control</text>
+  </g>
+  <!-- Main-flow arrows -->
+  <line
+     x1="265"
+     y1="198"
+     x2="292"
+     y2="198"
+     stroke="#17324d"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line31" />
+  <line
+     x1="510"
+     y1="198"
+     x2="537"
+     y2="198"
+     stroke="#17324d"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line32" />
+  <line
+     x1="755"
+     y1="198"
+     x2="782"
+     y2="198"
+     stroke="#17324d"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line33" />
+  <line
+     x1="1000"
+     y1="198"
+     x2="1027"
+     y2="198"
+     stroke="#17324d"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line34" />
+  <line
+     x1="1245"
+     y1="198"
+     x2="1272"
+     y2="198"
+     stroke="#17324d"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line35" />
+  <line
+     x1="1490"
+     y1="198"
+     x2="1517"
+     y2="198"
+     stroke="#17324d"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line36" />
+  <!-- Defect-family categories under Step 2 -->
+  <rect
+     x="258.22516"
+     y="335.05295"
+     width="291.67987"
+     height="169.89407"
+     rx="8.9747658"
+     fill="#ffffff"
+     stroke="#b9c6d2"
+     stroke-width="1.90592"
+     id="rect36" />
+  <text
+     x="405"
+     y="370"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="23"
+     font-weight="700"
+     fill="#17324d"
+     id="text36">Defect family</text>
+  <text
+     x="405"
+     y="402"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21"
+     fill="#56697b"
+     id="text37">Copper pattern</text>
+  <text
+     x="405"
+     y="428"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21"
+     fill="#56697b"
+     id="text38">Hole / plating</text>
+  <text
+     x="405"
+     y="454"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21"
+     fill="#56697b"
+     id="text39">Laminate / interface</text>
+  <text
+     x="405"
+     y="480"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="21"
+     fill="#56697b"
+     id="text40">Surface condition • Geometry</text>
+  <line
+     x1="405"
+     y1="300"
+     x2="405"
+     y2="327"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line40" />
+  <!-- Evidence examples under Step 5 -->
+  <rect
+     x="984.41003"
+     y="335.01926"
+     width="313.04974"
+     height="169.96147"
+     rx="8.3479939"
+     fill="#ffffff"
+     stroke="#b9c6d2"
+     stroke-width="1.83852"
+     id="rect40" />
+  <text
+     x="1140"
+     y="370"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="23"
+     font-weight="700"
+     fill="#17324d"
+     id="text41">Evidence examples</text>
+  <text
+     x="1140"
+     y="402"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     fill="#56697b"
+     id="text42">Electrical test • Optical inspection</text>
+  <text
+     x="1140"
+     y="430"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     fill="#56697b"
+     id="text43">Dimensional measurement</text>
+  <text
+     x="1140"
+     y="458"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     fill="#56697b"
+     id="text44">Microsection</text>
+  <text
+     x="1140"
+     y="486"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     fill="#56697b"
+     id="text45">Process / lot history</text>
+  <line
+     x1="1140"
+     y1="300"
+     x2="1140"
+     y2="327"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrow)"
+     id="line45" />
+  <!-- central rule -->
+  <text
+     x="900"
+     y="565"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="30"
+     font-weight="700"
+     fill="#17324d"
+     id="text46">A visible defect is evidence — not proof of one assumed root cause</text>
+  <!-- Compact worked example -->
+  <rect
+     x="70"
+     y="625"
+     width="1660"
+     height="350"
+     rx="12"
+     fill="#fbfcfd"
+     stroke="#9fb2c3"
+     stroke-width="2"
+     id="rect46" />
+  <text
+     x="900"
+     y="675"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="30"
+     font-weight="700"
+     fill="#17324d"
+     id="text47">Compact example: open net / plating void</text>
+  <!-- Example boxes -->
+  <g
+     id="g50">
+    <rect
+       x="115"
+       y="725"
+       width="260"
+       height="165"
+       rx="8"
+       fill="#eef5fb"
+       stroke="#6f9fc6"
+       stroke-width="2"
+       id="rect47" />
+    <text
+       x="245"
+       y="770"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#17324d"
+       id="text48">Open net</text>
+    <text
+       x="245"
+       y="820"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text49">Observed electrical</text>
+    <text
+       x="245"
+       y="848"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text50">discontinuity</text>
+  </g>
+  <g
+     id="g53">
+    <rect
+       x="430"
+       y="725"
+       width="280"
+       height="165"
+       rx="8"
+       fill="#f1f7f1"
+       stroke="#80aa87"
+       stroke-width="2"
+       id="rect50" />
+    <text
+       x="570"
+       y="770"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="26"
+       font-weight="700"
+       fill="#17324d"
+       id="text51">Plated-hole</text>
+    <text
+       x="570"
+       y="803"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="26"
+       font-weight="700"
+       fill="#17324d"
+       id="text52">discontinuity</text>
+    <text
+       x="570"
+       y="848"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text53">Physical mechanism</text>
+  </g>
+  <g
+     id="g56">
+    <rect
+       x="765"
+       y="725"
+       width="265"
+       height="165"
+       rx="8"
+       fill="#f7f3fb"
+       stroke="#9a81b5"
+       stroke-width="2"
+       id="rect53" />
+    <text
+       x="898"
+       y="770"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="26"
+       font-weight="700"
+       fill="#17324d"
+       id="text54">Possible</text>
+    <text
+       x="898"
+       y="803"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="26"
+       font-weight="700"
+       fill="#17324d"
+       id="text55">plating void</text>
+    <text
+       x="898"
+       y="848"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="22"
+       fill="#56697b"
+       id="text56">Plausible cause</text>
+  </g>
+  <g
+     id="g59">
+    <rect
+       x="1085"
+       y="725"
+       width="285"
+       height="165"
+       rx="8"
+       fill="#eef4fa"
+       stroke="#718eae"
+       stroke-width="2"
+       id="rect56" />
+    <text
+       x="1228"
+       y="770"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="25"
+       font-weight="700"
+       fill="#17324d"
+       id="text57">Microsection</text>
+    <text
+       x="1228"
+       y="803"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="25"
+       font-weight="700"
+       fill="#17324d"
+       id="text58">confirms void</text>
+    <text
+       x="1228"
+       y="848"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21"
+       fill="#56697b"
+       id="text59">Evidence confirms plating void</text>
+  </g>
+  <g
+     id="g63">
+    <rect
+       x="1425"
+       y="725"
+       width="255"
+       height="165"
+       rx="8"
+       fill="#fbf0f0"
+       stroke="#b87979"
+       stroke-width="2"
+       id="rect59" />
+    <text
+       x="1552"
+       y="762"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24"
+       font-weight="700"
+       fill="#17324d"
+       id="text60">Correct hole</text>
+    <text
+       x="1552"
+       y="793"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24"
+       font-weight="700"
+       fill="#17324d"
+       id="text61">preparation /</text>
+    <text
+       x="1552"
+       y="824"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="24"
+       font-weight="700"
+       fill="#17324d"
+       id="text62">plating control</text>
+    <text
+       x="1552"
+       y="862"
+       text-anchor="middle"
+       font-family="Arial, sans-serif"
+       font-size="21"
+       fill="#56697b"
+       id="text63">Corrective action</text>
+  </g>
+  <!-- Example arrows -->
+  <line
+     x1="375"
+     y1="808"
+     x2="422"
+     y2="808"
+     stroke="#17324d"
+     stroke-width="3.5"
+     marker-end="url(#arrow)"
+     id="line63" />
+  <line
+     x1="710"
+     y1="808"
+     x2="757"
+     y2="808"
+     stroke="#17324d"
+     stroke-width="3.5"
+     marker-end="url(#arrow)"
+     id="line64" />
+  <line
+     x1="1030"
+     y1="808"
+     x2="1077"
+     y2="808"
+     stroke="#17324d"
+     stroke-width="3.5"
+     marker-end="url(#arrow)"
+     id="line65" />
+  <line
+     x1="1370"
+     y1="808"
+     x2="1417"
+     y2="808"
+     stroke="#17324d"
+     stroke-width="3.5"
+     marker-end="url(#arrow)"
+     id="line66" />
+  <text
+     x="900"
+     y="1035"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     fill="#667788"
+     id="text66">General workflow with one bare-board example</text>
+</svg>

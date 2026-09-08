@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1100"
+   viewBox="0 0 1800 1100"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg42"
+   sodipodi:docname="2.12.4.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="2.12.4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.75636363"
+     inkscape:cx="899.69952"
+     inkscape:cy="574.45914"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg42"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs3">
+    <marker
+       id="arrowNavy"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="12"
+       viewBox="0 0 12 12"
+       refX="10"
+       refY="6"
+       orient="auto">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#17324d"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowBlue"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="12"
+       viewBox="0 0 12 12"
+       refX="10"
+       refY="6"
+       orient="auto">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#3a78b8"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowCAF"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="12"
+       viewBox="0 0 12 12"
+       refX="10"
+       refY="6"
+       orient="auto">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#7c3b32"
+         id="path3" />
+    </marker>
+  </defs>
+  <!-- Main laminate region -->
+  <rect
+     x="250"
+     y="260"
+     width="1300"
+     height="560"
+     rx="6"
+     fill="#d9e2c8"
+     stroke="#405466"
+     stroke-width="3"
+     id="rect3" />
+  <!-- Simplified glass reinforcement: subtle grid -->
+  <g
+     stroke="#eef2e8"
+     stroke-width="4"
+     opacity="0.95"
+     id="g17">
+    <line
+       x1="310"
+       y1="320"
+       x2="1490"
+       y2="320"
+       id="line3" />
+    <line
+       x1="310"
+       y1="405"
+       x2="1490"
+       y2="405"
+       id="line4" />
+    <line
+       x1="310"
+       y1="490"
+       x2="1490"
+       y2="490"
+       id="line5" />
+    <line
+       x1="310"
+       y1="575"
+       x2="1490"
+       y2="575"
+       id="line6" />
+    <line
+       x1="310"
+       y1="660"
+       x2="1490"
+       y2="660"
+       id="line7" />
+    <line
+       x1="310"
+       y1="745"
+       x2="1490"
+       y2="745"
+       id="line8" />
+    <line
+       x1="390"
+       y1="290"
+       x2="390"
+       y2="790"
+       id="line9" />
+    <line
+       x1="520"
+       y1="290"
+       x2="520"
+       y2="790"
+       id="line10" />
+    <line
+       x1="650"
+       y1="290"
+       x2="650"
+       y2="790"
+       id="line11" />
+    <line
+       x1="780"
+       y1="290"
+       x2="780"
+       y2="790"
+       id="line12" />
+    <line
+       x1="910"
+       y1="290"
+       x2="910"
+       y2="790"
+       id="line13" />
+    <line
+       x1="1040"
+       y1="290"
+       x2="1040"
+       y2="790"
+       id="line14" />
+    <line
+       x1="1170"
+       y1="290"
+       x2="1170"
+       y2="790"
+       id="line15" />
+    <line
+       x1="1300"
+       y1="290"
+       x2="1300"
+       y2="790"
+       id="line16" />
+    <line
+       x1="1430"
+       y1="290"
+       x2="1430"
+       y2="790"
+       id="line17" />
+  </g>
+  <!-- Left plated conductor / via -->
+  <rect
+     x="395"
+     y="350"
+     width="140"
+     height="380"
+     fill="#d9853c"
+     stroke="#7c4a1e"
+     stroke-width="2"
+     id="rect17" />
+  <rect
+     x="425"
+     y="350"
+     width="80"
+     height="380"
+     fill="#ffffff"
+     stroke="#405466"
+     stroke-width="1.5"
+     id="rect18" />
+  <rect
+     x="350"
+     y="325"
+     width="230"
+     height="28"
+     fill="#d9853c"
+     stroke="#7c4a1e"
+     stroke-width="1.5"
+     id="rect19" />
+  <rect
+     x="350"
+     y="727"
+     width="230"
+     height="28"
+     fill="#d9853c"
+     stroke="#7c4a1e"
+     stroke-width="1.5"
+     id="rect20" />
+  <!-- Right plated conductor / via -->
+  <rect
+     x="1265"
+     y="350"
+     width="140"
+     height="380"
+     fill="#d9853c"
+     stroke="#7c4a1e"
+     stroke-width="2"
+     id="rect21" />
+  <rect
+     x="1295"
+     y="350"
+     width="80"
+     height="380"
+     fill="#ffffff"
+     stroke="#405466"
+     stroke-width="1.5"
+     id="rect22" />
+  <rect
+     x="1220"
+     y="325"
+     width="230"
+     height="28"
+     fill="#d9853c"
+     stroke="#7c4a1e"
+     stroke-width="1.5"
+     id="rect23" />
+  <rect
+     x="1220"
+     y="727"
+     width="230"
+     height="28"
+     fill="#d9853c"
+     stroke="#7c4a1e"
+     stroke-width="1.5"
+     id="rect24" />
+  <!-- Bias indicators -->
+  <text
+     x="465"
+     y="225"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#17324d"
+     id="text24">+</text>
+  <text
+     x="1335"
+     y="225"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#17324d"
+     id="text25">−</text>
+  <line
+     x1="525"
+     y1="210"
+     x2="1275"
+     y2="210"
+     stroke="#17324d"
+     stroke-width="3"
+     marker-end="url(#arrowNavy)"
+     id="line25" />
+  <text
+     x="935.69714"
+     y="244.64423"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     fill="#17324d"
+     id="text26">Electrical bias</text>
+  <!-- Moisture ingress -->
+  <g
+     fill="#75b8e6"
+     stroke="#3a78b8"
+     stroke-width="2"
+     id="g29">
+    <path
+       d="M700 120 C680 150,676 165,700 185 C724 165,720 150,700 120 Z"
+       id="path26" />
+    <path
+       d="M830 105 C810 137,806 152,830 172 C854 152,850 137,830 105 Z"
+       id="path27" />
+    <path
+       d="M970 115 C950 145,946 160,970 180 C994 160,990 145,970 115 Z"
+       id="path28" />
+    <path
+       d="M1090 100 C1070 132,1066 147,1090 167 C1114 147,1110 132,1090 100 Z"
+       id="path29" />
+  </g>
+  <line
+     x1="700"
+     y1="195"
+     x2="700"
+     y2="305"
+     stroke="#3a78b8"
+     stroke-width="4"
+     marker-end="url(#arrowBlue)"
+     id="line29" />
+  <line
+     x1="830"
+     y1="185"
+     x2="830"
+     y2="305"
+     stroke="#3a78b8"
+     stroke-width="4"
+     marker-end="url(#arrowBlue)"
+     id="line30" />
+  <line
+     x1="970"
+     y1="193"
+     x2="970"
+     y2="305"
+     stroke="#3a78b8"
+     stroke-width="4"
+     marker-end="url(#arrowBlue)"
+     id="line31" />
+  <line
+     x1="1090"
+     y1="180"
+     x2="1090"
+     y2="305"
+     stroke="#3a78b8"
+     stroke-width="4"
+     marker-end="url(#arrowBlue)"
+     id="line32" />
+  <text
+     x="900"
+     y="80"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="31"
+     font-weight="700"
+     fill="#3a78b8"
+     id="text32">Moisture</text>
+  <!-- Susceptible glass-resin path -->
+  <path
+     d="M535 560 C640 530,735 565,835 540 C940 515,1040 555,1265 520"
+     fill="none"
+     stroke="#f7f7f3"
+     stroke-width="16"
+     stroke-linecap="round"
+     id="path32" />
+  <path
+     d="M535 560 C640 530,735 565,835 540 C940 515,1040 555,1265 520"
+     fill="none"
+     stroke="#a9b59e"
+     stroke-width="2.5"
+     stroke-dasharray="8,7"
+     id="path33" />
+  <!-- Conceptual CAF path following the susceptible interface -->
+  <path
+     d="M560 558 C650 535,735 560,820 542 C910 523,1005 548,1110 532 C1170 523,1215 518,1242 520"
+     fill="none"
+     stroke="#7c3b32"
+     stroke-width="8"
+     stroke-linecap="round"
+     id="path34" />
+  <path
+     d="M650 543 L700 551 L748 549"
+     fill="none"
+     stroke="#7c3b32"
+     stroke-width="4"
+     id="path35" />
+  <path
+     d="M930 530 L970 538 L1015 536"
+     fill="none"
+     stroke="#7c3b32"
+     stroke-width="4"
+     id="path36" />
+  <!-- Ionic/electrochemical transport cue -->
+  <line
+     x1="760"
+     y1="505"
+     x2="930"
+     y2="520"
+     stroke="#7c3b32"
+     stroke-width="3"
+     marker-end="url(#arrowCAF)"
+     id="line36" />
+  <text
+     x="845"
+     y="475"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="25"
+     fill="#7c3b32"
+     id="text36">Ionic / electrochemical transport</text>
+  <!-- Labels and leaders -->
+  <text
+     x="230"
+     y="385"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     fill="#17324d"
+     id="text37">Conductor</text>
+  <line
+     x1="240"
+     y1="390"
+     x2="392"
+     y2="405"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrowNavy)"
+     id="line37" />
+  <text
+     x="1570"
+     y="385"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     fill="#17324d"
+     id="text38">Conductor</text>
+  <line
+     x1="1555"
+     y1="390"
+     x2="1408"
+     y2="405"
+     stroke="#17324d"
+     stroke-width="2.5"
+     marker-end="url(#arrowNavy)"
+     id="line38" />
+  <text
+     x="610"
+     y="885"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#17324d"
+     id="text39">Conductors initially isolated by laminate</text>
+  <text
+     x="1254.0385"
+     y="872"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     fill="#17324d"
+     id="text40">Susceptible glass-resin path</text>
+  <line
+     x1="1187.2869"
+     y1="841.30273"
+     x2="1085.4331"
+     y2="549.02411"
+     stroke="#17324d"
+     stroke-width="3.79918"
+     marker-end="url(#arrowNavy)"
+     id="line40"
+     style="stroke-width:2.4;stroke-dasharray:none" />
+  <text
+     x="1180"
+     y="915"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="26"
+     fill="#7c3b32"
+     id="text41">Conceptual CAF growth path</text>
+  <line
+     x1="1065"
+     y1="888"
+     x2="1015"
+     y2="538"
+     stroke="#7c3b32"
+     stroke-width="2.4"
+     marker-end="url(#arrowCAF)"
+     id="line41" />
+  <text
+     x="900"
+     y="985"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="25"
+     fill="#667788"
+     id="text42">Conceptual reinforced-laminate cross-section — not to scale</text>
+</svg>
