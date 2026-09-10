@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1850"
+   height="850"
+   viewBox="0 0 1850 850"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg45"
+   sodipodi:docname="3.2.1.svg"
+   inkscape:export-filename="3.2.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.56606048"
+     inkscape:cx="1004.3097"
+     inkscape:cy="297.67137"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg45" />
+  <rect
+     x="0"
+     y="0"
+     width="1850.4807"
+     height="850.96155"
+     fill="#ffffff"
+     id="rect1"
+     style="stroke-width:0.935322" />
+  <defs
+     id="defs2">
+    <marker
+       id="arrow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#355b75"
+         id="path1" />
+    </marker>
+    <marker
+       id="feedbackArrow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#6a7f90"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- Main stage connectors -->
+  <g
+     fill="none"
+     stroke="#355b75"
+     stroke-width="6"
+     marker-end="url(#arrow)"
+     id="g8"
+     transform="translate(0,-84.134616)">
+    <line
+       x1="240"
+       y1="300"
+       x2="258"
+       y2="300"
+       id="line2" />
+    <line
+       x1="455"
+       y1="300"
+       x2="473"
+       y2="300"
+       id="line3" />
+    <line
+       x1="670"
+       y1="300"
+       x2="688"
+       y2="300"
+       id="line4" />
+    <line
+       x1="885"
+       y1="300"
+       x2="903"
+       y2="300"
+       id="line5" />
+    <line
+       x1="1100"
+       y1="300"
+       x2="1118"
+       y2="300"
+       id="line6" />
+    <line
+       x1="1315"
+       y1="300"
+       x2="1333"
+       y2="300"
+       id="line7" />
+    <line
+       x1="1530"
+       y1="300"
+       x2="1548"
+       y2="300"
+       id="line8" />
+  </g>
+  <!-- Stage 1 -->
+  <g
+     id="stage-design-intent"
+     transform="translate(0,-84.134616)">
+    <rect
+       x="50"
+       y="175"
+       width="190"
+       height="250"
+       rx="20"
+       fill="#f2f7fb"
+       stroke="#577a95"
+       stroke-width="3"
+       id="rect8" />
+    <text
+       x="145"
+       y="225"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="28px"
+       font-weight="700"
+       fill="#243746"
+       id="text8">Design intent</text>
+    <text
+       x="145"
+       y="265"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#536572"
+       id="text9">Requirements</text>
+    <text
+       x="145"
+       y="294"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#536572"
+       id="text10">and constraints</text>
+    <!-- document icon -->
+    <rect
+       x="111"
+       y="326"
+       width="68"
+       height="70"
+       rx="5"
+       fill="#ffffff"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="rect10" />
+    <line
+       x1="124"
+       y1="344"
+       x2="165"
+       y2="344"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="line10" />
+    <line
+       x1="124"
+       y1="360"
+       x2="165"
+       y2="360"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="line11" />
+    <line
+       x1="124"
+       y1="376"
+       x2="154"
+       y2="376"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="line12" />
+  </g>
+  <!-- Stage 2 -->
+  <g
+     id="stage-layout"
+     transform="translate(0,-84.134616)">
+    <rect
+       x="265"
+       y="175"
+       width="190"
+       height="250"
+       rx="20"
+       fill="#eef7f5"
+       stroke="#4f7f75"
+       stroke-width="3"
+       id="rect12" />
+    <text
+       x="360"
+       y="225"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="28px"
+       font-weight="700"
+       fill="#243746"
+       id="text12">PCB layout</text>
+    <text
+       x="360"
+       y="270"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#536572"
+       id="text13">Physical design</text>
+    <!-- pcb icon -->
+    <rect
+       x="315"
+       y="315"
+       width="90"
+       height="70"
+       rx="8"
+       fill="#4f8f73"
+       stroke="#315f4d"
+       stroke-width="3"
+       id="rect13" />
+    <rect
+       x="345"
+       y="330"
+       width="30"
+       height="22"
+       rx="3"
+       fill="#3f454a"
+       id="rect14" />
+    <circle
+       cx="328"
+       cy="327"
+       r="5"
+       fill="#d6b66a"
+       id="circle14" />
+    <circle
+       cx="392"
+       cy="373"
+       r="5"
+       fill="#d6b66a"
+       id="circle15" />
+    <path
+       d="m 330,365 h 20 v -11 m 25,-13 h 17"
+       fill="none"
+       stroke="#d6b66a"
+       stroke-width="3"
+       id="path15" />
+  </g>
+  <!-- Stage 3 -->
+  <g
+     id="stage-drc"
+     transform="translate(0,-84.134616)">
+    <rect
+       x="480"
+       y="175"
+       width="190"
+       height="250"
+       rx="20"
+       fill="#f4f7fb"
+       stroke="#667f9a"
+       stroke-width="3"
+       id="rect15" />
+    <text
+       x="575"
+       y="218"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="25px"
+       font-weight="700"
+       fill="#243746"
+       id="text15">Design-rule</text>
+    <text
+       x="575"
+       y="249"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="25px"
+       font-weight="700"
+       fill="#243746"
+       id="text16">checks (DRC)</text>
+    <text
+       x="575"
+       y="286"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="21px"
+       fill="#536572"
+       id="text17">Encoded CAD rules</text>
+    <!-- checklist -->
+    <rect
+       x="540"
+       y="320"
+       width="70"
+       height="72"
+       rx="5"
+       fill="#ffffff"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="rect17" />
+    <path
+       d="m 551,340 8,8 14,-17 m -22,32 8,8 14,-17"
+       fill="none"
+       stroke="#4f8f73"
+       stroke-width="4"
+       id="path17" />
+    <line
+       x1="580"
+       y1="340"
+       x2="600"
+       y2="340"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="line17" />
+    <line
+       x1="580"
+       y1="363"
+       x2="600"
+       y2="363"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="line18" />
+  </g>
+  <!-- Stage 4 -->
+  <g
+     id="stage-dfm-dfa"
+     transform="translate(0,-84.134616)">
+    <rect
+       x="695"
+       y="175"
+       width="190"
+       height="250"
+       rx="20"
+       fill="#edf7f5"
+       stroke="#2f7669"
+       stroke-width="4"
+       id="rect18" />
+    <text
+       x="790"
+       y="218"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="26px"
+       font-weight="700"
+       fill="#243746"
+       id="text18">DFM / DFA</text>
+    <text
+       x="790"
+       y="249"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="26px"
+       font-weight="700"
+       fill="#243746"
+       id="text19">review</text>
+    <text
+       x="790"
+       y="281"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="19px"
+       fill="#536572"
+       id="text20">Manufacturing</text>
+    <text
+       x="790"
+       y="307"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="19px"
+       fill="#536572"
+       id="text21">review</text>
+    <!-- magnifier -->
+    <circle
+       cx="775"
+       cy="350"
+       r="27"
+       fill="#ffffff"
+       stroke="#566b78"
+       stroke-width="4"
+       id="circle21" />
+    <line
+       x1="794"
+       y1="369"
+       x2="817"
+       y2="392"
+       stroke="#566b78"
+       stroke-width="6"
+       stroke-linecap="round"
+       id="line21" />
+  </g>
+  <!-- Stage 5 -->
+  <g
+     id="stage-supplier"
+     transform="translate(0,-84.134616)">
+    <rect
+       x="910"
+       y="175"
+       width="190"
+       height="250"
+       rx="20"
+       fill="#fbf6e8"
+       stroke="#a3864a"
+       stroke-width="3"
+       id="rect21" />
+    <text
+       x="1005"
+       y="213"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="21px"
+       font-weight="700"
+       fill="#243746"
+       id="text22">Supplier</text>
+    <text
+       x="1005"
+       y="242"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="21px"
+       font-weight="700"
+       fill="#243746"
+       id="text23">manufacturability</text>
+    <text
+       x="1005"
+       y="271"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="21px"
+       font-weight="700"
+       fill="#243746"
+       id="text24">feedback</text>
+    <text
+       x="1005"
+       y="306"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#536572"
+       id="text25">Process capability</text>
+    <!-- simple supplier icon -->
+    <rect
+       x="970"
+       y="338"
+       width="70"
+       height="48"
+       fill="#ffffff"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="rect25" />
+    <path
+       d="m 970,338 35,-20 35,20"
+       fill="#ffffff"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="path25" />
+    <line
+       x1="986"
+       y1="350"
+       x2="986"
+       y2="386"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="line25" />
+    <line
+       x1="1005"
+       y1="350"
+       x2="1005"
+       y2="386"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="line26" />
+    <line
+       x1="1024"
+       y1="350"
+       x2="1024"
+       y2="386"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="line27" />
+  </g>
+  <!-- Stage 6 -->
+  <g
+     id="stage-prototype"
+     transform="translate(0,-84.134616)">
+    <rect
+       x="1125"
+       y="175"
+       width="190"
+       height="250"
+       rx="20"
+       fill="#f2f5ef"
+       stroke="#6c8064"
+       stroke-width="3"
+       id="rect27" />
+    <text
+       x="1220"
+       y="213"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="23px"
+       font-weight="700"
+       fill="#243746"
+       id="text27">Controlled</text>
+    <text
+       x="1220"
+       y="242"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="23px"
+       font-weight="700"
+       fill="#243746"
+       id="text28">prototype / pilot</text>
+    <text
+       x="1220"
+       y="271"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="23px"
+       font-weight="700"
+       fill="#243746"
+       id="text29">build</text>
+    <text
+       x="1220"
+       y="306"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#536572"
+       id="text30">Physical evidence</text>
+    <text
+       x="1220"
+       y="332"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="19px"
+       font-style="italic"
+       fill="#6e7c84"
+       id="text31">As applicable</text>
+    <!-- simple board icon -->
+    <rect
+       x="1179"
+       y="350"
+       width="82"
+       height="46"
+       rx="6"
+       fill="#4f8f73"
+       stroke="#315f4d"
+       stroke-width="3"
+       id="rect31" />
+    <rect
+       x="1202"
+       y="361"
+       width="28"
+       height="18"
+       rx="2"
+       fill="#3f454a"
+       id="rect32" />
+    <circle
+       cx="1191"
+       cy="361"
+       r="4"
+       fill="#d6b66a"
+       id="circle32" />
+    <circle
+       cx="1248"
+       cy="385"
+       r="4"
+       fill="#d6b66a"
+       id="circle33" />
+  </g>
+  <!-- Stage 7 -->
+  <g
+     id="stage-revision"
+     transform="translate(0,-84.134616)">
+    <rect
+       x="1340"
+       y="175"
+       width="190"
+       height="250"
+       rx="20"
+       fill="#eef6f8"
+       stroke="#527888"
+       stroke-width="4"
+       id="rect33" />
+    <text
+       x="1435"
+       y="213"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="23px"
+       font-weight="700"
+       fill="#243746"
+       id="text33">Feedback and</text>
+    <text
+       x="1435"
+       y="242"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="23px"
+       font-weight="700"
+       fill="#243746"
+       id="text34">design revision</text>
+    <text
+       x="1435"
+       y="281"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="19px"
+       fill="#536572"
+       id="text35">Engineering decision</text>
+    <!-- revision loop icon -->
+    <path
+       d="m 1400,350 a 38,38 0 0 1 62,-24"
+       fill="none"
+       stroke="#527888"
+       stroke-width="5"
+       marker-end="url(#feedbackArrow)"
+       id="path35" />
+    <path
+       d="m 1470,356 a 38,38 0 0 1 -62,24"
+       fill="none"
+       stroke="#527888"
+       stroke-width="5"
+       marker-end="url(#feedbackArrow)"
+       id="path36" />
+  </g>
+  <!-- Stage 8 -->
+  <g
+     id="stage-release"
+     transform="translate(0,-84.134616)">
+    <rect
+       x="1555"
+       y="175"
+       width="190"
+       height="250"
+       rx="20"
+       fill="#f4f7f5"
+       stroke="#4f715f"
+       stroke-width="4"
+       id="rect36" />
+    <text
+       x="1650"
+       y="218"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="25px"
+       font-weight="700"
+       fill="#243746"
+       id="text36">Production</text>
+    <text
+       x="1650"
+       y="249"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="25px"
+       font-weight="700"
+       fill="#243746"
+       id="text37">release</text>
+    <text
+       x="1650"
+       y="286"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#536572"
+       id="text38">Defined revision</text>
+    <!-- gate/check icon -->
+    <rect
+       x="1615"
+       y="326"
+       width="70"
+       height="66"
+       rx="5"
+       fill="#ffffff"
+       stroke="#7c8c98"
+       stroke-width="3"
+       id="rect38" />
+    <path
+       d="m 1628,359 14,14 30,-33"
+       fill="none"
+       stroke="#4f8f73"
+       stroke-width="6"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path38" />
+  </g>
+  <!-- release condition note -->
+  <text
+     x="1650"
+     y="65.865387"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#4f715f"
+     id="text39">After recheck and disposition</text>
+  <!-- Findings into revision -->
+  <g
+     fill="none"
+     stroke="#8a7660"
+     stroke-width="3.5"
+     stroke-dasharray="10, 8"
+     id="g41"
+     transform="translate(0,-84.134616)">
+    <path
+       d="m 790,425 v 75 h 645 v -75"
+       id="path39" />
+    <path
+       d="m 1005,425 v 100 h 430"
+       id="path40" />
+    <path
+       d="m 1220,425 v 125 h 215"
+       id="path41" />
+  </g>
+  <text
+     x="1110"
+     y="498.86539"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     fill="#6f6255"
+     id="text41">Review, supplier, and build findings</text>
+  <!-- Controlled feedback / recheck loop from revision back to layout -->
+  <path
+     d="m 1435,340.86538 v 275 H 360 v -265"
+     fill="none"
+     stroke="#6a7f90"
+     stroke-width="5"
+     stroke-dasharray="14, 10"
+     marker-end="url(#feedbackArrow)"
+     id="path42" />
+  <rect
+     x="610"
+     y="580.86536"
+     width="575"
+     height="70"
+     rx="14"
+     fill="#ffffff"
+     stroke="#c4ced5"
+     stroke-width="2"
+     id="rect42" />
+  <text
+     x="897"
+     y="609.86536"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#536572"
+     id="text42">If findings require change:</text>
+  <text
+     x="897"
+     y="636.86536"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21px"
+     fill="#536572"
+     id="text43">update the controlled design, then rerun checks and review</text>
+  <!-- Representative-workflow note -->
+  <text
+     x="900"
+     y="765.86536"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#243746"
+     id="text44">Representative pre-release workflow</text>
+  <text
+     x="900"
+     y="799.86536"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     fill="#66747e"
+     id="text45">Actual review gates and supplier interactions vary by organization and product.</text>
+</svg>
