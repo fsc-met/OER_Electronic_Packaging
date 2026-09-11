@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1000"
+   viewBox="0 0 1800 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg51"
+   sodipodi:docname="3.4.2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="3.4.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.90213752"
+     inkscape:cx="840.7809"
+     inkscape:cy="629.06152"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg51"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1000"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker54"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path54" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker53"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path53" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker52"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path52" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path51" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="14"
+       markerHeight="14"
+       refX="11"
+       refY="7"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L14,7 L0,14 Z"
+         fill="#45687f"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowWarn"
+       markerWidth="14"
+       markerHeight="14"
+       refX="11"
+       refY="7"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L14,7 L0,14 Z"
+         fill="#9a5a4f"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- Overall columns -->
+  <rect
+     x="50"
+     y="55"
+     width="815"
+     height="890"
+     rx="24"
+     fill="#f7fbf7"
+     stroke="#7ea284"
+     stroke-width="3"
+     id="rect2" />
+  <rect
+     x="935"
+     y="55"
+     width="815"
+     height="890"
+     rx="24"
+     fill="#fff8f6"
+     stroke="#b67d73"
+     stroke-width="3"
+     id="rect3" />
+  <text
+     x="457"
+     y="105"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#2e5940"
+     id="text3">Preferred placement</text>
+  <text
+     x="1342"
+     y="105"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#7b443c"
+     id="text4">Avoidable DFM problems</text>
+  <!-- horizontal separators -->
+  <line
+     x1="85"
+     y1="365"
+     x2="830"
+     y2="365"
+     stroke="#ccd8cf"
+     stroke-width="2"
+     id="line4" />
+  <line
+     x1="970"
+     y1="365"
+     x2="1715"
+     y2="365"
+     stroke="#ead4cf"
+     stroke-width="2"
+     id="line5" />
+  <line
+     x1="85"
+     y1="655"
+     x2="830"
+     y2="655"
+     stroke="#ccd8cf"
+     stroke-width="2"
+     id="line6" />
+  <line
+     x1="970"
+     y1="655"
+     x2="1715"
+     y2="655"
+     stroke="#ead4cf"
+     stroke-width="2"
+     id="line7" />
+  <!-- ======================= ROW 1: Board-edge space ======================= -->
+  <text
+     x="105"
+     y="155"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#324c3a"
+     id="text7">Board-edge space</text>
+  <text
+     x="990"
+     y="155"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#6f4942"
+     id="text8">Board-edge space</text>
+  <!-- Preferred board top view -->
+  <rect
+     x="135"
+     y="205"
+     width="650"
+     height="115"
+     rx="10"
+     fill="#e3f1e7"
+     stroke="#5d7a68"
+     stroke-width="4"
+     id="rect8" />
+  <line
+     x1="135"
+     y1="320"
+     x2="785"
+     y2="320"
+     stroke="#2f4e3a"
+     stroke-width="6"
+     id="line8" />
+  <text
+     x="145"
+     y="345"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20"
+     font-weight="700"
+     fill="#51645a"
+     id="text9">Board edge</text>
+  <!-- Preferred component -->
+  <g
+     transform="translate(480,222)"
+     id="g13">
+    <rect
+       x="0"
+       y="18"
+       width="150"
+       height="56"
+       rx="12"
+       fill="#5d6870"
+       stroke="#35424a"
+       stroke-width="3"
+       id="rect9" />
+    <rect
+       x="-28"
+       y="31"
+       width="30"
+       height="14"
+       rx="4"
+       fill="#c99b5c"
+       stroke="#8a6a3d"
+       stroke-width="2"
+       id="rect10" />
+    <rect
+       x="-28"
+       y="50"
+       width="30"
+       height="14"
+       rx="4"
+       fill="#c99b5c"
+       stroke="#8a6a3d"
+       stroke-width="2"
+       id="rect11" />
+    <rect
+       x="148"
+       y="31"
+       width="30"
+       height="14"
+       rx="4"
+       fill="#c99b5c"
+       stroke="#8a6a3d"
+       stroke-width="2"
+       id="rect12" />
+    <rect
+       x="148"
+       y="50"
+       width="30"
+       height="14"
+       rx="4"
+       fill="#c99b5c"
+       stroke="#8a6a3d"
+       stroke-width="2"
+       id="rect13" />
+  </g>
+  <!-- free-space bracket -->
+  <line
+     x1="501.67215"
+     y1="296.69754"
+     x2="501.67215"
+     y2="317.47348"
+     stroke="#45687f"
+     stroke-width="2.58418"
+     id="line13"
+     style="stroke-width:1.084;stroke-dasharray:none;marker-end:url(#ArrowWide);marker-start:url(#marker52)" />
+  <text
+     x="230.45258"
+     y="276.0209"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#45687f"
+     id="text15">Room for handling</text>
+  <text
+     x="230.45258"
+     y="303.0209"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#45687f"
+     id="text16">/ depanelization</text>
+  <line
+     x1="401.26099"
+     y1="288.72003"
+     x2="496.68701"
+     y2="306.66556"
+     stroke="#45687f"
+     stroke-width="2.38325"
+     marker-end="url(#arrow)"
+     id="line16"
+     style="stroke-width:1.21969;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <!-- Problem board top view -->
+  <rect
+     x="1020"
+     y="205"
+     width="650"
+     height="115"
+     rx="10"
+     fill="#e3f1e7"
+     stroke="#5d7a68"
+     stroke-width="4"
+     id="rect16" />
+  <line
+     x1="1020"
+     y1="320"
+     x2="1670"
+     y2="320"
+     stroke="#2f4e3a"
+     stroke-width="6"
+     id="line17" />
+  <text
+     x="1030"
+     y="345"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20"
+     font-weight="700"
+     fill="#51645a"
+     id="text17">Board edge</text>
+  <!-- depanelization zone -->
+  <rect
+     x="1020"
+     y="290"
+     width="650"
+     height="30"
+     fill="#f4d8d0"
+     opacity="0.75"
+     id="rect17" />
+  <!-- Problematic component close to edge -->
+  <g
+     transform="translate(1115,252)"
+     id="g22">
+    <rect
+       x="0"
+       y="0"
+       width="150"
+       height="56"
+       rx="12"
+       fill="#5d6870"
+       stroke="#35424a"
+       stroke-width="3"
+       id="rect18" />
+    <rect
+       x="-28"
+       y="11"
+       width="30"
+       height="14"
+       rx="4"
+       fill="#c99b5c"
+       stroke="#8a6a3d"
+       stroke-width="2"
+       id="rect19" />
+    <rect
+       x="-28"
+       y="30"
+       width="30"
+       height="14"
+       rx="4"
+       fill="#c99b5c"
+       stroke="#8a6a3d"
+       stroke-width="2"
+       id="rect20" />
+    <rect
+       x="148"
+       y="11"
+       width="30"
+       height="14"
+       rx="4"
+       fill="#c99b5c"
+       stroke="#8a6a3d"
+       stroke-width="2"
+       id="rect21" />
+    <rect
+       x="148"
+       y="30"
+       width="30"
+       height="14"
+       rx="4"
+       fill="#c99b5c"
+       stroke="#8a6a3d"
+       stroke-width="2"
+       id="rect22" />
+  </g>
+  <text
+     x="1366.8564"
+     y="283.5408"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#9a5a4f"
+     id="text22">Too close to edge</text>
+  <line
+     x1="1361.2573"
+     y1="287.7724"
+     x2="1261.9296"
+     y2="311.64047"
+     stroke="#9a5a4f"
+     stroke-width="5.81962"
+     marker-end="url(#arrowWarn)"
+     id="line22"
+     style="stroke-width:1;stroke-dasharray:none;marker-end:url(#marker53)" />
+  <!-- ======================= ROW 2: Inspection visibility ======================= -->
+  <text
+     x="105"
+     y="415"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#324c3a"
+     id="text23">Inspection visibility</text>
+  <text
+     x="990"
+     y="415"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#6f4942"
+     id="text24">Inspection visibility</text>
+  <!-- Preferred side-view board -->
+  <rect
+     x="160"
+     y="580"
+     width="600"
+     height="30"
+     rx="6"
+     fill="#6aa176"
+     stroke="#3e6b4a"
+     stroke-width="3"
+     id="rect24" />
+  <!-- tall component placed away from AOI ray -->
+  <rect
+     x="220"
+     y="465"
+     width="105"
+     height="115"
+     rx="10"
+     fill="#66717a"
+     stroke="#3d4a52"
+     stroke-width="3"
+     id="rect25" />
+  <rect
+     x="535"
+     y="530"
+     width="120"
+     height="50"
+     rx="10"
+     fill="#66717a"
+     stroke="#3d4a52"
+     stroke-width="3"
+     id="rect26" />
+  <g
+     fill="#c99b5c"
+     id="g28">
+    <rect
+       x="525"
+       y="570"
+       width="22"
+       height="10"
+       rx="3"
+       id="rect27" />
+    <rect
+       x="645"
+       y="570"
+       width="22"
+       height="10"
+       rx="3"
+       id="rect28" />
+  </g>
+  <!-- AOI camera -->
+  <rect
+     x="480"
+     y="435"
+     width="85"
+     height="45"
+     rx="8"
+     fill="#8295a3"
+     stroke="#4c6170"
+     stroke-width="3"
+     id="rect29" />
+  <circle
+     cx="522"
+     cy="480"
+     r="15"
+     fill="#dbe7ee"
+     stroke="#4c6170"
+     stroke-width="3"
+     id="circle29" />
+  <path
+     d="M505 495 L478 560 M539 495 L575 560"
+     fill="none"
+     stroke="#5c8daf"
+     stroke-width="3"
+     stroke-dasharray="9 7"
+     id="path29" />
+  <text
+     x="520"
+     y="455"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15"
+     fill="#ffffff"
+     id="text29">AOI</text>
+  <text
+     x="570"
+     y="510"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20"
+     font-weight="700"
+     fill="#45687f"
+     id="text30">Visible joint</text>
+  <!-- Problem side-view board -->
+  <rect
+     x="1045"
+     y="580"
+     width="600"
+     height="30"
+     rx="6"
+     fill="#6aa176"
+     stroke="#3e6b4a"
+     stroke-width="3"
+     id="rect30" />
+  <!-- small target component -->
+  <rect
+     x="1390"
+     y="530"
+     width="120"
+     height="50"
+     rx="10"
+     fill="#66717a"
+     stroke="#3d4a52"
+     stroke-width="3"
+     id="rect31" />
+  <g
+     fill="#c99b5c"
+     id="g33">
+    <rect
+       x="1380"
+       y="570"
+       width="22"
+       height="10"
+       rx="3"
+       id="rect32" />
+    <rect
+       x="1500"
+       y="570"
+       width="22"
+       height="10"
+       rx="3"
+       id="rect33" />
+  </g>
+  <!-- tall obstruction in line-of-sight -->
+  <rect
+     x="1265"
+     y="455"
+     width="110"
+     height="125"
+     rx="10"
+     fill="#66717a"
+     stroke="#3d4a52"
+     stroke-width="3"
+     id="rect34" />
+  <!-- AOI camera placed above-left so the tall part clearly blocks the target view -->
+  <rect
+     x="1125"
+     y="420"
+     width="85"
+     height="45"
+     rx="8"
+     fill="#8295a3"
+     stroke="#4c6170"
+     stroke-width="3"
+     id="rect35" />
+  <circle
+     cx="1167"
+     cy="465"
+     r="15"
+     fill="#dbe7ee"
+     stroke="#4c6170"
+     stroke-width="3"
+     id="circle35" />
+  <text
+     x="1167"
+     y="449"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="15"
+     fill="#ffffff"
+     id="text35">AOI</text>
+  <!-- intended optical view toward the nearby small component -->
+  <path
+     d="M1180 480 L1430 560"
+     fill="none"
+     stroke="#5c8daf"
+     stroke-width="3"
+     stroke-dasharray="9 7"
+     id="path35" />
+  <!-- tall component intersects the view path -->
+  <path
+     d="m 1263.6843,508.27251 165.0674,50.06664"
+     fill="none"
+     stroke="#9a5a4f"
+     stroke-width="6.01056"
+     id="path36" />
+  <text
+     x="1478.5686"
+     y="436.92465"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#9a5a4f"
+     id="text36">AOI shadowing</text>
+  <line
+     x1="1468.2881"
+     y1="433.17346"
+     x2="1343.3859"
+     y2="469.00812"
+     stroke="#9a5a4f"
+     stroke-width="4.37974"
+     marker-end="url(#arrowWarn)"
+     id="line36"
+     style="stroke-width:1;stroke-dasharray:none;marker-end:url(#marker54)" />
+  <!-- ======================= ROW 3: Rework access ======================= -->
+  <text
+     x="105"
+     y="705"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#324c3a"
+     id="text37">Rework access</text>
+  <text
+     x="990"
+     y="705"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#6f4942"
+     id="text38">Rework access</text>
+  <!-- preferred top-view board -->
+  <rect
+     x="135"
+     y="755"
+     width="650"
+     height="145"
+     rx="12"
+     fill="#e3f1e7"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect38" />
+  <!-- components -->
+  <rect
+     x="250"
+     y="795"
+     width="100"
+     height="60"
+     rx="10"
+     fill="#66717a"
+     stroke="#3d4a52"
+     stroke-width="3"
+     id="rect39" />
+  <rect
+     x="510"
+     y="790"
+     width="120"
+     height="70"
+     rx="10"
+     fill="#5d6870"
+     stroke="#35424a"
+     stroke-width="3"
+     id="rect40" />
+  <rect
+     x="690"
+     y="805"
+     width="60"
+     height="48"
+     rx="8"
+     fill="#66717a"
+     stroke="#3d4a52"
+     stroke-width="3"
+     id="rect41" />
+  <!-- hot air nozzle simplified -->
+  <path
+     d="M405 725 L465 725 L455 770 L415 770 Z"
+     fill="#8b979f"
+     stroke="#4d5c65"
+     stroke-width="3"
+     id="path41" />
+  <path
+     d="M435 770 L435 790"
+     stroke="#45687f"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="path42" />
+  <text
+     x="435"
+     y="882"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#45687f"
+     id="text42">Tool access</text>
+  <path
+     d="m 433.08574,863.77798 1.83728,-36.0375"
+     fill="none"
+     stroke="#45687f"
+     stroke-width="0.535247"
+     marker-end="url(#arrow)"
+     id="path43" />
+  <!-- problematic top-view board -->
+  <rect
+     x="1020"
+     y="755"
+     width="650"
+     height="145"
+     rx="12"
+     fill="#e3f1e7"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect43" />
+  <rect
+     x="1090"
+     y="795"
+     width="95"
+     height="60"
+     rx="10"
+     fill="#66717a"
+     stroke="#3d4a52"
+     stroke-width="3"
+     id="rect44" />
+  <rect
+     x="1205"
+     y="790"
+     width="115"
+     height="70"
+     rx="10"
+     fill="#5d6870"
+     stroke="#35424a"
+     stroke-width="3"
+     id="rect45" />
+  <rect
+     x="1335"
+     y="795"
+     width="100"
+     height="60"
+     rx="10"
+     fill="#66717a"
+     stroke="#3d4a52"
+     stroke-width="3"
+     id="rect46" />
+  <rect
+     x="1450"
+     y="790"
+     width="105"
+     height="70"
+     rx="10"
+     fill="#5d6870"
+     stroke="#35424a"
+     stroke-width="3"
+     id="rect47" />
+  <rect
+     x="1570"
+     y="802"
+     width="65"
+     height="50"
+     rx="8"
+     fill="#66717a"
+     stroke="#3d4a52"
+     stroke-width="3"
+     id="rect48" />
+  <!-- nozzle can't approach target -->
+  <path
+     d="M1290 720 L1350 720 L1340 765 L1300 765 Z"
+     fill="#8b979f"
+     stroke="#4d5c65"
+     stroke-width="3"
+     id="path48" />
+  <path
+     d="M1320 765 L1320 790"
+     stroke="#9a5a4f"
+     stroke-width="4"
+     marker-end="url(#arrowWarn)"
+     id="path49" />
+  <line
+     x1="1280"
+     y1="782"
+     x2="1360"
+     y2="862"
+     stroke="#9a5a4f"
+     stroke-width="6"
+     id="line49" />
+  <line
+     x1="1360"
+     y1="782"
+     x2="1280"
+     y2="862"
+     stroke="#9a5a4f"
+     stroke-width="6"
+     id="line50" />
+  <text
+     x="1465"
+     y="888"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#9a5a4f"
+     id="text50">Restricted access</text>
+  <text
+     x="1465"
+     y="920.1803"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     fill="#755852"
+     id="text51">Dense placement</text>
+</svg>
