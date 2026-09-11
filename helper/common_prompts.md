@@ -11,20 +11,26 @@ Work on Section x.xx Markdown file.
 
 Follow the current authoritative EPAC project rules, approved project outline, surrounding book sections, primary MET406 instructional materials, and approved reference hierarchy. Match the established writing style, structure, terminology, equation formatting, figure-placeholder format, and public/internal-content conventions used in the existing book.
 
-Develop the section at the appropriate Engineering Technology level: technically accurate, applied, self-study capable, and concise enough to remain readable. Do not turn the section into material that belongs in a later chapter.
+Before drafting, extract the important teaching inventory from the primary instructional material: required concepts, sequence, representative numbers/ranges, examples, good/bad comparisons, practical rules/checklists, and visual concepts. Verify important technical claims independently. Preserve useful concrete teaching content when it is correct; qualify process-dependent values rather than removing them merely because they vary; and correct inaccurate or outdated items while preserving the original teaching purpose and MET-level accessibility.
+
+Develop the section at the appropriate Engineering Technology level: technically accurate, applied, self-study capable, and concise enough to remain readable. Do not turn the section into material that belongs in a later chapter. Do not defer so much concrete content that the current section becomes mainly descriptive.
 
 Perform multiple QA cycles, including:
 - outline and scope alignment;
+- primary-instructional-material fidelity and teaching-inventory coverage;
+- technical verification of instructional claims, diagrams, and representative values;
 - technical accuracy and terminology;
 - consistency with surrounding sections;
 - equation, unit, and numerical checks where applicable;
+- concrete-content sufficiency: enough verified numbers/ranges, examples, comparisons, figures, or applied decisions for the topic;
 - pedagogical clarity for MET students;
-- figure-coverage review;
+- figure-coverage review based on distinct visual teaching concepts, not on minimizing figure count;
 - redundancy and chapter-boundary review;
 - Markdown/mdBook/KaTeX compatibility;
-- public-book voice and final read-through.
+- public-book voice and final read-through;
+- final instructional-fidelity check: the finished OER section should provide at least the intended practical understanding, engineering scale, examples, and visual support of the primary instructional material after technical corrections.
 
-Pay particular attention to figure planning. Include enough figures for MET students to understand the topic, but do not add redundant or decorative figures. Every planned figure must have the complete public HTML image/caption placeholder in the section Markdown using the canonical `./images/...png` path.
+Pay particular attention to figure planning. Plan figures from the **distinct visual concepts students need to understand**, not from a goal of minimizing figure count. Include enough figures for MET students to understand the topic, but do not add figures with duplicate instructional roles or purely decorative content. If several different physical relationships genuinely need separate visuals, keep them separate rather than forcing them into one overloaded figure. Every planned figure must have the complete public HTML image/caption placeholder in the section Markdown using the canonical `./images/...png` path.
 
 Preserve every meaningful revision using a different filename. Do not overwrite earlier revisions. Identify the strongest QA-reviewed candidate, but do not call it canonical/final until I explicitly accept it.
 

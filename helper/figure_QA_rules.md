@@ -114,6 +114,22 @@ or
 
 ---
 
+## 3A. Figure-Coverage Sufficiency
+
+Figure QA begins with checking whether the **planned set of figures is sufficient**, not only whether each individual figure is correct.
+
+When planning or reviewing a section's figure set:
+
+- identify the distinct visual concepts in the primary instructional material and surrounding section;
+- include a figure when a spatial, physical, geometric, process, good/bad, or comparative relationship is materially clearer visually than in prose alone;
+- do not minimize figure count merely to avoid redundancy;
+- treat two figures as redundant only when they teach substantially the same instructional role;
+- do not force several different visual concepts into one overloaded figure if separate figures would be clearer at the normal mdBook display size;
+- when the instructional material uses several visuals for genuinely different physical relationships, provide equivalent visual teaching coverage in the OER unless a new combined figure can preserve all concepts clearly;
+- if an instructional visual is technically wrong, outdated, or copyrighted, create an original corrected replacement rather than omitting the visual teaching need.
+
+A section fails figure-coverage QA if an important concept is left mainly descriptive when a figure is necessary for the intended applied understanding.
+
 ## 4. No Embedded Figure Number, Caption, or Oversized Overall Title
 
 The public mdBook caption is placed outside the image in the HTML block.
@@ -568,6 +584,7 @@ Before marking a figure final, verify that it satisfies the **approved suggested
 
 ### Project integration
 
+- [ ] The section's overall figure set provides sufficient visual coverage of the distinct concepts that need to be seen.
 - [ ] Filename matches the figure specification.
 - [ ] Caption in the section matches the accepted figure.
 - [ ] Alt text matches the final content.

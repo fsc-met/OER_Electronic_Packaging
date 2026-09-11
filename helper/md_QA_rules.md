@@ -38,6 +38,54 @@ Use reliable online technical sources only when needed for terminology updates, 
 
 Do not let outside sources replace the book's applied framing.
 
+## 1A. Instructional Fidelity and Concreteness QA
+
+Before drafting or substantially revising a section, create a brief internal **teaching inventory** from the applicable primary instructional materials. Identify, as applicable:
+
+- required concepts and distinctions;
+- teaching sequence and emphasis;
+- representative numbers, ranges, or rules;
+- worked or visual examples;
+- good/bad comparisons;
+- physical demonstrations or diagrams;
+- practical checklists or engineering decisions.
+
+For each important item, decide whether to:
+
+- **retain** it;
+- **retain with qualification** after verification;
+- **correct** it while preserving the teaching purpose;
+- **defer** it to a clearly identified later section;
+- **omit** it for a documented scope or technical reason.
+
+Do not remove a useful representative value, example, or visual concept merely because the exact value varies among suppliers, materials, equipment, or technologies. Verify it and qualify it appropriately when it remains pedagogically useful.
+
+### Concrete-content floor
+
+For applied sections, check whether readers have enough concrete material to make an engineering judgment. Depending on the topic, this may include:
+
+- representative values or ranges;
+- physical examples;
+- comparison tables;
+- good/bad cases;
+- figures or annotated diagrams;
+- practical checks;
+- corrective actions.
+
+Not every section needs every item, but a section should not become mainly descriptive if the instructional material teaches the topic through concrete values, cases, or visuals.
+
+### Boundary rule
+
+Do not defer information solely because a later section treats it in greater depth. Keep enough concrete information in the current section to teach its own concept effectively, while leaving the detailed treatment for the later section.
+
+### Final instructional-fidelity gate
+
+Before recommending a section for acceptance, ask:
+
+> **If a reader used only this OER section, would they receive at least the intended practical understanding, engineering scale, examples, decision-making ability, and visual support of the primary instructional material, after correcting any errors or outdated information in that material?**
+
+If the answer is no, revise the section before acceptance.
+
 ## 2. Outline Alignment
 
 Before drafting or revising a section:
@@ -319,6 +367,10 @@ Before accepting a section, verify:
 - [ ] filename matches the approved naming pattern;
 - [ ] opening transition from the previous section is clear;
 - [ ] all required outline topics are covered;
+- [ ] the primary-instructional-material teaching inventory has been accounted for;
+- [ ] important representative numbers, examples, comparisons, and visual concepts were verified and either retained, qualified, corrected, or intentionally deferred/omitted;
+- [ ] the section contains enough concrete applied content for readers to develop engineering scale and judgment;
+- [ ] no useful teaching item was removed solely because its exact value varies in real practice;
 - [ ] deferred topics remain deferred;
 - [ ] technical terminology is consistent;
 - [ ] classifications are correct;

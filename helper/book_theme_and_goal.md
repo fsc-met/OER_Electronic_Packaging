@@ -54,6 +54,10 @@ Every major topic should answer five questions:
 
 The book should consistently connect theory to engineering decisions.
 
+Applied sections should also preserve enough **concrete engineering scale and visual support** for readers to make practical judgments. When useful to learning, include verified representative values or ranges, physical examples, good/bad comparisons, annotated figures, or other concrete cases rather than replacing them with only general descriptive prose.
+
+When a useful teaching value is process- or technology-dependent, qualify it appropriately instead of removing it solely because it varies. If an instructional example is inaccurate or outdated, correct it while preserving the intended teaching purpose and applied level.
+
 For example:
 
 - Thermal resistance should support decisions about whether to improve conduction, add thermal vias, use a TIM, increase heat-sink area, or add airflow.

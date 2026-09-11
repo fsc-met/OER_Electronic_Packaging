@@ -19,6 +19,21 @@ When instructions conflict, use this order unless the project owner explicitly c
 
 Never silently replace current authoritative requirements with an older textbook statement.
 
+## 2A. Instructional Baseline and Technical Authority
+
+Approved instructional materials are the primary baseline for **teaching scope, emphasis, sequence, expected level, concrete examples, representative values, and visual concepts** unless the project owner explicitly changes that direction.
+
+They are not automatically authoritative for technical correctness.
+
+- Verify important technical statements, numerical values, diagrams, terminology, and simplifications against the approved reference hierarchy and current authoritative sources when appropriate.
+- If an instructional item is technically sound, retain its useful teaching content.
+- If a value is reasonable but process-, supplier-, or technology-dependent, retain it when pedagogically useful and label it clearly as representative, typical, instructional, or otherwise conditional rather than deleting it only because it varies.
+- If an instructional item is inaccurate, outdated, oversimplified, or misleading, correct it in the OER while preserving the intended teaching objective and audience level.
+- Secondary and authoritative sources should strengthen or correct the instructional treatment; they should not pull the book into unnecessary abstraction or a more advanced level than the approved instructional purpose requires.
+- Do not improve technical rigor by stripping away the concrete numbers, examples, comparisons, physical cases, or visual explanations that readers need to develop engineering judgment.
+
+> **Instructional materials control teaching intent; authoritative references control technical correctness.**
+
 ## 3. Source of Truth and Generated Files
 
 The repository-root Markdown files and numbered content directories are the authoritative source.

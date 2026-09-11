@@ -26,6 +26,21 @@ For this OER, use the project sources according to their intended role:
 
 This hierarchy governs authoring decisions; it does not require the public book prose to expose the internal source workflow.
 
+## Verify, Correct, and Preserve Teaching Value
+
+When an approved instructional source contains a useful numerical value, example, rule, comparison, or visual concept:
+
+1. determine whether it is important to the intended teaching goal;
+2. verify its technical correctness and present-day applicability using the approved reference hierarchy;
+3. if it is correct and reasonably general, retain it;
+4. if it is process-, supplier-, material-, or technology-dependent, retain it when pedagogically useful but qualify it clearly as representative, typical, instructional, or conditional;
+5. if it is inaccurate, outdated, or misleading, replace it with a technically correct treatment that preserves the original teaching purpose and appropriate level;
+6. record important reconciliations in internal authoring/provenance notes when useful.
+
+> **Variable does not mean omit.** A value or example that varies in real engineering practice may still be important for developing physical scale and engineering judgment when its conditions and limitations are stated clearly.
+
+Reference verification should improve the instructional material without silently replacing a concrete applied treatment with a more abstract or advanced one.
+
 ## Public Book Voice and Internal Source Separation
 
 Internal authoring notes may record that a value or explanation came from instructional material, a reference book, a standard, or an online verification source. Public teaching prose should state the technical content directly.
