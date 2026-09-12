@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="900"
+   viewBox="0 0 1800 900"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="3.6.3.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="3.6.3"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.52829757"
+     inkscape:cx="697.52356"
+     inkscape:cy="591.52269"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="0"
+     y="0"
+     width="1797.5188"
+     height="900"
+     fill="#ffffff"
+     id="rect1"
+     style="stroke-width:1.02828" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker34"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path34" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker33"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path33" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker32"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path32" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker31"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path31" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker30"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path30" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker29"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path29" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="leaderArrow"
+       markerWidth="11"
+       markerHeight="11"
+       refX="9"
+       refY="5.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 11,5.5 0,11 Z"
+         fill="#5b6f7c"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- Panels -->
+  <rect
+     x="42.433571"
+     y="55.066422"
+     width="828.94299"
+     height="759.86713"
+     rx="26.177147"
+     fill="#f8fbfd"
+     stroke="#8aa9be"
+     stroke-width="3.13284"
+     id="rect2" />
+  <rect
+     x="912.74902"
+     y="55.076862"
+     width="840.05634"
+     height="759.84625"
+     rx="26.528095"
+     fill="#f8fbf8"
+     stroke="#8da99a"
+     stroke-width="3.15373"
+     id="rect3" />
+  <!-- Headings -->
+  <text
+     x="463"
+     y="112"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     fill="#2f4b5f"
+     id="text3">NSMD</text>
+  <text
+     x="1343"
+     y="112"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     fill="#314a3a"
+     id="text4">SMD</text>
+  <!-- LEFT: NSMD top view -->
+  <text
+     x="463"
+     y="160"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#4a5d69"
+     id="text5">Top view</text>
+  <rect
+     x="253"
+     y="190"
+     width="420"
+     height="250"
+     rx="18"
+     fill="#6b9a7b"
+     stroke="#4d725b"
+     stroke-width="3"
+     id="rect5" />
+  <!-- opening larger than land -->
+  <circle
+     cx="463"
+     cy="315"
+     r="112"
+     fill="#ffffff"
+     stroke="#4f6f7f"
+     stroke-width="3"
+     id="circle5" />
+  <circle
+     cx="463"
+     cy="315"
+     r="78"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="4"
+     id="circle6" />
+  <text
+     x="463"
+     y="470"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#355b75"
+     id="text6">Opening larger than land</text>
+  <text
+     x="76.654221"
+     y="233.93307"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#4d725b"
+     id="text7">Solder mask</text>
+  <line
+     x1="234.54114"
+     y1="237.4631"
+     x2="285.57297"
+     y2="271.89868"
+     stroke="#5b6f7c"
+     stroke-width="3.39152"
+     marker-end="url(#leaderArrow)"
+     id="line7"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-end:url(#marker31)" />
+  <text
+     x="66.084373"
+     y="343.1915"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#4f6f7f"
+     id="text8">Mask opening</text>
+  <line
+     x1="242.08179"
+     y1="333.22421"
+     x2="366.59009"
+     y2="330.19299"
+     stroke="#5b6f7c"
+     stroke-width="4.34402"
+     marker-end="url(#leaderArrow)"
+     id="line8"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-end:url(#marker31)" />
+  <text
+     x="706.72406"
+     y="385.85144"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#6d542f"
+     id="text9">Copper land</text>
+  <line
+     x1="695.30737"
+     y1="372.83908"
+     x2="525.68494"
+     y2="331.07169"
+     stroke="#5b6f7c"
+     stroke-width="10.6045"
+     marker-end="url(#leaderArrow)"
+     id="line9"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-end:url(#marker31)" />
+  <!-- LEFT: NSMD cross-section -->
+  <text
+     x="463"
+     y="525"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#4a5d69"
+     id="text10">Cross-section</text>
+  <rect
+     x="178"
+     y="665"
+     width="570"
+     height="80"
+     rx="6"
+     fill="#9bb7a5"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect10" />
+  <!-- copper land -->
+  <rect
+     x="353"
+     y="625"
+     width="220"
+     height="40"
+     rx="5"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect11" />
+  <!-- mask left/right, opening larger than copper -->
+  <rect
+     x="178"
+     y="590"
+     width="130"
+     height="35"
+     rx="4"
+     fill="#5f8f73"
+     stroke="#4d725b"
+     stroke-width="2.5"
+     id="rect12" />
+  <rect
+     x="618"
+     y="590"
+     width="130"
+     height="35"
+     rx="4"
+     fill="#5f8f73"
+     stroke="#4d725b"
+     stroke-width="2.5"
+     id="rect13" />
+  <text
+     x="463"
+     y="785"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#385163"
+     id="text13">Copper defines exposed land</text>
+  <text
+     x="80.765015"
+     y="557.44672"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#4d725b"
+     id="text14">Solder mask</text>
+  <line
+     x1="158.2124"
+     y1="574.0368"
+     x2="206.8394"
+     y2="606.76532"
+     stroke="#5b6f7c"
+     stroke-width="3.71643"
+     marker-end="url(#leaderArrow)"
+     id="line14"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-end:url(#marker32)" />
+  <text
+     x="580.02124"
+     y="570.53156"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#6d542f"
+     id="text15">Copper land</text>
+  <line
+     x1="590.7569"
+     y1="587.24402"
+     x2="518.29388"
+     y2="641.31628"
+     stroke="#5b6f7c"
+     stroke-width="9.34263"
+     marker-end="url(#leaderArrow)"
+     id="line15"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-end:url(#marker32)" />
+  <!-- RIGHT: SMD top view -->
+  <text
+     x="1343"
+     y="160"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#4a5d69"
+     id="text16">Top view</text>
+  <rect
+     x="1133"
+     y="190"
+     width="420"
+     height="250"
+     rx="18"
+     fill="#6b9a7b"
+     stroke="#4d725b"
+     stroke-width="3"
+     id="rect16" />
+  <!-- full copper land hidden under mask indicated by dashed outline -->
+  <circle
+     cx="1343"
+     cy="315"
+     r="78"
+     fill="none"
+     stroke="#876438"
+     stroke-width="5"
+     stroke-dasharray="10, 8"
+     id="circle16" />
+  <!-- smaller opening exposes only center copper -->
+  <circle
+     cx="1343"
+     cy="315"
+     r="54"
+     fill="#c99252"
+     stroke="#4f6f7f"
+     stroke-width="3"
+     id="circle17" />
+  <text
+     x="1343"
+     y="470"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#355b75"
+     id="text17">Opening smaller than land</text>
+  <text
+     x="963.12427"
+     y="262.41132"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#4d725b"
+     id="text18">Solder mask</text>
+  <line
+     x1="1116.9769"
+     y1="256.64539"
+     x2="1164.8457"
+     y2="279.117"
+     stroke="#5b6f7c"
+     stroke-width="2.65346"
+     marker-end="url(#leaderArrow)"
+     id="line18"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-end:url(#marker29)" />
+  <text
+     x="945.90808"
+     y="381.25632"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#4f6f7f"
+     id="text19">Mask opening</text>
+  <line
+     x1="1112.2363"
+     y1="372.37015"
+     x2="1275.3063"
+     y2="331.19614"
+     stroke="#5b6f7c"
+     stroke-width="3.94166"
+     marker-end="url(#leaderArrow)"
+     id="line19"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <text
+     x="1586.6926"
+     y="291.83728"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#6d542f"
+     id="text20">Copper land</text>
+  <text
+     x="1586.6926"
+     y="318.83728"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     fill="#6d542f"
+     id="text21">(under mask)</text>
+  <line
+     x1="1575.6814"
+     y1="300.17456"
+     x2="1429.2352"
+     y2="319.26355"
+     stroke="#5b6f7c"
+     stroke-width="5.8707"
+     marker-end="url(#leaderArrow)"
+     id="line21"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-end:url(#marker30)" />
+  <!-- RIGHT: SMD cross-section -->
+  <text
+     x="1343"
+     y="525"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#4a5d69"
+     id="text22">Cross-section</text>
+  <rect
+     x="1058"
+     y="665"
+     width="570"
+     height="80"
+     rx="6"
+     fill="#9bb7a5"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect22" />
+  <!-- copper land full width -->
+  <rect
+     x="1233"
+     y="625"
+     width="220"
+     height="40"
+     rx="5"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect23" />
+  <!-- mask overlaps copper edges; opening narrower -->
+  <rect
+     x="1058"
+     y="590"
+     width="240"
+     height="50"
+     rx="4"
+     fill="#5f8f73"
+     stroke="#4d725b"
+     stroke-width="2.5"
+     id="rect24" />
+  <rect
+     x="1392.3297"
+     y="592.16486"
+     width="240"
+     height="50"
+     rx="4"
+     fill="#5f8f73"
+     stroke="#4d725b"
+     stroke-width="2.5"
+     id="rect25" />
+  <text
+     x="1343"
+     y="785"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#385163"
+     id="text25">Mask opening defines exposed area</text>
+  <text
+     x="952.9566"
+     y="575"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#4d725b"
+     id="text26">Solder mask</text>
+  <line
+     x1="1023.4731"
+     y1="588.6593"
+     x2="1098.4731"
+     y2="612.6593"
+     stroke="#5b6f7c"
+     stroke-width="2.7"
+     marker-end="url(#leaderArrow)"
+     id="line26"
+     style="marker-end:url(#marker34);stroke-width:1.5;stroke-dasharray:none" />
+  <text
+     x="1516.7086"
+     y="572.37378"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#6d542f"
+     id="text27">Copper land</text>
+  <line
+     x1="1510.7255"
+     y1="581.41974"
+     x2="1345.226"
+     y2="641.20123"
+     stroke="#5b6f7c"
+     stroke-width="11.8921"
+     marker-end="url(#leaderArrow)"
+     id="line27"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-end:url(#marker33)" />
+  <!-- Acronym clarification -->
+  <rect
+     x="558"
+     y="835"
+     width="660"
+     height="45"
+     rx="12"
+     fill="#f3f6f8"
+     stroke="#aabdc8"
+     stroke-width="2"
+     id="rect27" />
+  <text
+     x="888"
+     y="865"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#536873"
+     id="text28">SMD here = solder-mask-defined</text>
+</svg>
