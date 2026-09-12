@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1700"
+   height="950"
+   viewBox="0 0 1700 950"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="3.5.1.svg"
+   inkscape:export-filename="3.5.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.61927667"
+     inkscape:cx="880.86638"
+     inkscape:cy="528.84278"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <rect
+     x="0"
+     y="0"
+     width="1700"
+     height="950"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       id="dimArrow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="6"
+       refY="6"
+       orient="auto-start-reverse"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L12,6 L0,12 Z"
+         fill="#355b75"
+         id="path1" />
+    </marker>
+    <marker
+       id="leaderArrow"
+       markerWidth="11"
+       markerHeight="11"
+       refX="9"
+       refY="5.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L11,5.5 L0,11 Z"
+         fill="#5b6f7c"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- Panel backgrounds -->
+  <rect
+     x="55"
+     y="55"
+     width="770"
+     height="840"
+     rx="24"
+     fill="#f7fbf8"
+     stroke="#8da99a"
+     stroke-width="3"
+     id="rect2" />
+  <rect
+     x="875"
+     y="55"
+     width="770"
+     height="840"
+     rx="24"
+     fill="#f8fbfd"
+     stroke="#8aa9be"
+     stroke-width="3"
+     id="rect3" />
+  <!-- Panel headings -->
+  <text
+     x="440"
+     y="115"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#314a3a"
+     id="text3">Component-to-component spacing</text>
+  <text
+     x="1260"
+     y="115"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#2f4b5f"
+     id="text4">Component-to-board-edge spacing</text>
+  <!-- LEFT PANEL PCB area -->
+  <rect
+     x="100"
+     y="165"
+     width="680"
+     height="600"
+     rx="18"
+     fill="#e3f1e7"
+     stroke="#5d7a68"
+     stroke-width="4"
+     id="rect4" />
+  <!-- Left component A courtyard -->
+  <rect
+     x="165"
+     y="305"
+     width="245"
+     height="260"
+     rx="18"
+     fill="none"
+     stroke="#5f7f92"
+     stroke-width="4"
+     stroke-dasharray="14 10"
+     id="rect5" />
+  <!-- Left component A body -->
+  <rect
+     x="205"
+     y="355"
+     width="165"
+     height="160"
+     rx="16"
+     fill="#5f6870"
+     stroke="#35424a"
+     stroke-width="4"
+     id="rect6" />
+  <!-- pins A -->
+  <g
+     fill="#c9d0d4"
+     stroke="#78858c"
+     stroke-width="2"
+     id="g12">
+    <rect
+       x="186"
+       y="380"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect7" />
+    <rect
+       x="186"
+       y="420"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect8" />
+    <rect
+       x="186"
+       y="460"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect9" />
+    <rect
+       x="367"
+       y="380"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect10" />
+    <rect
+       x="367"
+       y="420"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect11" />
+    <rect
+       x="367"
+       y="460"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect12" />
+  </g>
+  <!-- Left component B courtyard -->
+  <rect
+     x="515"
+     y="305"
+     width="205"
+     height="260"
+     rx="18"
+     fill="none"
+     stroke="#5f7f92"
+     stroke-width="4"
+     stroke-dasharray="14 10"
+     id="rect13" />
+  <!-- Left component B body -->
+  <rect
+     x="550"
+     y="365"
+     width="135"
+     height="140"
+     rx="15"
+     fill="#68747c"
+     stroke="#394750"
+     stroke-width="4"
+     id="rect14" />
+  <!-- pins B -->
+  <g
+     fill="#c9d0d4"
+     stroke="#78858c"
+     stroke-width="2"
+     id="g20">
+    <rect
+       x="531"
+       y="390"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect15" />
+    <rect
+       x="531"
+       y="430"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect16" />
+    <rect
+       x="531"
+       y="470"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect17" />
+    <rect
+       x="682"
+       y="390"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect18" />
+    <rect
+       x="682"
+       y="430"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect19" />
+    <rect
+       x="682"
+       y="470"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect20" />
+  </g>
+  <!-- Courtyard spacing dimension -->
+  <line
+     x1="410"
+     y1="615"
+     x2="515"
+     y2="615"
+     stroke="#355b75"
+     stroke-width="4"
+     marker-start="url(#dimArrow)"
+     marker-end="url(#dimArrow)"
+     id="line20" />
+  <line
+     x1="410"
+     y1="565"
+     x2="410"
+     y2="635"
+     stroke="#355b75"
+     stroke-width="3"
+     id="line21" />
+  <line
+     x1="515"
+     y1="565"
+     x2="515"
+     y2="635"
+     stroke="#355b75"
+     stroke-width="3"
+     id="line22" />
+  <text
+     x="462"
+     y="660"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24"
+     font-weight="700"
+     fill="#355b75"
+     id="text22">Measured edge-to-edge</text>
+  <!-- Left labels -->
+  <text
+     x="145"
+     y="230"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23"
+     font-weight="700"
+     fill="#3f5866"
+     id="text23">Manufacturing courtyard</text>
+  <line
+     x1="350"
+     y1="235"
+     x2="385"
+     y2="305"
+     stroke="#5b6f7c"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line23" />
+  <text
+     x="165"
+     y="730"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     fill="#52645a"
+     id="text24">Spacing is checked between the nearest relevant boundaries.</text>
+  <!-- RIGHT PANEL PCB area ending at routed edge -->
+  <rect
+     x="920"
+     y="165"
+     width="610"
+     height="600"
+     rx="18"
+     fill="#e3f1e7"
+     stroke="#5d7a68"
+     stroke-width="4"
+     id="rect24" />
+  <!-- Handling/depanelization band -->
+  <rect
+     x="1450"
+     y="165"
+     width="80"
+     height="600"
+     fill="#f6e1d8"
+     opacity="0.82"
+     id="rect25" />
+  <!-- Board edge -->
+  <line
+     x1="1530"
+     y1="165"
+     x2="1530"
+     y2="765"
+     stroke="#354a3d"
+     stroke-width="7"
+     id="line25" />
+  <text
+     x="1435"
+     y="240"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23"
+     font-weight="700"
+     fill="#354a3d"
+     id="text25">Board edge</text>
+  <line
+     x1="1475"
+     y1="246"
+     x2="1525"
+     y2="285"
+     stroke="#5b6f7c"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line26" />
+  <!-- Right component courtyard -->
+  <rect
+     x="1080"
+     y="305"
+     width="270"
+     height="260"
+     rx="18"
+     fill="none"
+     stroke="#5f7f92"
+     stroke-width="4"
+     stroke-dasharray="14 10"
+     id="rect26" />
+  <!-- Right component body -->
+  <rect
+     x="1125"
+     y="355"
+     width="180"
+     height="160"
+     rx="16"
+     fill="#5f6870"
+     stroke="#35424a"
+     stroke-width="4"
+     id="rect27" />
+  <!-- pins -->
+  <g
+     fill="#c9d0d4"
+     stroke="#78858c"
+     stroke-width="2"
+     id="g33">
+    <rect
+       x="1106"
+       y="380"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect28" />
+    <rect
+       x="1106"
+       y="420"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect29" />
+    <rect
+       x="1106"
+       y="460"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect30" />
+    <rect
+       x="1302"
+       y="380"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect31" />
+    <rect
+       x="1302"
+       y="420"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect32" />
+    <rect
+       x="1302"
+       y="460"
+       width="22"
+       height="20"
+       rx="4"
+       id="rect33" />
+  </g>
+  <!-- Courtyard-to-board-edge dimension -->
+  <line
+     x1="1350"
+     y1="615"
+     x2="1530"
+     y2="615"
+     stroke="#355b75"
+     stroke-width="4"
+     marker-start="url(#dimArrow)"
+     marker-end="url(#dimArrow)"
+     id="line33" />
+  <line
+     x1="1350"
+     y1="565"
+     x2="1350"
+     y2="635"
+     stroke="#355b75"
+     stroke-width="3"
+     id="line34" />
+  <line
+     x1="1530"
+     y1="565"
+     x2="1530"
+     y2="635"
+     stroke="#355b75"
+     stroke-width="3"
+     id="line35" />
+  <text
+     x="1440"
+     y="660"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#355b75"
+     id="text35">Courtyard-to-edge spacing</text>
+  <!-- Right labels -->
+  <text
+     x="960"
+     y="230"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23"
+     font-weight="700"
+     fill="#3f5866"
+     id="text36">Manufacturing courtyard</text>
+  <line
+     x1="1170"
+     y1="235"
+     x2="1098"
+     y2="305"
+     stroke="#5b6f7c"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line36" />
+  <!-- Bottom teaching strips -->
+  <rect
+     x="120"
+     y="805"
+     width="640"
+     height="58"
+     rx="14"
+     fill="#eef5f0"
+     stroke="#b4c7b8"
+     stroke-width="2"
+     id="rect36" />
+  <text
+     x="440"
+     y="842"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21"
+     fill="#385143"
+     id="text37">Use the rule's stated boundary: body or courtyard</text>
+  <rect
+     x="940"
+     y="805"
+     width="640"
+     height="58"
+     rx="14"
+     fill="#eef5f9"
+     stroke="#b0c4d1"
+     stroke-width="2"
+     id="rect37" />
+  <text
+     x="1260"
+     y="842"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21"
+     fill="#385163"
+     id="text38">Component-to-edge is an assembly / handling clearance</text>
+</svg>

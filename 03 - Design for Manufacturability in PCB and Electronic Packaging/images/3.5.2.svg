@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1000"
+   viewBox="0 0 1800 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="3.5.2.svg"
+   inkscape:export-filename="3.5.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="2.3123092"
+     inkscape:cx="532.58447"
+     inkscape:cy="998.35263"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31" />
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1000"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker36"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path36" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker35"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path35" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker34"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path34" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker32"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path32" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker31"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="strokeWidth">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path31" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="dimArrow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="6"
+       refY="6"
+       orient="auto-start-reverse"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L12,6 L0,12 Z"
+         fill="#355b75"
+         id="path1" />
+    </marker>
+    <marker
+       id="leader"
+       markerWidth="11"
+       markerHeight="11"
+       refX="9"
+       refY="5.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L11,5.5 L0,11 Z"
+         fill="#5a6f7c"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- Four measurement panels -->
+  <rect
+     x="55"
+     y="55"
+     width="805"
+     height="365"
+     rx="22"
+     fill="#f8fbfd"
+     stroke="#8aa9be"
+     stroke-width="3"
+     id="rect2" />
+  <rect
+     x="940"
+     y="55"
+     width="805"
+     height="365"
+     rx="22"
+     fill="#f7fbf8"
+     stroke="#8da99a"
+     stroke-width="3"
+     id="rect3" />
+  <rect
+     x="55"
+     y="460"
+     width="805"
+     height="365"
+     rx="22"
+     fill="#fffaf4"
+     stroke="#c7a56e"
+     stroke-width="3"
+     id="rect4" />
+  <rect
+     x="940"
+     y="460"
+     width="805"
+     height="365"
+     rx="22"
+     fill="#fff8f6"
+     stroke="#b98a7e"
+     stroke-width="3"
+     id="rect5" />
+  <!-- Panel headings -->
+  <text
+     x="457"
+     y="105"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="700"
+     fill="#2f4b5f"
+     id="text5">Pad-to-pad spacing</text>
+  <text
+     x="1342"
+     y="105"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="700"
+     fill="#314a3a"
+     id="text6">Trace-to-trace spacing</text>
+  <text
+     x="457"
+     y="510"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="700"
+     fill="#6f5a32"
+     id="text7">Trace-to-pad spacing</text>
+  <text
+     x="1342"
+     y="510"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="700"
+     fill="#734b43"
+     id="text8">Copper-to-board-edge spacing</text>
+  <!-- Shared PCB areas -->
+  <rect
+     x="110"
+     y="145"
+     width="695"
+     height="220"
+     rx="14"
+     fill="#e4f0e7"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect8" />
+  <rect
+     x="995"
+     y="145"
+     width="695"
+     height="220"
+     rx="14"
+     fill="#e4f0e7"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect9" />
+  <rect
+     x="110"
+     y="550"
+     width="695"
+     height="220"
+     rx="14"
+     fill="#e4f0e7"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect10" />
+  <rect
+     x="995"
+     y="550"
+     width="695"
+     height="220"
+     rx="14"
+     fill="#e4f0e7"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect11" />
+  <!-- PANEL A: pad-to-pad -->
+  <rect
+     x="225"
+     y="205"
+     width="185"
+     height="95"
+     rx="10"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect12" />
+  <rect
+     x="505"
+     y="205"
+     width="185"
+     height="95"
+     rx="10"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect13" />
+  <line
+     x1="416.31693"
+     y1="312.68027"
+     x2="499.5845"
+     y2="312.68027"
+     stroke="#355b75"
+     stroke-width="4"
+     marker-start="url(#dimArrow)"
+     marker-end="url(#dimArrow)"
+     id="line13"
+     style="stroke-width:1.5;stroke-dasharray:none;marker-start:url(#marker31);marker-end:url(#RoundedArrow)" />
+  <line
+     x1="410"
+     y1="294"
+     x2="410"
+     y2="326.87259"
+     stroke="#355b75"
+     stroke-width="2.4325"
+     id="line14" />
+  <line
+     x1="505"
+     y1="294"
+     x2="505"
+     y2="326.57211"
+     stroke="#355b75"
+     stroke-width="2.42136"
+     id="line15" />
+  <text
+     x="459.30072"
+     y="355.04297"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#355b75"
+     id="text15">Edge-to-edge</text>
+  <!-- PANEL B: trace-to-trace -->
+  <rect
+     x="1095"
+     y="205"
+     width="500"
+     height="44"
+     rx="8"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect15" />
+  <rect
+     x="1095"
+     y="292"
+     width="500"
+     height="44"
+     rx="8"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect16" />
+  <line
+     x1="1625"
+     y1="253.79491"
+     x2="1625"
+     y2="288.90488"
+     stroke="#355b75"
+     stroke-width="4"
+     marker-start="url(#dimArrow)"
+     marker-end="url(#dimArrow)"
+     id="line16"
+     style="stroke-width:1.35542;stroke-dasharray:none" />
+  <line
+     x1="1595"
+     y1="249"
+     x2="1645"
+     y2="249"
+     stroke="#355b75"
+     stroke-width="3"
+     id="line17" />
+  <line
+     x1="1595"
+     y1="292"
+     x2="1645"
+     y2="292"
+     stroke="#355b75"
+     stroke-width="3"
+     id="line18" />
+  <text
+     x="1518.7139"
+     y="278.16132"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#355b75"
+     id="text18">Edge-to-edge</text>
+  <!-- PANEL C: trace-to-pad -->
+  <rect
+     x="180"
+     y="640"
+     width="330"
+     height="46"
+     rx="8"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect18" />
+  <path
+     d="M510 640 L585 640 L630 685 L510 685 Z"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="path18" />
+  <rect
+     x="665"
+     y="610"
+     width="95"
+     height="120"
+     rx="10"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect19" />
+  <line
+     x1="635.25354"
+     y1="715"
+     x2="658.98193"
+     y2="715"
+     stroke="#355b75"
+     stroke-width="4"
+     marker-start="url(#dimArrow)"
+     marker-end="url(#dimArrow)"
+     id="line19"
+     style="stroke-width:1.23507;stroke-dasharray:none;marker-start:url(#marker34);marker-end:url(#marker32)" />
+  <line
+     x1="630"
+     y1="685"
+     x2="630"
+     y2="730.10718"
+     stroke="#355b75"
+     stroke-width="2.84944"
+     id="line20" />
+  <line
+     x1="665"
+     y1="685"
+     x2="665"
+     y2="730.71881"
+     stroke="#355b75"
+     stroke-width="2.86869"
+     id="line21" />
+  <text
+     x="595.21283"
+     y="752.44641"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#355b75"
+     id="text21">Edge-to-edge</text>
+  <!-- PANEL D: copper-to-board-edge -->
+  <path
+     d="M1060 665 H1370 L1435 620 H1490 V700 H1420 L1360 742 H1060 Z"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="path21" />
+  <!-- board edge -->
+  <line
+     x1="1605"
+     y1="565"
+     x2="1605"
+     y2="755"
+     stroke="#354a3d"
+     stroke-width="7"
+     id="line22" />
+  <text
+     x="1521.5448"
+     y="585"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#354a3d"
+     id="text22">Board edge</text>
+  <line
+     x1="1573.3136"
+     y1="596.67053"
+     x2="1601.9879"
+     y2="621.4455"
+     stroke="#5a6f7c"
+     stroke-width="2.45133"
+     marker-end="url(#leader)"
+     id="line23" />
+  <line
+     x1="1499.8444"
+     y1="730"
+     x2="1596.379"
+     y2="730"
+     stroke="#355b75"
+     stroke-width="4"
+     marker-start="url(#dimArrow)"
+     marker-end="url(#dimArrow)"
+     id="line24"
+     style="stroke-width:2;stroke-dasharray:none;marker-start:url(#marker36);marker-end:url(#marker35)" />
+  <line
+     x1="1490"
+     y1="700"
+     x2="1490"
+     y2="741.57819"
+     stroke="#355b75"
+     stroke-width="2.79212"
+     id="line25" />
+  <line
+     x1="1605"
+     y1="700"
+     x2="1605"
+     y2="739.43756"
+     stroke="#355b75"
+     stroke-width="2.71929"
+     id="line26" />
+  <text
+     x="1496.6255"
+     y="762.49066"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#355b75"
+     id="text26">Edge-to-edge</text>
+  <!-- Bottom comparison strip -->
+  <rect
+     x="190.86493"
+     y="850"
+     width="1420"
+     height="105"
+     rx="18"
+     fill="#f3f6f8"
+     stroke="#aabdc8"
+     stroke-width="2.5"
+     id="rect26" />
+  <!-- component-to-edge mini-symbol -->
+  <rect
+     x="300"
+     y="888"
+     width="125"
+     height="46"
+     rx="10"
+     fill="#626d75"
+     stroke="#35424a"
+     stroke-width="3"
+     id="rect27" />
+  <rect
+     x="460"
+     y="870"
+     width="6"
+     height="80"
+     fill="#354a3d"
+     id="rect28" />
+  <line
+     x1="428.5531"
+     y1="942"
+     x2="456.87939"
+     y2="942"
+     stroke="#355b75"
+     stroke-width="2.69887"
+     marker-start="url(#dimArrow)"
+     marker-end="url(#dimArrow)"
+     id="line28" />
+  <text
+     x="490"
+     y="900"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26"
+     font-weight="700"
+     fill="#4b5d67"
+     id="text28">Component-to-edge</text>
+  <text
+     x="900"
+     y="907"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="700"
+     fill="#8d5b4f"
+     id="text29">≠</text>
+  <!-- copper-to-edge mini-symbol -->
+  <rect
+     x="1110"
+     y="898"
+     width="120"
+     height="26"
+     rx="6"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect29" />
+  <rect
+     x="1270"
+     y="870"
+     width="6"
+     height="80"
+     fill="#354a3d"
+     id="rect30" />
+  <line
+     x1="1232.9136"
+     y1="942"
+     x2="1266.6539"
+     y2="942"
+     stroke="#355b75"
+     stroke-width="2.75528"
+     marker-start="url(#dimArrow)"
+     marker-end="url(#dimArrow)"
+     id="line30" />
+  <text
+     x="1298"
+     y="900"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26"
+     font-weight="700"
+     fill="#4b5d67"
+     id="text30">Copper-to-edge</text>
+  <text
+     x="900"
+     y="942"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="700"
+     fill="#536873"
+     id="text31">Measured edge-to-edge</text>
+  <line
+     x1="422.45047"
+     y1="933.62964"
+     x2="422.45047"
+     y2="951.16699"
+     stroke="#355b75"
+     stroke-width="1.77672"
+     id="line20-3" />
+  <line
+     x1="1228.4646"
+     y1="933.6441"
+     x2="1228.4646"
+     y2="951.18152"
+     stroke="#355b75"
+     stroke-width="1.77672"
+     id="line20-3-0" />
+</svg>
