@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1000"
+   viewBox="0 0 1800 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="3.7.4.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="3.7.4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.832"
+     inkscape:cx="438.10096"
+     inkscape:cy="529.44712"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       id="leaderArrow"
+       markerWidth="11"
+       markerHeight="11"
+       refX="9"
+       refY="5.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L11,5.5 L0,11 Z"
+         fill="#5b6f7c"
+         id="path1" />
+    </marker>
+    <marker
+       id="flowArrow"
+       markerWidth="14"
+       markerHeight="14"
+       refX="11"
+       refY="7"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L14,7 L0,14 Z"
+         fill="#9a624d"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- Matched panels -->
+  <rect
+     x="55"
+     y="55"
+     width="805"
+     height="875"
+     rx="24"
+     fill="#fbfbfd"
+     stroke="#8aa9be"
+     stroke-width="3"
+     id="rect2" />
+  <rect
+     x="940"
+     y="55"
+     width="805"
+     height="875"
+     rx="24"
+     fill="#f8fbf8"
+     stroke="#8da99a"
+     stroke-width="3"
+     id="rect3" />
+  <!-- Headings -->
+  <text
+     x="457"
+     y="112"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36"
+     font-weight="700"
+     fill="#2f4b5f"
+     id="text3">Open via-in-pad</text>
+  <text
+     x="1342"
+     y="112"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36"
+     font-weight="700"
+     fill="#314a3a"
+     id="text4">Filled and plated-over via-in-pad</text>
+  <!-- ================= LEFT PANEL ================= -->
+  <!-- PCB substrate -->
+  <rect
+     x="175"
+     y="435"
+     width="565"
+     height="350"
+     rx="8"
+     fill="#9fb8a5"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect4" />
+  <!-- Top copper component pad -->
+  <rect
+     x="175"
+     y="405"
+     width="565"
+     height="30"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect5" />
+  <!-- Open plated through via: barrel lining + open bore -->
+  <rect
+     x="382"
+     y="405"
+     width="18"
+     height="380"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="2"
+     id="rect6" />
+  <rect
+     x="514"
+     y="405"
+     width="18"
+     height="380"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="2"
+     id="rect7" />
+  <rect
+     x="400"
+     y="405"
+     width="114"
+     height="380"
+     fill="#ffffff"
+     id="rect8" />
+  <!-- Generic component termination -->
+  <rect
+     x="345"
+     y="260"
+     width="224"
+     height="68"
+     rx="10"
+     fill="#cfd5d9"
+     stroke="#69777f"
+     stroke-width="4"
+     id="rect9" />
+  <!-- Simplified solder region under termination -->
+  <path
+     d="M365 328 L549 328 L525 405 L389 405 Z"
+     fill="#b7c3ca"
+     stroke="#71818a"
+     stroke-width="3"
+     id="path9" />
+  <!-- Labels -->
+  <rect
+     x="115.113"
+     y="164.11301"
+     width="286.26437"
+     height="47.774002"
+     rx="11.20165"
+     fill="#ffffff"
+     stroke="#c7d1d7"
+     stroke-width="2.226"
+     id="rect10" />
+  <text
+     x="130"
+     y="196"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#53656e"
+     id="text10">Component termination</text>
+  <line
+     x1="345"
+     y1="215"
+     x2="390"
+     y2="270"
+     stroke="#5b6f7c"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line10" />
+  <rect
+     x="108.05103"
+     y="312.05103"
+     width="210.33064"
+     height="47.897953"
+     rx="9.9630308"
+     fill="#ffffff"
+     stroke="#c7d1d7"
+     stroke-width="2.10205"
+     id="rect11" />
+  <text
+     x="123"
+     y="344"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#6d542f"
+     id="text11">Component pad</text>
+  <line
+     x1="310"
+     y1="363"
+     x2="340"
+     y2="420"
+     stroke="#5b6f7c"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line11" />
+  <rect
+     x="565"
+     y="465"
+     width="200"
+     height="48"
+     rx="9"
+     fill="#ffffff"
+     stroke="#c7d1d7"
+     stroke-width="2"
+     id="rect12" />
+  <text
+     x="580"
+     y="497"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23"
+     font-weight="700"
+     fill="#6d542f"
+     id="text12">Open via barrel</text>
+  <line
+     x1="565"
+     y1="490"
+     x2="520"
+     y2="500"
+     stroke="#5b6f7c"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line12" />
+  <!-- Single solder-wicking path arrow, downward -->
+  <line
+     x1="457"
+     y1="350"
+     x2="457"
+     y2="565"
+     stroke="#9a624d"
+     stroke-width="8"
+     marker-end="url(#flowArrow)"
+     id="line13" />
+  <rect
+     x="316"
+     y="570"
+     width="270"
+     height="66"
+     rx="10"
+     fill="#ffffff"
+     stroke="#d7c1b9"
+     stroke-width="2"
+     id="rect13" />
+  <text
+     x="331"
+     y="598"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#7d4f40"
+     id="text13">Possible solder wicking</text>
+  <text
+     x="331"
+     y="625"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#7d4f40"
+     id="text14">/ loss into the via</text>
+  <!-- Bottom teaching note -->
+  <rect
+     x="205"
+     y="835"
+     width="505"
+     height="58"
+     rx="12"
+     fill="#f7efec"
+     stroke="#d6b5aa"
+     stroke-width="2"
+     id="rect14" />
+  <text
+     x="457"
+     y="872"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25"
+     font-weight="700"
+     fill="#7d4f40"
+     id="text15">Uncontrolled solder path</text>
+  <!-- ================= RIGHT PANEL ================= -->
+  <!-- PCB substrate -->
+  <rect
+     x="1060"
+     y="435"
+     width="565"
+     height="350"
+     rx="8"
+     fill="#9fb8a5"
+     stroke="#5d7a68"
+     stroke-width="3"
+     id="rect15" />
+  <!-- Top copper component pad -->
+  <rect
+     x="1060"
+     y="405"
+     width="565"
+     height="30"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect16" />
+  <!-- Plated through via barrel -->
+  <rect
+     x="1267"
+     y="405"
+     width="18"
+     height="380"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="2"
+     id="rect17" />
+  <rect
+     x="1399"
+     y="405"
+     width="18"
+     height="380"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="2"
+     id="rect18" />
+  <!-- Via fill (distinct neutral material) -->
+  <rect
+     x="1285"
+     y="405"
+     width="114"
+     height="380"
+     fill="#8fa1ab"
+     stroke="#69777f"
+     stroke-width="2"
+     id="rect19" />
+  <!-- Planarized copper cap / plated-over surface -->
+  <rect
+     x="1247"
+     y="405"
+     width="190"
+     height="30"
+     rx="2"
+     fill="#d29b58"
+     stroke="#876438"
+     stroke-width="3"
+     id="rect20" />
+  <!-- Generic component termination -->
+  <rect
+     x="1230"
+     y="260"
+     width="224"
+     height="68"
+     rx="10"
+     fill="#cfd5d9"
+     stroke="#69777f"
+     stroke-width="4"
+     id="rect21" />
+  <!-- Simplified solder region -->
+  <path
+     d="M1250 328 L1434 328 L1410 405 L1274 405 Z"
+     fill="#b7c3ca"
+     stroke="#71818a"
+     stroke-width="3"
+     id="path21" />
+  <!-- Labels -->
+  <rect
+     x="1000.1175"
+     y="166.11755"
+     width="288.65915"
+     height="47.764923"
+     rx="11.295358"
+     fill="#ffffff"
+     stroke="#c7d1d7"
+     stroke-width="2.23508"
+     id="rect22" />
+  <text
+     x="1015"
+     y="198"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#53656e"
+     id="text22">Component termination</text>
+  <line
+     x1="1230"
+     y1="215"
+     x2="1275"
+     y2="270"
+     stroke="#5b6f7c"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line22" />
+  <rect
+     x="1469.8553"
+     y="323.85532"
+     width="160.19324"
+     height="62.289387"
+     rx="6.5533595"
+     fill="#ffffff"
+     stroke="#c7d1d7"
+     stroke-width="1.71061"
+     id="rect23" />
+  <text
+     x="1485"
+     y="350"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#6d542f"
+     id="text23">Copper cap /</text>
+  <text
+     x="1485"
+     y="375"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#6d542f"
+     id="text24">plated over</text>
+  <line
+     x1="1466.8882"
+     y1="376.42746"
+     x2="1403.5275"
+     y2="421.57108"
+     stroke="#5b6f7c"
+     stroke-width="4.10189"
+     marker-end="url(#leaderArrow)"
+     id="line24" />
+  <rect
+     x="1469.7905"
+     y="469.79053"
+     width="99.120895"
+     height="48.418968"
+     rx="5.5755501"
+     fill="#ffffff"
+     stroke="#c7d1d7"
+     stroke-width="1.58103"
+     id="rect24" />
+  <text
+     x="1485"
+     y="502"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23"
+     font-weight="700"
+     fill="#536873"
+     id="text25">Via fill</text>
+  <line
+     x1="1469.9648"
+     y1="495.33652"
+     x2="1368.8173"
+     y2="519.14764"
+     stroke="#5b6f7c"
+     stroke-width="3.68069"
+     marker-end="url(#leaderArrow)"
+     id="line25"
+     style="stroke-width:3.681;stroke-dasharray:none" />
+  <rect
+     x="1000.027"
+     y="567.02698"
+     width="316.77292"
+     height="47.946007"
+     rx="9.5031881"
+     fill="#ffffff"
+     stroke="#c7d1d7"
+     stroke-width="2.05399"
+     id="rect25" />
+  <text
+     x="1020"
+     y="599"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#355b75"
+     id="text26">Planar solderable surface</text>
+  <line
+     x1="1227.5178"
+     y1="561.65906"
+     x2="1335.6038"
+     y2="407.36981"
+     stroke="#5b6f7c"
+     stroke-width="5.69917"
+     marker-end="url(#leaderArrow)"
+     id="line26"
+     style="stroke-width:3.95218;stroke-dasharray:none" />
+  <!-- Bottom teaching note -->
+  <rect
+     x="1090"
+     y="835"
+     width="505"
+     height="58"
+     rx="12"
+     fill="#eef5f0"
+     stroke="#b4c7b8"
+     stroke-width="2"
+     id="rect26" />
+  <text
+     x="1342"
+     y="872"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25"
+     font-weight="700"
+     fill="#385143"
+     id="text27">Closed solder path</text>
+</svg>
