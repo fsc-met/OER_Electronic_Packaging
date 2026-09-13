@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1050"
+   viewBox="0 0 1800 1050"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg45"
+   sodipodi:docname="3.13.4.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="3.13.4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.51280108"
+     inkscape:cx="924.33503"
+     inkscape:cy="474.84299"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg45"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1">
+    <marker
+       id="leaderArrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#334657"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- Explicit full-canvas white background -->
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1050"
+     fill="#ffffff"
+     id="rect1" />
+  <!-- Main panel frames -->
+  <rect
+     x="65"
+     y="65"
+     width="800"
+     height="900"
+     rx="18"
+     fill="#fbfcfd"
+     stroke="#aeb9c3"
+     stroke-width="3"
+     id="rect2" />
+  <rect
+     x="935"
+     y="65"
+     width="800"
+     height="900"
+     rx="18"
+     fill="#fbfcfd"
+     stroke="#aeb9c3"
+     stroke-width="3"
+     id="rect3" />
+  <!-- Headings -->
+  <rect
+     x="100"
+     y="95"
+     width="730"
+     height="70"
+     rx="12"
+     fill="#edf6ef"
+     stroke="#8db89a"
+     stroke-width="2"
+     id="rect4" />
+  <rect
+     x="970"
+     y="95"
+     width="730"
+     height="70"
+     rx="12"
+     fill="#f8eeee"
+     stroke="#c98d8d"
+     stroke-width="2"
+     id="rect5" />
+  <text
+     x="465"
+     y="142"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33"
+     font-weight="700"
+     fill="#2e6441"
+     id="text5">Handling and support access available</text>
+  <text
+     x="1335"
+     y="142"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33"
+     font-weight="700"
+     fill="#702f35"
+     id="text6">Handling or support access blocked</text>
+  <!-- LEFT TOP: conveyor/edge access -->
+  <text
+     x="465"
+     y="210"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24"
+     font-weight="700"
+     fill="#344452"
+     id="text7">Edge handling</text>
+  <!-- conveyor rails -->
+  <rect
+     x="135"
+     y="405"
+     width="125"
+     height="72"
+     rx="10"
+     fill="#7b858e"
+     stroke="#414950"
+     stroke-width="3"
+     id="rect7" />
+  <rect
+     x="670"
+     y="405"
+     width="125"
+     height="72"
+     rx="10"
+     fill="#7b858e"
+     stroke="#414950"
+     stroke-width="3"
+     id="rect8" />
+  <!-- board -->
+  <rect
+     x="225"
+     y="335"
+     width="480"
+     height="78"
+     rx="8"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="4"
+     id="rect9" />
+  <rect
+     x="250"
+     y="345"
+     width="430"
+     height="20"
+     fill="#4aa17f"
+     opacity="0.35"
+     id="rect10" />
+  <!-- top-side components, kept away from edge handling -->
+  <rect
+     x="365"
+     y="275"
+     width="110"
+     height="60"
+     rx="8"
+     fill="#4c555d"
+     stroke="#23292e"
+     stroke-width="3"
+     id="rect11" />
+  <rect
+     x="520"
+     y="288"
+     width="85"
+     height="47"
+     rx="8"
+     fill="#d8dde1"
+     stroke="#68727a"
+     stroke-width="3"
+     id="rect12" />
+  <!-- clear edge zones -->
+  <rect
+     x="225"
+     y="315"
+     width="95"
+     height="118"
+     rx="8"
+     fill="#eaf2f8"
+     opacity="0.45"
+     stroke="#3f7db3"
+     stroke-width="3"
+     stroke-dasharray="9 7"
+     id="rect13" />
+  <rect
+     x="610"
+     y="315"
+     width="95"
+     height="118"
+     rx="8"
+     fill="#eaf2f8"
+     opacity="0.45"
+     stroke="#3f7db3"
+     stroke-width="3"
+     stroke-dasharray="9 7"
+     id="rect14" />
+  <rect
+     x="130"
+     y="230"
+     width="225"
+     height="58"
+     rx="9"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2"
+     id="rect15" />
+  <text
+     x="242"
+     y="267"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#334657"
+     id="text15">Clear edge region</text>
+  <line
+     x1="310"
+     y1="288"
+     x2="285"
+     y2="318"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line15" />
+  <rect
+     x="564.39923"
+     y="219.39923"
+     width="283.32727"
+     height="57.784348"
+     rx="11.08672"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2.21565"
+     id="rect16" />
+  <text
+     x="706.06287"
+     y="256.29141"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#334657"
+     id="text16">Conveyor / handling rail</text>
+  <line
+     x1="709.09967"
+     y1="280.44162"
+     x2="724.27783"
+     y2="405.38046"
+     stroke="#334657"
+     stroke-width="2.04152"
+     marker-end="url(#leaderArrow)"
+     id="line16"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <!-- LEFT divider -->
+  <line
+     x1="115"
+     y1="535"
+     x2="815"
+     y2="535"
+     stroke="#d2d8dd"
+     stroke-width="2"
+     id="line17" />
+  <!-- LEFT BOTTOM: underside support -->
+  <text
+     x="465"
+     y="585"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24"
+     font-weight="700"
+     fill="#344452"
+     id="text17">Underside board support</text>
+  <!-- side-view board -->
+  <rect
+     x="210"
+     y="700"
+     width="510"
+     height="38"
+     rx="5"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="3"
+     id="rect17" />
+  <!-- top-side components -->
+  <rect
+     x="310"
+     y="650"
+     width="95"
+     height="50"
+     rx="7"
+     fill="#4c555d"
+     stroke="#23292e"
+     stroke-width="3"
+     id="rect18" />
+  <rect
+     x="545"
+     y="660"
+     width="80"
+     height="40"
+     rx="7"
+     fill="#d8dde1"
+     stroke="#68727a"
+     stroke-width="3"
+     id="rect19" />
+  <!-- bottom-side components intentionally away from support -->
+  <rect
+     x="270"
+     y="738"
+     width="70"
+     height="42"
+     rx="6"
+     fill="#69747e"
+     stroke="#333b42"
+     stroke-width="3"
+     id="rect20" />
+  <rect
+     x="595"
+     y="738"
+     width="70"
+     height="42"
+     rx="6"
+     fill="#69747e"
+     stroke="#333b42"
+     stroke-width="3"
+     id="rect21" />
+  <!-- support point -->
+  <rect
+     x="442"
+     y="738"
+     width="46"
+     height="95"
+     rx="10"
+     fill="#7b858e"
+     stroke="#414950"
+     stroke-width="3"
+     id="rect22" />
+  <rect
+     x="420"
+     y="833"
+     width="90"
+     height="28"
+     rx="8"
+     fill="#8f989f"
+     stroke="#414950"
+     stroke-width="3"
+     id="rect23" />
+  <rect
+     x="96.885086"
+     y="820.08704"
+     width="284.44507"
+     height="57.825943"
+     rx="10.66669"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2.17406"
+     id="rect24" />
+  <text
+     x="240"
+     y="857"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#334657"
+     id="text24">Underside support point</text>
+  <line
+     x1="382.90198"
+     y1="827.28748"
+     x2="445.3269"
+     y2="799.51056"
+     stroke="#334657"
+     stroke-width="1.91623"
+     marker-end="url(#leaderArrow)"
+     id="line24"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <text
+     x="465"
+     y="920"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23"
+     fill="#2e6441"
+     id="text25">Clear edge handling and support contact</text>
+  <!-- RIGHT TOP: conveyor/edge interference -->
+  <text
+     x="1335"
+     y="210"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24"
+     font-weight="700"
+     fill="#344452"
+     id="text26">Edge handling</text>
+  <rect
+     x="1005"
+     y="405"
+     width="125"
+     height="72"
+     rx="10"
+     fill="#7b858e"
+     stroke="#414950"
+     stroke-width="3"
+     id="rect26" />
+  <rect
+     x="1540"
+     y="405"
+     width="125"
+     height="72"
+     rx="10"
+     fill="#7b858e"
+     stroke="#414950"
+     stroke-width="3"
+     id="rect27" />
+  <rect
+     x="1095"
+     y="335"
+     width="480"
+     height="78"
+     rx="8"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="4"
+     id="rect28" />
+  <rect
+     x="1120"
+     y="345"
+     width="430"
+     height="20"
+     fill="#4aa17f"
+     opacity="0.35"
+     id="rect29" />
+  <!-- safe interior component -->
+  <rect
+     x="1230"
+     y="278"
+     width="105"
+     height="57"
+     rx="8"
+     fill="#4c555d"
+     stroke="#23292e"
+     stroke-width="3"
+     id="rect30" />
+  <!-- overhanging edge connector -->
+  <rect
+     x="1480"
+     y="282"
+     width="145"
+     height="72"
+     rx="8"
+     fill="#d8dde1"
+     stroke="#68727a"
+     stroke-width="3"
+     id="rect31" />
+  <line
+     x1="1575.0919"
+     y1="344.75089"
+     x2="1601.0919"
+     y2="370.75089"
+     stroke="#7a3036"
+     stroke-width="7"
+     id="line32" />
+  <line
+     x1="1601.0919"
+     y1="344.75089"
+     x2="1575.0919"
+     y2="370.75089"
+     stroke="#7a3036"
+     stroke-width="7"
+     id="line33" />
+  <rect
+     x="1427.2278"
+     y="217.58212"
+     width="284.11389"
+     height="57.849064"
+     rx="10.436837"
+     fill="#ffffff"
+     stroke="#d3a1a1"
+     stroke-width="2.15094"
+     id="rect33" />
+  <text
+     x="1568.7848"
+     y="254.50665"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#7a3036"
+     id="text33">Overhanging component</text>
+  <line
+     x1="1531.5614"
+     y1="275.77451"
+     x2="1559.5148"
+     y2="324.67859"
+     stroke="#7a3036"
+     stroke-width="4.0775"
+     marker-end="url(#leaderArrow)"
+     id="line34" />
+  <rect
+     x="948.33246"
+     y="226.5211"
+     width="274.43784"
+     height="57.818733"
+     rx="10.738873"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2.18126"
+     id="rect34" />
+  <text
+     x="1086.4437"
+     y="263.43048"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#334657"
+     id="text34">Conveyor / handling rail</text>
+  <line
+     x1="1097"
+     y1="288"
+     x2="1057"
+     y2="405"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line35" />
+  <!-- RIGHT divider -->
+  <line
+     x1="985"
+     y1="535"
+     x2="1685"
+     y2="535"
+     stroke="#d2d8dd"
+     stroke-width="2"
+     id="line36" />
+  <!-- RIGHT BOTTOM: support access blocked -->
+  <text
+     x="1335"
+     y="585"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24"
+     font-weight="700"
+     fill="#344452"
+     id="text36">Underside board support</text>
+  <rect
+     x="1080"
+     y="686"
+     width="510"
+     height="38"
+     rx="5"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="3"
+     id="rect36" />
+  <rect
+     x="1180"
+     y="636"
+     width="95"
+     height="50"
+     rx="7"
+     fill="#4c555d"
+     stroke="#23292e"
+     stroke-width="3"
+     id="rect37" />
+  <rect
+     x="1415"
+     y="646"
+     width="80"
+     height="40"
+     rx="7"
+     fill="#d8dde1"
+     stroke="#68727a"
+     stroke-width="3"
+     id="rect38" />
+  <!-- bottom-side component exactly at intended support area -->
+  <rect
+     x="1300"
+     y="724"
+     width="95"
+     height="48"
+     rx="7"
+     fill="#69747e"
+     stroke="#333b42"
+     stroke-width="3"
+     id="rect39" />
+  <rect
+     x="1024.1161"
+     y="786.03998"
+     width="254.55254"
+     height="49.920124"
+     rx="9.7488203"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2.07988"
+     id="rect40" />
+  <text
+     x="1150"
+     y="818"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#334657"
+     id="text40">Bottom-side component</text>
+  <line
+     x1="1280"
+     y1="810"
+     x2="1312"
+     y2="766"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line40" />
+  <!-- attempted support point stopped below component -->
+  <rect
+     x="1325"
+     y="806"
+     width="46"
+     height="70"
+     rx="10"
+     fill="#7b858e"
+     stroke="#414950"
+     stroke-width="3"
+     id="rect41" />
+  <rect
+     x="1303"
+     y="876"
+     width="90"
+     height="28"
+     rx="8"
+     fill="#8f989f"
+     stroke="#414950"
+     stroke-width="3"
+     id="rect42" />
+  <!-- interference X -->
+  <line
+     x1="1328"
+     y1="778"
+     x2="1368"
+     y2="818"
+     stroke="#7a3036"
+     stroke-width="7"
+     id="line42" />
+  <line
+     x1="1368"
+     y1="778"
+     x2="1328"
+     y2="818"
+     stroke="#7a3036"
+     stroke-width="7"
+     id="line43" />
+  <rect
+     x="1450"
+     y="776"
+     width="235"
+     height="54"
+     rx="9"
+     fill="#ffffff"
+     stroke="#d3a1a1"
+     stroke-width="2"
+     id="rect43" />
+  <text
+     x="1567"
+     y="810"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#7a3036"
+     id="text43">Support area blocked</text>
+  <line
+     x1="1450"
+     y1="803"
+     x2="1380"
+     y2="794"
+     stroke="#7a3036"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line44" />
+  <text
+     x="1335"
+     y="938"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     fill="#702f35"
+     id="text44">Edge interference and blocked support need another strategy</text>
+  <!-- Shared qualifier -->
+  <text
+     x="900"
+     y="1010"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21"
+     fill="#687782"
+     id="text45">Schematic handling/support geometry — actual conveyor and support locations depend on the assembly equipment and fixture strategy.</text>
+</svg>

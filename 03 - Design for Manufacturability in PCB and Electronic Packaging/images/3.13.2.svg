@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1050"
+   viewBox="0 0 1800 1050"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="3.13.2.svg"
+   inkscape:export-filename="3.13.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.53116071"
+     inkscape:cx="869.79325"
+     inkscape:cy="556.3288"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg35" />
+  <defs
+     id="defs1">
+    <marker
+       id="leaderArrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#334657"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- Explicit full-canvas white background -->
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1050"
+     fill="#ffffff"
+     id="rect1" />
+  <!-- Panel frames -->
+  <rect
+     x="65"
+     y="70"
+     width="800"
+     height="900"
+     rx="18"
+     fill="#fbfcfd"
+     stroke="#aeb9c3"
+     stroke-width="3"
+     id="rect2" />
+  <rect
+     x="935"
+     y="70"
+     width="800"
+     height="900"
+     rx="18"
+     fill="#fbfcfd"
+     stroke="#aeb9c3"
+     stroke-width="3"
+     id="rect3" />
+  <!-- Panel headings -->
+  <rect
+     x="100"
+     y="100"
+     width="730"
+     height="68"
+     rx="12"
+     fill="#eef3f8"
+     stroke="#9aacbd"
+     stroke-width="2"
+     id="rect4" />
+  <rect
+     x="970"
+     y="100"
+     width="730"
+     height="68"
+     rx="12"
+     fill="#edf6ef"
+     stroke="#8db89a"
+     stroke-width="2"
+     id="rect5" />
+  <text
+     x="465"
+     y="146"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#344452"
+     id="text5">V-score separation</text>
+  <text
+     x="1335"
+     y="146"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#2e6441"
+     id="text6">Tab-routed separation</text>
+  <!-- LEFT PANEL: temporary panel material -->
+  <rect
+     x="145"
+     y="235"
+     width="640"
+     height="560"
+     rx="14"
+     fill="#dfe7e3"
+     stroke="#6c7a74"
+     stroke-width="3"
+     id="rect6" />
+  <!-- Two rectangular boards sharing straight boundary -->
+  <rect
+     x="185"
+     y="285"
+     width="280"
+     height="460"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="4"
+     id="rect7" />
+  <rect
+     x="465"
+     y="285"
+     width="280"
+     height="460"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="4"
+     id="rect8" />
+  <!-- representative components -->
+  <g
+     fill="#4c555d"
+     stroke="#23292e"
+     stroke-width="2"
+     id="g10">
+    <rect
+       x="255"
+       y="390"
+       width="110"
+       height="80"
+       rx="8"
+       id="rect9" />
+    <rect
+       x="555"
+       y="390"
+       width="110"
+       height="80"
+       rx="8"
+       id="rect10" />
+  </g>
+  <g
+     fill="#d8dde1"
+     stroke="#68727a"
+     stroke-width="2"
+     id="g12">
+    <rect
+       x="245"
+       y="555"
+       width="80"
+       height="45"
+       rx="6"
+       id="rect11" />
+    <rect
+       x="585"
+       y="555"
+       width="80"
+       height="45"
+       rx="6"
+       id="rect12" />
+  </g>
+  <!-- local keep-out bands near score -->
+  <rect
+     x="425"
+     y="285"
+     width="40"
+     height="460"
+     fill="#e99b4c"
+     opacity="0.20"
+     id="rect13" />
+  <rect
+     x="465"
+     y="285"
+     width="40"
+     height="460"
+     fill="#e99b4c"
+     opacity="0.20"
+     id="rect14" />
+  <!-- Straight V-score line continuing through the compatible panel direction -->
+  <line
+     x1="465"
+     y1="235"
+     x2="465"
+     y2="795"
+     stroke="#3f7db3"
+     stroke-width="6"
+     stroke-dasharray="15 10"
+     id="line14" />
+  <!-- left labels -->
+  <rect
+     x="105"
+     y="825"
+     width="225"
+     height="58"
+     rx="10"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2"
+     id="rect15" />
+  <text
+     x="217"
+     y="862"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23"
+     font-weight="700"
+     fill="#334657"
+     id="text15">V-score line</text>
+  <line
+     x1="306.81787"
+     y1="822.86096"
+     x2="446.98019"
+     y2="690.01324"
+     stroke="#334657"
+     stroke-width="2.94631"
+     marker-end="url(#leaderArrow)"
+     id="line15" />
+  <rect
+     x="345"
+     y="825"
+     width="260"
+     height="58"
+     rx="10"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2"
+     id="rect16" />
+  <text
+     x="475"
+     y="862"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21"
+     font-weight="700"
+     fill="#334657"
+     id="text16">Straight separation path</text>
+  <line
+     x1="475"
+     y1="825"
+     x2="465"
+     y2="760"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line16" />
+  <rect
+     x="620"
+     y="825"
+     width="205"
+     height="70"
+     rx="10"
+     fill="#ffffff"
+     stroke="#d7b08c"
+     stroke-width="2"
+     id="rect17" />
+  <text
+     x="722"
+     y="854"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20"
+     font-weight="700"
+     fill="#8a5a24"
+     id="text17">Local keep-out</text>
+  <text
+     x="722"
+     y="880"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20"
+     font-weight="700"
+     fill="#8a5a24"
+     id="text18">near score</text>
+  <line
+     x1="660"
+     y1="825"
+     x2="500"
+     y2="700"
+     stroke="#8a5a24"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line18" />
+  <!-- RIGHT PANEL temporary panel material -->
+  <rect
+     x="1015"
+     y="235"
+     width="640"
+     height="560"
+     rx="14"
+     fill="#dfe7e3"
+     stroke="#6c7a74"
+     stroke-width="3"
+     id="rect18" />
+  <!-- Routed board with slight irregular outline -->
+  <path
+     d="M 1125 315            H 1480            V 400            H 1540            V 700            H 1360            V 755            H 1125            Z"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="4"
+     id="path18" />
+  <!-- Routed gap around most perimeter: white channel drawn outside board edge -->
+  <path
+     d="M 1105 295            H 1500            V 380            H 1560            V 720            H 1380            V 775            H 1105            Z"
+     fill="none"
+     stroke="#ffffff"
+     stroke-width="28"
+     stroke-linejoin="round"
+     id="path19" />
+  <!-- Redraw board outline on top of routed gap -->
+  <path
+     d="M 1125 315            H 1480            V 400            H 1540            V 700            H 1360            V 755            H 1125            Z"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="4"
+     id="path20" />
+  <!-- deliberate solid tabs bridging routed gap -->
+  <rect
+     x="1102"
+     y="420"
+     width="42"
+     height="34"
+     rx="4"
+     fill="#c98231"
+     id="rect20" />
+  <rect
+     x="1350"
+     y="748"
+     width="45"
+     height="34"
+     rx="4"
+     fill="#c98231"
+     id="rect21" />
+  <!-- mouse-bite / perforated tab -->
+  <rect
+     x="1522"
+     y="520"
+     width="45"
+     height="62"
+     rx="4"
+     fill="#c98231"
+     id="rect22" />
+  <g
+     fill="#ffffff"
+     stroke="#6e7880"
+     stroke-width="1.5"
+     id="g26">
+    <circle
+       cx="1544"
+       cy="526"
+       r="5"
+       id="circle22" />
+    <circle
+       cx="1544"
+       cy="539"
+       r="5"
+       id="circle23" />
+    <circle
+       cx="1544"
+       cy="552"
+       r="5"
+       id="circle24" />
+    <circle
+       cx="1544"
+       cy="565"
+       r="5"
+       id="circle25" />
+    <circle
+       cx="1544"
+       cy="578"
+       r="5"
+       id="circle26" />
+  </g>
+  <!-- local keep-out near break tab -->
+  <rect
+     x="1450"
+     y="485"
+     width="95"
+     height="135"
+     rx="10"
+     fill="#e99b4c"
+     opacity="0.20"
+     id="rect26" />
+  <!-- representative components -->
+  <g
+     fill="#4c555d"
+     stroke="#23292e"
+     stroke-width="2"
+     id="g27">
+    <rect
+       x="1225"
+       y="405"
+       width="115"
+       height="82"
+       rx="8"
+       id="rect27" />
+  </g>
+  <g
+     fill="#d8dde1"
+     stroke="#68727a"
+     stroke-width="2"
+     id="g28">
+    <rect
+       x="1215"
+       y="600"
+       width="85"
+       height="48"
+       rx="6"
+       id="rect28" />
+  </g>
+  <!-- right labels -->
+  <rect
+     x="980"
+     y="825"
+     width="205"
+     height="58"
+     rx="10"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2"
+     id="rect29" />
+  <text
+     x="1082"
+     y="862"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#334657"
+     id="text29">Routed gap</text>
+  <line
+     x1="1080.3036"
+     y1="821.55347"
+     x2="1104.7651"
+     y2="712.93353"
+     stroke="#334657"
+     stroke-width="1.95292"
+     marker-end="url(#leaderArrow)"
+     id="line29" />
+  <rect
+     x="1205"
+     y="825"
+     width="205"
+     height="58"
+     rx="10"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2"
+     id="rect30" />
+  <text
+     x="1307"
+     y="862"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#334657"
+     id="text30">Breakaway tab</text>
+  <line
+     x1="1307"
+     y1="825"
+     x2="1370"
+     y2="765"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line30" />
+  <rect
+     x="1537.9489"
+     y="261.14853"
+     width="190.74867"
+     height="72.249977"
+     rx="7.6299467"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="1.75002"
+     id="rect31" />
+  <text
+     x="1633.9303"
+     y="290.27353"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#334657"
+     id="text31">Mouse-bite /</text>
+  <text
+     x="1633.9303"
+     y="316.27353"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#334657"
+     id="text32">perforated tab</text>
+  <line
+     x1="1601.9762"
+     y1="335.59351"
+     x2="1554.3103"
+     y2="555.59802"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line32" />
+  <rect
+     x="1436.2866"
+     y="821.36078"
+     width="215"
+     height="62"
+     rx="10"
+     fill="#ffffff"
+     stroke="#d7b08c"
+     stroke-width="2"
+     id="rect32" />
+  <text
+     x="1539.6437"
+     y="848.14648"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="19px"
+     font-weight="700"
+     fill="#8a5a24"
+     id="text33">Local keep-out</text>
+  <text
+     x="1543.2866"
+     y="872.36078"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="19px"
+     font-weight="700"
+     fill="#8a5a24"
+     id="text34">near tab</text>
+  <line
+     x1="1500"
+     y1="821.36078"
+     x2="1500"
+     y2="619.05756"
+     stroke="#8a5a24"
+     stroke-width="6.74672"
+     marker-end="url(#leaderArrow)"
+     id="line34"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <!-- bottom qualifier -->
+  <text
+     x="900"
+     y="1005"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     fill="#687782"
+     id="text35">
+    Separation geometry is schematic; actual score, route, tab, and keep-out details follow the selected fabricator/assembler.
+  </text>
+</svg>
