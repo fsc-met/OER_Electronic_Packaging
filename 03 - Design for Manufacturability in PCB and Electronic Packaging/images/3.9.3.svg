@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2000"
+   height="1200"
+   viewBox="0 0 2000 1200"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="3.9.3.svg"
+   inkscape:export-filename="3.9.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.4902607"
+     inkscape:cx="1005.5874"
+     inkscape:cy="594.58162"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       id="arrowBlue"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L12,6 L0,12 Z"
+         fill="#536f82"
+         id="path1" />
+    </marker>
+    <style
+       id="style1"><![CDATA[
+    text { font-family: Arial, Helvetica, sans-serif; fill:#3f4d50; }
+    .panelTitle { font-size:50px; font-weight:700; fill:#334b3d; }
+    .label { font-size:34px; font-weight:700; }
+    .small { font-size:29px; }
+    .note { font-size:32px; font-weight:700; fill:#38566b; }
+    .lead { stroke:#536f82; stroke-width:4; fill:none; marker-end:url(#arrowBlue); }
+  ]]></style>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <!-- panel frames -->
+  <rect
+     x="70"
+     y="70"
+     width="880"
+     height="880"
+     rx="30"
+     fill="#fbfcfb"
+     stroke="#a8b9ad"
+     stroke-width="4"
+     id="rect2" />
+  <rect
+     x="1050"
+     y="70"
+     width="880"
+     height="880"
+     rx="30"
+     fill="#fbfcfb"
+     stroke="#a8b9ad"
+     stroke-width="4"
+     id="rect3" />
+  <text
+     x="510"
+     y="145"
+     text-anchor="middle"
+     class="panelTitle"
+     id="text3">Untented / exposed via</text>
+  <text
+     x="1490"
+     y="145"
+     text-anchor="middle"
+     class="panelTitle"
+     id="text4">Tented via</text>
+  <!-- LEFT board -->
+  <rect
+     x="160"
+     y="520"
+     width="700"
+     height="270"
+     fill="#c6d4c2"
+     stroke="#6d8170"
+     stroke-width="4"
+     id="rect4" />
+  <!-- copper top pad halves, leaving hole center -->
+  <rect
+     x="355"
+     y="485"
+     width="110"
+     height="35"
+     fill="#cd9550"
+     stroke="#916633"
+     stroke-width="3"
+     id="rect5" />
+  <rect
+     x="555"
+     y="485"
+     width="110"
+     height="35"
+     fill="#cd9550"
+     stroke="#916633"
+     stroke-width="3"
+     id="rect6" />
+  <!-- barrel -->
+  <rect
+     x="430"
+     y="520"
+     width="35"
+     height="270"
+     fill="#cd9550"
+     stroke="#916633"
+     stroke-width="3"
+     id="rect7" />
+  <rect
+     x="555"
+     y="520"
+     width="35"
+     height="270"
+     fill="#cd9550"
+     stroke="#916633"
+     stroke-width="3"
+     id="rect8" />
+  <!-- open bore -->
+  <rect
+     x="465"
+     y="520"
+     width="90"
+     height="270"
+     fill="#ffffff"
+     stroke="#657178"
+     stroke-width="3"
+     id="rect9" />
+  <!-- solder mask left/right, opening over via -->
+  <rect
+     x="160"
+     y="455"
+     width="195"
+     height="30"
+     rx="6"
+     fill="#5d9b62"
+     stroke="#3d6c43"
+     stroke-width="3"
+     id="rect10" />
+  <rect
+     x="665"
+     y="455"
+     width="195"
+     height="30"
+     rx="6"
+     fill="#5d9b62"
+     stroke="#3d6c43"
+     stroke-width="3"
+     id="rect11" />
+  <!-- LEFT labels/leaders -->
+  <text
+     x="180"
+     y="305"
+     class="label"
+     id="text11">Solder mask</text>
+  <path
+     d="m 305.52323,325.19866 -55,135"
+     class="lead"
+     id="path11"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="682.96027"
+     y="328.15894"
+     class="label"
+     id="text12">Via pad</text>
+  <path
+     d="m 736.84108,336.1192 -125,162"
+     class="lead"
+     id="path12"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="175"
+     y="875"
+     class="label"
+     id="text13">Plated via barrel</text>
+  <path
+     d="m 395,848.88081 50,-120"
+     class="lead"
+     id="path13"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="675"
+     y="875"
+     class="label"
+     id="text14">Open bore</text>
+  <path
+     d="M 746.71879,842.88102 519.16427,689.44092"
+     class="lead"
+     id="path14"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="510"
+     y="405"
+     text-anchor="middle"
+     class="label"
+     id="text15">Mask opening</text>
+  <path
+     d="M510 415 L510 470"
+     class="lead"
+     id="path15"
+     style="marker-end:url(#Triangle)" />
+  <!-- RIGHT board identical geometry -->
+  <rect
+     x="1140"
+     y="520"
+     width="700"
+     height="270"
+     fill="#c6d4c2"
+     stroke="#6d8170"
+     stroke-width="4"
+     id="rect15" />
+  <rect
+     x="1335"
+     y="485"
+     width="110"
+     height="35"
+     fill="#cd9550"
+     stroke="#916633"
+     stroke-width="3"
+     id="rect16" />
+  <rect
+     x="1535"
+     y="485"
+     width="110"
+     height="35"
+     fill="#cd9550"
+     stroke="#916633"
+     stroke-width="3"
+     id="rect17" />
+  <rect
+     x="1410"
+     y="520"
+     width="35"
+     height="270"
+     fill="#cd9550"
+     stroke="#916633"
+     stroke-width="3"
+     id="rect18" />
+  <rect
+     x="1535"
+     y="520"
+     width="35"
+     height="270"
+     fill="#cd9550"
+     stroke="#916633"
+     stroke-width="3"
+     id="rect19" />
+  <rect
+     x="1445"
+     y="520"
+     width="90"
+     height="270"
+     fill="#ffffff"
+     stroke="#657178"
+     stroke-width="3"
+     id="rect20" />
+  <!-- mask covering via region; thin film over pad/hole, open bore still visible below -->
+  <path
+     d="M1140 455 H1840 V485 H1605 C1580 485 1560 472 1540 468 C1510 462 1470 462 1440 468 C1420 472 1400 485 1375 485 H1140 Z"
+     fill="#5d9b62"
+     stroke="#3d6c43"
+     stroke-width="3"
+     id="path20" />
+  <!-- RIGHT labels/leaders -->
+  <text
+     x="1165"
+     y="305"
+     class="label"
+     id="text20">Solder mask</text>
+  <path
+     d="m 1287.3643,315 -50,135"
+     class="lead"
+     id="path21"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="1721.1919"
+     y="317.03973"
+     class="label"
+     id="text21">Via pad</text>
+  <path
+     d="m 1738.3576,335.19866 -110,167"
+     class="lead"
+     id="path22"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="1160"
+     y="875"
+     class="label"
+     id="text22">Plated via barrel</text>
+  <path
+     d="m 1385,848.88081 40,-120"
+     class="lead"
+     id="path23"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="1660"
+     y="875"
+     class="label"
+     id="text23">Open bore</text>
+  <path
+     d="M 1734.705,840.83662 1489.0928,689.4074"
+     class="lead"
+     id="path24"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="1496.1191"
+     y="381.84106"
+     text-anchor="middle"
+     class="label"
+     id="text24">Mask covers via region</text>
+  <path
+     d="m 1492.0397,396.84108 v 52"
+     class="lead"
+     id="path25"
+     style="marker-end:url(#Triangle)" />
+  <!-- concise panel notes -->
+  <text
+     x="510"
+     y="920"
+     text-anchor="middle"
+     class="small"
+     id="text25">Intentional mask opening leaves the via exposed</text>
+  <text
+     x="1490"
+     y="905"
+     text-anchor="middle"
+     class="small"
+     id="text26">No intended mask opening over the via</text>
+  <text
+     x="1490"
+     y="935"
+     text-anchor="middle"
+     class="small"
+     id="text27">Complete closure depends on via size and process</text>
+  <!-- bottom distinction note -->
+  <rect
+     x="220"
+     y="1020"
+     width="1560"
+     height="120"
+     rx="24"
+     fill="#f0f5f8"
+     stroke="#9fb5c3"
+     stroke-width="4"
+     id="rect27" />
+  <text
+     x="1000"
+     y="1068"
+     text-anchor="middle"
+     class="note"
+     id="text28">Tenting is a solder-mask treatment</text>
+  <text
+     x="1000"
+     y="1115"
+     text-anchor="middle"
+     class="small"
+     id="text29">Tenting ≠ structural via fill / plated-over via-in-pad</text>
+</svg>

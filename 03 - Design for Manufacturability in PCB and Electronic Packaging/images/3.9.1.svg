@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2000"
+   height="1200"
+   viewBox="0 0 2000 1200"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="3.9.1.svg"
+   inkscape:export-filename="3.9.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.76044014"
+     inkscape:cx="1368.944"
+     inkscape:cy="383.33063"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <defs
+     id="defs6">
+    <marker
+       id="arrow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 1 L 10 6 L 0 11 z"
+         fill="#315d7a"
+         id="path1" />
+    </marker>
+    <marker
+       id="dimStart"
+       markerWidth="12"
+       markerHeight="12"
+       refX="2"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 10 1 L 2 6 L 10 11 z"
+         fill="#315d7a"
+         id="path2" />
+    </marker>
+    <marker
+       id="dimEnd"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 1 L 10 6 L 0 11 z"
+         fill="#315d7a"
+         id="path3" />
+    </marker>
+    <marker
+       id="redArrow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 1 L 10 6 L 0 11 z"
+         fill="#8c483b"
+         id="path4" />
+    </marker>
+    <marker
+       id="redDimStart"
+       markerWidth="12"
+       markerHeight="12"
+       refX="2"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 10 1 L 2 6 L 10 11 z"
+         fill="#8c483b"
+         id="path5" />
+    </marker>
+    <marker
+       id="redDimEnd"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 1 L 10 6 L 0 11 z"
+         fill="#8c483b"
+         id="path6" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect6" />
+  <!-- Left panel -->
+  <g
+     id="left-panel">
+    <rect
+       x="70"
+       y="55"
+       width="890"
+       height="1015"
+       rx="30"
+       fill="#fbfcfd"
+       stroke="#87a9bf"
+       stroke-width="4"
+       id="rect7" />
+    <text
+       x="515"
+       y="125"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="48"
+       font-weight="700"
+       fill="#24465f"
+       id="text7">Nominal centered opening</text>
+    <rect
+       x="165"
+       y="210"
+       width="700"
+       height="700"
+       rx="22"
+       fill="#b9cdb9"
+       stroke="#718b73"
+       stroke-width="4"
+       id="rect8" />
+    <text
+       x="825"
+       y="880"
+       text-anchor="end"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="30"
+       font-weight="600"
+       fill="#355c43"
+       id="text8">Solder mask</text>
+    <!-- centered opening and pad -->
+    <rect
+       x="275"
+       y="330"
+       width="480"
+       height="480"
+       fill="#ffffff"
+       stroke="#315d7a"
+       stroke-width="5"
+       stroke-dasharray="16 10"
+       id="rect9" />
+    <rect
+       x="335"
+       y="390"
+       width="360"
+       height="360"
+       rx="4"
+       fill="#c99250"
+       stroke="#8a6a39"
+       stroke-width="4"
+       id="rect10" />
+    <text
+       x="515"
+       y="575"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="34"
+       font-weight="700"
+       fill="#553b1f"
+       id="text10">Copper pad</text>
+    <text
+       x="515"
+       y="617"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="28"
+       fill="#553b1f"
+       id="text11">0.30 mm</text>
+    <!-- opening width dimension -->
+    <line
+       x1="275"
+       y1="300"
+       x2="755"
+       y2="300"
+       stroke="#315d7a"
+       stroke-width="4"
+       marker-start="url(#dimStart)"
+       marker-end="url(#dimEnd)"
+       id="line11" />
+    <line
+       x1="275"
+       y1="312"
+       x2="275"
+       y2="330"
+       stroke="#315d7a"
+       stroke-width="3"
+       id="line12" />
+    <line
+       x1="755"
+       y1="312"
+       x2="755"
+       y2="330"
+       stroke="#315d7a"
+       stroke-width="3"
+       id="line13" />
+    <text
+       x="515"
+       y="278"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="30"
+       font-weight="700"
+       fill="#315d7a"
+       id="text13">Solder-mask opening = 0.40 mm</text>
+    <!-- pad width dimension -->
+    <line
+       x1="335"
+       y1="785"
+       x2="695"
+       y2="785"
+       stroke="#315d7a"
+       stroke-width="4"
+       marker-start="url(#dimStart)"
+       marker-end="url(#dimEnd)"
+       id="line14" />
+    <line
+       x1="335"
+       y1="760"
+       x2="335"
+       y2="800"
+       stroke="#315d7a"
+       stroke-width="3"
+       id="line15" />
+    <line
+       x1="695"
+       y1="760"
+       x2="695"
+       y2="800"
+       stroke="#315d7a"
+       stroke-width="3"
+       id="line16" />
+    <text
+       x="515"
+       y="848"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="29"
+       font-weight="600"
+       fill="#315d7a"
+       id="text16">Pad width = 0.30 mm</text>
+    <!-- expansion per side -->
+    <line
+       x1="275"
+       y1="720"
+       x2="335"
+       y2="720"
+       stroke="#315d7a"
+       stroke-width="4"
+       marker-start="url(#dimStart)"
+       marker-end="url(#dimEnd)"
+       id="line17" />
+    <text
+       x="305"
+       y="695"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="27"
+       font-weight="700"
+       fill="#315d7a"
+       id="text17">E = 0.05 mm / side</text>
+    <text
+       x="515"
+       y="972"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="30"
+       font-weight="700"
+       fill="#3b4f5c"
+       id="text18">Opening is larger than the pad in this example</text>
+    <text
+       x="515"
+       y="1014"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="25"
+       fill="#5b6d77"
+       id="text19">Example geometry; actual values are process-dependent</text>
+  </g>
+  <!-- Right panel -->
+  <rect
+     x="1040"
+     y="55"
+     width="890"
+     height="1015"
+     rx="30"
+     fill="#fbfcfd"
+     stroke="#9aaa83"
+     stroke-width="4"
+     id="rect19" />
+  <text
+     x="1485"
+     y="125"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="48px"
+     font-weight="700"
+     fill="#4c5136"
+     id="text20">Same opening after registration shift</text>
+  <rect
+     x="1135"
+     y="210"
+     width="700"
+     height="700"
+     rx="22"
+     fill="#b9cdb9"
+     stroke="#718b73"
+     stroke-width="4"
+     id="rect20" />
+  <text
+     x="1795"
+     y="880"
+     text-anchor="end"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30px"
+     font-weight="600"
+     fill="#355c43"
+     id="text21">Solder mask</text>
+  <rect
+     x="1245"
+     y="330"
+     width="480"
+     height="480"
+     fill="none"
+     stroke="#6c7680"
+     stroke-width="4"
+     stroke-dasharray="14, 10"
+     id="rect21" />
+  <text
+     x="1245"
+     y="306"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26px"
+     fill="#626f78"
+     id="text22">Nominal opening outline</text>
+  <rect
+     x="1275"
+     y="330"
+     width="480"
+     height="480"
+     fill="#ffffff"
+     stroke="#315d7a"
+     stroke-width="5"
+     id="rect22" />
+  <rect
+     x="1305"
+     y="390"
+     width="360"
+     height="360"
+     rx="4"
+     fill="#c99250"
+     stroke="#8a6a39"
+     stroke-width="4"
+     id="rect23" />
+  <text
+     x="1485"
+     y="575"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34px"
+     font-weight="700"
+     fill="#553b1f"
+     id="text23">Copper pad</text>
+  <text
+     x="1485"
+     y="617"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28px"
+     fill="#553b1f"
+     id="text24">same 0.30 mm pad</text>
+  <line
+     x1="1485"
+     y1="178"
+     x2="1515"
+     y2="178"
+     stroke="#8c483b"
+     stroke-width="5"
+     marker-end="url(#redArrow)"
+     id="line24" />
+  <text
+     x="1500"
+     y="165"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     fill="#8c483b"
+     id="text25">Representative registration shift</text>
+  <line
+     x1="1275"
+     y1="705"
+     x2="1305"
+     y2="705"
+     stroke="#8c483b"
+     stroke-width="5"
+     marker-start="url(#redDimStart)"
+     marker-end="url(#redDimEnd)"
+     id="line25" />
+  <line
+     x1="1275"
+     y1="675"
+     x2="1275"
+     y2="730"
+     stroke="#8c483b"
+     stroke-width="3"
+     id="line26" />
+  <line
+     x1="1305"
+     y1="675"
+     x2="1305"
+     y2="730"
+     stroke="#8c483b"
+     stroke-width="3"
+     id="line27" />
+  <text
+     x="1215"
+     y="858"
+     text-anchor="start"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28px"
+     font-weight="700"
+     fill="#8c483b"
+     id="text27">Reduced realized clearance</text>
+  <line
+     x1="1360"
+     y1="832"
+     x2="1290"
+     y2="722"
+     stroke="#8c483b"
+     stroke-width="4"
+     marker-end="url(#redArrow)"
+     id="line28" />
+  <text
+     x="1485"
+     y="972"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30px"
+     font-weight="700"
+     fill="#3b4f5c"
+     id="text28">Same opening size — different realized margin</text>
+  <text
+     x="1485"
+     y="1014"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     fill="#5b6d77"
+     id="text29">Registration changes alignment, not the nominal geometry</text>
+  <!-- Bottom summary -->
+  <rect
+     x="300"
+     y="1090"
+     width="1400"
+     height="72"
+     rx="18"
+     fill="#f3f7fa"
+     stroke="#9eb8c9"
+     stroke-width="3"
+     id="rect29" />
+  <text
+     x="1000"
+     y="1136"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29"
+     font-weight="700"
+     fill="#315d7a"
+     id="text30">Expose the required copper while preserving enough registration margin for the selected process</text>
+</svg>
