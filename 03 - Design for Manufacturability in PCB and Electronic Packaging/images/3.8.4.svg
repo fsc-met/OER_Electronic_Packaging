@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2000"
+   height="1200"
+   viewBox="0 0 2000 1200"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="3.8.4.svg"
+   inkscape:export-filename="3.8.4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.48257178"
+     inkscape:cx="1040.2598"
+     inkscape:cy="809.20605"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       id="leaderArrow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L12,6 L0,12 Z"
+         fill="#5b6f7c"
+         id="path1" />
+    </marker>
+  </defs>
+  <!-- Panel cards -->
+  <rect
+     x="55"
+     y="70"
+     width="590"
+     height="980"
+     rx="24"
+     fill="#fdf9f7"
+     stroke="#c7aaa0"
+     stroke-width="3"
+     id="rect2" />
+  <rect
+     x="705"
+     y="70"
+     width="590"
+     height="980"
+     rx="24"
+     fill="#fbfbf7"
+     stroke="#aaa98d"
+     stroke-width="3"
+     id="rect3" />
+  <rect
+     x="1355"
+     y="70"
+     width="590"
+     height="980"
+     rx="24"
+     fill="#f8fbf8"
+     stroke="#9fb8a5"
+     stroke-width="3"
+     id="rect4" />
+  <!-- Headings -->
+  <text
+     x="350"
+     y="132"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#684c43"
+     id="text4">Acute interior copper angle</text>
+  <text
+     x="1000"
+     y="132"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#54533f"
+     id="text5">Clean 90° bend</text>
+  <text
+     x="1650"
+     y="132"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#385143"
+     id="text6">45° or rounded routing style</text>
+  <!-- ================= PANEL A ================= -->
+  <rect
+     x="125"
+     y="210"
+     width="450"
+     height="470"
+     rx="14"
+     fill="#b8ccb9"
+     stroke="#6c8770"
+     stroke-width="3"
+     id="rect6" />
+  <!-- Copper trace with a deliberately acute concave interior wedge -->
+  <path
+     d="M165,500            L330,500            L465,350            L525,405            L400,545            L575,545            L575,625            L345,625            L300,585            L165,585 Z"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="path6" />
+  <!-- Acute interior wedge label -->
+  <text
+     x="330"
+     y="760"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#7d4f40"
+     id="text7">Acute interior angle</text>
+  <line
+     x1="360.92737"
+     y1="736.9043"
+     x2="421.16678"
+     y2="534.18201"
+     stroke="#5b6f7c"
+     stroke-width="5.6393"
+     marker-end="url(#leaderArrow)"
+     id="line7"
+     style="stroke-width:2;stroke-dasharray:none;marker-end:url(#Triangle)" />
+  <!-- Angle cue -->
+  <path
+     d="m 427.99127,515.37959 a 28.164256,40.188992 0 0 1 17.14681,31.34327"
+     fill="none"
+     stroke="#7d4f40"
+     stroke-width="1.74019"
+     id="path7"
+     inkscape:transform-center-x="11.11652"
+     inkscape:transform-center-y="-0.37201326" />
+  <text
+     x="447.70532"
+     y="530.28882"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#7d4f40"
+     id="text8">&lt; 90°</text>
+  <rect
+     x="125"
+     y="850"
+     width="450"
+     height="105"
+     rx="12"
+     fill="#ffffff"
+     stroke="#d7c1b9"
+     stroke-width="2"
+     id="rect8" />
+  <text
+     x="350"
+     y="893"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29"
+     font-weight="700"
+     fill="#684c43"
+     id="text9">Historical acid-trap concern</text>
+  <text
+     x="350"
+     y="930"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     fill="#765c53"
+     id="text10">Acute interior copper wedge</text>
+  <!-- ================= PANEL B ================= -->
+  <rect
+     x="775"
+     y="210"
+     width="450"
+     height="470"
+     rx="14"
+     fill="#b8ccb9"
+     stroke="#6c8770"
+     stroke-width="3"
+     id="rect10" />
+  <!-- Equal-width clean 90-degree bend -->
+  <path
+     d="M835,335            H950            V500            H1165            V585            H865            V420            H835 Z"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="path10" />
+  <!-- 90-degree cue -->
+  <path
+     d="M 1003.8278,493.287 H 955.70608 V 443.24981"
+     fill="none"
+     stroke="#355b75"
+     stroke-width="3.92561"
+     id="path11" />
+  <text
+     x="977.37128"
+     y="475.94894"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#355b75"
+     id="text11">90°</text>
+  <text
+     x="1000"
+     y="760"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29"
+     font-weight="700"
+     fill="#54533f"
+     id="text12">Adequate width, simple geometry</text>
+  <rect
+     x="761.56628"
+     y="850.02795"
+     width="475.74573"
+     height="104.94413"
+     rx="12.686553"
+     fill="#ffffff"
+     stroke="#d8d4bb"
+     stroke-width="2.05587"
+     id="rect12" />
+  <text
+     x="1000"
+     y="894"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29"
+     font-weight="700"
+     fill="#54533f"
+     id="text13">90° is not automatically a defect</text>
+  <text
+     x="1000"
+     y="931"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     fill="#6b674f"
+     id="text14">Modern fabrication reduces the risk</text>
+  <!-- ================= PANEL C ================= -->
+  <rect
+     x="1425.1147"
+     y="210.11475"
+     width="449.77051"
+     height="544.9317"
+     rx="13.992861"
+     fill="#b8ccb9"
+     stroke="#6c8770"
+     stroke-width="3.22948"
+     id="rect14" />
+  <!-- Upper subexample: 45-degree miter -->
+  <text
+     x="1650"
+     y="255"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="700"
+     fill="#385143"
+     id="text15">45° miter</text>
+  <path
+     d="M 1480.5128,280 H 1640.5128 L 1720.5128,360 V 480 H 1640.5128 V 400 L 1600.5128,360 H 1480.5128 Z"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="path15" />
+  <!-- Lower subexample: rounded bend -->
+  <text
+     x="1644.391"
+     y="520.4165"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28px"
+     font-weight="700"
+     fill="#385143"
+     id="text16">Rounded bend</text>
+  <path
+     d="m 1518.0452,632.75639 h 95 c 50,0 85,35 85,85 v 15 h 80 v -15 c 0,-95 -70,-165 -165,-165 h -95 z"
+     fill="#c99252"
+     stroke="#876438"
+     stroke-width="3"
+     id="path16" />
+  <rect
+     x="1425"
+     y="850"
+     width="450"
+     height="105"
+     rx="12"
+     fill="#ffffff"
+     stroke="#bdd0c1"
+     stroke-width="2"
+     id="rect16" />
+  <text
+     x="1650"
+     y="894"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29"
+     font-weight="700"
+     fill="#385143"
+     id="text17">Common robust alternatives</text>
+  <text
+     x="1650"
+     y="931"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     fill="#50685a"
+     id="text18">Useful, not mandatory</text>
+  <!-- Shared bottom note -->
+  <rect
+     x="240"
+     y="1080"
+     width="1520"
+     height="90"
+     rx="14"
+     fill="#f3f6f8"
+     stroke="#aabdc8"
+     stroke-width="2"
+     id="rect18" />
+  <text
+     x="1000"
+     y="1117"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="700"
+     fill="#355b75"
+     id="text19">Acute interior wedges—not every 90° bend—are the historical concern</text>
+  <text
+     x="1000"
+     y="1154"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     fill="#536873"
+     id="text20">Modern processes reduce the risk; avoiding sharp wedges remains good DFM practice</text>
+</svg>
