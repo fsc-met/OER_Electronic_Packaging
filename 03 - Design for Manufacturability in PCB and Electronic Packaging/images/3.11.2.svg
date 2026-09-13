@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1050"
+   viewBox="0 0 1800 1050"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg59"
+   sodipodi:docname="3.11.2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="3.11.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview59"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.40170279"
+     inkscape:cx="764.24663"
+     inkscape:cy="638.53179"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs3">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       id="optArrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#3f7db3"
+         id="path1" />
+    </marker>
+    <marker
+       id="xrayArrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#7656a8"
+         id="path2" />
+    </marker>
+    <marker
+       id="leadArrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#334657"
+         id="path3" />
+    </marker>
+    <marker
+       id="xrayArrow-1"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#7656a8"
+         id="path2-5" />
+    </marker>
+  </defs>
+  <!-- Explicit full-canvas white background -->
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1050"
+     fill="#ffffff"
+     id="rect3" />
+  <!-- Panel frames -->
+  <rect
+     x="45"
+     y="84"
+     width="540"
+     height="880"
+     rx="18"
+     fill="#fbfcfd"
+     stroke="#aeb9c3"
+     stroke-width="3"
+     id="rect4" />
+  <rect
+     x="630"
+     y="84"
+     width="540"
+     height="880"
+     rx="18"
+     fill="#fbfcfd"
+     stroke="#aeb9c3"
+     stroke-width="3"
+     id="rect5" />
+  <rect
+     x="1215"
+     y="84"
+     width="540"
+     height="880"
+     rx="18"
+     fill="#fbfcfd"
+     stroke="#aeb9c3"
+     stroke-width="3"
+     id="rect6" />
+  <!-- Panel headings -->
+  <rect
+     x="75"
+     y="109"
+     width="480"
+     height="66"
+     rx="12"
+     fill="#edf6ef"
+     stroke="#8db89a"
+     stroke-width="2"
+     id="rect7" />
+  <rect
+     x="660"
+     y="109"
+     width="480"
+     height="66"
+     rx="12"
+     fill="#eef2f7"
+     stroke="#9aacbd"
+     stroke-width="2"
+     id="rect8" />
+  <rect
+     x="1245"
+     y="109"
+     width="480"
+     height="66"
+     rx="12"
+     fill="#eef2f7"
+     stroke="#9aacbd"
+     stroke-width="2"
+     id="rect9" />
+  <text
+     x="315"
+     y="154"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     fill="#2e6441"
+     id="text9">Exposed lead</text>
+  <text
+     x="900"
+     y="154"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     fill="#344452"
+     id="text10">QFN</text>
+  <text
+     x="1485"
+     y="154"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     fill="#344452"
+     id="text11">BGA</text>
+  <!-- Shared inspection-path legend -->
+  <line
+     x1="575"
+     y1="49"
+     x2="675"
+     y2="49"
+     stroke="#3f7db3"
+     stroke-width="5"
+     marker-end="url(#optArrow)"
+     id="line11"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="695"
+     y="57"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     fill="#3f7db3"
+     id="text12">Optical viewing path</text>
+  <line
+     x1="1028.6899"
+     y1="49"
+     x2="1128.6899"
+     y2="49"
+     stroke="#7656a8"
+     stroke-width="5"
+     stroke-dasharray="12, 9"
+     marker-end="url(#xrayArrow)"
+     id="line12"
+     style="marker-end:url(#Triangle)" />
+  <text
+     x="1155"
+     y="57"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     fill="#7656a8"
+     id="text13">X-ray path (schematic)</text>
+  <!-- LEFT PANEL: exposed gull-wing joint -->
+  <!-- PCB -->
+  <rect
+     x="105"
+     y="744"
+     width="420"
+     height="72"
+     rx="6"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="3"
+     id="rect13" />
+  <rect
+     x="105"
+     y="816"
+     width="420"
+     height="20"
+     fill="#c7a25f"
+     id="rect14" />
+  <!-- copper pad -->
+  <rect
+     x="426.89096"
+     y="722.59772"
+     width="87.468056"
+     height="20.280552"
+     rx="2.1867013"
+     fill="#d8a243"
+     stroke="#8c6726"
+     stroke-width="1.71945"
+     id="rect15" />
+  <!-- package body -->
+  <rect
+     x="190"
+     y="534"
+     width="220"
+     height="130"
+     rx="12"
+     fill="#444b52"
+     stroke="#22282e"
+     stroke-width="4"
+     id="rect16" />
+  <!-- gull wing lead -->
+  <path
+     d="m 410,589 h 45 v 55 q 0,30 25,44 v 31"
+     fill="none"
+     stroke="#b9bec3"
+     stroke-width="18"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path16" />
+  <!-- visible solder fillet -->
+  <path
+     d="m 456,696 q 14,-14 30,-1 11,10 14,29 h -42 z"
+     fill="#d7b463"
+     stroke="#8a6a2e"
+     stroke-width="2"
+     id="path17" />
+  <circle
+     cx="478"
+     cy="706"
+     r="18"
+     fill="none"
+     stroke="#d95b5b"
+     stroke-width="4"
+     id="circle17" />
+  <!-- optical camera/eye cue -->
+  <rect
+     x="120"
+     y="274"
+     width="145"
+     height="62"
+     rx="15"
+     fill="#4e5964"
+     stroke="#2b3137"
+     stroke-width="3"
+     id="rect17" />
+  <circle
+     cx="192"
+     cy="336"
+     r="18"
+     fill="#1f262c"
+     id="circle18" />
+  <text
+     x="192"
+     y="259"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#36434f"
+     id="text18">Optical view</text>
+  <line
+     x1="210"
+     y1="359"
+     x2="463"
+     y2="689"
+     stroke="#3f7db3"
+     stroke-width="5"
+     marker-end="url(#optArrow)"
+     id="line18" />
+  <!-- visible joint label -->
+  <rect
+     x="284.34433"
+     y="381.27704"
+     width="311.65979"
+     height="81.724716"
+     rx="12.985826"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2.27528"
+     id="rect18" />
+  <text
+     x="304.20673"
+     y="414.13943"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#334657"
+     id="text19">Visible solder joint</text>
+  <text
+     x="304.20673"
+     y="444.13943"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     fill="#55636f"
+     id="text20">Exposed outside package body</text>
+  <line
+     x1="488.40912"
+     y1="464.27869"
+     x2="477.98367"
+     y2="692.15723"
+     stroke="#334657"
+     stroke-width="0.895418"
+     marker-end="url(#leadArrow)"
+     id="line20"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <text
+     x="315"
+     y="884"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#2e6441"
+     id="text21">Optically accessible feature</text>
+  <!-- MIDDLE PANEL: QFN -->
+  <!-- X-ray broad schematic beam -->
+  <rect
+     x="805"
+     y="269"
+     width="190"
+     height="430"
+     fill="#7656a8"
+     opacity="0.08"
+     id="rect21" />
+  <line
+     x1="830"
+     y1="284"
+     x2="830"
+     y2="689"
+     stroke="#7656a8"
+     stroke-width="4"
+     stroke-dasharray="12, 9"
+     marker-end="url(#xrayArrow)"
+     id="line21" />
+  <line
+     x1="900"
+     y1="284"
+     x2="900"
+     y2="689"
+     stroke="#7656a8"
+     stroke-width="4"
+     stroke-dasharray="12, 9"
+     marker-end="url(#xrayArrow)"
+     id="line22" />
+  <line
+     x1="970"
+     y1="284"
+     x2="970"
+     y2="689"
+     stroke="#7656a8"
+     stroke-width="4"
+     stroke-dasharray="12, 9"
+     marker-end="url(#xrayArrow)"
+     id="line23" />
+  <!-- PCB -->
+  <rect
+     x="690"
+     y="744"
+     width="420"
+     height="72"
+     rx="6"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="3"
+     id="rect23" />
+  <rect
+     x="690"
+     y="816"
+     width="420"
+     height="20"
+     fill="#c7a25f"
+     id="rect24" />
+  <!-- PCB lands -->
+  <rect
+     x="740"
+     y="720"
+     width="75"
+     height="24"
+     rx="3"
+     fill="#d8a243"
+     stroke="#8c6726"
+     stroke-width="2"
+     id="rect25" />
+  <rect
+     x="985"
+     y="720"
+     width="75"
+     height="24"
+     rx="3"
+     fill="#d8a243"
+     stroke="#8c6726"
+     stroke-width="2"
+     id="rect26" />
+  <rect
+     x="840"
+     y="714"
+     width="120"
+     height="30"
+     rx="3"
+     fill="#d8a243"
+     stroke="#8c6726"
+     stroke-width="2"
+     id="rect27" />
+  <!-- solder layers -->
+  <rect
+     x="755"
+     y="700"
+     width="45"
+     height="20"
+     rx="4"
+     fill="#d7b463"
+     stroke="#8a6a2e"
+     stroke-width="2"
+     id="rect28" />
+  <rect
+     x="1000"
+     y="700"
+     width="45"
+     height="20"
+     rx="4"
+     fill="#d7b463"
+     stroke="#8a6a2e"
+     stroke-width="2"
+     id="rect29" />
+  <rect
+     x="852"
+     y="684"
+     width="96"
+     height="30"
+     rx="4"
+     fill="#d7b463"
+     stroke="#8a6a2e"
+     stroke-width="2"
+     id="rect30" />
+  <!-- QFN package -->
+  <rect
+     x="760"
+     y="534"
+     width="280"
+     height="150"
+     rx="10"
+     fill="#444b52"
+     stroke="#22282e"
+     stroke-width="4"
+     id="rect31" />
+  <!-- package perimeter terminals -->
+  <rect
+     x="755"
+     y="669"
+     width="45"
+     height="31"
+     rx="3"
+     fill="#b9bec3"
+     id="rect32" />
+  <rect
+     x="1000"
+     y="669"
+     width="45"
+     height="31"
+     rx="3"
+     fill="#b9bec3"
+     id="rect33" />
+  <!-- exposed center thermal pad under package -->
+  <rect
+     x="845"
+     y="654"
+     width="110"
+     height="30"
+     rx="3"
+     fill="#b9bec3"
+     id="rect34" />
+  <!-- optical ray blocked at body edge -->
+  <rect
+     x="650"
+     y="283"
+     width="145"
+     height="62"
+     rx="15"
+     fill="#4e5964"
+     stroke="#2b3137"
+     stroke-width="3"
+     id="rect35" />
+  <circle
+     cx="722"
+     cy="345"
+     r="18"
+     fill="#1f262c"
+     id="circle35" />
+  <text
+     x="722"
+     y="268"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#36434f"
+     id="text35">Optical view</text>
+  <line
+     x1="740"
+     y1="368"
+     x2="774"
+     y2="526"
+     stroke="#3f7db3"
+     stroke-width="5"
+     marker-end="url(#optArrow)"
+     id="line35" />
+  <text
+     x="817.46399"
+     y="233.67549"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#3f7db3"
+     id="text36"><tspan
+       sodipodi:role="line"
+       id="tspan59"
+       x="817.46399"
+       y="233.67549">Optical view blocked</tspan><tspan
+       sodipodi:role="line"
+       id="tspan60"
+       x="817.46399"
+       y="259.92548">for underside region</tspan></text>
+  <!-- hidden region label -->
+  <rect
+     x="813.58521"
+     y="419.08759"
+     width="337.82965"
+     height="81.824837"
+     rx="11.853671"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2.17517"
+     id="rect36" />
+  <text
+     x="982"
+     y="452"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#334657"
+     id="text37">Hidden underside region</text>
+  <text
+     x="982"
+     y="482"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     fill="#55636f"
+     id="text38">Center-pad solder is under package</text>
+  <line
+     x1="960"
+     y1="502"
+     x2="918"
+     y2="680"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leadArrow)"
+     id="line38" />
+  <text
+     x="900"
+     y="864"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21px"
+     fill="#55636f"
+     id="text39">Some perimeter evidence may still be optically visible.</text>
+  <text
+     x="900"
+     y="899"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#7656a8"
+     id="text40">X-ray may evaluate hidden solder regions</text>
+  <!-- RIGHT PANEL: BGA -->
+  <!-- X-ray schematic beam -->
+  <rect
+     x="1390"
+     y="269"
+     width="253.10095"
+     height="430"
+     fill="#7656a8"
+     opacity="0.08"
+     id="rect40"
+     style="stroke-width:1.15417" />
+  <line
+     x1="1415"
+     y1="284"
+     x2="1415"
+     y2="689"
+     stroke="#7656a8"
+     stroke-width="4"
+     stroke-dasharray="12, 9"
+     marker-end="url(#xrayArrow)"
+     id="line40" />
+  <line
+     x1="1485"
+     y1="284"
+     x2="1485"
+     y2="689"
+     stroke="#7656a8"
+     stroke-width="4"
+     stroke-dasharray="12, 9"
+     marker-end="url(#xrayArrow)"
+     id="line41" />
+  <line
+     x1="1555"
+     y1="284"
+     x2="1555"
+     y2="689"
+     stroke="#7656a8"
+     stroke-width="4"
+     stroke-dasharray="12, 9"
+     marker-end="url(#xrayArrow)"
+     id="line42" />
+  <line
+     x1="1617.9351"
+     y1="282.58173"
+     x2="1617.9351"
+     y2="687.58173"
+     stroke="#7656a8"
+     stroke-width="4"
+     stroke-dasharray="12, 9"
+     marker-end="url(#xrayArrow-1)"
+     id="line42-5"
+     style="marker-end:url(#xrayArrow-1)" />
+  <!-- PCB -->
+  <rect
+     x="1275.0497"
+     y="744.04974"
+     width="448.927"
+     height="71.900551"
+     rx="6.4132428"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="3.09945"
+     id="rect42" />
+  <rect
+     x="1275"
+     y="816"
+     width="450.28848"
+     height="20"
+     fill="#c7a25f"
+     id="rect43"
+     style="stroke-width:1.03543" />
+  <!-- BGA package body -->
+  <rect
+     x="1335.1545"
+     y="514.15454"
+     width="348.90961"
+     height="144.69084"
+     rx="13.956384"
+     fill="#444b52"
+     stroke="#22282e"
+     stroke-width="4.30916"
+     id="rect44" />
+  <!-- BGA balls and PCB pads -->
+  <g
+     id="g53"
+     transform="translate(0,14)">
+    <rect
+       x="1365"
+       y="710"
+       width="42"
+       height="20"
+       rx="3"
+       fill="#d8a243"
+       stroke="#8c6726"
+       stroke-width="2"
+       id="rect45" />
+    <rect
+       x="1427"
+       y="710"
+       width="42"
+       height="20"
+       rx="3"
+       fill="#d8a243"
+       stroke="#8c6726"
+       stroke-width="2"
+       id="rect46" />
+    <rect
+       x="1489"
+       y="710"
+       width="42"
+       height="20"
+       rx="3"
+       fill="#d8a243"
+       stroke="#8c6726"
+       stroke-width="2"
+       id="rect47" />
+    <rect
+       x="1551"
+       y="710"
+       width="42"
+       height="20"
+       rx="3"
+       fill="#d8a243"
+       stroke="#8c6726"
+       stroke-width="2"
+       id="rect48" />
+    <rect
+       x="1613"
+       y="710"
+       width="42"
+       height="20"
+       rx="3"
+       fill="#d8a243"
+       stroke="#8c6726"
+       stroke-width="2"
+       id="rect49" />
+    <circle
+       cx="1386"
+       cy="680"
+       r="27"
+       fill="#c3c8cc"
+       stroke="#6b747d"
+       stroke-width="3"
+       id="circle49" />
+    <circle
+       cx="1448"
+       cy="680"
+       r="27"
+       fill="#c3c8cc"
+       stroke="#6b747d"
+       stroke-width="3"
+       id="circle50" />
+    <circle
+       cx="1510"
+       cy="680"
+       r="27"
+       fill="#c3c8cc"
+       stroke="#6b747d"
+       stroke-width="3"
+       id="circle51" />
+    <circle
+       cx="1572"
+       cy="680"
+       r="27"
+       fill="#c3c8cc"
+       stroke="#6b747d"
+       stroke-width="3"
+       id="circle52" />
+    <circle
+       cx="1634"
+       cy="680"
+       r="27"
+       fill="#c3c8cc"
+       stroke="#6b747d"
+       stroke-width="3"
+       id="circle53" />
+  </g>
+  <!-- optical ray blocked by package -->
+  <rect
+     x="1229"
+     y="289"
+     width="145"
+     height="62"
+     rx="15"
+     fill="#4e5964"
+     stroke="#2b3137"
+     stroke-width="3"
+     id="rect53" />
+  <circle
+     cx="1301"
+     cy="351"
+     r="18"
+     fill="#1f262c"
+     id="circle54" />
+  <text
+     x="1301"
+     y="274"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#36434f"
+     id="text54">Optical view</text>
+  <line
+     x1="1319"
+     y1="374"
+     x2="1349"
+     y2="512"
+     stroke="#3f7db3"
+     stroke-width="5"
+     marker-end="url(#optArrow)"
+     id="line54" />
+  <text
+     x="1396.2019"
+     y="231.15143"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#3f7db3"
+     id="text55"><tspan
+       sodipodi:role="line"
+       id="tspan61"
+       x="1396.2019"
+       y="231.15143">Optical view blocked</tspan><tspan
+       sodipodi:role="line"
+       id="tspan62"
+       x="1396.2019"
+       y="257.40143">by package body</tspan></text>
+  <!-- hidden solder ball label -->
+  <rect
+     x="1396.1981"
+     y="419.03217"
+     width="303.86597"
+     height="81.935677"
+     rx="10.661963"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2.06433"
+     id="rect55" />
+  <text
+     x="1547"
+     y="452"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#334657"
+     id="text56">Hidden solder balls</text>
+  <text
+     x="1547"
+     y="482"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     fill="#55636f"
+     id="text57">Array is beneath package body</text>
+  <line
+     x1="1530"
+     y1="502"
+     x2="1570"
+     y2="665"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leadArrow)"
+     id="line57" />
+  <text
+     x="1485"
+     y="899"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#7656a8"
+     id="text58">X-ray may evaluate hidden solder balls</text>
+  <!-- Bottom qualifier -->
+  <text
+     x="900"
+     y="1009"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     fill="#687782"
+     id="text59">Schematic inspection paths — actual coverage depends on package construction, equipment, process plan, and inspection criteria.</text>
+</svg>

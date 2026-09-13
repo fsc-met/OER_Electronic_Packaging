@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1000"
+   viewBox="0 0 1800 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="3.11.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="3.11.1 - Optical Inspection Line of Sight and AOI Shadowing.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.35350974"
+     inkscape:cx="1521.8817"
+     inkscape:cy="397.44308"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs2">
+    <marker
+       id="viewArrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#3f7db3"
+         id="path1" />
+    </marker>
+    <marker
+       id="leaderArrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#334657"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- Explicit full-canvas white background -->
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1000"
+     fill="#ffffff"
+     id="rect2" />
+  <!-- Panel frames -->
+  <rect
+     x="70.017792"
+     y="75.017792"
+     width="789.96442"
+     height="849.84424"
+     rx="17.999189"
+     fill="#fbfcfd"
+     stroke="#aeb9c3"
+     stroke-width="3.03558"
+     id="rect3" />
+  <rect
+     x="940.01776"
+     y="75.017792"
+     width="789.96442"
+     height="849.84424"
+     rx="17.999189"
+     fill="#fbfcfd"
+     stroke="#aeb9c3"
+     stroke-width="3.03558"
+     id="rect4" />
+  <!-- Panel headings -->
+  <rect
+     x="105"
+     y="105"
+     width="720"
+     height="68"
+     rx="12"
+     fill="#edf6ef"
+     stroke="#8db89a"
+     stroke-width="2"
+     id="rect5" />
+  <rect
+     x="975"
+     y="105"
+     width="720"
+     height="68"
+     rx="12"
+     fill="#f8eeee"
+     stroke="#c98d8d"
+     stroke-width="2"
+     id="rect6" />
+  <text
+     x="465"
+     y="150"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#2e6441"
+     id="text6">Clear optical access</text>
+  <text
+     x="1335"
+     y="150"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     fill="#702f35"
+     id="text7">Blocked / shadowed access</text>
+  <!-- LEFT camera -->
+  <g
+     id="g8"
+     transform="translate(0,18)">
+    <rect
+       x="320"
+       y="220"
+       width="290"
+       height="92"
+       rx="18"
+       fill="#4e5964"
+       stroke="#2b3137"
+       stroke-width="4"
+       id="rect7" />
+    <rect
+       x="365"
+       y="312"
+       width="200"
+       height="58"
+       rx="10"
+       fill="#606c76"
+       stroke="#2b3137"
+       stroke-width="4"
+       id="rect8" />
+    <circle
+       cx="465"
+       cy="365"
+       r="25"
+       fill="#1f262c"
+       id="circle8" />
+    <text
+       x="465"
+       y="205"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="26px"
+       font-weight="700"
+       fill="#36434f"
+       id="text8">Optical camera / sensor</text>
+  </g>
+  <!-- RIGHT camera -->
+  <g
+     id="g10"
+     transform="translate(0,18)">
+    <rect
+       x="1190"
+       y="220"
+       width="290"
+       height="92"
+       rx="18"
+       fill="#4e5964"
+       stroke="#2b3137"
+       stroke-width="4"
+       id="rect9" />
+    <rect
+       x="1235"
+       y="312"
+       width="200"
+       height="58"
+       rx="10"
+       fill="#606c76"
+       stroke="#2b3137"
+       stroke-width="4"
+       id="rect10" />
+    <circle
+       cx="1335"
+       cy="365"
+       r="25"
+       fill="#1f262c"
+       id="circle10" />
+    <text
+       x="1335"
+       y="205"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="26px"
+       font-weight="700"
+       fill="#36434f"
+       id="text10">Optical camera / sensor</text>
+  </g>
+  <!-- LEFT board -->
+  <rect
+     x="130.00778"
+     y="753.00781"
+     width="677.12256"
+     height="71.984421"
+     rx="6.0637841"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="3.01558"
+     id="rect11" />
+  <rect
+     x="130"
+     y="825"
+     width="678.56573"
+     height="22"
+     fill="#c7a25f"
+     id="rect12"
+     style="stroke-width:1.00637" />
+  <text
+     x="155"
+     y="808"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     fill="#ffffff"
+     id="text12">PCB</text>
+  <rect
+     x="1009.8837"
+     y="755.51898"
+     width="670"
+     height="72"
+     rx="6"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="3"
+     id="rect11-3" />
+  <rect
+     x="1009.8837"
+     y="827.51898"
+     width="670"
+     height="22"
+     fill="#c7a25f"
+     id="rect12-9" />
+  <text
+     x="1034.8837"
+     y="810.51898"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     fill="#ffffff"
+     id="text12-8">PCB</text>
+  <!-- LEFT inspected component -->
+  <rect
+     x="650"
+     y="653"
+     width="112"
+     height="100"
+     rx="8"
+     fill="#444b52"
+     stroke="#22282e"
+     stroke-width="3"
+     id="rect13" />
+  <rect
+     x="608"
+     y="698"
+     width="42"
+     height="18"
+     rx="3"
+     fill="#b9bec3"
+     id="rect14" />
+  <rect
+     x="762"
+     y="698"
+     width="42"
+     height="18"
+     rx="3"
+     fill="#b9bec3"
+     id="rect15" />
+  <path
+     d="m 762.81333,717.12858 q 28,0 45,18 v 16 h -45 z"
+     fill="#d6b05c"
+     stroke="#8a6a2e"
+     stroke-width="2"
+     id="path15" />
+  <path
+     d="m 604.65453,735.12858 q 17,-18 45,-18 v 34 h -45 z"
+     fill="#d6b05c"
+     stroke="#8a6a2e"
+     stroke-width="2"
+     id="path16" />
+  <!-- LEFT target -->
+  <circle
+     cx="626"
+     cy="736"
+     r="18"
+     fill="none"
+     stroke="#d95b5b"
+     stroke-width="4"
+     id="circle16" />
+  <line
+     x1="335"
+     y1="683"
+     x2="606"
+     y2="729"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line16" />
+  <text
+     x="147.38214"
+     y="652.62604"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#334657"
+     id="text16">Inspection target</text>
+  <text
+     x="147.38214"
+     y="686.62604"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     fill="#55636f"
+     id="text17">Visible solder joint</text>
+  <!-- LEFT viewing ray -->
+  <line
+     x1="465"
+     y1="410"
+     x2="624"
+     y2="716"
+     stroke="#3f7db3"
+     stroke-width="5"
+     stroke-dasharray="14, 10"
+     marker-end="url(#viewArrow)"
+     id="line17" />
+  <text
+     x="554.67316"
+     y="514.77563"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#3f7db3"
+     id="text18">Clear viewing path</text>
+  <line
+     x1="564.67316"
+     y1="524.77563"
+     x2="534.67316"
+     y2="549.77563"
+     stroke="#3f7db3"
+     stroke-width="2"
+     id="line18" />
+  <!-- RIGHT inspected component: same local geometry -->
+  <rect
+     x="1520"
+     y="653"
+     width="112"
+     height="100"
+     rx="8"
+     fill="#444b52"
+     stroke="#22282e"
+     stroke-width="3"
+     id="rect18" />
+  <rect
+     x="1478"
+     y="698"
+     width="42"
+     height="18"
+     rx="3"
+     fill="#b9bec3"
+     id="rect19" />
+  <rect
+     x="1632"
+     y="698"
+     width="42"
+     height="18"
+     rx="3"
+     fill="#b9bec3"
+     id="rect20" />
+  <rect
+     x="1644"
+     y="700"
+     width="42"
+     height="18"
+     rx="3"
+     fill="#b9bec3"
+     id="rect20-9" />
+  <path
+     d="m 1634.5713,719.76749 q 28,0 45,18 v 16 h -45 z"
+     fill="#d6b05c"
+     stroke="#8a6a2e"
+     stroke-width="2"
+     id="path20" />
+  <path
+     d="m 1472.4541,737 q 17,-18 45,-18 v 34 h -45 z"
+     fill="#d6b05c"
+     stroke="#8a6a2e"
+     stroke-width="2"
+     id="path21" />
+  <!-- RIGHT target -->
+  <circle
+     cx="1496"
+     cy="736"
+     r="18"
+     fill="none"
+     stroke="#d95b5b"
+     stroke-width="4"
+     id="circle21" />
+  <!-- RIGHT shadow region behind obstruction -->
+  <polygon
+     points="1510,735 1480,735 1388,500 1462,500 "
+     fill="#dfe5e9"
+     opacity="0.7"
+     id="polygon21"
+     transform="matrix(1.1489402,0,0,1,-224.89976,18)" />
+  <line
+     x1="1376"
+     y1="518"
+     x2="1473"
+     y2="753"
+     stroke="#9aabb8"
+     stroke-width="2.5"
+     stroke-dasharray="9, 8"
+     id="line21" />
+  <line
+     x1="1456.0559"
+     y1="519.04218"
+     x2="1509.8871"
+     y2="752.96729"
+     stroke="#9aabb8"
+     stroke-width="2.64144"
+     stroke-dasharray="9, 8"
+     id="line22" />
+  <!-- RIGHT tall component -->
+  <rect
+     x="1369.6497"
+     y="517.28619"
+     width="82"
+     height="235"
+     rx="9"
+     fill="#555e66"
+     stroke="#2a3137"
+     stroke-width="4"
+     id="rect22" />
+  <rect
+     x="1348.0806"
+     y="734.42761"
+     width="118"
+     height="20"
+     rx="4"
+     fill="#b9bec3"
+     id="rect23" />
+  <text
+     x="1268.568"
+     y="626.31824"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#334657"
+     id="text23">Tall component</text>
+  <!-- RIGHT view path stops at obstruction -->
+  <line
+     x1="1335"
+     y1="410"
+     x2="1386"
+     y2="511"
+     stroke="#3f7db3"
+     stroke-width="5"
+     stroke-dasharray="14, 10"
+     marker-end="url(#viewArrow)"
+     id="line23" />
+  <text
+     x="968.48767"
+     y="464.0365"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26px"
+     font-weight="700"
+     fill="#7a3036"
+     id="text24">Blocked viewing path</text>
+  <line
+     x1="1223.8008"
+     y1="477.25607"
+     x2="1355.8008"
+     y2="540.25604"
+     stroke="#7a3036"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line24" />
+  <text
+     x="1484.5258"
+     y="603.47418"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#6b7781"
+     id="text25">Shadowed region</text>
+  <!-- Target annotation moved below the PCB to avoid crowding the blocked geometry -->
+  <line
+     x1="1530"
+     y1="870"
+     x2="1502"
+     y2="756"
+     stroke="#334657"
+     stroke-width="3"
+     marker-end="url(#leaderArrow)"
+     id="line25" />
+  <text
+     x="1538"
+     y="893"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#334657"
+     id="text26">Inspection target</text>
+  <!-- Footer notes -->
+  <text
+     x="465"
+     y="888"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     fill="#2e6441"
+     id="text27">Target remains optically accessible</text>
+</svg>
