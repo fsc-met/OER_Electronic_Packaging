@@ -2,6 +2,16 @@
 
 This page records major reader-visible additions and corrections to *Electronic Packaging Applications: An Applied Introduction*. Minor wording, formatting, and other editorial changes are not listed individually.
 
+## September 14, 2026
+
+### Chapter 3
+
+- Completed the reviewed source draft of **Design for Manufacturability in PCB and Electronic Packaging**.
+- Added the full Chapter 3 instructional sequence covering DFM/DFA/DFT/DFX, the design-to-release workflow, rule sources and manufacturing capability, component placement and orientation, spacing and clearance, pads and land patterns, holes/annular rings/vias, trace and copper geometry, solder mask, silkscreen and markings, inspection and test access, rework and service access, panelization/fiducials/tooling, DFM review tools, controlled release, and the applied DFM checklist.
+- Added the planned original Chapter 3 instructional figures, including editable SVG sources for the current technical figures.
+- Added the Chapter 3 summary, deterministic practice problems, and synchronized practice problem keys.
+- Completed chapter-level QA for technical accuracy, terminology, figure integration, DFM rule-source/capability distinctions, Markdown/mdBook/KaTeX compatibility, student-review suitability, deterministic problem/key synchronization, and chapter-boundary control.
+
 ## September 8, 2026
 
 ### Chapter 2
@@ -19,10 +29,9 @@ This page records major reader-visible additions and corrections to *Electronic 
 - Completed the reviewed draft of **Introduction to Electronic Packaging**.
 - Added original instructional figures and supporting explanations.
 - Added a chapter summary, practice problems, and practice problem keys.
-- Verified the automatic OpenEngineeringBooks deployment workflow for the in-progress EPAC publication.
 
 ### Current Status
 
-- Chapters 1 and 2 have completed their current development and QA milestones.
-- Chapters 3-8 are under development.
+- Chapters 1, 2, and 3 have completed their current development and QA milestones.
+- Chapters 4-8 are under development.
 - The detailed table of contents will be added after the complete first draft and full-book structure review.
