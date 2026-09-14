@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1100"
+   viewBox="0 0 1800 1100"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="3.15.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="3.15.1 - Applied DFM Review Map Across a PCB Assembly.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview70"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1261611"
+     inkscape:cx="1268.0246"
+     inkscape:cy="483.50098"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg70"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs2">
+    <marker
+       id="arrowBlue"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#4f7898"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowGray"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#75828c"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- Explicit full-canvas white background -->
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1100"
+     fill="#ffffff"
+     id="rect2" />
+  <!-- Review category boxes -->
+  <rect
+     x="70"
+     y="95"
+     width="390"
+     height="112"
+     rx="16"
+     fill="#eef4f9"
+     stroke="#7699b5"
+     stroke-width="3"
+     id="rect3"
+     style="font-family:Arial, Helvetica, sans-serif" />
+  <text
+     x="265"
+     y="138"
+     text-anchor="middle"
+     font-size="29px"
+     font-weight="700"
+     fill="#315c7d"
+     id="text3"
+     style="font-family:Arial, Helvetica, sans-serif">Fabrication</text>
+  <text
+     x="265"
+     y="173"
+     text-anchor="middle"
+     font-size="21px"
+     fill="#516878"
+     id="text4"
+     style="font-family:Arial, Helvetica, sans-serif">Copper / holes / mask</text>
+  <rect
+     x="1040"
+     y="95"
+     width="430"
+     height="112"
+     rx="16"
+     fill="#eef4f9"
+     stroke="#7699b5"
+     stroke-width="3"
+     id="rect4"
+     style="font-family:Arial, Helvetica, sans-serif" />
+  <text
+     x="1255"
+     y="138"
+     text-anchor="middle"
+     font-size="29px"
+     font-weight="700"
+     fill="#315c7d"
+     id="text5"
+     style="font-family:Arial, Helvetica, sans-serif">Assembly</text>
+  <text
+     x="1255"
+     y="173"
+     text-anchor="middle"
+     font-size="21px"
+     fill="#516878"
+     id="text6"
+     style="font-family:Arial, Helvetica, sans-serif">Footprint / spacing / orientation</text>
+  <rect
+     x="1440"
+     y="320"
+     width="300"
+     height="118"
+     rx="16"
+     fill="#eef4f9"
+     stroke="#7699b5"
+     stroke-width="3"
+     id="rect6"
+     style="font-family:Arial, Helvetica, sans-serif" />
+  <text
+     x="1590"
+     y="364"
+     text-anchor="middle"
+     font-size="27px"
+     font-weight="700"
+     fill="#315c7d"
+     id="text7"
+     style="font-family:Arial, Helvetica, sans-serif">Inspection / Test</text>
+  <text
+     x="1590"
+     y="399"
+     text-anchor="middle"
+     font-size="20px"
+     fill="#516878"
+     id="text8"
+     style="font-family:Arial, Helvetica, sans-serif">Visibility / test access</text>
+  <rect
+     x="31"
+     y="655"
+     width="400"
+     height="118"
+     rx="16"
+     fill="#eef4f9"
+     stroke="#7699b5"
+     stroke-width="3"
+     id="rect8"
+     style="font-family:Arial, Helvetica, sans-serif" />
+  <text
+     x="231"
+     y="699"
+     text-anchor="middle"
+     font-size="27px"
+     font-weight="700"
+     fill="#315c7d"
+     id="text9"
+     style="font-family:Arial, Helvetica, sans-serif">Tooling / Handling</text>
+  <text
+     x="231"
+     y="734"
+     text-anchor="middle"
+     font-size="20px"
+     fill="#516878"
+     id="text10"
+     style="font-family:Arial, Helvetica, sans-serif">Rails / fiducials / support</text>
+  <rect
+     x="1392"
+     y="655"
+     width="390"
+     height="118"
+     rx="16"
+     fill="#eef4f9"
+     stroke="#7699b5"
+     stroke-width="3"
+     id="rect10"
+     style="font-family:Arial, Helvetica, sans-serif" />
+  <text
+     x="1587"
+     y="699"
+     text-anchor="middle"
+     font-size="27px"
+     font-weight="700"
+     fill="#315c7d"
+     id="text11"
+     style="font-family:Arial, Helvetica, sans-serif">Rework / Service</text>
+  <text
+     x="1587"
+     y="734"
+     text-anchor="middle"
+     font-size="20px"
+     fill="#516878"
+     id="text12"
+     style="font-family:Arial, Helvetica, sans-serif">Tool / removal access</text>
+  <!-- One panel / one PCB assembly -->
+  <rect
+     x="455"
+     y="245"
+     width="900"
+     height="535"
+     rx="22"
+     fill="#edf0f2"
+     stroke="#88959e"
+     stroke-width="4"
+     id="rect12" />
+  <!-- panel rails -->
+  <rect
+     x="455"
+     y="245"
+     width="900"
+     height="62"
+     rx="20"
+     fill="#dde2e5"
+     id="rect13" />
+  <rect
+     x="455"
+     y="718"
+     width="900"
+     height="62"
+     rx="20"
+     fill="#dde2e5"
+     id="rect14" />
+  <rect
+     x="455"
+     y="295"
+     width="68"
+     height="435"
+     fill="#dde2e5"
+     id="rect15" />
+  <rect
+     x="1287"
+     y="295"
+     width="68"
+     height="435"
+     fill="#dde2e5"
+     id="rect16" />
+  <!-- Central PCB -->
+  <rect
+     x="535"
+     y="325"
+     width="740"
+     height="375"
+     rx="16"
+     fill="#2f7f62"
+     stroke="#1e634b"
+     stroke-width="4"
+     id="rect17" />
+  <!-- Panel fiducials: optical surface targets -->
+  <g
+     id="g22">
+    <circle
+       cx="505"
+       cy="276"
+       r="18"
+       fill="#ffffff"
+       stroke="#9ba7b0"
+       stroke-width="2"
+       id="circle17" />
+    <circle
+       cx="505"
+       cy="276"
+       r="9"
+       fill="#d6a23f"
+       stroke="#8b6526"
+       stroke-width="2"
+       id="circle18" />
+    <circle
+       cx="1310"
+       cy="277"
+       r="18"
+       fill="#ffffff"
+       stroke="#9ba7b0"
+       stroke-width="2"
+       id="circle19" />
+    <circle
+       cx="1310"
+       cy="277"
+       r="9"
+       fill="#d6a23f"
+       stroke="#8b6526"
+       stroke-width="2"
+       id="circle20" />
+    <circle
+       cx="1210"
+       cy="748"
+       r="18"
+       fill="#ffffff"
+       stroke="#9ba7b0"
+       stroke-width="2"
+       id="circle21" />
+    <circle
+       cx="1210"
+       cy="748"
+       r="9"
+       fill="#d6a23f"
+       stroke="#8b6526"
+       stroke-width="2"
+       id="circle22" />
+  </g>
+  <!-- Tooling holes: mechanically distinct -->
+  <g
+     fill="#ffffff"
+     stroke="#68747d"
+     stroke-width="4"
+     id="g24">
+    <circle
+       cx="505"
+       cy="748"
+       r="15"
+       id="circle23" />
+    <circle
+       cx="1310"
+       cy="748"
+       r="15"
+       id="circle24" />
+  </g>
+  <!-- Copper trace / pad region -->
+  <g
+     stroke="#d5a141"
+     fill="none"
+     stroke-width="6"
+     stroke-linecap="round"
+     id="g26">
+    <path
+       d="M 575 395 H 650 V 430 H 710"
+       id="path24" />
+    <path
+       d="M 585 420 H 630 V 470 H 690"
+       id="path25" />
+    <path
+       d="M 600 450 H 655 V 500 H 720"
+       id="path26" />
+  </g>
+  <g
+     fill="#d6a23f"
+     stroke="#8b6526"
+     stroke-width="2"
+     id="g31">
+    <rect
+       x="560"
+       y="382"
+       width="30"
+       height="24"
+       rx="4"
+       id="rect26" />
+    <rect
+       x="560"
+       y="408"
+       width="30"
+       height="24"
+       rx="4"
+       id="rect27" />
+    <rect
+       x="560"
+       y="438"
+       width="30"
+       height="24"
+       rx="4"
+       id="rect28" />
+    <rect
+       x="708"
+       y="420"
+       width="28"
+       height="24"
+       rx="4"
+       id="rect29" />
+    <rect
+       x="688"
+       y="458"
+       width="28"
+       height="24"
+       rx="4"
+       id="rect30" />
+    <rect
+       x="718"
+       y="488"
+       width="28"
+       height="24"
+       rx="4"
+       id="rect31" />
+  </g>
+  <!-- Plated-hole / via region -->
+  <g
+     fill="#d6a23f"
+     stroke="#8b6526"
+     stroke-width="2"
+     id="g33">
+    <circle
+       cx="605"
+       cy="555"
+       r="15"
+       id="circle31" />
+    <circle
+       cx="648"
+       cy="555"
+       r="15"
+       id="circle32" />
+    <circle
+       cx="691"
+       cy="555"
+       r="15"
+       id="circle33" />
+  </g>
+  <g
+     fill="#f4f6f7"
+     stroke="#5e6870"
+     stroke-width="2"
+     id="g36">
+    <circle
+       cx="605"
+       cy="555"
+       r="7"
+       id="circle34" />
+    <circle
+       cx="648"
+       cy="555"
+       r="7"
+       id="circle35" />
+    <circle
+       cx="691"
+       cy="555"
+       r="7"
+       id="circle36" />
+  </g>
+  <!-- Main fine-pitch component with pin-1 cue -->
+  <rect
+     x="820"
+     y="420"
+     width="245"
+     height="150"
+     rx="12"
+     fill="#4b555e"
+     stroke="#23292e"
+     stroke-width="3"
+     id="rect36" />
+  <circle
+     cx="850"
+     cy="448"
+     r="10"
+     fill="#f2f4f5"
+     id="circle37" />
+  <g
+     stroke="#d6dce0"
+     stroke-width="6"
+     id="g50">
+    <line
+       x1="840"
+       y1="410"
+       x2="840"
+       y2="420"
+       id="line37" />
+    <line
+       x1="875"
+       y1="410"
+       x2="875"
+       y2="420"
+       id="line38" />
+    <line
+       x1="910"
+       y1="410"
+       x2="910"
+       y2="420"
+       id="line39" />
+    <line
+       x1="945"
+       y1="410"
+       x2="945"
+       y2="420"
+       id="line40" />
+    <line
+       x1="980"
+       y1="410"
+       x2="980"
+       y2="420"
+       id="line41" />
+    <line
+       x1="1015"
+       y1="410"
+       x2="1015"
+       y2="420"
+       id="line42" />
+    <line
+       x1="1050"
+       y1="410"
+       x2="1050"
+       y2="420"
+       id="line43" />
+    <line
+       x1="840"
+       y1="570"
+       x2="840"
+       y2="580"
+       id="line44" />
+    <line
+       x1="875"
+       y1="570"
+       x2="875"
+       y2="580"
+       id="line45" />
+    <line
+       x1="910"
+       y1="570"
+       x2="910"
+       y2="580"
+       id="line46" />
+    <line
+       x1="945"
+       y1="570"
+       x2="945"
+       y2="580"
+       id="line47" />
+    <line
+       x1="980"
+       y1="570"
+       x2="980"
+       y2="580"
+       id="line48" />
+    <line
+       x1="1015"
+       y1="570"
+       x2="1015"
+       y2="580"
+       id="line49" />
+    <line
+       x1="1050"
+       y1="570"
+       x2="1050"
+       y2="580"
+       id="line50" />
+  </g>
+  <!-- Small SMD components -->
+  <g
+     fill="#d8dde1"
+     stroke="#68727a"
+     stroke-width="2"
+     id="g53">
+    <rect
+       x="750"
+       y="350"
+       width="70"
+       height="34"
+       rx="6"
+       id="rect50" />
+    <rect
+       x="1085"
+       y="355"
+       width="72"
+       height="36"
+       rx="6"
+       id="rect51" />
+    <rect
+       x="740"
+       y="610"
+       width="75"
+       height="34"
+       rx="6"
+       id="rect52" />
+    <rect
+       x="1085"
+       y="600"
+       width="72"
+       height="36"
+       rx="6"
+       id="rect53" />
+  </g>
+  <!-- Polarized component -->
+  <rect
+     x="1093"
+     y="445"
+     width="90"
+     height="65"
+     rx="8"
+     fill="#3f474f"
+     stroke="#23292e"
+     stroke-width="3"
+     id="rect54" />
+  <text
+     x="1112"
+     y="469"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#ffffff"
+     id="text54">+</text>
+  <!-- Test point -->
+  <circle
+     cx="1160"
+     cy="560"
+     r="16"
+     fill="#d6a23f"
+     stroke="#8b6526"
+     stroke-width="3"
+     id="circle54" />
+  <circle
+     cx="1160"
+     cy="560"
+     r="6"
+     fill="#ffffff"
+     id="circle55" />
+  <text
+     x="1184"
+     y="568"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20"
+     font-weight="700"
+     fill="#f0f5f2"
+     id="text55">TP</text>
+  <!-- Edge connector -->
+  <rect
+     x="1200"
+     y="380"
+     width="66"
+     height="115"
+     rx="8"
+     fill="#d8dde1"
+     stroke="#68727a"
+     stroke-width="3"
+     id="rect55" />
+  <g
+     stroke="#d6a23f"
+     stroke-width="5"
+     id="g59"
+     transform="translate(-8)">
+    <line
+       x1="1218"
+       y1="396"
+       x2="1262"
+       y2="396"
+       id="line55" />
+    <line
+       x1="1218"
+       y1="416"
+       x2="1262"
+       y2="416"
+       id="line56" />
+    <line
+       x1="1218"
+       y1="436"
+       x2="1262"
+       y2="436"
+       id="line57" />
+    <line
+       x1="1218"
+       y1="456"
+       x2="1262"
+       y2="456"
+       id="line58" />
+    <line
+       x1="1218"
+       y1="476"
+       x2="1262"
+       y2="476"
+       id="line59" />
+  </g>
+  <!-- Rework access envelope -->
+  <rect
+     x="1062"
+     y="588"
+     width="175"
+     height="92"
+     rx="16"
+     fill="#f3b65a"
+     fill-opacity="0.14"
+     stroke="#d99a3c"
+     stroke-width="3"
+     stroke-dasharray="9, 7"
+     id="rect59" />
+  <!-- Central teaching label -->
+  <rect
+     x="700"
+     y="715"
+     width="410"
+     height="44"
+     rx="10"
+     fill="#ffffff"
+     stroke="#b7c2cc"
+     stroke-width="2"
+     id="rect60" />
+  <text
+     x="905"
+     y="744"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#44515b"
+     id="text60">Same PCB assembly / panel</text>
+  <!-- Leaders from review categories to actual features -->
+  <path
+     d="M 460 160 L 535 160 L 585 385"
+     fill="none"
+     stroke="#4f7898"
+     stroke-width="4"
+     marker-end="url(#arrowBlue)"
+     id="path60" />
+  <path
+     d="M 1255 207 L 1255 250 L 1035 410"
+     fill="none"
+     stroke="#4f7898"
+     stroke-width="4"
+     marker-end="url(#arrowBlue)"
+     id="path61" />
+  <path
+     d="M 1440 380 L 1360 380 L 1185 548"
+     fill="none"
+     stroke="#4f7898"
+     stroke-width="4"
+     marker-end="url(#arrowBlue)"
+     id="path62" />
+  <path
+     d="m 436.10034,712.32885 h 72.93628 l -8.10403,33.32215"
+     fill="none"
+     stroke="#4f7898"
+     stroke-width="5.04142"
+     marker-end="url(#arrowBlue)"
+     id="path63"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <path
+     d="m 1390.2642,711.84688 h -91.1998 l -80.7769,-76.69076"
+     fill="none"
+     stroke="#4f7898"
+     stroke-width="4.55653"
+     marker-end="url(#arrowBlue)"
+     id="path64"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <!-- Whole-design connector to release -->
+  <line
+     x1="905"
+     y1="780"
+     x2="905"
+     y2="838"
+     stroke="#75828c"
+     stroke-width="5"
+     marker-end="url(#arrowGray)"
+     id="line64" />
+  <!-- Release control/data layer -->
+  <rect
+     x="405"
+     y="850"
+     width="1000"
+     height="178"
+     rx="18"
+     fill="#f3f7f3"
+     stroke="#7da98a"
+     stroke-width="3"
+     id="rect64" />
+  <text
+     x="905"
+     y="890"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="700"
+     fill="#2f6441"
+     id="text64">Release</text>
+  <text
+     x="905"
+     y="919"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="19"
+     fill="#55705d"
+     id="text65">Controlled review / data state for the whole design</text>
+  <rect
+     x="431"
+     y="948"
+     width="205"
+     height="52"
+     rx="10"
+     fill="#ffffff"
+     stroke="#a8b8ad"
+     stroke-width="2"
+     id="rect65"
+     style="font-weight:700;font-size:20px;font-family:Arial, Helvetica, sans-serif" />
+  <text
+     x="533"
+     y="981"
+     text-anchor="middle"
+     id="text66"
+     style="font-weight:700;font-size:20px;font-family:Arial, Helvetica, sans-serif;fill:#344452">Checks completed</text>
+  <rect
+     x="658"
+     y="948"
+     width="205"
+     height="52"
+     rx="10"
+     fill="#ffffff"
+     stroke="#a8b8ad"
+     stroke-width="2"
+     id="rect66"
+     style="font-weight:700;font-size:20px;font-family:Arial, Helvetica, sans-serif" />
+  <text
+     x="760"
+     y="981"
+     text-anchor="middle"
+     id="text67"
+     style="font-weight:700;font-size:20px;font-family:Arial, Helvetica, sans-serif;fill:#344452">Findings resolved</text>
+  <rect
+     x="886.62183"
+     y="948.05347"
+     width="227.98033"
+     height="51.893047"
+     rx="11.120992"
+     fill="#ffffff"
+     stroke="#a8b8ad"
+     stroke-width="2.10695"
+     id="rect67"
+     style="font-weight:700;font-size:20px;font-family:Arial, Helvetica, sans-serif" />
+  <text
+     x="1001"
+     y="981"
+     text-anchor="middle"
+     id="text68"
+     style="font-weight:700;font-size:20px;font-family:Arial, Helvetica, sans-serif;fill:#344452">Revision consistency</text>
+  <rect
+     x="1137.6655"
+     y="948.08887"
+     width="243.89304"
+     height="51.822243"
+     rx="11.897221"
+     fill="#ffffff"
+     stroke="#a8b8ad"
+     stroke-width="2.17775"
+     id="rect68"
+     style="font-weight:700;font-size:20px;font-family:Arial, Helvetica, sans-serif" />
+  <text
+     x="1260"
+     y="981"
+     text-anchor="middle"
+     id="text69"
+     style="font-weight:700;font-size:20px;font-family:Arial, Helvetica, sans-serif;fill:#344452">Release package ready</text>
+  <!-- Shared qualifier -->
+  <text
+     x="900"
+     y="1072"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20"
+     fill="#687782"
+     id="text70">Review categories interact; actual acceptance criteria follow the selected product, component, supplier, and equipment requirements.</text>
+</svg>
