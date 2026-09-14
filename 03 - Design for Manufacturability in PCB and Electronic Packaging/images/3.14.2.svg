@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1100"
+   viewBox="0 0 1800 1100"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="3.14.2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="3.14.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.75636363"
+     inkscape:cx="766.82693"
+     inkscape:cy="344.41106"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43" />
+  <defs
+     id="defs3">
+    <marker
+       id="arrowBlue"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#3f7db3"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowGray"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#5f6f7b"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowGreen"
+       markerWidth="10"
+       markerHeight="10"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 Z"
+         fill="#5f8b68"
+         id="path3" />
+    </marker>
+  </defs>
+  <!-- Explicit full-canvas white background -->
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1100"
+     fill="#ffffff"
+     id="rect3" />
+  <!-- Top flow -->
+  <rect
+     x="90"
+     y="70"
+     width="360"
+     height="105"
+     rx="16"
+     fill="#eaf2f8"
+     stroke="#6f99bb"
+     stroke-width="3"
+     id="rect4" />
+  <text
+     x="270"
+     y="112"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29"
+     font-weight="700"
+     fill="#315c7d"
+     id="text4">Supplier DFM finding</text>
+  <text
+     x="270"
+     y="147"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21"
+     fill="#516878"
+     id="text5">Fabrication / assembly input</text>
+  <rect
+     x="590"
+     y="70"
+     width="430"
+     height="105"
+     rx="16"
+     fill="#eef4f9"
+     stroke="#7b9bb5"
+     stroke-width="3"
+     id="rect5" />
+  <text
+     x="805"
+     y="111"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29"
+     font-weight="700"
+     fill="#344452"
+     id="text6">Engineering review</text>
+  <text
+     x="805"
+     y="146"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21"
+     fill="#5c6b75"
+     id="text7">Determine design intent and impact</text>
+  <line
+     x1="450"
+     y1="122"
+     x2="580"
+     y2="122"
+     stroke="#3f7db3"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line7" />
+  <!-- Branch rail from engineering review -->
+  <line
+     x1="805"
+     y1="175"
+     x2="805"
+     y2="225"
+     stroke="#3f7db3"
+     stroke-width="5"
+     id="line8" />
+  <line
+     x1="230"
+     y1="225"
+     x2="1371.6827"
+     y2="225"
+     stroke="#3f7db3"
+     stroke-width="4.6152"
+     id="line9" />
+  <!-- Four equal disposition boxes -->
+  <g
+     font-family="Arial, Helvetica, sans-serif"
+     id="g23">
+    <!-- Accept -->
+    <line
+       x1="230"
+       y1="225"
+       x2="230"
+       y2="265"
+       stroke="#3f7db3"
+       stroke-width="5"
+       marker-end="url(#arrowBlue)"
+       id="line10" />
+    <rect
+       x="80"
+       y="275"
+       width="300"
+       height="150"
+       rx="16"
+       fill="#eef7ef"
+       stroke="#7eaf8b"
+       stroke-width="3"
+       id="rect10" />
+    <text
+       x="230"
+       y="318"
+       text-anchor="middle"
+       font-size="29"
+       font-weight="700"
+       fill="#2f6441"
+       id="text10">Accept</text>
+    <text
+       x="230"
+       y="352"
+       text-anchor="middle"
+       font-size="20"
+       fill="#4d6655"
+       id="text11">Approved within</text>
+    <text
+       x="230"
+       y="378"
+       text-anchor="middle"
+       font-size="20"
+       fill="#4d6655"
+       id="text12">controlled intent</text>
+    <!-- Revise -->
+    <line
+       x1="610"
+       y1="225"
+       x2="610"
+       y2="265"
+       stroke="#3f7db3"
+       stroke-width="5"
+       marker-end="url(#arrowBlue)"
+       id="line12" />
+    <rect
+       x="460"
+       y="275"
+       width="300"
+       height="150"
+       rx="16"
+       fill="#edf3f9"
+       stroke="#719ac0"
+       stroke-width="3"
+       id="rect12" />
+    <text
+       x="610"
+       y="318"
+       text-anchor="middle"
+       font-size="29"
+       font-weight="700"
+       fill="#315c7d"
+       id="text13">Revise</text>
+    <text
+       x="610"
+       y="346"
+       text-anchor="middle"
+       font-size="19"
+       fill="#516878"
+       id="text14">Change design or</text>
+    <text
+       x="610"
+       y="371"
+       text-anchor="middle"
+       font-size="19"
+       fill="#516878"
+       id="text15">released data</text>
+    <text
+       x="610"
+       y="399"
+       text-anchor="middle"
+       font-size="19"
+       font-weight="700"
+       fill="#516878"
+       id="text16">Controlled change required</text>
+    <!-- Clarify -->
+    <line
+       x1="990"
+       y1="225"
+       x2="990"
+       y2="265"
+       stroke="#3f7db3"
+       stroke-width="5"
+       marker-end="url(#arrowBlue)"
+       id="line16" />
+    <rect
+       x="840"
+       y="275"
+       width="300"
+       height="150"
+       rx="16"
+       fill="#fff7e8"
+       stroke="#d5a95a"
+       stroke-width="3"
+       id="rect16" />
+    <text
+       x="990"
+       y="318"
+       text-anchor="middle"
+       font-size="29"
+       font-weight="700"
+       fill="#765a27"
+       id="text17">Clarify</text>
+    <text
+       x="990"
+       y="352"
+       text-anchor="middle"
+       font-size="20"
+       fill="#745f37"
+       id="text18">Repair ambiguity or</text>
+    <text
+       x="990"
+       y="378"
+       text-anchor="middle"
+       font-size="20"
+       fill="#745f37"
+       id="text19">missing information</text>
+    <!-- Deviation / exception -->
+    <line
+       x1="1370"
+       y1="225"
+       x2="1370"
+       y2="265"
+       stroke="#3f7db3"
+       stroke-width="5"
+       marker-end="url(#arrowBlue)"
+       id="line19" />
+    <rect
+       x="1220"
+       y="275"
+       width="300"
+       height="150"
+       rx="16"
+       fill="#fff3e7"
+       stroke="#d39a55"
+       stroke-width="3"
+       id="rect19" />
+    <text
+       x="1370"
+       y="313"
+       text-anchor="middle"
+       font-size="27"
+       font-weight="700"
+       fill="#765027"
+       id="text20">Deviation / exception</text>
+    <text
+       x="1370"
+       y="348"
+       text-anchor="middle"
+       font-size="19"
+       fill="#745f37"
+       id="text21">Scope / rationale documented</text>
+    <text
+       x="1370"
+       y="374"
+       text-anchor="middle"
+       font-size="19"
+       fill="#745f37"
+       id="text22">Supplier / process approved</text>
+    <text
+       x="1370"
+       y="400"
+       text-anchor="middle"
+       font-size="19"
+       fill="#745f37"
+       id="text23">Revision identified</text>
+  </g>
+  <!-- Merge from dispositions -->
+  <line
+     x1="230"
+     y1="425"
+     x2="230"
+     y2="470"
+     stroke="#5f6f7b"
+     stroke-width="4"
+     id="line23" />
+  <line
+     x1="610"
+     y1="425"
+     x2="610"
+     y2="470"
+     stroke="#5f6f7b"
+     stroke-width="4"
+     id="line24" />
+  <line
+     x1="990"
+     y1="425"
+     x2="990"
+     y2="470"
+     stroke="#5f6f7b"
+     stroke-width="4"
+     id="line25" />
+  <line
+     x1="1370"
+     y1="425"
+     x2="1370"
+     y2="470"
+     stroke="#5f6f7b"
+     stroke-width="4"
+     id="line26" />
+  <line
+     x1="230"
+     y1="470"
+     x2="1370"
+     y2="470"
+     stroke="#5f6f7b"
+     stroke-width="4"
+     id="line27" />
+  <line
+     x1="805"
+     y1="470"
+     x2="805"
+     y2="515"
+     stroke="#5f6f7b"
+     stroke-width="4"
+     marker-end="url(#arrowGray)"
+     id="line28" />
+  <!-- Document disposition -->
+  <rect
+     x="605"
+     y="525"
+     width="400"
+     height="82"
+     rx="14"
+     fill="#f3f5f7"
+     stroke="#8f9aa4"
+     stroke-width="3"
+     id="rect28" />
+  <text
+     x="805"
+     y="575"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="700"
+     fill="#44515b"
+     id="text28">Disposition documented</text>
+  <!-- Decision diamond -->
+  <polygon
+     points="805,635 1040,715 805,795 570,715"
+     fill="#fff8e9"
+     stroke="#cfaa62"
+     stroke-width="3"
+     id="polygon28" />
+  <text
+     x="805"
+     y="700"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#6c572d"
+     id="text29">Did the controlled design</text>
+  <text
+     x="805"
+     y="728"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#6c572d"
+     id="text30">or applicable release data change?</text>
+  <!-- from documented to diamond -->
+  <line
+     x1="805"
+     y1="607"
+     x2="805"
+     y2="630"
+     stroke="#5f6f7b"
+     stroke-width="4"
+     marker-end="url(#arrowGray)"
+     id="line30" />
+  <!-- YES branch: update -> regenerate -> recheck -->
+  <text
+     x="1048"
+     y="704"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21"
+     font-weight="700"
+     fill="#315c7d"
+     id="text31">Yes</text>
+  <line
+     x1="1040"
+     y1="715"
+     x2="1120"
+     y2="715"
+     stroke="#3f7db3"
+     stroke-width="5"
+     id="line31" />
+  <line
+     x1="1120"
+     y1="715"
+     x2="1120"
+     y2="850"
+     stroke="#3f7db3"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line32" />
+  <rect
+     x="956.24957"
+     y="860.04767"
+     width="298.41434"
+     height="81.904724"
+     rx="14.920717"
+     fill="#edf3f9"
+     stroke="#719ac0"
+     stroke-width="3.09528"
+     id="rect32" />
+  <text
+     x="1106"
+     y="895"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#315c7d"
+     id="text32">Update controlled source</text>
+  <text
+     x="1106"
+     y="922"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="19px"
+     fill="#516878"
+     id="text33">Apply approved change</text>
+  <line
+     x1="1260"
+     y1="901"
+     x2="1345"
+     y2="901"
+     stroke="#3f7db3"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line33" />
+  <rect
+     x="1355.0538"
+     y="860.05389"
+     width="322.36816"
+     height="81.892212"
+     rx="15.043848"
+     fill="#edf3f9"
+     stroke="#719ac0"
+     stroke-width="3.10779"
+     id="rect33" />
+  <text
+     x="1517"
+     y="895"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#315c7d"
+     id="text34">Regenerate affected outputs</text>
+  <text
+     x="1517"
+     y="922"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="19px"
+     fill="#516878"
+     id="text35">Use controlled source data</text>
+  <!-- Recheck box beneath decision, connected from regenerate by loop -->
+  <rect
+     x="605"
+     y="860"
+     width="300"
+     height="82"
+     rx="14"
+     fill="#eef4f9"
+     stroke="#719ac0"
+     stroke-width="3"
+     id="rect35" />
+  <text
+     x="755"
+     y="894"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#315c7d"
+     id="text36">Recheck relevant</text>
+  <text
+     x="755"
+     y="921"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="700"
+     fill="#315c7d"
+     id="text37">rules / findings</text>
+  <!-- orthogonal return from regenerate to recheck -->
+  <line
+     x1="1505"
+     y1="942"
+     x2="1505"
+     y2="985"
+     stroke="#3f7db3"
+     stroke-width="5"
+     id="line37" />
+  <line
+     x1="1505"
+     y1="985"
+     x2="755"
+     y2="985"
+     stroke="#3f7db3"
+     stroke-width="5"
+     id="line38" />
+  <line
+     x1="755"
+     y1="985"
+     x2="755"
+     y2="947"
+     stroke="#3f7db3"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line39" />
+  <!-- NO branch directly to closure -->
+  <text
+     x="542"
+     y="704"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21"
+     font-weight="700"
+     fill="#2f6441"
+     id="text39">No</text>
+  <line
+     x1="570"
+     y1="715"
+     x2="445"
+     y2="715"
+     stroke="#5f8b68"
+     stroke-width="5"
+     id="line40" />
+  <line
+     x1="445"
+     y1="715"
+     x2="445"
+     y2="900"
+     stroke="#5f8b68"
+     stroke-width="5"
+     marker-end="url(#arrowGreen)"
+     id="line41" />
+  <!-- Closure box -->
+  <rect
+     x="160"
+     y="860"
+     width="380"
+     height="82"
+     rx="14"
+     fill="#eef7ef"
+     stroke="#79ad87"
+     stroke-width="3"
+     id="rect41" />
+  <text
+     x="350"
+     y="894"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24"
+     font-weight="700"
+     fill="#2f6441"
+     id="text41">Finding closed when resolved</text>
+  <text
+     x="350"
+     y="922"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="19"
+     fill="#4d6655"
+     id="text42">Disposition recorded and complete</text>
+  <!-- Recheck to closure -->
+  <line
+     x1="605"
+     y1="901"
+     x2="548"
+     y2="901"
+     stroke="#5f8b68"
+     stroke-width="5"
+     marker-end="url(#arrowGreen)"
+     id="line42" />
+  <!-- bottom qualifier -->
+  <text
+     x="900"
+     y="1032"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20"
+     fill="#687782"
+     id="text43">
+    Supplier findings inform the decision; controlled product intent remains under engineering authorization.
+  </text>
+</svg>
