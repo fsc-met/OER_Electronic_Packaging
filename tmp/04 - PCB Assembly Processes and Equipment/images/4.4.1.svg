@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2400"
+   height="1000"
+   viewBox="0 0 2400 1000"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="4.4.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.4.1 - From Approved Part Requirement to Correct Feeder Loading.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview46"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.98974826"
+     inkscape:cx="1765.0953"
+     inkscape:cy="541.04667"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg46" />
+  <rect
+     x="0"
+     y="0"
+     width="2400"
+     height="1000"
+     fill="#ffffff"
+     id="rect1"
+     style="stroke-width:1.1239" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowMain"
+       markerWidth="13"
+       markerHeight="13"
+       refX="11"
+       refY="6.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 13,6.5 0,13 Z"
+         fill="#244a66"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowCompare"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#5f7f99"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowStop"
+       markerWidth="13"
+       markerHeight="13"
+       refX="11"
+       refY="6.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 13,6.5 0,13 Z"
+         fill="#b06c3a"
+         id="path3" />
+    </marker>
+    <marker
+       id="arrowOK"
+       markerWidth="13"
+       markerHeight="13"
+       refX="11"
+       refY="6.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 13,6.5 0,13 Z"
+         fill="#4f7f5a"
+         id="path4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-6-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-0-7" />
+    </marker>
+  </defs>
+  <text
+     x="1223.198"
+     y="69.805656"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36px"
+     font-weight="700"
+     fill="#263746"
+     id="text4">Line-side component identity verification</text>
+  <!-- 1. Approved job requirement -->
+  <g
+     id="g50"
+     transform="translate(73.961538,4.8076923)">
+    <rect
+       x="-2.3232262"
+       y="145.36908"
+       width="400.84839"
+       height="309.26184"
+       rx="33.755653"
+       fill="#eef5fb"
+       stroke="#5b83a2"
+       stroke-width="4.73816"
+       id="rect4" />
+    <text
+       x="202.30769"
+       y="202.61539"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="28px"
+       font-weight="700"
+       fill="#24445b"
+       id="text5">Approved job requirement</text>
+    <rect
+       x="68.727821"
+       y="258.82397"
+       width="274.37131"
+       height="125.04436"
+       rx="13.383965"
+       fill="#ffffff"
+       stroke="#5b83a2"
+       stroke-width="3.34025"
+       id="rect5" />
+    <text
+       x="88.557693"
+       y="291.65384"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="22px"
+       font-weight="700"
+       fill="#314957"
+       id="text6">Internal PN</text>
+    <text
+       x="88.557693"
+       y="323.65384"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="21px"
+       fill="#314957"
+       id="text7">Approved MPN / alternate</text>
+    <text
+       x="88.557693"
+       y="355.65384"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="21px"
+       fill="#314957"
+       id="text8">Product / revision</text>
+  </g>
+  <!-- 2. Physical container -->
+  <g
+     id="g49"
+     transform="translate(108.81731,-1.2019231)">
+    <rect
+       x="417.76923"
+       y="151.13466"
+       width="322.00949"
+       height="309.74991"
+       rx="27.116592"
+       fill="#eef7ef"
+       stroke="#5d8264"
+       stroke-width="4.25008"
+       id="rect8" />
+    <text
+       x="579.36536"
+       y="204.00961"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="28px"
+       font-weight="700"
+       fill="#2d5135"
+       id="text9">Physical component</text>
+    <text
+       x="584.17303"
+       y="237.00961"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="28px"
+       font-weight="700"
+       fill="#2d5135"
+       id="text10">container</text>
+    <circle
+       cx="510.86539"
+       cy="328.00961"
+       fill="#d7dde1"
+       stroke="#667985"
+       stroke-width="3"
+       id="circle10"
+       r="55" />
+    <circle
+       cx="510.86539"
+       cy="328.00961"
+       fill="#ffffff"
+       stroke="#667985"
+       stroke-width="3"
+       id="circle11"
+       r="18" />
+    <rect
+       x="582.11536"
+       y="268.20193"
+       width="125"
+       height="125"
+       rx="9"
+       fill="#ffffff"
+       stroke="#5d8264"
+       stroke-width="2.5"
+       id="rect11" />
+    <text
+       x="597.11536"
+       y="296.20193"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       font-weight="700"
+       fill="#314957"
+       id="text11">MPN</text>
+    <text
+       x="597.11536"
+       y="323.20193"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#314957"
+       id="text12">Internal PN</text>
+    <text
+       x="597.11536"
+       y="350.20193"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#314957"
+       id="text13">Lot / Qty</text>
+    <g
+       fill="#314957"
+       id="g21"
+       transform="translate(72.115385,23.201923)">
+      <rect
+         x="525"
+         y="340"
+         width="8"
+         height="8"
+         id="rect13" />
+      <rect
+         x="537"
+         y="340"
+         width="8"
+         height="8"
+         id="rect14" />
+      <rect
+         x="549"
+         y="340"
+         width="8"
+         height="8"
+         id="rect15" />
+      <rect
+         x="573"
+         y="340"
+         width="8"
+         height="8"
+         id="rect16" />
+      <rect
+         x="585"
+         y="340"
+         width="8"
+         height="8"
+         id="rect17" />
+      <rect
+         x="525"
+         y="352"
+         width="8"
+         height="8"
+         id="rect18" />
+      <rect
+         x="549"
+         y="352"
+         width="8"
+         height="8"
+         id="rect19" />
+      <rect
+         x="561"
+         y="352"
+         width="8"
+         height="8"
+         id="rect20" />
+      <rect
+         x="585"
+         y="352"
+         width="8"
+         height="8"
+         id="rect21" />
+    </g>
+  </g>
+  <!-- 3. Scan / verify -->
+  <g
+     id="g48"
+     transform="translate(98,-2)">
+    <rect
+       x="809.38837"
+       y="146.45573"
+       width="318.00198"
+       height="309.49237"
+       rx="30.528191"
+       fill="#eef3f7"
+       stroke="#667985"
+       stroke-width="4.50764"
+       id="rect22" />
+    <text
+       x="968.99036"
+       y="196.00961"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="28px"
+       font-weight="700"
+       fill="#344957"
+       id="text22">Scan / verify identity</text>
+    <rect
+       x="907.78845"
+       y="246.20192"
+       width="85"
+       height="52"
+       rx="8"
+       fill="#dce5eb"
+       stroke="#667985"
+       stroke-width="2.5"
+       id="rect23" />
+    <path
+       d="m 992.78846,261.20192 30.00004,-13 10,20 -31,14 z"
+       fill="#dce5eb"
+       stroke="#667985"
+       stroke-width="2.5"
+       id="path23" />
+    <line
+       x1="950.78845"
+       y1="306.20193"
+       x2="950.78845"
+       y2="351.20193"
+       stroke="#5f7f99"
+       stroke-width="4"
+       id="line23" />
+    <line
+       x1="984.78845"
+       y1="306.20193"
+       x2="984.78845"
+       y2="351.20193"
+       stroke="#5f7f99"
+       stroke-width="4"
+       id="line24" />
+    <text
+       x="966.58655"
+       y="389.61539"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="23px"
+       fill="#526670"
+       id="text24">Compare controlled identities</text>
+  </g>
+  <!-- 4. Feeder assignment -->
+  <rect
+     x="1282.9603"
+     y="146.3065"
+     width="293.63699"
+     height="309.79083"
+     rx="26.593538"
+     fill="#f1f4f6"
+     stroke="#687985"
+     stroke-width="4.20917"
+     id="rect24" />
+  <text
+     x="1427.375"
+     y="188.20192"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27px"
+     font-weight="700"
+     fill="#344957"
+     id="text25">Assigned feeder +</text>
+  <text
+     x="1427.375"
+     y="221.20192"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27px"
+     font-weight="700"
+     fill="#344957"
+     id="text26">slot / location</text>
+  <rect
+     x="1359.875"
+     y="256.20193"
+     width="135"
+     height="82"
+     rx="9"
+     fill="#d7dde1"
+     stroke="#687985"
+     stroke-width="3"
+     id="rect26" />
+  <circle
+     cx="1481.875"
+     cy="279.20193"
+     r="30"
+     fill="#d7dde1"
+     stroke="#687985"
+     stroke-width="3"
+     id="circle26" />
+  <circle
+     cx="1481.875"
+     cy="279.20193"
+     r="10"
+     fill="#ffffff"
+     stroke="#687985"
+     stroke-width="2"
+     id="circle27" />
+  <rect
+     x="1347.3237"
+     y="363.11148"
+     width="162.50636"
+     height="41.411713"
+     rx="9.2860775"
+     fill="#ffffff"
+     stroke="#687985"
+     stroke-width="3.08829"
+     id="rect27" />
+  <text
+     x="1428.5769"
+     y="389.81732"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#314957"
+     id="text27">Feeder ID / slot</text>
+  <!-- 5. Active placement job comparison -->
+  <g
+     id="g47"
+     transform="translate(122.03846,-9.6153846)">
+    <rect
+       x="1586.5503"
+       y="154.7715"
+       width="331.56277"
+       height="309.68777"
+       rx="27.921076"
+       fill="#eef5fb"
+       stroke="#5b83a2"
+       stroke-width="4.31223"
+       id="rect28" />
+    <text
+       x="1754.1346"
+       y="208.61539"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="27px"
+       font-weight="700"
+       fill="#24445b"
+       id="text28">Active placement job /</text>
+    <text
+       x="1754.1346"
+       y="241.61539"
+       text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="27px"
+       font-weight="700"
+       fill="#24445b"
+       id="text29">expected feeder map</text>
+    <rect
+       x="1671.6346"
+       y="287.61539"
+       width="165"
+       height="115"
+       rx="9"
+       fill="#ffffff"
+       stroke="#5b83a2"
+       stroke-width="2.5"
+       id="rect29" />
+    <text
+       x="1691.6346"
+       y="319.61539"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#314957"
+       id="text30">Part identity</text>
+    <text
+       x="1691.6346"
+       y="350.61539"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#314957"
+       id="text31">Feeder ID</text>
+    <text
+       x="1691.6346"
+       y="381.61539"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="20px"
+       fill="#314957"
+       id="text32">Slot / location</text>
+  </g>
+  <!-- 6. Correct loading -->
+  <rect
+     x="2102.5984"
+     y="145.27153"
+     width="226.13963"
+     height="309.45694"
+     rx="31.013435"
+     fill="#eef7ef"
+     stroke="#5d8264"
+     stroke-width="4.54306"
+     id="rect32" />
+  <circle
+     cx="2213.8655"
+     cy="244"
+     r="52"
+     fill="#dcebdd"
+     stroke="#5d8264"
+     stroke-width="3"
+     id="circle32" />
+  <polyline
+     points="1736,272 1754,290 1791,247"
+     fill="none"
+     stroke="#4f7f5a"
+     stroke-width="8"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="polyline32"
+     transform="translate(451.36539,-28)" />
+  <text
+     x="2213.8655"
+     y="345"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#2d5135"
+     id="text33">Correct loading</text>
+  <text
+     x="2213.8655"
+     y="377"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#2d5135"
+     id="text34">authorized</text>
+  <text
+     x="2213.8655"
+     y="420"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="18px"
+     fill="#53635a"
+     id="text35">Identities agree</text>
+  <!-- Main path arrows -->
+  <line
+     x1="1228.0481"
+     y1="303.60577"
+     x2="1266.0481"
+     y2="303.60577"
+     id="line37"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="850.71155"
+     y1="301.25153"
+     x2="888.71155"
+     y2="301.25153"
+     id="line37-2"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-6)" />
+  <line
+     x1="474.78845"
+     y1="302.82843"
+     x2="512.78845"
+     y2="302.82843"
+     id="line37-2-7"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-6-8)" />
+  <!-- comparison arrows -->
+  <line
+     x1="1581.5095"
+     y1="300"
+     x2="1691.5669"
+     y2="300"
+     stroke="#5f7f99"
+     stroke-width="5"
+     marker-end="url(#arrowCompare)"
+     id="line38"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <text
+     x="1639.7788"
+     y="284.41345"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="700"
+     fill="#5f7f99"
+     id="text38">compare</text>
+  <line
+     x1="2046.3173"
+     y1="300"
+     x2="2084.3174"
+     y2="300"
+     stroke="#4f7f5a"
+     stroke-width="6"
+     marker-end="url(#arrowOK)"
+     id="line39"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <!-- mismatch / hold branch -->
+  <rect
+     x="1072.3462"
+     y="612.0589"
+     width="740"
+     height="275"
+     rx="28"
+     fill="#fbf1e9"
+     stroke="#b06c3a"
+     stroke-width="4"
+     id="rect39" />
+  <text
+     x="1442.3462"
+     y="663.0589"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="700"
+     fill="#7b492a"
+     id="text39">Mismatch at any check → STOP / HOLD</text>
+  <text
+     x="1442.3462"
+     y="707.0589"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     fill="#6f5a4a"
+     id="text40">Resolve identity or authorization before loading</text>
+  <g
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     fill="#5d4f45"
+     id="g44"
+     transform="translate(407.34616,17.058929)">
+    <text
+       x="795"
+       y="735"
+       id="text41">• Wrong / unapproved part</text>
+    <text
+       x="795"
+       y="770"
+       id="text42">• Wrong feeder ID or slot/location</text>
+    <text
+       x="795"
+       y="805"
+       id="text43">• Active-job mapping mismatch</text>
+    <text
+       x="795"
+       y="840"
+       id="text44">• Required status information missing</text>
+  </g>
+  <!-- conditional branch lines from verification region -->
+  <path
+     d="m 1069.107,456.53222 1.3392,82.04572 138.4481,0 -2.1335,55.14758"
+     fill="none"
+     stroke="#b06c3a"
+     stroke-width="5"
+     stroke-dasharray="14, 10"
+     marker-end="url(#arrowStop)"
+     id="path44"
+     sodipodi:nodetypes="cccc"
+     style="stroke-width:3;stroke-dasharray:8.4, 6;stroke-dashoffset:0;marker-end:url(#RoundedArrow)" />
+  <path
+     d="M 1434.8313,459.59665 1433.76,593.80074"
+     fill="none"
+     stroke="#b06c3a"
+     stroke-width="5"
+     stroke-dasharray="14, 10"
+     marker-end="url(#arrowStop)"
+     id="path45"
+     sodipodi:nodetypes="cc"
+     style="stroke-width:3;stroke-dasharray:8.4, 6;stroke-dashoffset:0;marker-end:url(#RoundedArrow)" />
+  <path
+     d="m 1903.8597,456.53222 -0.7755,75.10197 -240.1735,1.55102 -1.551,59.38247"
+     fill="none"
+     stroke="#b06c3a"
+     stroke-width="5"
+     stroke-dasharray="14, 10"
+     marker-end="url(#arrowStop)"
+     id="path46"
+     sodipodi:nodetypes="cccc"
+     style="stroke-width:3;stroke-dasharray:8.4, 6;stroke-dashoffset:0;marker-end:url(#RoundedArrow)" />
+  <!-- bottom principle note -->
+  <text
+     x="1243.5092"
+     y="959.3877"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26px"
+     fill="#53646f"
+     id="text46">Scanning verifies against controlled data; it does not create engineering approval.</text>
+</svg>

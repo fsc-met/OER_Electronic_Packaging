@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2800"
+   height="1400"
+   viewBox="0 0 2800 1400"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg67"
+   sodipodi:docname="4.2.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.2.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview67"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="0.87479533"
+     inkscape:cx="1814.1386"
+     inkscape:cy="1208.8542"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg67"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs3">
+    <marker
+       style="overflow:visible"
+       id="marker76"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path76" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowMain"
+       markerWidth="14"
+       markerHeight="14"
+       refX="12"
+       refY="7"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 14,7 0,14 Z"
+         fill="#244a66"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowSupply"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#5f7f99"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowBranch"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#788792"
+         id="path3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-6-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-5-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-6-1-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-5-4-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-6-1-3-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-5-4-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-6-1-3-0-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-5-4-8-4-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker76-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path76-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker76-2-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path76-0-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-6-1-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-5-4-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-6-1-2-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-5-4-5-1" />
+    </marker>
+  </defs>
+  <rect
+     x="65.870056"
+     y="412.70969"
+     width="2227.8481"
+     height="470.9819"
+     rx="95.479187"
+     fill="#eef5fb"
+     stroke="#4f7899"
+     stroke-width="10.2563"
+     id="rect3-1-0"
+     style="fill:#f6ffd5;fill-opacity:0.00177618;stroke:#4f3599;stroke-opacity:1" />
+  <!-- Group labels -->
+  <text
+     x="1232.6871"
+     y="850.64923"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     fill="#253746"
+     id="text3"><tspan
+       style="fill:#333333"
+       id="tspan74">Conveyorized SMT line</tspan></text>
+  <!-- Material support area -->
+  <rect
+     x="71.415474"
+     y="60.978981"
+     width="1121.5873"
+     height="283.3555"
+     rx="48.068024"
+     fill="#eef5fb"
+     stroke="#4f7899"
+     stroke-width="5.6445"
+     id="rect3" />
+  <rect
+     x="1412.7058"
+     y="984.86957"
+     width="1313.9995"
+     height="331.74738"
+     rx="56.31427"
+     fill="#eef5fb"
+     stroke="#4f7899"
+     stroke-width="6.61066"
+     id="rect3-1"
+     style="fill:#f6ffd5;stroke:#b37899;stroke-opacity:1" />
+  <text
+     x="659.06451"
+     y="108.6388"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     fill="#23445c"
+     id="text4">Material receiving / kitting</text>
+  <rect
+     x="172.24173"
+     y="196.66426"
+     width="120"
+     height="72"
+     rx="8"
+     fill="#6d9b75"
+     stroke="#41694a"
+     stroke-width="3"
+     id="rect4" />
+  <circle
+     cx="189.24173"
+     cy="213.66426"
+     r="6"
+     fill="#ffffff"
+     stroke="#b48645"
+     stroke-width="3"
+     id="circle4" />
+  <circle
+     cx="274.2417"
+     cy="250.66425"
+     r="6"
+     fill="#ffffff"
+     stroke="#b48645"
+     stroke-width="3"
+     id="circle5" />
+  <g
+     fill="#d8b568"
+     id="g8"
+     transform="translate(52.241719,-23.33574)">
+    <rect
+       x="153"
+       y="238"
+       width="19"
+       height="9"
+       rx="2"
+       id="rect5" />
+    <rect
+       x="179"
+       y="238"
+       width="19"
+       height="9"
+       rx="2"
+       id="rect6" />
+    <rect
+       x="153"
+       y="260"
+       width="19"
+       height="9"
+       rx="2"
+       id="rect7" />
+    <rect
+       x="179"
+       y="260"
+       width="19"
+       height="9"
+       rx="2"
+       id="rect8" />
+  </g>
+  <text
+     x="232.24173"
+     y="301.66425"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#314957"
+     id="text8">Verified PCB / panel</text>
+  <rect
+     x="472.52682"
+     y="187.50131"
+     width="54"
+     height="86"
+     rx="8"
+     fill="#d6e3ec"
+     stroke="#5f7f99"
+     stroke-width="3"
+     id="rect9" />
+  <rect
+     x="484.52682"
+     y="172.50133"
+     width="30"
+     height="18"
+     rx="4"
+     fill="#718a9b"
+     id="rect10" />
+  <rect
+     x="545.52686"
+     y="191.50131"
+     width="92"
+     height="65"
+     rx="4"
+     fill="none"
+     stroke="#8a7a59"
+     stroke-width="4"
+     id="rect11" />
+  <rect
+     x="559.52686"
+     y="205.50133"
+     width="64"
+     height="37"
+     rx="3"
+     fill="#fff8e8"
+     stroke="#8a7a59"
+     stroke-width="2"
+     id="rect12" />
+  <text
+     x="549.23425"
+     y="301.28174"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#314957"
+     id="text12">Paste / stencil / tooling</text>
+  <circle
+     cx="923.92407"
+     cy="226.73416"
+     r="36"
+     fill="#d9dfe3"
+     stroke="#66737d"
+     stroke-width="3"
+     id="circle12" />
+  <circle
+     cx="923.92407"
+     cy="226.73416"
+     r="13"
+     fill="#ffffff"
+     stroke="#66737d"
+     stroke-width="3"
+     id="circle13" />
+  <rect
+     x="986.58209"
+     y="193.17331"
+     width="54"
+     height="72"
+     rx="5"
+     fill="#d7dde1"
+     stroke="#66737d"
+     stroke-width="3"
+     id="rect13" />
+  <line
+     x1="1000.5821"
+     y1="205.17331"
+     x2="1025.5822"
+     y2="205.17331"
+     stroke="#8e9aa2"
+     stroke-width="3"
+     id="line13" />
+  <line
+     x1="1000.5821"
+     y1="220.17331"
+     x2="1025.5822"
+     y2="220.17331"
+     stroke="#8e9aa2"
+     stroke-width="3"
+     id="line14" />
+  <line
+     x1="1000.5821"
+     y1="235.17331"
+     x2="1025.5822"
+     y2="235.17331"
+     stroke="#8e9aa2"
+     stroke-width="3"
+     id="line15" />
+  <text
+     x="965.58209"
+     y="304.17331"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="700"
+     fill="#314957"
+     id="text15">Components / feeders / trays</text>
+  <!-- Main line station function helper -->
+  <g
+     id="g71"
+     transform="translate(57.843903,80.527361)">
+    <rect
+       x="62.897312"
+       y="390.94601"
+       width="211.63791"
+       height="249.40506"
+       rx="26.454739"
+       fill="#f2f4f5"
+       stroke="#687985"
+       stroke-width="4.59494"
+       id="rect15" />
+    <text
+       x="170.161"
+       y="435.64856"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#253746"
+       id="text16">Loader /</text>
+    <text
+       x="170.161"
+       y="470.64856"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#253746"
+       id="text17">board input</text>
+    <rect
+       x="125.161"
+       y="506.64856"
+       width="90"
+       height="96"
+       rx="6"
+       fill="#d7dde1"
+       stroke="#687985"
+       stroke-width="3"
+       id="rect17" />
+    <line
+       x1="136.161"
+       y1="528.64856"
+       x2="203.161"
+       y2="528.64856"
+       stroke="#687985"
+       stroke-width="3"
+       id="line17" />
+    <line
+       x1="136.161"
+       y1="551.64856"
+       x2="203.161"
+       y2="551.64856"
+       stroke="#687985"
+       stroke-width="3"
+       id="line18" />
+    <line
+       x1="136.161"
+       y1="574.64856"
+       x2="203.161"
+       y2="574.64856"
+       stroke="#687985"
+       stroke-width="3"
+       id="line19" />
+  </g>
+  <g
+     id="g68"
+     transform="translate(-90.74354,85.276731)">
+    <rect
+       x="498.11987"
+       y="389.16434"
+       width="205.56808"
+       height="249.72766"
+       rx="22.840899"
+       fill="#f2f4f5"
+       stroke="#687985"
+       stroke-width="4.27234"
+       id="rect19" />
+    <text
+       x="601.66388"
+       y="434.02817"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#253746"
+       id="text19">Solder-paste</text>
+    <text
+       x="601.66388"
+       y="469.02817"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#253746"
+       id="text20">printer</text>
+    <rect
+       x="551.66388"
+       y="514.02814"
+       width="100"
+       height="62"
+       rx="8"
+       fill="#d7dde1"
+       stroke="#687985"
+       stroke-width="3"
+       id="rect20" />
+    <line
+       x1="567.66388"
+       y1="534.02814"
+       x2="635.66388"
+       y2="534.02814"
+       stroke="#8e9aa2"
+       stroke-width="5"
+       id="line20" />
+    <line
+       x1="567.66388"
+       y1="553.02814"
+       x2="635.66388"
+       y2="553.02814"
+       stroke="#8e9aa2"
+       stroke-width="5"
+       id="line21" />
+  </g>
+  <rect
+     x="690.77356"
+     y="474.98337"
+     width="160"
+     height="250"
+     rx="20"
+     fill="#f2f4f5"
+     stroke="#687985"
+     stroke-width="4"
+     id="rect21" />
+  <text
+     x="770.77356"
+     y="529.9834"
+     text-anchor="middle"
+     font-family="Arial"
+     font-size="32px"
+     font-weight="700"
+     fill="#253746"
+     id="text21">SPI</text>
+  <rect
+     x="730.77356"
+     y="589.9834"
+     width="80"
+     height="72"
+     rx="8"
+     fill="#d7dde1"
+     stroke="#687985"
+     stroke-width="3"
+     id="rect22" />
+  <rect
+     x="747.77356"
+     y="604.9834"
+     width="46"
+     height="35"
+     rx="4"
+     fill="#eef5fb"
+     stroke="#4f7899"
+     stroke-width="2"
+     id="rect23" />
+  <circle
+     cx="760.77356"
+     cy="621.9834"
+     r="7"
+     fill="#6d9b75"
+     id="circle23" />
+  <circle
+     cx="780.77356"
+     cy="621.9834"
+     r="7"
+     fill="#d8b568"
+     id="circle24" />
+  <rect
+     x="928.43695"
+     y="475.90594"
+     width="239.67265"
+     height="249.51186"
+     rx="25.228703"
+     fill="#f2f4f5"
+     stroke="#687985"
+     stroke-width="4.48816"
+     id="rect24" />
+  <text
+     x="1050.5532"
+     y="520.66187"
+     text-anchor="middle"
+     font-family="Arial"
+     font-size="29px"
+     font-weight="700"
+     fill="#253746"
+     id="text24">Pick-and-place</text>
+  <rect
+     x="985.55328"
+     y="590.66187"
+     width="130"
+     height="72"
+     rx="8"
+     fill="#d7dde1"
+     stroke="#687985"
+     stroke-width="3"
+     id="rect25" />
+  <rect
+     x="999.55328"
+     y="603.66187"
+     width="50"
+     height="38"
+     rx="4"
+     fill="#eef5fb"
+     stroke="#4f7899"
+     stroke-width="2"
+     id="rect26" />
+  <g
+     fill="#87949d"
+     id="g31"
+     transform="translate(-424.44668,285.66185)">
+    <rect
+       x="1422"
+       y="385"
+       width="18"
+       height="32"
+       rx="3"
+       id="rect27" />
+    <rect
+       x="1445"
+       y="385"
+       width="18"
+       height="32"
+       rx="3"
+       id="rect28" />
+    <rect
+       x="1468"
+       y="385"
+       width="18"
+       height="32"
+       rx="3"
+       id="rect29" />
+    <rect
+       x="1491"
+       y="385"
+       width="18"
+       height="32"
+       rx="3"
+       id="rect30" />
+    <rect
+       x="1514"
+       y="385"
+       width="18"
+       height="32"
+       rx="3"
+       id="rect31" />
+  </g>
+  <g
+     id="reflow"
+     transform="translate(-385.77323,284.98337)">
+    <rect
+       x="1635"
+       y="190"
+       width="280"
+       height="250"
+       rx="20"
+       fill="#f2f4f5"
+       stroke="#687985"
+       stroke-width="4"
+       id="rect32" />
+    <text
+       x="1775"
+       y="245"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="31px"
+       font-weight="700"
+       fill="#253746"
+       id="text32">Reflow oven</text>
+    <rect
+       x="1675"
+       y="305"
+       width="200"
+       height="75"
+       rx="15"
+       fill="#d7dde1"
+       stroke="#687985"
+       stroke-width="3"
+       id="rect33" />
+    <line
+       x1="1715"
+       y1="305"
+       x2="1715"
+       y2="380"
+       stroke="#8e9aa2"
+       stroke-width="2"
+       id="line33" />
+    <line
+       x1="1755"
+       y1="305"
+       x2="1755"
+       y2="380"
+       stroke="#8e9aa2"
+       stroke-width="2"
+       id="line34" />
+    <line
+       x1="1795"
+       y1="305"
+       x2="1795"
+       y2="380"
+       stroke="#8e9aa2"
+       stroke-width="2"
+       id="line35" />
+    <line
+       x1="1835"
+       y1="305"
+       x2="1835"
+       y2="380"
+       stroke="#8e9aa2"
+       stroke-width="2"
+       id="line36" />
+  </g>
+  <g
+     id="g70"
+     transform="translate(89.548892,86.633691)">
+    <rect
+       x="1518.5143"
+       y="389.51929"
+       width="264.77933"
+       height="249.01779"
+       rx="31.150511"
+       fill="#f2f4f5"
+       stroke="#687985"
+       stroke-width="4.98222"
+       id="rect36" />
+    <text
+       x="1651.6639"
+       y="431.02817"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="27px"
+       font-weight="700"
+       fill="#253746"
+       id="text36">Post-reflow AOI</text>
+    <text
+       x="1651.6639"
+       y="466.02817"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="27px"
+       font-weight="700"
+       fill="#253746"
+       id="text37">optical inspection</text>
+    <rect
+       x="1611.6639"
+       y="514.02814"
+       width="80"
+       height="70"
+       rx="8"
+       fill="#d7dde1"
+       stroke="#687985"
+       stroke-width="3"
+       id="rect37" />
+    <circle
+       cx="1651.6639"
+       cy="541.02814"
+       r="12"
+       fill="#eef5fb"
+       stroke="#4f7899"
+       stroke-width="3"
+       id="circle37" />
+    <rect
+       x="1633.6639"
+       y="564.02814"
+       width="36"
+       height="8"
+       rx="3"
+       fill="#87949d"
+       id="rect38" />
+  </g>
+  <!-- conveyor baseline and main arrows -->
+  <line
+     x1="134.33302"
+     y1="765.41125"
+     x2="2213.5337"
+     y2="765.41125"
+     stroke="#8da0ad"
+     stroke-width="9.43439"
+     id="line38" />
+  <rect
+     x="189.92793"
+     y="748.41125"
+     width="70"
+     height="34"
+     rx="5"
+     id="rect39"
+     style="fill:#6d9b75;stroke:#41694a;stroke-width:2" />
+  <rect
+     x="477.77603"
+     y="749.08972"
+     width="70"
+     height="34"
+     rx="5"
+     id="rect40"
+     style="fill:#6d9b75;stroke:#41694a;stroke-width:2" />
+  <rect
+     x="733.3811"
+     y="748.41125"
+     width="70"
+     height="34"
+     rx="5"
+     id="rect41"
+     style="fill:#6d9b75;stroke:#41694a;stroke-width:2" />
+  <rect
+     x="1009.4825"
+     y="749.08972"
+     width="70"
+     height="34"
+     rx="5"
+     id="rect42"
+     style="fill:#6d9b75;stroke:#41694a;stroke-width:2" />
+  <rect
+     x="1356.9054"
+     y="749.08972"
+     width="70"
+     height="34"
+     rx="5"
+     id="rect43"
+     style="fill:#6d9b75;stroke:#41694a;stroke-width:2" />
+  <rect
+     x="1700.9686"
+     y="748.41125"
+     width="70"
+     height="34"
+     rx="5"
+     id="rect44"
+     style="fill:#6d9b75;stroke:#41694a;stroke-width:2" />
+  <line
+     x1="338.06445"
+     y1="606.90393"
+     x2="386.06445"
+     y2="606.90393"
+     id="line44"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="620.03387"
+     y1="609.03326"
+     x2="668.03387"
+     y2="609.03326"
+     id="line44-3"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-1)" />
+  <line
+     x1="859.42633"
+     y1="607.60541"
+     x2="907.42633"
+     y2="607.60541"
+     id="line44-3-8"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-1-6)" />
+  <line
+     x1="1177.9504"
+     y1="608.14215"
+     x2="1225.9504"
+     y2="608.14215"
+     id="line44-3-8-1"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-1-6-1)" />
+  <line
+     x1="1537.191"
+     y1="607.56744"
+     x2="1585.191"
+     y2="607.56744"
+     id="line44-3-8-1-8"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-1-6-1-3)" />
+  <line
+     x1="1881.4771"
+     y1="606.42566"
+     x2="1929.4771"
+     y2="606.42566"
+     id="line44-3-8-1-8-0"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-1-6-1-3-0)" />
+  <line
+     x1="2227.1885"
+     y1="605.71173"
+     x2="2336.6436"
+     y2="605.71173"
+     id="line44-3-8-1-8-0-9"
+     style="fill:none;stroke:#244a66;stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-1-6-1-3-0-3)" />
+  <!-- Material supply arrows -->
+  <!-- Unloader/buffer -->
+  <!-- Conditional / offline branch area -->
+  <text
+     x="2061.6355"
+     y="1282.5315"
+     text-anchor="middle"
+     font-family="Arial"
+     font-size="34px"
+     font-weight="700"
+     fill="#394c58"
+     id="text52">Product-dependent / offline operations</text>
+  <!-- X-ray -->
+  <g
+     id="g2"
+     transform="translate(-122.29324,5.2411388)">
+    <rect
+       x="1590.2542"
+       y="1034.7908"
+       width="245.55728"
+       height="181.79553"
+       rx="18.007532"
+       fill="#f5f6f7"
+       stroke="#788792"
+       stroke-width="3.98402"
+       stroke-dasharray="14, 10"
+       id="rect52" />
+    <text
+       x="1706.9485"
+       y="1083.2723"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#394c58"
+       id="text53">X-ray / AXI</text>
+    <text
+       x="1706.9485"
+       y="1118.2723"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="26px"
+       fill="#5e6b74"
+       id="text54">when required</text>
+    <rect
+       x="1653.9346"
+       y="1150.1688"
+       width="110"
+       height="35"
+       rx="7"
+       fill="#d7dde1"
+       stroke="#788792"
+       stroke-width="2.5"
+       id="rect54" />
+  </g>
+  <!-- THT secondary -->
+  <g
+     id="g3"
+     transform="translate(-22)">
+    <rect
+       x="1810.8138"
+       y="1039.4047"
+       width="512.86041"
+       height="184.94785"
+       rx="22.565859"
+       fill="#f5f6f7"
+       stroke="#788792"
+       stroke-width="4.05054"
+       stroke-dasharray="14, 10"
+       id="rect55" />
+    <text
+       x="2061.8516"
+       y="1084.3785"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#394c58"
+       id="text55">THT / secondary assembly</text>
+    <text
+       x="2072.6882"
+       y="1124.2784"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#394c58"
+       id="text55-4">as required</text>
+    <text
+       x="2068.2095"
+       y="1164.6447"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="24px"
+       fill="#5e6b74"
+       id="text56"
+       style="font-size:26.6667px">THT insertion</text>
+    <text
+       x="2068.2095"
+       y="1198.6447"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="24px"
+       fill="#5e6b74"
+       id="text57"
+       style="font-size:26.6667px">Wave OR selective OR hand soldering</text>
+  </g>
+  <!-- downstream verification -->
+  <!-- rework support -->
+  <rect
+     x="2369.1863"
+     y="1035.4197"
+     width="312.86313"
+     height="182.03491"
+     rx="18.602674"
+     fill="#f7f8f9"
+     stroke="#788792"
+     stroke-width="4.53026"
+     stroke-dasharray="14, 10"
+     id="rect61" />
+  <text
+     x="2527.1077"
+     y="1083.1545"
+     text-anchor="middle"
+     font-family="Arial"
+     font-size="28px"
+     font-weight="700"
+     fill="#394c58"
+     id="text62">Rework / repair area</text>
+  <text
+     x="2527.1077"
+     y="1120.1547"
+     text-anchor="middle"
+     font-family="Arial"
+     font-size="25px"
+     fill="#5e6b74"
+     id="text63">when authorized</text>
+  <!-- branch connections -->
+  <path
+     d="M 1563.6572,619.45873 V 1023.4736"
+     fill="none"
+     stroke="#788792"
+     stroke-width="4.51574"
+     stroke-dasharray="14, 10"
+     marker-end="url(#arrowBranch)"
+     id="path66"
+     style="stroke-width:3;stroke-dasharray:9.30078526,6.64346907;stroke-dashoffset:0;marker-end:url(#RoundedArrow-1-6-1)" />
+  <path
+     d="M 2079.0693,772.41492 V 1024.4084"
+     fill="none"
+     stroke="#788792"
+     stroke-width="4.51574"
+     stroke-dasharray="14, 10"
+     marker-end="url(#arrowBranch)"
+     id="path66-2"
+     style="stroke-width:3;stroke-dasharray:9.30084206,6.64345436;stroke-dashoffset:0;marker-end:url(#RoundedArrow-1-6-1-2)" />
+  <path
+     d="M 2511.3934,737.32377 V 1017.987"
+     fill="none"
+     stroke="#788792"
+     stroke-width="4.51574"
+     stroke-dasharray="14, 10"
+     marker-end="url(#arrowBranch)"
+     id="path66-2-2"
+     style="stroke-width:2.97699;stroke-dasharray:9.2295, 6.59252;stroke-dashoffset:0;marker-end:url(#RoundedArrow-1-6-1-2-7)" />
+  <!-- small legend -->
+  <line
+     x1="113.32655"
+     y1="1210.642"
+     x2="232.0573"
+     y2="1210.642"
+     stroke="#244a66"
+     stroke-width="8.10917"
+     marker-end="url(#arrowMain)"
+     id="line66"
+     style="stroke-width:4;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <text
+     x="285.35858"
+     y="1220.0806"
+     font-family="Arial"
+     font-size="23px"
+     fill="#394c58"
+     id="text66"
+     style="font-size:26.6667px">Representative main product flow</text>
+  <line
+     x1="115.79629"
+     y1="1259.009"
+     x2="230.34023"
+     y2="1259.009"
+     stroke="#788792"
+     stroke-width="5.30994"
+     stroke-dasharray="14, 10"
+     marker-end="url(#arrowBranch)"
+     id="line67"
+     style="stroke-width:4;stroke-dasharray:10.5463, 7.53304;stroke-dashoffset:0;marker-end:url(#RoundedArrow)" />
+  <text
+     x="284.95123"
+     y="1269.8861"
+     font-family="Arial"
+     font-size="23px"
+     fill="#394c58"
+     id="text67"
+     style="font-size:26.6667px">Product-dependent / offline branch</text>
+  <g
+     id="g72"
+     transform="translate(55.129977,87.312171)">
+    <g
+       id="g73"
+       transform="translate(-3.3924071,-0.67848143)">
+      <rect
+         x="1902.6738"
+         y="388.60632"
+         width="262.69"
+         height="250.35832"
+         rx="18.913679"
+         fill="#f7f8f9"
+         stroke="#687985"
+         stroke-width="4.44185"
+         id="rect50" />
+      <text
+         x="2034.8038"
+         y="450.01697"
+         text-anchor="middle"
+         font-family="Arial"
+         font-size="28px"
+         font-weight="700"
+         fill="#253746"
+         id="text50">Unloader / buffer</text>
+      <rect
+         x="1972.1191"
+         y="500.1301"
+         width="130.11298"
+         height="95.404091"
+         rx="8.6741991"
+         fill="#d7dde1"
+         stroke="#687985"
+         stroke-width="3.5959"
+         id="rect17-6" />
+      <line
+         x1="1999.1047"
+         y1="521.83209"
+         x2="2077.6392"
+         y2="521.83209"
+         stroke="#687985"
+         stroke-width="3.24799"
+         id="line17-2" />
+      <line
+         x1="1997.0693"
+         y1="544.83209"
+         x2="2078.9961"
+         y2="544.83209"
+         stroke="#687985"
+         stroke-width="3.31739"
+         id="line18-7" />
+      <line
+         x1="1998.4263"
+         y1="567.83209"
+         x2="2077.6392"
+         y2="567.83209"
+         stroke="#687985"
+         stroke-width="3.26198"
+         id="line19-0" />
+    </g>
+  </g>
+  <rect
+     x="2047.7578"
+     y="748.99823"
+     width="70"
+     height="34"
+     rx="5"
+     id="rect44-4"
+     style="fill:#6d9b75;stroke:#41694a;stroke-width:2" />
+  <g
+     id="g1"
+     transform="translate(54)">
+    <rect
+       x="2301.123"
+       y="477.36777"
+       width="303.62482"
+       height="250.48575"
+       rx="14.84388"
+       fill="#eef3f7"
+       stroke="#61778a"
+       stroke-width="3.82321"
+       id="rect58" />
+    <text
+       x="2447.5076"
+       y="517.02832"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#30495a"
+       id="text59">Downstream</text>
+    <text
+       x="2455.6494"
+       y="549.99286"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#30495a"
+       id="text60">quality /electrical /</text>
+    <text
+       x="2449.1602"
+       y="585.06549"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="29px"
+       font-weight="700"
+       fill="#30495a"
+       id="text60-1">functional test</text>
+    <rect
+       x="2397.1086"
+       y="629.8324"
+       width="130"
+       height="72"
+       rx="8"
+       fill="#d7dde1"
+       stroke="#687985"
+       stroke-width="3"
+       id="rect25-5" />
+    <rect
+       x="2411.1086"
+       y="642.8324"
+       width="50"
+       height="38"
+       rx="4"
+       fill="#eef5fb"
+       stroke="#4f7899"
+       stroke-width="2"
+       id="rect26-9" />
+    <rect
+       x="1921.2084"
+       y="-1618.1587"
+       width="71.247986"
+       height="4.7227969"
+       rx="5.0891418"
+       id="rect44-1-1"
+       style="fill:#6d9b75;stroke:#41694a;stroke-width:0.752017"
+       transform="rotate(54.088802)" />
+    <rect
+       x="-897.09259"
+       y="-2462.0488"
+       width="71.247986"
+       height="4.7227969"
+       rx="5.0891418"
+       id="rect44-1-1-8"
+       style="fill:#d8b568;fill-opacity:1;stroke:#d8b568;stroke-width:0.752017;stroke-opacity:1"
+       transform="rotate(123.43761)" />
+    <circle
+       cx="2474.9265"
+       cy="663.23907"
+       r="7"
+       fill="#6d9b75"
+       id="circle23-5" />
+    <circle
+       cx="2508.4934"
+       cy="662.93073"
+       r="7"
+       fill="#d8b568"
+       id="circle24-5" />
+  </g>
+  <rect
+     x="2463.3149"
+     y="1161.179"
+     width="110"
+     height="35"
+     rx="7"
+     fill="#d7dde1"
+     stroke="#788792"
+     stroke-width="2.5"
+     id="rect54-8" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker76)"
+     d="m 229.97432,319.28154 -2.21129,130.4662"
+     id="path75"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker76-2)"
+     d="m 521.91127,317.7116 -2.21129,130.4662"
+     id="path75-4"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker76-2-8)"
+     d="m 996.28818,324.45839 -2.21129,130.4662"
+     id="path75-4-3"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 2573.5712,1137.4692 -1.6502,-1.3398 h -0.3301 l -0.6601,-0.5359 h -0.33 l -1.6503,-0.8039 h -1.6502 l -0.3301,-0.2679 h -0.33 l -0.3301,0.2679 h -1.6502 l -0.3301,0.268 h -0.33 l -0.3301,0.268 h -0.33 l -1.6502,0.8038 h -0.6601 l -0.3301,0.268 h -0.33 l -2.3104,1.8757 h -1.6502 l -0.3301,0.268 h -0.6601 l -0.9901,0.8038 h -0.3301 l -0.6601,0.5359 v 0.268 l -1.3202,1.0718 v 0.268 l -0.9901,0.8039 v 0.2679 l -0.9901,0.8039 v 0.268 l -1.3202,1.0718 v 0.268 l -0.9902,0.8038 v 0.268 l -0.9901,0.8039 v 0.2679 l -0.9902,0.8039 v 0.268 l -0.9901,0.8038 v 0.268 l -0.9902,0.8039 v 0.2679 l -0.9901,0.8039 v 0.268 l -1.3202,1.0718 v 0.268 l -0.9901,0.8038 v 0.268 l -1.9803,1.6078 h -0.3301 l -0.33,0.2679 h -0.3301 l -0.33,0.268 -0.9902,0.2679 -0.6601,0.5359 h -0.33 l -1.3202,1.0719 v 0.2679 l -1.6503,1.3398 v 0.536 l 0.3301,0.2679 v 0.268 l 1.3202,1.0718 -1.3202,1.0718 v 0.268 l -0.9902,0.8039 v 0.5359 l 0.3301,0.268 -0.9902,0.8038 v 0.268 l -1.3201,1.0718 v 0.268 l -1.6503,1.3398 v 0.2679 l -1.3202,1.0719 v 0.2679 l -1.6502,1.3398 v 0.268 l -2.6404,2.4116 v 0.8039 l -0.3301,0.2679 v 0.268 l -0.6601,0.5359 v 0.268 l -0.6601,0.5359 -0.33,0.8039 -1.3202,1.3398 v 0.8038 h 0.33 l 0.3301,0.268 4.6207,-3.7514 h 0.33 l 0.9902,-0.5359 v -0.268 l 1.3202,-1.0718 v -0.268 l 1.3202,-1.0718 v -0.268 l 1.3202,-1.0718 v -0.268 l 1.3201,-1.0718 v -0.268 l 1.3202,-1.0718 v -0.268 l 1.3202,-1.0718 v -0.268 l 0.9902,-0.8038 h 0.9901 l 0.3301,-0.268 v -0.268 l 1.3202,-1.0718 v -0.2679 l 0.6601,-0.536 1.6502,0.8039 h 0.9902 l 1.3201,-1.0718 v -0.268 l 1.3202,-1.0718 v -0.268 l 0.9902,-1.3398 v -0.8038 l 0.33,-0.268 v -0.5359 l 0.3301,-0.268 v -0.2679 l 0.6601,-0.536 v -0.2679 l 0.9901,-0.8039 v -0.268 l 1.6503,-1.3397 v -0.268 l 1.6502,-1.3398 v -0.268 l 1.6503,-1.3397 v -0.268 l 1.6502,-1.3398 v -0.268 l 1.6502,-1.3398 v -0.2679 l 1.6503,-1.3398 v -0.268 l 1.6502,-1.3398 v -0.2679 l 1.6503,-1.3398 v -0.268 l 0.6601,-0.5359 v -0.2679 l 0.33,-0.268 v -0.5359 l 0.3301,-0.268 v -1.3398 l -0.3301,-0.2679 v -0.268 l 2.3103,-1.8757 v -0.268 l 0.6601,-0.8038 h 0.3301 l 0.9901,-0.536 h 0.6601 l 0.3301,-0.2679 h 1.9803 l 0.33,0.2679 h 0.6601 l 0.3301,0.268 h 0.33 l 0.6601,0.5359 h 0.3301 l 1.6502,1.3398 v 0.268 l 0.9902,0.8038 v 0.268 l 0.9901,1.3398 v 0.5359 l 0.33,0.268 v 0.8039 h 0.3301 v -0.8039 l -0.3301,-0.268 v -0.5359 l -0.33,-0.268 v -0.2679 l -0.3301,-0.268 v -0.2679 l -0.33,-0.268 -0.33,-0.8039 -0.6601,-0.5359 v -0.2679 l -1.3202,-1.0719 h -0.3301 l -0.6601,-0.5359 h -0.33 l -0.9902,-0.5359 h -0.6601 l -0.33,-0.268 h -1.9803 l -0.3301,0.268 h -0.9901 l -0.9902,0.5359 h -0.6601 l -0.66,-0.5359 0.9901,-0.8039 h 0.33 l 0.3301,-0.2679 h 0.6601 l 0.33,-0.268 h 3.6306 l 0.33,0.268 h 0.6601 l 0.3301,0.2679 h 0.33 l 0.6601,0.5359 h 0.3301 l 2.6403,2.1437 v 0.268 l 0.6601,0.5359 v 0.2679 l 0.3301,0.268 v 0.2679 l 0.33,0.268 v 0.268 l 0.9902,1.3398 v 0.5359 l 0.33,0.2679 v 0.536 h 0.3301 v -0.536 l -0.3301,-0.2679 v -0.5359 l -0.33,-0.268 v -0.5359 l -0.3301,-0.268 v -0.2679 l -0.33,-0.268 -0.3301,-0.8039 -0.6601,-0.5359 v -0.2679 l -0.9901,-0.8039 z m -50.8275,37.5142 0.9902,0.8039 v 0.268 l -2.6404,2.1436 v 0.268 l -0.9902,0.8039 h -0.33 l -0.3301,-0.268 0.3301,-0.2679 v -0.268 l 0.6601,-0.5359 v -0.268 l 0.6601,-0.5359 0.33,-0.8039 z m 10.5616,-9.6465 0.9901,0.8039 -0.6601,0.5359 v 0.268 l -1.3202,1.0718 v 0.268 l -1.3202,1.0718 v 0.268 l -1.3201,1.0718 v 0.268 l -1.3202,1.0718 v 0.268 l -1.3202,1.0718 v 0.2679 l -1.3202,1.0719 v 0.2679 l -0.6601,0.536 h -0.9902 l -1.3202,-1.0719 v -0.2679 l 0.9902,-0.8039 v -0.268 l 1.3202,-1.0718 v -0.268 l 1.6502,-1.3398 v -0.2679 l 1.3202,-1.0718 v -0.268 l 1.3202,-1.0718 v -0.268 l 1.6502,-1.3398 v -0.268 l 1.3202,-1.0718 0.6601,0.5359 z m -1.3202,0.5359 -0.3301,0.268 v 0.268 l -1.3202,1.0718 v 0.268 l -1.3201,1.0718 v 0.268 l -1.6503,1.3397 v 0.268 l -1.3202,1.0718 v 0.268 l -1.3202,1.0718 v 0.268 l -0.9901,0.8039 0.9901,-0.8039 v -0.268 l 1.3202,-1.0718 v -0.268 l 1.6503,-1.3398 v -0.2679 l 1.3202,-1.0718 v -0.268 l 1.3201,-1.0718 v -0.268 l 1.3202,-1.0718 v -0.268 z m 2.6404,-4.2873 0.33,0.268 0.9902,0.2679 1.3202,1.0719 v 0.8038 l -0.3301,0.268 v 0.268 l -0.9901,0.8038 v 0.268 l -0.6601,0.5359 h -0.3301 l -0.9901,-0.8039 h -0.3301 l -1.6502,-1.3398 0.33,-0.2679 v -0.268 z m -1.9803,-1.6077 0.33,-0.268 h 0.3301 l 0.33,0.268 h 0.3301 l 0.33,0.2679 0.9902,0.268 0.6601,0.5359 h 0.33 l 0.9902,0.8039 h 0.33 l 2.3104,1.8757 v 0.2679 l 0.33,0.268 -0.33,0.268 h -0.3301 l -0.33,-0.268 -0.9902,-0.268 -0.33,-0.2679 -0.3301,-0.8039 -0.9901,-0.8039 h -0.3301 l -0.6601,-0.5359 h -0.6601 l -0.33,-0.268 h -0.3301 l -0.6601,-0.5359 h -0.33 z m 0.9901,-1.3398 0.9902,-0.8039 h 0.6601 l 0.33,0.2679 h 0.3301 l 0.33,0.268 0.9902,0.268 0.9901,0.8038 h 0.3301 l 1.3202,1.0719 h 0.33 l 1.3202,1.0718 v 0.268 l 0.6601,0.5359 -0.3301,0.8039 -0.9901,0.8038 h -0.33 l -0.6601,-0.5359 v -0.2679 l -2.9705,-2.1437 h -0.33 l -1.6503,-1.0718 h -0.33 l -0.3301,-0.268 h -0.6601 l -0.33,-0.268 z m 25.4138,-19.2931 1.3202,1.0719 v 0.2679 l 0.33,0.268 v 1.0718 l -0.33,0.268 v 0.5359 l -0.6601,0.5359 v 0.268 l -1.6503,1.3398 v 0.2679 l -1.6502,1.3398 v 0.268 l -1.3202,1.0718 v 0.268 l -1.6503,1.3398 v 0.2679 l -1.6502,1.3398 v 0.268 l -1.6502,1.3398 v 0.2679 l -1.6503,1.3398 v 0.268 l -1.6502,1.3398 v 0.2679 l -1.3202,1.0719 v 0.2679 l -0.6601,0.5359 v 0.268 l -0.6601,0.8039 v 0.5359 l -0.3301,0.268 v 0.5359 l -0.33,0.2679 v 0.5359 l -0.3301,0.268 v 0.268 l -0.33,0.2679 h -0.3301 l -3.3004,-2.6796 h -0.3301 l -0.6601,-0.5359 h -0.33 l -0.6601,-0.5359 h -0.3301 l -1.6502,-1.0718 1.6502,-1.0719 h 0.6601 l 0.3301,-0.2679 h 0.33 l 0.6601,-0.5359 h 0.3301 l 1.3202,-1.0719 v -0.2679 l 0.9901,-0.8039 v -0.268 l 0.9901,-0.8038 v -0.268 l 1.3202,-1.0718 v -0.268 l 0.9902,-0.8039 v -0.2679 l 0.9901,-0.8039 v -0.268 l 0.9902,-0.8038 v -0.268 l 0.9901,-0.8039 v -0.2679 l 0.9902,-0.8039 v -0.268 l 0.9901,-0.8039 v -0.2679 l 1.3202,-1.0718 v -0.268 l 0.9901,-0.8039 v -0.2679 l 0.9902,-0.8039 v -0.268 l 1.9803,-1.6077 1.9803,-0.5359 0.33,0.2679 h 0.3301 l 0.33,0.268 z m -4.9508,1.8757 -0.9901,0.8039 v 0.268 l -0.9902,0.8039 v 0.2679 l -0.9901,0.8039 v 0.2679 l -0.9901,0.8039 v 0.268 l -0.9902,0.8039 v 0.2679 l -1.3202,1.0719 v 0.2679 l -0.9901,0.8039 v 0.2679 l -0.9902,0.8039 v 0.268 l -0.9901,0.8039 v 0.2679 l -0.9902,0.8039 v 0.268 l -0.9901,0.8038 v 0.268 l -0.9902,0.8039 v 0.2679 -0.2679 l 0.9902,-0.8039 v -0.268 l 0.9901,-0.8038 v -0.268 l 0.9902,-0.8039 v -0.2679 l 0.9901,-0.8039 v -0.268 l 0.9902,-0.8039 v -0.2679 l 0.9901,-0.8039 v -0.2679 l 1.3202,-1.0719 v -0.2679 l 0.9902,-0.8039 v -0.268 l 0.9901,-0.8039 v -0.2679 l 0.9901,-0.8039 v -0.2679 z m 7.5912,-4.8232 0.9901,0.8039 v 0.8038 l -2.3103,1.8757 -0.3301,-0.2679 h -0.33 l -1.3202,-1.0718 2.3103,-1.8758 h 0.3301 l 0.33,0.268 v 0.268 h 0.3301 l 0.33,0.2679 -0.9901,-0.8039 0.33,-0.2679 z m -2.3104,2.1437 0.6601,0.5359 h 0.3301 l -0.6601,-0.5359 z m 0.6601,-0.536 0.6601,0.536 h 0.3301 l -0.6601,-0.536 z m 0.6601,-0.5359 0.6601,0.5359 v -0.2679 h -0.33 z"
+     fill="#000000"
+     fill-rule="evenodd"
+     id="path1-3"
+     style="stroke-width:8.43067;stroke-dasharray:none" />
+</svg>
