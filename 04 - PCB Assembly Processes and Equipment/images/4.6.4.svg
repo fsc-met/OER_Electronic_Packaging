@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2400"
+   height="1120"
+   viewBox="0 0 2400 1120"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg51"
+   sodipodi:docname="4.6.4.svg"
+   inkscape:export-filename="4.6.4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.29509842"
+     inkscape:cx="1128.4371"
+     inkscape:cy="781.09535"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg51" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       id="arrow"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       markerHeight="14"
+       refX="16"
+       refY="7"
+       orient="auto">
+      <path
+         d="M 0,0 18,7 0,14 Z"
+         fill="#47677d"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowAmber"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       markerHeight="14"
+       refX="16"
+       refY="7"
+       orient="auto">
+      <path
+         d="M 0,0 18,7 0,14 Z"
+         fill="#a9692a"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-0-7" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="2400"
+     height="1120"
+     fill="#ffffff"
+     id="rect2"
+     style="stroke-width:1.09545" />
+  <rect
+     x="53.660301"
+     y="71.561256"
+     width="480.85184"
+     height="429.64331"
+     rx="30.869499"
+     ry="25.978432"
+     fill="#f5f8fa"
+     stroke="#7892a3"
+     stroke-width="4.3567"
+     id="rect3" />
+  <rect
+     x="57.481949"
+     y="75.382904"
+     width="469.19754"
+     height="105"
+     rx="26.000872"
+     ry="22"
+     fill="#eef3f6"
+     stroke="none"
+     id="rect4"
+     style="stroke-width:1.08713" />
+  <rect
+     x="624.45319"
+     y="71.601379"
+     width="498.82095"
+     height="429.56305"
+     rx="32.023075"
+     ry="25.973579"
+     fill="#f5f8fa"
+     stroke="#7892a3"
+     stroke-width="4.43695"
+     id="rect5" />
+  <rect
+     x="628.23468"
+     y="75.382904"
+     width="489.25244"
+     height="105"
+     rx="27.112225"
+     ry="22"
+     fill="#eef3f6"
+     stroke="none"
+     id="rect6"
+     style="stroke-width:1.11013" />
+  <rect
+     x="1208.8126"
+     y="69.986618"
+     width="530.74475"
+     height="429.42401"
+     rx="34.072502"
+     ry="25.965174"
+     fill="#f5f8fa"
+     stroke="#7892a3"
+     stroke-width="4.57598"
+     id="rect7" />
+  <rect
+     x="1212.5247"
+     y="73.698631"
+     width="513.21503"
+     height="105"
+     rx="28.440128"
+     ry="22"
+     fill="#eef3f6"
+     stroke="none"
+     id="rect8"
+     style="stroke-width:1.13698" />
+  <text
+     x="293.58621"
+     y="121.3884"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     fill="#20374a"
+     text-anchor="middle"
+     id="text11"><tspan
+       x="293.58621"
+       dy="0"
+       id="tspan10">1 Supplier-specified</tspan><tspan
+       x="293.58621"
+       dy="36.200001"
+       id="tspan11">storage</tspan></text>
+  <text
+     x="277.5423"
+     y="206.39388"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="normal"
+     fill="#526d80"
+     text-anchor="middle"
+     id="text12"><tspan
+       x="277.5423"
+       dy="0"
+       id="tspan12">Approved storage condition</tspan></text>
+  <text
+     x="88.481949"
+     y="276.3829"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="normal"
+     fill="#20374a"
+     text-anchor="start"
+     id="text13"><tspan
+       x="88.481949"
+       dy="0"
+       id="tspan13">• Keep package sealed and labeled</tspan></text>
+  <text
+     x="88.481949"
+     y="330.3829"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="normal"
+     fill="#20374a"
+     text-anchor="start"
+     id="text14"><tspan
+       x="88.481949"
+       dy="0"
+       id="tspan14">• Follow product storage limits</tspan></text>
+  <text
+     x="95"
+     y="383"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="normal"
+     fill="#20374a"
+     text-anchor="start"
+     id="text16"
+     style="white-space:pre;inline-size:412.362"
+     transform="translate(-6.518054,1.3829046)"
+     xml:space="preserve"><tspan
+       x="95"
+       y="383"
+       id="tspan1">• Refrigeration is common,not </tspan><tspan
+       x="95"
+       y="414.25"
+       id="tspan2">universal</tspan></text>
+  <text
+     x="878.37738"
+     y="121.3884"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     fill="#20374a"
+     text-anchor="middle"
+     id="text18"><tspan
+       x="878.37738"
+       dy="0"
+       id="tspan17">2 Sealed conditioning</tspan><tspan
+       x="878.37738"
+       dy="36.200001"
+       id="tspan18">before opening</tspan></text>
+  <text
+     x="878.37732"
+     y="206.39389"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="normal"
+     fill="#526d80"
+     text-anchor="middle"
+     id="text19"><tspan
+       x="878.37732"
+       dy="0"
+       id="tspan19">When required by the product</tspan></text>
+  <text
+     x="641.25665"
+     y="275"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="normal"
+     fill="#20374a"
+     text-anchor="start"
+     id="text21"
+     style="white-space:pre;inline-size:447.345"
+     transform="translate(17.978049,1.3829046)"
+     xml:space="preserve"><tspan
+       x="641.25665"
+       y="275"
+       id="tspan3">• Reach use temperaturewhile package </tspan><tspan
+       x="641.25665"
+       y="306.25"
+       id="tspan4">remains sealed</tspan></text>
+  <text
+     x="659.23468"
+     y="356.3829"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="normal"
+     fill="#20374a"
+     text-anchor="start"
+     id="text22"><tspan
+       x="659.23468"
+       dy="0"
+       id="tspan22">• Do not open cold paste early</tspan></text>
+  <text
+     x="641.25665"
+     y="409"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="normal"
+     fill="#20374a"
+     text-anchor="start"
+     id="text24"
+     style="white-space:pre;inline-size:449.158"
+     transform="translate(17.978049,1.3829046)"
+     xml:space="preserve"><tspan
+       x="641.25665"
+       y="409"
+       id="tspan5">• Time depends on productand package </tspan><tspan
+       x="641.25665"
+       y="440.25"
+       id="tspan6">size</tspan></text>
+  <text
+     x="1293.2679"
+     y="116.31573"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     fill="#20374a"
+     text-anchor="middle"
+     id="text26"
+     style="white-space:pre;inline-size:444.949"
+     transform="translate(181.25917,18.225667)"
+     xml:space="preserve"><tspan
+       x="1293.2679"
+       y="116.31573"
+       id="tspan7">3 Product-specific preparation</tspan></text>
+  <text
+     x="1471.1586"
+     y="205.75145"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="normal"
+     fill="#526d80"
+     text-anchor="middle"
+     id="text27"><tspan
+       x="1471.1586"
+       dy="0"
+       id="tspan27">Verify material status first</tspan></text>
+  <text
+     x="1126.2679"
+     y="273.31573"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="normal"
+     fill="#20374a"
+     text-anchor="start"
+     id="text29"
+     style="white-space:pre;inline-size:475.773"
+     transform="translate(117.25668,1.3829046)"
+     xml:space="preserve"><tspan
+       x="1126.2679"
+       y="273.31573"
+       id="tspan8">• Check lot/date andexposure history</tspan></text>
+  <text
+     x="1243.5247"
+     y="331.11877"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="normal"
+     fill="#20374a"
+     text-anchor="start"
+     id="text30"><tspan
+       x="1243.5247"
+       dy="0"
+       id="tspan30">• Prepare only as supplier directs</tspan></text>
+  <text
+     x="1126.2679"
+     y="407.31573"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25px"
+     font-weight="normal"
+     fill="#20374a"
+     text-anchor="start"
+     id="text32"
+     style="white-space:pre;inline-size:535.298"
+     transform="translate(115.5724,-20.512685)"
+     xml:space="preserve"><tspan
+       x="1126.2679"
+       y="407.31573"
+       id="tspan9">• Check separation, drying,or contamination</tspan></text>
+  <g
+     id="g51"
+     transform="translate(403.58363,-3.669924)">
+    <rect
+       x="1425"
+       y="70"
+       width="515"
+       height="430"
+       rx="26"
+       ry="26"
+       fill="#f5f8fa"
+       stroke="#7892a3"
+       stroke-width="4"
+       id="rect9" />
+    <rect
+       x="1429"
+       y="74"
+       width="507"
+       height="105"
+       rx="22"
+       ry="22"
+       fill="#eef3f6"
+       stroke="none"
+       id="rect10" />
+    <text
+       x="1682"
+       y="118"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="29px"
+       font-weight="700"
+       fill="#20374a"
+       text-anchor="middle"
+       id="text34"><tspan
+         x="1682"
+         dy="0"
+         id="tspan33">4 Controlled production</tspan><tspan
+         x="1682"
+         dy="36.200001"
+         id="tspan34">use + time tracking</tspan></text>
+    <text
+       x="1682"
+       y="201"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="22px"
+       font-weight="normal"
+       fill="#526d80"
+       text-anchor="middle"
+       id="text35"><tspan
+         x="1682"
+         dy="0"
+         id="tspan35">Keep status visible during use</tspan></text>
+    <text
+       x="1465"
+       y="275"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="25px"
+       font-weight="normal"
+       fill="#20374a"
+       text-anchor="start"
+       id="text36"><tspan
+         x="1465"
+         dy="0"
+         id="tspan36">• Track use time and material status</tspan></text>
+    <text
+       x="1465"
+       y="329"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="25px"
+       font-weight="normal"
+       fill="#20374a"
+       text-anchor="start"
+       id="text37"><tspan
+         x="1465"
+         dy="0"
+         id="tspan37">• Keep paste and equipment clean</tspan></text>
+    <text
+       x="1465"
+       y="383"
+       font-family="Arial, Helvetica, sans-serif"
+       font-size="25px"
+       font-weight="normal"
+       fill="#20374a"
+       text-anchor="start"
+       id="text38"><tspan
+         x="1465"
+         dy="0"
+         id="tspan38">• Follow qualified product/process limits</tspan></text>
+  </g>
+  <line
+     x1="1754.5825"
+     y1="290.33008"
+     x2="1806.4142"
+     y2="290.33008"
+     stroke="#47677d"
+     stroke-width="9.88346"
+     marker-end="url(#arrow)"
+     id="line40"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#Triangle)" />
+  <line
+     x1="1134.5214"
+     y1="289.35928"
+     x2="1186.353"
+     y2="289.35928"
+     stroke="#47677d"
+     stroke-width="9.88346"
+     marker-end="url(#arrow)"
+     id="line40-2"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#Triangle-9)" />
+  <line
+     x1="546.42505"
+     y1="292.62149"
+     x2="598.25671"
+     y2="292.62149"
+     stroke="#47677d"
+     stroke-width="9.88346"
+     marker-end="url(#arrow)"
+     id="line40-2-7"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#Triangle-9-2)" />
+  <path
+     d="m 1390,498 v 75 h -142 v 38.75718"
+     fill="none"
+     stroke="#a9692a"
+     stroke-width="7"
+     marker-end="url(#arrowAmber)"
+     id="path40"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#Triangle)"
+     sodipodi:nodetypes="cccc" />
+  <text
+     x="1270.0504"
+     y="557.93634"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="21px"
+     font-weight="700"
+     fill="#8d5a2a"
+     text-anchor="middle"
+     id="text40"><tspan
+       x="1270.0504"
+       dy="0"
+       id="tspan40">abnormal or unknown</tspan></text>
+  <rect
+     x="854"
+     y="623"
+     width="760"
+     height="255"
+     rx="26"
+     ry="26"
+     fill="#fff4df"
+     stroke="#c5965e"
+     stroke-width="4"
+     id="rect40" />
+  <g
+     transform="translate(904,666)"
+     id="g41">
+    <path
+       d="M 44,0 88,78 H 0 Z"
+       fill="#f5d9a7"
+       stroke="#a9692a"
+       stroke-width="4"
+       id="path41" />
+    <text
+       x="44"
+       y="58"
+       text-anchor="middle"
+       font-family="Arial"
+       font-size="46px"
+       font-weight="700"
+       fill="#8d5a2a"
+       id="text41">!</text>
+  </g>
+  <text
+     x="1029"
+     y="678"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     fill="#6e4626"
+     text-anchor="start"
+     id="text42"><tspan
+       x="1029"
+       dy="0"
+       id="tspan41">HOLD AND VERIFY MATERIAL STATUS</tspan></text>
+  <text
+     x="1029"
+     y="726"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="normal"
+     fill="#6e5a49"
+     text-anchor="start"
+     id="text43"><tspan
+       x="1029"
+       dy="0"
+       id="tspan42">Expired/missing label • unknown history</tspan></text>
+  <text
+     x="1029"
+     y="766"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="normal"
+     fill="#6e5a49"
+     text-anchor="start"
+     id="text44"><tspan
+       x="1029"
+       dy="0"
+       id="tspan43">Separation/drying • contamination</tspan></text>
+  <text
+     x="1029"
+     y="814"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#6e4626"
+     text-anchor="start"
+     id="text45"><tspan
+       x="1029"
+       dy="0"
+       id="tspan44">Check label / TDS / local procedure</tspan></text>
+  <text
+     x="1029"
+     y="852"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22px"
+     font-weight="normal"
+     fill="#6e5a49"
+     text-anchor="start"
+     id="text46"><tspan
+       x="1029"
+       dy="0"
+       id="tspan45">Replace or do not use if status cannot be verified.</tspan></text>
+  <rect
+     x="306"
+     y="913"
+     width="1880"
+     height="125"
+     rx="22"
+     ry="22"
+     fill="#eef3f6"
+     stroke="#b8c8d3"
+     stroke-width="2"
+     id="rect46" />
+  <text
+     x="351"
+     y="956"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#20374a"
+     text-anchor="start"
+     id="text47"><tspan
+       x="351"
+       dy="0"
+       id="tspan46">Product-specific clocks</tspan></text>
+  <text
+     x="351"
+     y="997"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="normal"
+     fill="#526d80"
+     text-anchor="start"
+     id="text48"><tspan
+       x="351"
+       dy="0"
+       id="tspan47">shelf life • stencil life • open/working time • tack life</tspan></text>
+  <line
+     x1="1246"
+     y1="936"
+     x2="1246"
+     y2="1017"
+     stroke="#c0cdd6"
+     stroke-width="2"
+     id="line48" />
+  <text
+     x="1291"
+     y="956"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24px"
+     font-weight="700"
+     fill="#20374a"
+     text-anchor="start"
+     id="text49"><tspan
+       x="1291"
+       dy="0"
+       id="tspan48">Governing information</tspan></text>
+  <text
+     x="1291"
+     y="997"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="normal"
+     fill="#526d80"
+     text-anchor="start"
+     id="text50"><tspan
+       x="1291"
+       dy="0"
+       id="tspan49">product label • TDS • local controlled procedure</tspan></text>
+  <text
+     x="1246"
+     y="1078"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23px"
+     font-weight="700"
+     fill="#526d80"
+     text-anchor="middle"
+     id="text51"><tspan
+       x="1246"
+       dy="0"
+       id="tspan50">Product limits and definitions vary — do not memorize one universal time or temperature rule.</tspan></text>
+</svg>

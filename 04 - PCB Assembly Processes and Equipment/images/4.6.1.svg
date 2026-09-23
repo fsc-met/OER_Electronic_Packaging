@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1050"
+   viewBox="0 0 1800 1050"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg95"
+   sodipodi:docname="4.6.1.svg"
+   inkscape:export-filename="4.6.1"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview95"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.56029794"
+     inkscape:cx="912.01477"
+     inkscape:cy="566.6628"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg95" />
+  <rect
+     x="0"
+     y="0"
+     width="1800"
+     height="1050"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="pasteClip">
+      <circle
+         cx="900"
+         cy="465"
+         r="255"
+         id="circle1" />
+    </clipPath>
+    <marker
+       id="leaderDot"
+       markerWidth="10"
+       markerHeight="10"
+       refX="5"
+       refY="5"
+       markerUnits="userSpaceOnUse">
+      <circle
+         cx="5"
+         cy="5"
+         r="4"
+         fill="#395f7c"
+         id="circle2" />
+    </marker>
+  </defs>
+  <rect
+     x="545"
+     y="80"
+     width="710"
+     height="850"
+     rx="28"
+     fill="#f5f8fa"
+     stroke="#7b95a8"
+     stroke-width="4"
+     id="rect2" />
+  <text
+     x="900"
+     y="145"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36"
+     font-weight="700"
+     fill="#243d50"
+     id="text2">Conceptual magnified paste sample</text>
+  <circle
+     cx="900"
+     cy="465"
+     r="255"
+     fill="#efd89c"
+     stroke="#9d7a2d"
+     stroke-width="4"
+     id="circle3" />
+  <circle
+     cx="1031.4"
+     cy="515.6"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle4" />
+  <circle
+     cx="1026.4"
+     cy="510.2"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle5" />
+  <circle
+     cx="790.5"
+     cy="453.7"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle6" />
+  <circle
+     cx="785.5"
+     cy="448.3"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle7" />
+  <circle
+     cx="851.2"
+     cy="346.2"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle8" />
+  <circle
+     cx="846.2"
+     cy="340.8"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle9" />
+  <circle
+     cx="1022.3"
+     cy="623.5"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle10" />
+  <circle
+     cx="1017.3"
+     cy="618.1"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle11" />
+  <circle
+     cx="905.6"
+     cy="251.6"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle12" />
+  <circle
+     cx="900.6"
+     cy="246.2"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle13" />
+  <circle
+     cx="1012.8"
+     cy="465.8"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle14" />
+  <circle
+     cx="1007.8"
+     cy="460.4"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle15" />
+  <circle
+     cx="946.9"
+     cy="506.3"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle16" />
+  <circle
+     cx="941.8"
+     cy="500.9"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle17" />
+  <circle
+     cx="839.1"
+     cy="471.5"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle18" />
+  <circle
+     cx="834.0"
+     cy="466.1"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle19" />
+  <circle
+     cx="1008.5"
+     cy="373.6"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle20" />
+  <circle
+     cx="1003.5"
+     cy="368.2"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle21" />
+  <circle
+     cx="992.6"
+     cy="312.2"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle22" />
+  <circle
+     cx="987.6"
+     cy="306.8"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle23" />
+  <circle
+     cx="748.6"
+     cy="483.0"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle24" />
+  <circle
+     cx="743.6"
+     cy="477.6"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle25" />
+  <circle
+     cx="1022.9"
+     cy="416.9"
+     r="18"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle26" />
+  <circle
+     cx="1017.9"
+     cy="411.5"
+     r="3.0"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle27" />
+  <circle
+     cx="853.9"
+     cy="586.0"
+     r="20"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle28" />
+  <circle
+     cx="848.3"
+     cy="580.0"
+     r="3.2"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle29" />
+  <circle
+     cx="876.5"
+     cy="304.7"
+     r="20"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle30" />
+  <circle
+     cx="870.9"
+     cy="298.7"
+     r="3.2"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle31" />
+  <circle
+     cx="1108.3"
+     cy="482.3"
+     r="20"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle32" />
+  <circle
+     cx="1102.7"
+     cy="476.3"
+     r="3.2"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle33" />
+  <circle
+     cx="829.7"
+     cy="542.8"
+     r="20"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle34" />
+  <circle
+     cx="824.1"
+     cy="536.8"
+     r="3.2"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle35" />
+  <circle
+     cx="849.3"
+     cy="660.4"
+     r="20"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle36" />
+  <circle
+     cx="843.7"
+     cy="654.4"
+     r="3.2"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle37" />
+  <circle
+     cx="896.2"
+     cy="645.7"
+     r="22"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle38" />
+  <circle
+     cx="890.1"
+     cy="639.1"
+     r="3.5"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle39" />
+  <circle
+     cx="727.9"
+     cy="584.4"
+     r="22"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle40" />
+  <circle
+     cx="721.8"
+     cy="577.8"
+     r="3.5"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle41" />
+  <circle
+     cx="1034.4"
+     cy="566.3"
+     r="22"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle42" />
+  <circle
+     cx="1028.2"
+     cy="559.7"
+     r="3.5"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle43" />
+  <circle
+     cx="832.4"
+     cy="405.6"
+     r="22"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle44" />
+  <circle
+     cx="826.2"
+     cy="399.0"
+     r="3.5"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle45" />
+  <circle
+     cx="1059.8"
+     cy="469.0"
+     r="22"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle46" />
+  <circle
+     cx="1053.6"
+     cy="462.4"
+     r="3.5"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle47" />
+  <circle
+     cx="963.3"
+     cy="627.2"
+     r="24"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle48" />
+  <circle
+     cx="956.5"
+     cy="620.0"
+     r="3.8"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle49" />
+  <circle
+     cx="883.1"
+     cy="388.6"
+     r="24"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle50" />
+  <circle
+     cx="876.4"
+     cy="381.4"
+     r="3.8"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle51" />
+  <circle
+     cx="909.8"
+     cy="587.9"
+     r="24"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle52" />
+  <circle
+     cx="903.1"
+     cy="580.7"
+     r="3.8"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle53" />
+  <circle
+     cx="1088.4"
+     cy="412.4"
+     r="26"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle54" />
+  <circle
+     cx="1081.2"
+     cy="404.6"
+     r="4.2"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle55" />
+  <circle
+     cx="901.6"
+     cy="457.9"
+     r="26"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle56" />
+  <circle
+     cx="894.3"
+     cy="450.1"
+     r="4.2"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle57" />
+  <circle
+     cx="1092.3"
+     cy="539.0"
+     r="26"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle58" />
+  <circle
+     cx="1085.0"
+     cy="531.2"
+     r="4.2"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle59" />
+  <circle
+     cx="693.5"
+     cy="486.9"
+     r="26"
+     fill="#c8d1d8"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle60" />
+  <circle
+     cx="686.2"
+     cy="479.1"
+     r="4.2"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle61" />
+  <circle
+     cx="879.2"
+     cy="514.8"
+     r="28"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle62" />
+  <circle
+     cx="871.4"
+     cy="506.4"
+     r="4.5"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle63" />
+  <circle
+     cx="965.3"
+     cy="407.6"
+     r="28"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle64" />
+  <circle
+     cx="957.5"
+     cy="399.2"
+     r="4.5"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle65" />
+  <circle
+     cx="1047.7"
+     cy="330.5"
+     r="28"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle66" />
+  <circle
+     cx="1039.8"
+     cy="322.1"
+     r="4.5"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle67" />
+  <circle
+     cx="771.3"
+     cy="533.5"
+     r="30"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle68" />
+  <circle
+     cx="762.9"
+     cy="524.5"
+     r="4.8"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle69" />
+  <circle
+     cx="974.0"
+     cy="565.1"
+     r="30"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle70" />
+  <circle
+     cx="965.6"
+     cy="556.1"
+     r="4.8"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle71" />
+  <circle
+     cx="958.6"
+     cy="267.6"
+     r="30"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle72" />
+  <circle
+     cx="950.2"
+     cy="258.6"
+     r="4.8"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle73" />
+  <circle
+     cx="802.4"
+     cy="626.2"
+     r="30"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle74" />
+  <circle
+     cx="794.0"
+     cy="617.2"
+     r="4.8"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle75" />
+  <circle
+     cx="930.8"
+     cy="339.9"
+     r="30"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle76" />
+  <circle
+     cx="922.4"
+     cy="330.9"
+     r="4.8"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle77" />
+  <circle
+     cx="824.4"
+     cy="274.1"
+     r="30"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle78" />
+  <circle
+     cx="816.0"
+     cy="265.1"
+     r="4.8"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle79" />
+  <circle
+     cx="760.0"
+     cy="385.0"
+     r="34"
+     fill="#bcc7cf"
+     stroke="#6f8292"
+     stroke-width="3"
+     id="circle80" />
+  <circle
+     cx="750.5"
+     cy="374.8"
+     r="5.4"
+     fill="#eef2f5"
+     opacity="0.85"
+     id="circle81" />
+  <rect
+     x="625"
+     y="760"
+     width="550"
+     height="105"
+     rx="20"
+     fill="#eaf1f5"
+     stroke="#91a7b6"
+     stroke-width="3"
+     id="rect81" />
+  <text
+     x="900"
+     y="805"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="700"
+     fill="#243d50"
+     id="text81">One engineered process material</text>
+  <text
+     x="900"
+     y="843"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26"
+     fill="#50687a"
+     id="text82">Powder and vehicle must work together</text>
+  <text
+     x="900"
+     y="905"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="23"
+     fill="#667b8a"
+     id="text83">Conceptual view — particles shown enlarged; not to scale</text>
+  <rect
+     x="70"
+     y="265"
+     width="405"
+     height="255"
+     rx="24"
+     fill="#f5f8fa"
+     stroke="#7b95a8"
+     stroke-width="4"
+     id="rect83" />
+  <text
+     x="272"
+     y="330"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36"
+     font-weight="700"
+     fill="#243d50"
+     id="text84">Solder-alloy powder</text>
+  <text
+     x="105"
+     y="390"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     fill="#50687a"
+     id="text85">• Many microscopic particles</text>
+  <text
+     x="105"
+     y="435"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     fill="#50687a"
+     id="text86">• Source of the metallic joint</text>
+  <text
+     x="105"
+     y="480"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     fill="#50687a"
+     id="text87">• Melt together during reflow</text>
+  <polyline
+     points="475,395 610,395 720,385"
+     fill="none"
+     stroke="#395f7c"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="polyline87" />
+  <circle
+     cx="760"
+     cy="385"
+     r="9"
+     fill="#395f7c"
+     id="circle87" />
+  <rect
+     x="1325"
+     y="200"
+     width="405"
+     height="420"
+     rx="24"
+     fill="#f5f8fa"
+     stroke="#7b95a8"
+     stroke-width="4"
+     id="rect87" />
+  <text
+     x="1527"
+     y="270"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36"
+     font-weight="700"
+     fill="#243d50"
+     id="text88">Flux vehicle</text>
+  <text
+     x="1360"
+     y="330"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     fill="#50687a"
+     id="text89">• Continuous medium</text>
+  <text
+     x="1390"
+     y="368"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     fill="#50687a"
+     id="text90">around particles</text>
+  <text
+     x="1360"
+     y="420"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     fill="#50687a"
+     id="text91">• Fluxing action</text>
+  <text
+     x="1390"
+     y="458"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     fill="#50687a"
+     id="text92">during heating</text>
+  <text
+     x="1360"
+     y="510"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     fill="#50687a"
+     id="text93">• Controls flow behavior</text>
+  <text
+     x="1360"
+     y="555"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     fill="#50687a"
+     id="text94">• Provides temporary tack</text>
+  <polyline
+     points="1325,405 1240,405 1165,360 1095,345"
+     fill="none"
+     stroke="#395f7c"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="polyline94" />
+  <circle
+     cx="1095"
+     cy="345"
+     r="9"
+     fill="#395f7c"
+     id="circle94" />
+  <rect
+     x="70"
+     y="955"
+     width="1660"
+     height="52"
+     rx="18"
+     fill="#eef3f7"
+     stroke="none"
+     id="rect94" />
+  <text
+     x="900"
+     y="990"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25"
+     fill="#50687a"
+     id="text95">Before reflow: printable, tacky process material   •   During reflow: flux activates and alloy particles become the solder joint</text>
+</svg>
