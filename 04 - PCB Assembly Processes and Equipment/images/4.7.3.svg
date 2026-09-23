@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2000"
+   height="1180"
+   viewBox="0 0 2000 1180"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg40"
+   sodipodi:docname="4.7.3.svg"
+   inkscape:export-filename="4.7.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview40"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.62225397"
+     inkscape:cx="1131.3709"
+     inkscape:cy="378.46283"
+     inkscape:window-width="2560"
+     inkscape:window-height="1324"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg40" />
+  <rect
+     x="0"
+     y="0"
+     width="2000"
+     height="1180"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker41"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker40"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path40" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="14"
+       markerHeight="14"
+       refX="10"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L10,5 L0,10 Z"
+         fill="#39434d"
+         id="path1" />
+    </marker>
+    <style
+       id="style1">
+    .h{font:700 38px Arial,sans-serif;fill:#1f2933}
+    .sh{font:700 30px Arial,sans-serif;fill:#1f2933}
+    .b{font:28px Arial,sans-serif;fill:#263238}
+    .s{font:24px Arial,sans-serif;fill:#263238}
+    .eq{font:italic 36px Georgia,serif;fill:#18212a}
+    .dim{stroke:#39434d;stroke-width:3;fill:none;marker-start:url(#arrow);marker-end:url(#arrow)}
+    .lead{stroke:#39434d;stroke-width:3;fill:none;marker-end:url(#arrow)}
+    .thin{stroke:#5b6570;stroke-width:2;fill:none}
+  </style>
+  </defs>
+  <!-- Zone A -->
+  <rect
+     x="55"
+     y="60"
+     width="880"
+     height="565"
+     rx="18"
+     fill="#f7fbfe"
+     stroke="#c8d8e6"
+     stroke-width="3"
+     id="rect2" />
+  <rect
+     x="55"
+     y="60"
+     width="880"
+     height="72"
+     rx="18"
+     fill="#dfeefa"
+     id="rect3" />
+  <text
+     x="495"
+     y="107"
+     text-anchor="middle"
+     class="h"
+     id="text3">Geometry definition</text>
+  <!-- aperture top view -->
+  <text
+     x="495"
+     y="174"
+     text-anchor="middle"
+     class="sh"
+     id="text4">Rectangular aperture</text>
+  <rect
+     x="205"
+     y="235"
+     width="560"
+     height="235"
+     rx="4"
+     fill="#d8dde2"
+     stroke="#5b6570"
+     stroke-width="4"
+     id="rect4" />
+  <rect
+     x="355"
+     y="290"
+     width="260"
+     height="125"
+     fill="#d8f0ff"
+     stroke="#44515c"
+     stroke-width="4"
+     id="rect5" />
+  <text
+     x="485"
+     y="356"
+     text-anchor="middle"
+     class="b"
+     id="text5">Opening area</text>
+  <text
+     x="485"
+     y="389"
+     text-anchor="middle"
+     class="s"
+     id="text6">L × W</text>
+  <!-- walls highlighted around opening -->
+  <rect
+     x="350"
+     y="285"
+     width="270"
+     height="10"
+     fill="#e7c68a"
+     id="rect6" />
+  <rect
+     x="350"
+     y="410"
+     width="270"
+     height="10"
+     fill="#e7c68a"
+     id="rect7" />
+  <rect
+     x="350"
+     y="295"
+     width="10"
+     height="115"
+     fill="#e7c68a"
+     id="rect8" />
+  <rect
+     x="610"
+     y="295"
+     width="10"
+     height="115"
+     fill="#e7c68a"
+     id="rect9" />
+  <text
+     x="669.64465"
+     y="327.58942"
+     class="s"
+     id="text9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:normal;font-family:Arial, sans-serif">Aperture walls</text>
+  <path
+     d="M695 337 C660 340 645 342 618 350"
+     class="lead"
+     id="path9"
+     style="marker-end:url(#marker41);stroke-width:2;stroke-dasharray:none" />
+  <!-- dimensions -->
+  <line
+     x1="357.96561"
+     y1="271"
+     x2="608.90314"
+     y2="271"
+     class="dim"
+     id="line9"
+     style="stroke-width:1.96483;stroke-dasharray:none;marker-start:url(#marker41);marker-end:url(#RoundedArrow)" />
+  <text
+     x="485"
+     y="262"
+     text-anchor="middle"
+     class="b"
+     id="text10"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:normal;font-family:Arial, sans-serif">L</text>
+  <line
+     x1="330"
+     y1="293.64655"
+     x2="330"
+     y2="412.15701"
+     class="dim"
+     id="line10"
+     style="stroke-width:1.9474;stroke-dasharray:none;marker-start:url(#marker40);marker-end:url(#Triangle)" />
+  <text
+     x="308"
+     y="360"
+     text-anchor="middle"
+     class="b"
+     id="text11">W</text>
+  <!-- thickness mini cross section -->
+  <text
+     x="163.66002"
+     y="537.23175"
+     class="s"
+     id="text12"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:normal;font-family:Arial, sans-serif">Stencil thickness</text>
+  <rect
+     x="365"
+     y="500"
+     width="250"
+     height="58"
+     fill="#d8dde2"
+     stroke="#5b6570"
+     stroke-width="3"
+     id="rect12" />
+  <rect
+     x="455"
+     y="500"
+     width="70"
+     height="58"
+     fill="#fff"
+     stroke="#44515c"
+     stroke-width="3"
+     id="rect13" />
+  <line
+     x1="650"
+     y1="506.67465"
+     x2="650"
+     y2="553.7359"
+     class="dim"
+     id="line13"
+     style="stroke-width:1.80155;stroke-dasharray:none;marker-start:url(#marker41);marker-end:url(#marker41)" />
+  <text
+     x="676"
+     y="538"
+     class="b"
+     id="text13">T</text>
+  <!-- area labels -->
+  <rect
+     x="145"
+     y="575"
+     width="700"
+     height="0"
+     fill="none"
+     id="rect14" />
+  <!-- Zone B -->
+  <rect
+     x="965"
+     y="60"
+     width="980"
+     height="565"
+     rx="18"
+     fill="#f8fbf6"
+     stroke="#cadbc8"
+     stroke-width="3"
+     id="rect15" />
+  <rect
+     x="965"
+     y="60"
+     width="980"
+     height="72"
+     rx="18"
+     fill="#e4f2e2"
+     id="rect16" />
+  <text
+     x="1455"
+     y="107"
+     text-anchor="middle"
+     class="h"
+     id="text16">Area ratio and worked example</text>
+  <rect
+     x="1040"
+     y="175"
+     width="830"
+     height="125"
+     rx="12"
+     fill="#eef6fb"
+     stroke="#c3d6e3"
+     stroke-width="2"
+     id="rect17" />
+  <text
+     x="1455"
+     y="220"
+     text-anchor="middle"
+     class="s"
+     id="text17">Area ratio = aperture opening area ÷ aperture-wall area</text>
+  <text
+     x="1455"
+     y="270"
+     text-anchor="middle"
+     class="eq"
+     id="text18">Aᵣ = LW / [2T(L + W)]</text>
+  <text
+     x="1080"
+     y="363"
+     class="sh"
+     id="text19"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:30px;line-height:normal;font-family:Arial, sans-serif">Example</text>
+  <text
+     x="1080"
+     y="413"
+     class="b"
+     id="text20"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:normal;font-family:Arial, sans-serif">L = 0.30 mm</text>
+  <text
+     x="1080"
+     y="453"
+     class="b"
+     id="text21"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:normal;font-family:Arial, sans-serif">W = 0.30 mm</text>
+  <text
+     x="1080"
+     y="493"
+     class="b"
+     id="text22"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:normal;font-family:Arial, sans-serif">T = 0.10 mm</text>
+  <line
+     x1="1370"
+     y1="330"
+     x2="1370"
+     y2="545"
+     stroke="#c6d2c3"
+     stroke-width="2"
+     id="line22" />
+  <text
+     x="1425"
+     y="385"
+     class="b"
+     id="text23">Opening area = LW = 0.09 mm²</text>
+  <text
+     x="1425"
+     y="430"
+     class="b"
+     id="text24">Wall area = 2T(L + W) = 0.12 mm²</text>
+  <text
+     x="1447.4989"
+     y="485.1788"
+     class="eq"
+     id="text25"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:normal;font-family:Georgia, serif">Aᵣ = 0.09 / 0.12 = 0.75</text>
+  <text
+     x="1425"
+     y="535"
+     class="s"
+     id="text26">Higher Aᵣ generally favors release.</text>
+  <!-- Zone C -->
+  <rect
+     x="55"
+     y="660"
+     width="1890"
+     height="445"
+     rx="18"
+     fill="#fffaf2"
+     stroke="#e4d4b3"
+     stroke-width="3"
+     id="rect26" />
+  <rect
+     x="55"
+     y="660"
+     width="1890"
+     height="72"
+     rx="18"
+     fill="#f7e8c7"
+     id="rect27" />
+  <text
+     x="1000"
+     y="707"
+     text-anchor="middle"
+     class="h"
+     id="text27">Paste release tendency</text>
+  <!-- higher AR panel -->
+  <text
+     x="500"
+     y="776"
+     text-anchor="middle"
+     class="sh"
+     id="text28">Higher area ratio</text>
+  <text
+     x="500"
+     y="808"
+     text-anchor="middle"
+     class="s"
+     id="text29">Same opening width; thinner stencil</text>
+  <!-- lifted stencil -->
+  <rect
+     x="215"
+     y="842"
+     width="570"
+     height="48"
+     fill="#d8dde2"
+     stroke="#5b6570"
+     stroke-width="3"
+     id="rect29" />
+  <rect
+     x="390"
+     y="842"
+     width="220"
+     height="48"
+     fill="#ffffff"
+     stroke="#44515c"
+     stroke-width="3"
+     id="rect30" />
+  <line
+     x1="259.73523"
+     y1="833.60706"
+     x2="259.73523"
+     y2="796.60706"
+     class="lead"
+     id="line30" />
+  <line
+     x1="745.88947"
+     y1="834.41058"
+     x2="745.88947"
+     y2="797.41058"
+     class="lead"
+     id="line31" />
+  <text
+     x="500"
+     y="918"
+     text-anchor="middle"
+     class="s"
+     id="text31">Stencil separates from PCB</text>
+  <!-- pad and released deposit -->
+  <rect
+     x="410"
+     y="987"
+     width="180"
+     height="20"
+     rx="3"
+     fill="#d6a24b"
+     stroke="#946e2e"
+     stroke-width="2"
+     id="rect31" />
+  <path
+     d="m 425,982 q 75,-52 150,0 v 5 H 425 Z"
+     fill="#92979d"
+     stroke="#555b61"
+     stroke-width="3"
+     id="path31" />
+  <text
+     x="500"
+     y="1042"
+     text-anchor="middle"
+     class="s"
+     id="text32"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:normal;font-family:Arial, sans-serif">Relatively less wall interaction</text>
+  <!-- divider -->
+  <line
+     x1="1000"
+     y1="765"
+     x2="1000"
+     y2="1018"
+     stroke="#d9c6a0"
+     stroke-width="3"
+     stroke-dasharray="10 10"
+     id="line32" />
+  <!-- lower AR panel -->
+  <text
+     x="1500"
+     y="776"
+     text-anchor="middle"
+     class="sh"
+     id="text33">Lower area ratio</text>
+  <text
+     x="1500"
+     y="808"
+     text-anchor="middle"
+     class="s"
+     id="text34">Same opening width; thicker stencil</text>
+  <!-- lifted thicker stencil -->
+  <rect
+     x="1215"
+     y="820"
+     width="570"
+     height="92"
+     fill="#d8dde2"
+     stroke="#5b6570"
+     stroke-width="3"
+     id="rect34" />
+  <rect
+     x="1390"
+     y="820"
+     width="220"
+     height="92"
+     fill="#ffffff"
+     stroke="#44515c"
+     stroke-width="3"
+     id="rect35" />
+  <!-- retained paste on aperture walls -->
+  <rect
+     x="1390"
+     y="828"
+     width="18"
+     height="75"
+     fill="#92979d"
+     id="rect36" />
+  <rect
+     x="1592"
+     y="828"
+     width="18"
+     height="75"
+     fill="#92979d"
+     id="rect37" />
+  <line
+     x1="1276.6094"
+     y1="813.21411"
+     x2="1276.6094"
+     y2="776.21411"
+     class="lead"
+     id="line37" />
+  <line
+     x1="1727.4083"
+     y1="808.39294"
+     x2="1727.4083"
+     y2="771.39294"
+     class="lead"
+     id="line38" />
+  <text
+     x="1500"
+     y="945"
+     text-anchor="middle"
+     class="s"
+     id="text38">More paste can remain on aperture walls</text>
+  <!-- pad and smaller released deposit -->
+  <rect
+     x="1415"
+     y="991"
+     width="170"
+     height="20"
+     rx="3"
+     fill="#d6a24b"
+     stroke="#946e2e"
+     stroke-width="2"
+     id="rect38" />
+  <path
+     d="m 1440,986 q 60,-34 120,0 v 5 h -120 z"
+     fill="#92979d"
+     stroke="#555b61"
+     stroke-width="3"
+     id="path38" />
+  <text
+     x="1500"
+     y="1042"
+     text-anchor="middle"
+     class="s"
+     id="text39"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:normal;font-family:Arial, sans-serif">More sensitive release behavior</text>
+  <text
+     x="1000"
+     y="1090"
+     text-anchor="middle"
+     class="s"
+     id="text40">Area ratio describes a release tendency, not a guaranteed pass/fail result.</text>
+</svg>

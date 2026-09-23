@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2000"
+   height="1160"
+   viewBox="0 0 2000 1160"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg47"
+   sodipodi:docname="4.7.4.svg"
+   inkscape:export-filename="4.7.4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview47"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.62225397"
+     inkscape:cx="1023.6978"
+     inkscape:cy="735.23035"
+     inkscape:window-width="2560"
+     inkscape:window-height="1324"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg47" />
+  <rect
+     x="0"
+     y="0"
+     width="2000"
+     height="1160"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .title { font-family: Arial, Helvetica, sans-serif; font-size: 31px; font-weight: 700; fill: #27333f; }
+      .sub { font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 400; fill: #475866; }
+      .note { font-family: Arial, Helvetica, sans-serif; font-size: 23px; font-weight: 600; fill: #354654; }
+      .legend { font-family: Arial, Helvetica, sans-serif; font-size: 20px; fill: #475866; }
+      .panel { fill: #ffffff; stroke: #cad8e2; stroke-width: 2.4; }
+      .pcb { fill: #6aa28e; stroke: #2d6654; stroke-width: 3; }
+      .pad { fill: #d9a83c; stroke: #9c7426; stroke-width: 2.5; }
+      .paste { fill: #8f979d; stroke: #56616a; stroke-width: 2.5; }
+      .speck { fill: #dfe5e8; }
+    </style>
+  </defs>
+  <!-- top-left panel -->
+  <rect
+     class="panel"
+     x="70"
+     y="55"
+     rx="20"
+     ry="20"
+     width="895"
+     height="450"
+     id="rect2" />
+  <path
+     d="m 90,55 h 855 q 20,0 20,20 v 58 H 70 V 75 Q 70,55 90,55 Z"
+     fill="#dfeef7"
+     id="path2" />
+  <text
+     class="title"
+     x="517.5"
+     y="97"
+     text-anchor="middle"
+     id="text2">Centered / well defined</text>
+  <text
+     class="sub"
+     x="517.5"
+     y="125"
+     text-anchor="middle"
+     id="text3">Complete deposits remain separated</text>
+  <rect
+     class="pcb"
+     x="180"
+     y="190"
+     rx="12"
+     width="675"
+     height="190"
+     id="rect3" />
+  <rect
+     class="pad"
+     x="305"
+     y="238"
+     rx="8"
+     width="160"
+     height="95"
+     id="rect4" />
+  <rect
+     class="pad"
+     x="565"
+     y="238"
+     rx="8"
+     width="160"
+     height="95"
+     id="rect5" />
+  <rect
+     class="paste"
+     x="316"
+     y="249"
+     rx="13"
+     width="138"
+     height="73"
+     id="rect6" />
+  <rect
+     class="paste"
+     x="576"
+     y="249"
+     rx="13"
+     width="138"
+     height="73"
+     id="rect7" />
+  <rect
+     x="220"
+     y="407"
+     rx="14"
+     width="595"
+     height="58"
+     fill="#f4f7f9"
+     stroke="#d7e0e6"
+     stroke-width="1.8"
+     id="rect12" />
+  <text
+     class="note"
+     x="517.5"
+     y="443"
+     text-anchor="middle"
+     id="text12">Centered • complete • separated</text>
+  <!-- top-right panel -->
+  <rect
+     class="panel"
+     x="1035"
+     y="55"
+     rx="20"
+     ry="20"
+     width="895"
+     height="450"
+     id="rect13" />
+  <path
+     d="m 1055,55 h 855 q 20,0 20,20 v 58 H 1035 V 75 q 0,-20 20,-20 z"
+     fill="#e8f2e2"
+     id="path13" />
+  <text
+     class="title"
+     x="1482.5"
+     y="97"
+     text-anchor="middle"
+     id="text13">Too little / incomplete</text>
+  <text
+     class="sub"
+     x="1482.5"
+     y="125"
+     text-anchor="middle"
+     id="text14">Less paste or a missing portion is visible</text>
+  <rect
+     class="pcb"
+     x="1145"
+     y="190"
+     rx="12"
+     width="675"
+     height="190"
+     id="rect14" />
+  <rect
+     class="pad"
+     x="1270"
+     y="238"
+     rx="8"
+     width="160"
+     height="95"
+     id="rect15" />
+  <rect
+     class="pad"
+     x="1530"
+     y="238"
+     rx="8"
+     width="160"
+     height="95"
+     id="rect16" />
+  <rect
+     class="paste"
+     x="1302"
+     y="262"
+     rx="11"
+     width="96"
+     height="52"
+     id="rect17" />
+  <rect
+     class="paste"
+     x="1633.079"
+     y="274.48822"
+     rx="4.5131154"
+     width="39.387192"
+     height="27.205372"
+     id="rect17-9"
+     style="fill:#8f979d;stroke:#56616a;stroke-width:3;stroke-dasharray:none" />
+  <path
+     class="paste"
+     d="m 1552.6542,257.65419 h 49.1007 v 56.69162 h -17.5729 v -15.18525 h -12.9212 v 15.18525 h -18.6066 z"
+     id="path17" />
+  <rect
+     x="1185"
+     y="407"
+     rx="14"
+     width="595"
+     height="58"
+     fill="#f4f7f9"
+     stroke="#d7e0e6"
+     stroke-width="1.8"
+     id="rect20" />
+  <text
+     class="note"
+     x="1482.5"
+     y="443"
+     text-anchor="middle"
+     id="text20">Smaller / broken deposit on the same pads</text>
+  <!-- bottom-left panel -->
+  <rect
+     class="panel"
+     x="70"
+     y="535"
+     rx="20"
+     ry="20"
+     width="895"
+     height="450"
+     id="rect21" />
+  <path
+     d="m 90,535 h 855 q 20,0 20,20 v 58 H 70 v -58 q 0,-20 20,-20 z"
+     fill="#fbefcf"
+     id="path21" />
+  <text
+     class="title"
+     x="517.5"
+     y="577"
+     text-anchor="middle"
+     id="text21">Too much / paste between pads</text>
+  <text
+     class="sub"
+     x="517.5"
+     y="605"
+     text-anchor="middle"
+     id="text22">Oversized deposits extend into the gap</text>
+  <rect
+     class="pcb"
+     x="180"
+     y="670"
+     rx="12"
+     width="675"
+     height="190"
+     id="rect22" />
+  <rect
+     class="pad"
+     x="305"
+     y="718"
+     rx="8"
+     width="160"
+     height="95"
+     id="rect23" />
+  <rect
+     class="pad"
+     x="565"
+     y="718"
+     rx="8"
+     width="160"
+     height="95"
+     id="rect24" />
+  <rect
+     class="paste"
+     x="300"
+     y="721"
+     rx="14"
+     width="170"
+     height="88"
+     id="rect25" />
+  <rect
+     class="paste"
+     x="560"
+     y="721"
+     rx="14"
+     width="170"
+     height="88"
+     id="rect26" />
+  <rect
+     class="paste"
+     x="466"
+     y="747"
+     rx="10"
+     width="98"
+     height="36"
+     id="rect27"
+     style="stroke:#8f979d;stroke-opacity:1" />
+  <rect
+     x="220"
+     y="887"
+     rx="14"
+     width="595"
+     height="58"
+     fill="#fff8e8"
+     stroke="#ead7a2"
+     stroke-width="1.8"
+     id="rect33" />
+  <text
+     class="note"
+     x="517.5"
+     y="923"
+     text-anchor="middle"
+     id="text33">Paste extends into the gap between pads</text>
+  <!-- bottom-right panel -->
+  <rect
+     class="panel"
+     x="1035"
+     y="535"
+     rx="20"
+     ry="20"
+     width="895"
+     height="450"
+     id="rect34" />
+  <path
+     d="m 1055,535 h 855 q 20,0 20,20 v 58 h -895 v -58 q 0,-20 20,-20 z"
+     fill="#dfeef7"
+     id="path34" />
+  <text
+     class="title"
+     x="1482.5"
+     y="577"
+     text-anchor="middle"
+     id="text34">Misaligned</text>
+  <text
+     class="sub"
+     x="1482.5"
+     y="605"
+     text-anchor="middle"
+     id="text35">Deposit shape is recognizable but shifted from the pads</text>
+  <rect
+     class="pcb"
+     x="1145"
+     y="670"
+     rx="12"
+     width="675"
+     height="190"
+     id="rect35" />
+  <rect
+     class="pad"
+     x="1270"
+     y="718"
+     rx="8"
+     width="160"
+     height="95"
+     id="rect36" />
+  <rect
+     class="pad"
+     x="1530"
+     y="718"
+     rx="8"
+     width="160"
+     height="95"
+     id="rect37" />
+  <rect
+     x="1281"
+     y="729"
+     rx="13"
+     width="138"
+     height="73"
+     fill="none"
+     stroke="#59758b"
+     stroke-width="2"
+     stroke-dasharray="9, 7"
+     id="rect38" />
+  <rect
+     x="1541"
+     y="729"
+     rx="13"
+     width="138"
+     height="73"
+     fill="none"
+     stroke="#59758b"
+     stroke-width="2"
+     stroke-dasharray="9, 7"
+     id="rect39" />
+  <rect
+     class="paste"
+     x="1305"
+     y="738"
+     rx="13"
+     width="138"
+     height="73"
+     id="rect40" />
+  <rect
+     class="paste"
+     x="1565"
+     y="738"
+     rx="13"
+     width="138"
+     height="73"
+     id="rect41" />
+  <rect
+     x="1185"
+     y="887"
+     rx="14"
+     width="595"
+     height="58"
+     fill="#f4f7f9"
+     stroke="#d7e0e6"
+     stroke-width="1.8"
+     id="rect46" />
+  <text
+     class="note"
+     x="1482.5"
+     y="923"
+     text-anchor="middle"
+     id="text46">Dashed outline = intended centered position</text>
+  <!-- footer -->
+  <rect
+     x="235"
+     y="1024"
+     rx="18"
+     width="1530"
+     height="72"
+     fill="#f3f6f8"
+     stroke="#d8e1e7"
+     stroke-width="1.8"
+     id="rect47" />
+  <text
+     class="note"
+     x="1000"
+     y="1068"
+     text-anchor="middle"
+     id="text47">Pre-placement warning signs: investigate before production continues.</text>
+</svg>

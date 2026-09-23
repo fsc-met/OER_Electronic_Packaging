@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2320"
+   height="1000"
+   viewBox="0 0 2320 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg52"
+   sodipodi:docname="4.7.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.7.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview52"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.52392448"
+     inkscape:cx="824.54631"
+     inkscape:cy="422.77085"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg52"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="0"
+     y="0"
+     width="2320"
+     height="1000"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="16"
+       markerHeight="12"
+       refX="14"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,6 L0,12 z"
+         fill="#315f8a"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="70"
+     y="52"
+     width="470"
+     height="104"
+     rx="20"
+     fill="#e8f3fb"
+     stroke="#c7d2da"
+     stroke-width="2"
+     id="rect2" />
+  <text
+     x="305.0"
+     y="98"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text2">1. Align and support</text>
+  <text
+     x="305.0"
+     y="136"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#33444f"
+     id="text3">Aperture over the intended pad</text>
+  <rect
+     x="623.2785"
+     y="52.042912"
+     width="511.62585"
+     height="103.91418"
+     rx="21.771315"
+     fill="#eef7eb"
+     stroke="#c7d2da"
+     stroke-width="2.08583"
+     id="rect3" />
+  <text
+     x="881"
+     y="98"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text4">2. Squeegee moves paste</text>
+  <text
+     x="881"
+     y="136"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26px"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#33444f"
+     id="text5">Paste bead moves across stencil</text>
+  <rect
+     x="1210"
+     y="52"
+     width="470"
+     height="104"
+     rx="20"
+     fill="#fff4d9"
+     stroke="#c7d2da"
+     stroke-width="2"
+     id="rect5" />
+  <text
+     x="1445.0"
+     y="98"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text6">3. Aperture fills</text>
+  <text
+     x="1445.0"
+     y="136"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#33444f"
+     id="text7">Paste fills the opening over the pad</text>
+  <rect
+     x="1780"
+     y="52"
+     width="470"
+     height="104"
+     rx="20"
+     fill="#eaf2fb"
+     stroke="#c7d2da"
+     stroke-width="2"
+     id="rect7" />
+  <text
+     x="2015.0"
+     y="98"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text8">4. Stencil separates</text>
+  <text
+     x="2015.0"
+     y="136"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#33444f"
+     id="text9">Paste deposit remains on the pad</text>
+  <line
+     x1="558"
+     y1="410"
+     x2="612"
+     y2="410"
+     stroke="#315f8a"
+     stroke-width="7"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line9"
+     style="marker-end:url(#Triangle);stroke-width:3;stroke-dasharray:none" />
+  <line
+     x1="1128"
+     y1="410"
+     x2="1182"
+     y2="410"
+     stroke="#315f8a"
+     stroke-width="7"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line10"
+     style="marker-end:url(#Triangle);stroke-width:3;stroke-dasharray:none" />
+  <line
+     x1="1698"
+     y1="410"
+     x2="1752"
+     y2="410"
+     stroke="#315f8a"
+     stroke-width="7"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line11"
+     style="marker-end:url(#Triangle);stroke-width:3;stroke-dasharray:none" />
+  <rect
+     x="135"
+     y="761"
+     width="340"
+     height="54"
+     rx="9"
+     fill="#dce6ee"
+     stroke="#647683"
+     stroke-width="3"
+     id="rect11" />
+  <rect
+     x="125"
+     y="675"
+     width="360"
+     height="70"
+     rx="8"
+     fill="#5f9b88"
+     stroke="#2e5d52"
+     stroke-width="4"
+     id="rect12" />
+  <rect
+     x="242.5"
+     y="673"
+     width="125"
+     height="18"
+     rx="4"
+     fill="#d7a63b"
+     stroke="#8d6920"
+     stroke-width="3"
+     id="rect13" />
+  <rect
+     x="120"
+     y="637"
+     width="370"
+     height="38"
+     rx="4"
+     fill="#d6dbe0"
+     stroke="#6c7379"
+     stroke-width="3"
+     id="rect14" />
+  <rect
+     x="252.5"
+     y="635"
+     width="105"
+     height="42"
+     fill="#ffffff"
+     stroke="#6c7379"
+     stroke-width="3"
+     id="rect15" />
+  <line
+     x1="305.0"
+     y1="205"
+     x2="305.0"
+     y2="617"
+     stroke="#6f8798"
+     stroke-width="3"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     stroke-dasharray="10 10"
+     id="line15" />
+  <rect
+     x="130.20523"
+     y="225.061"
+     width="353.19528"
+     height="61.877979"
+     rx="17.659765"
+     fill="#f4f7f9"
+     stroke="#d1dbe2"
+     id="rect16"
+     style="stroke-width:1.12202" />
+  <text
+     x="305.0"
+     y="264"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="26"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#33444f"
+     id="text16">Aperture aligned with pad</text>
+  <text
+     x="192"
+     y="664"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="24"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#44515a"
+     id="text17">Stencil</text>
+  <rect
+     x="118.53898"
+     y="536.12823"
+     width="160"
+     height="47"
+     rx="12"
+     fill="#ffffff"
+     stroke="#cfd8df"
+     id="rect17" />
+  <text
+     x="198.53899"
+     y="568.12823"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27px"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text18">Aperture</text>
+  <line
+     x1="270.23093"
+     y1="584.19885"
+     x2="282.59558"
+     y2="630.8866"
+     stroke="#53636e"
+     stroke-width="3.9379"
+     stroke-linecap="round"
+     id="line18"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <rect
+     x="402.52975"
+     y="537.95728"
+     width="135"
+     height="48"
+     rx="12"
+     fill="#ffffff"
+     stroke="#cfd8df"
+     id="rect18" />
+  <text
+     x="469.52975"
+     y="569.95728"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27px"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text19">PCB pad</text>
+  <line
+     x1="402"
+     y1="583"
+     x2="333.0"
+     y2="682"
+     stroke="#53636e"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="line19" />
+  <text
+     x="175"
+     y="721"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="600"
+     text-anchor="#1f2a33"
+     fill="#1f2a33"
+     id="text20">PCB</text>
+  <text
+     x="305.0"
+     y="797"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#33444f"
+     id="text21">Board support</text>
+  <rect
+     x="705"
+     y="761"
+     width="340"
+     height="54"
+     rx="9"
+     fill="#dce6ee"
+     stroke="#647683"
+     stroke-width="3"
+     id="rect21" />
+  <rect
+     x="695"
+     y="675"
+     width="360"
+     height="70"
+     rx="8"
+     fill="#5f9b88"
+     stroke="#2e5d52"
+     stroke-width="4"
+     id="rect22" />
+  <rect
+     x="812.5"
+     y="673"
+     width="125"
+     height="18"
+     rx="4"
+     fill="#d7a63b"
+     stroke="#8d6920"
+     stroke-width="3"
+     id="rect23" />
+  <rect
+     x="690"
+     y="637"
+     width="370"
+     height="38"
+     rx="4"
+     fill="#d6dbe0"
+     stroke="#6c7379"
+     stroke-width="3"
+     id="rect24" />
+  <rect
+     x="822.5"
+     y="635"
+     width="105"
+     height="42"
+     fill="#ffffff"
+     stroke="#6c7379"
+     stroke-width="3"
+     id="rect25" />
+  <polygon
+     points="732,387 842,412 808,619 716,609"
+     fill="#8f999f"
+     stroke="#48545c"
+     stroke-width="4"
+     id="polygon25" />
+  <path
+     d="M 808 635 C 828 589.9, 874.0 553, 899.0 561.2 C 929.0 553.0, 972 594.0, 990 635 Z"
+     fill="#858c91"
+     stroke="#4f585e"
+     stroke-width="4"
+     id="path25" />
+  <circle
+     cx="830"
+     cy="622"
+     r="4"
+     fill="#c7cbce"
+     id="circle25" />
+  <circle
+     cx="855"
+     cy="607"
+     r="5"
+     fill="#c7cbce"
+     id="circle26" />
+  <circle
+     cx="880"
+     cy="592"
+     r="4"
+     fill="#c7cbce"
+     id="circle27" />
+  <circle
+     cx="906"
+     cy="612"
+     r="4"
+     fill="#c7cbce"
+     id="circle28" />
+  <circle
+     cx="928"
+     cy="590"
+     r="4"
+     fill="#c7cbce"
+     id="circle29" />
+  <circle
+     cx="953"
+     cy="611"
+     r="4"
+     fill="#c7cbce"
+     id="circle30" />
+  <rect
+     x="829.5"
+     y="654"
+     width="91"
+     height="19"
+     fill="#858c91"
+     id="rect30" />
+  <line
+     x1="795"
+     y1="250"
+     x2="1005"
+     y2="250"
+     stroke="#315f8a"
+     stroke-width="7"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line30"
+     style="marker-end:url(#Triangle);stroke-width:3;stroke-dasharray:none" />
+  <text
+     x="900"
+     y="220"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text30">Squeegee motion</text>
+  <rect
+     x="895"
+     y="330"
+     width="170"
+     height="48"
+     rx="12"
+     fill="#ffffff"
+     stroke="#cfd8df"
+     id="rect31" />
+  <text
+     x="980"
+     y="362"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text31">Squeegee</text>
+  <line
+     x1="925"
+     y1="378"
+     x2="822"
+     y2="487"
+     stroke="#53636e"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="line31" />
+  <rect
+     x="890"
+     y="430"
+     width="185"
+     height="48"
+     rx="12"
+     fill="#ffffff"
+     stroke="#cfd8df"
+     id="rect32" />
+  <text
+     x="982"
+     y="462"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text32">Solder paste</text>
+  <line
+     x1="940"
+     y1="478"
+     x2="940"
+     y2="599"
+     stroke="#53636e"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="line32" />
+  <rect
+     x="1275"
+     y="761"
+     width="340"
+     height="54"
+     rx="9"
+     fill="#dce6ee"
+     stroke="#647683"
+     stroke-width="3"
+     id="rect33" />
+  <rect
+     x="1265"
+     y="675"
+     width="360"
+     height="70"
+     rx="8"
+     fill="#5f9b88"
+     stroke="#2e5d52"
+     stroke-width="4"
+     id="rect34" />
+  <rect
+     x="1382.5"
+     y="673"
+     width="125"
+     height="18"
+     rx="4"
+     fill="#d7a63b"
+     stroke="#8d6920"
+     stroke-width="3"
+     id="rect35" />
+  <rect
+     x="1260"
+     y="637"
+     width="370"
+     height="38"
+     rx="4"
+     fill="#d6dbe0"
+     stroke="#6c7379"
+     stroke-width="3"
+     id="rect36" />
+  <rect
+     x="1392.5"
+     y="635"
+     width="105"
+     height="42"
+     fill="#ffffff"
+     stroke="#6c7379"
+     stroke-width="3"
+     id="rect37" />
+  <rect
+     x="1397.5"
+     y="640"
+     width="95"
+     height="32"
+     fill="#858c91"
+     stroke="#4f585e"
+     stroke-width="2"
+     id="rect38" />
+  <rect
+     x="1300.0"
+     y="280"
+     width="290"
+     height="58"
+     rx="14"
+     fill="#ffffff"
+     stroke="#cfd8df"
+     id="rect39" />
+  <text
+     x="1445.0"
+     y="318"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text39">Aperture filled with paste</text>
+  <line
+     x1="1445.0"
+     y1="338"
+     x2="1445.0"
+     y2="627"
+     stroke="#53636e"
+     stroke-width="3"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line39" />
+  <rect
+     x="1295.0"
+     y="470"
+     width="300"
+     height="74"
+     rx="14"
+     fill="#f4f7f9"
+     stroke="#d1dbe2"
+     id="rect40" />
+  <text
+     x="1445.0"
+     y="501"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#33444f"
+     id="text40">Pad stays directly</text>
+  <text
+     x="1445.0"
+     y="531"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#33444f"
+     id="text41">under the aperture</text>
+  <line
+     x1="1445.0"
+     y1="544"
+     x2="1445.0"
+     y2="681"
+     stroke="#53636e"
+     stroke-width="3"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line41" />
+  <rect
+     x="1845"
+     y="761"
+     width="340"
+     height="54"
+     rx="9"
+     fill="#dce6ee"
+     stroke="#647683"
+     stroke-width="3"
+     id="rect41" />
+  <rect
+     x="1835"
+     y="675"
+     width="360"
+     height="70"
+     rx="8"
+     fill="#5f9b88"
+     stroke="#2e5d52"
+     stroke-width="4"
+     id="rect42" />
+  <rect
+     x="1952.5"
+     y="673"
+     width="125"
+     height="18"
+     rx="4"
+     fill="#d7a63b"
+     stroke="#8d6920"
+     stroke-width="3"
+     id="rect43" />
+  <rect
+     x="1830"
+     y="435"
+     width="370"
+     height="38"
+     rx="4"
+     fill="#d6dbe0"
+     stroke="#6c7379"
+     stroke-width="3"
+     id="rect44" />
+  <rect
+     x="1962.5"
+     y="433"
+     width="105"
+     height="42"
+     fill="#ffffff"
+     stroke="#6c7379"
+     stroke-width="3"
+     id="rect45" />
+  <path
+     d="M 1960.5 673 C 1980.5 637.25, 1990.0 608, 2015.0 614.5 C 2045.0 608.0, 2051.5 640.5, 2069.5 673 Z"
+     fill="#858c91"
+     stroke="#4f585e"
+     stroke-width="4"
+     id="path45" />
+  <circle
+     cx="1982.5"
+     cy="660"
+     r="4"
+     fill="#c7cbce"
+     id="circle45" />
+  <circle
+     cx="2007.5"
+     cy="645"
+     r="5"
+     fill="#c7cbce"
+     id="circle46" />
+  <circle
+     cx="2032.5"
+     cy="630"
+     r="4"
+     fill="#c7cbce"
+     id="circle47" />
+  <circle
+     cx="2058.5"
+     cy="650"
+     r="4"
+     fill="#c7cbce"
+     id="circle48" />
+  <line
+     x1="1925"
+     y1="529.28961"
+     x2="1925"
+     y2="392.05627"
+     stroke="#315f8a"
+     stroke-width="7"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line48"
+     style="stroke-width:3.86484;stroke-dasharray:none;marker-end:url(#Triangle)" />
+  <line
+     x1="2105"
+     y1="528.31598"
+     x2="2105"
+     y2="391.97049"
+     stroke="#315f8a"
+     stroke-width="7"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line49"
+     style="stroke-width:3.85231;stroke-dasharray:none;marker-end:url(#Triangle)" />
+  <text
+     x="2015.0"
+     y="245"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text49">Stencil separation</text>
+  <rect
+     x="2115.9932"
+     y="331.27484"
+     width="155"
+     height="48"
+     rx="12"
+     fill="#ffffff"
+     stroke="#cfd8df"
+     id="rect49" />
+  <text
+     x="2192.9932"
+     y="363.27484"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27px"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text50">Stencil</text>
+  <line
+     x1="2150.9932"
+     y1="379.27484"
+     x2="2148.9932"
+     y2="454.27484"
+     stroke="#53636e"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="line50" />
+  <rect
+     x="2064.1282"
+     y="544.37817"
+     width="194.40926"
+     height="47.961166"
+     rx="12.960617"
+     fill="#ffffff"
+     stroke="#cfd8df"
+     id="rect50"
+     style="stroke-width:1.03884" />
+  <text
+     x="2161.7578"
+     y="576.35876"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27px"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#1f2a33"
+     id="text51">Paste deposit</text>
+  <line
+     x1="2080.561"
+     y1="592.92603"
+     x2="2040.5245"
+     y2="654.17621"
+     stroke="#53636e"
+     stroke-width="2.16307"
+     stroke-linecap="round"
+     id="line51" />
+  <rect
+     x="390"
+     y="920"
+     width="1540"
+     height="50"
+     rx="16"
+     fill="#f4f7f9"
+     id="rect51" />
+  <text
+     x="1160.0"
+     y="953"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#33444f"
+     id="text52">Stencil apertures meter where paste is deposited; the squeegee moves one common paste bead.</text>
+</svg>
