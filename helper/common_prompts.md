@@ -116,6 +116,44 @@ Preserve every meaningful revision with a different filename and provide all rev
 
 Also provide a true editable SVG version of the best candidate for possible manual modification. The SVG must use editable text and vector objects rather than embedding the raster image as the primary artwork.
 
+## SVG-specific layout and canvas rules
+
+The SVG must not be treated as successful merely because it is editable and renders without technical errors. The **visual layout itself** must also be organized, clean, and publication-ready.
+
+For SVG figures, enforce the following additional rules:
+
+- The SVG layout must be visually organized, with adequate spacing between boxes, panels, arrows, labels, and callouts.
+- No text may extend outside its intended box, panel, callout region, or safe margin.
+- No boxes, diamonds, panels, or major objects may overlap unless overlap is intentionally part of the technical meaning.
+- Arrows and leader lines must not pass through unrelated text or objects.
+- Arrowheads, leaders, and connectors must terminate clearly at their intended targets.
+- Multi-line text must be wrapped intentionally and checked visually, not merely inserted as separate text lines by coordinate.
+- After any change to wording, font size, box size, object position, or arrow routing, the layout QA must be rerun because a technically valid SVG can still become visually disorganized.
+- A successful SVG render is **not** evidence that the layout is acceptable. Rendered outputs must be visually inspected.
+
+### Flexible aspect ratio / content-first canvas rule
+
+For SVG figures, the recommended canvas size or aspect ratio in the suggested-content file is only an initial starting point. It is **not fixed**.
+
+Use a **content-first canvas rule**:
+- The content determines the canvas.
+- Do not crowd, compress, or awkwardly scale content merely to preserve a planned aspect ratio.
+- Freely adjust the SVG `width`, `height`, and `viewBox` aspect ratio whenever needed to achieve clear organization, safe margins, clean arrow routing, and readable labels.
+- If the figure needs more vertical space, increase the canvas height.
+- If the figure needs more horizontal separation, increase the canvas width.
+- After the content is laid out correctly, crop or expand the SVG canvas around the finished composition with safe margins.
+
+### Preferred correction order for crowded SVG layouts
+
+If an SVG layout becomes crowded or disorganized, use the following correction priority instead of forcing the content to fit the original canvas:
+- first, expand the canvas or change the aspect ratio;
+- second, increase spacing between panels/boxes and reroute arrows or leaders;
+- third, resize boxes or rewrap text;
+- only after those steps, make modest text-size adjustments if still needed.
+
+Do not solve layout crowding mainly by shrinking text to the smallest possible size.
+Maintain comfortable internal padding inside boxes and panels.
+
 The SVG must have an **explicit white background**. Do not rely on the SVG viewer's default canvas color or transparency. Add a full-canvas white rectangle as the first visible drawing element, for example:
 
 ```svg
@@ -124,13 +162,39 @@ The SVG must have an **explicit white background**. Do not rely on the SVG viewe
 
 This background rectangle must cover the entire SVG `viewBox`, remain behind all figure content, and be preserved in the final editable SVG so the figure renders with a white background consistently in browsers, mdBook, Inkscape, PDF conversion, and raster exports.
 
+## Required SVG layout QA gate
+
+Before a candidate SVG can be considered the strongest QA-reviewed version, it must pass a dedicated **visual geometry/layout QA gate** in addition to the usual technical and content QA.
+
+This SVG layout QA must explicitly verify that:
+- every text block fits comfortably within its intended region with visible padding;
+- no text touches or crosses a bounding border;
+- no important objects overlap unintentionally;
+- branch arrows and leaders are visually unambiguous;
+- panels and boxes are aligned cleanly enough for textbook presentation;
+- margins around the figure content are balanced and safe;
+- internal padding inside boxes and panels is sufficient for comfortable reading;
+- the composition remains readable at native size, 1600 px, 1200 px, and 900 px mdBook width;
+- the SVG source remains editable after the layout corrections.
+
+If any of these checks fail, correct the layout and rerun the QA cycle before presenting the result.
+
+## Render-check requirements
+
 Render-check the final SVG at:
 - native size;
 - 1600 px width;
 - 1200 px width;
 - 900 px mdBook width.
 
-Feel free to adjust the SVG canvas resolution and aspect ratio as needed so that all content is properly positioned with safe margins and no clipping.
+Do not just generate these renders. Visually inspect them for layout defects such as:
+- overlap;
+- text escaping boxes;
+- crowded callouts;
+- arrow/leader ambiguity;
+- unbalanced spacing;
+- clipping;
+- scale-dependent readability problems.
 
 For normal engineering arrows and dimension arrows, use:
 
