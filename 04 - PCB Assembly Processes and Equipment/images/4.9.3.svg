@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2200"
+   height="1080"
+   viewBox="0 0 2200 1080"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="4.9.3.svg"
+   inkscape:export-filename="4.9.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.4"
+     inkscape:cx="1100"
+     inkscape:cy="538.75"
+     inkscape:window-width="2560"
+     inkscape:window-height="1324"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <rect
+     x="0"
+     y="0"
+     width="2200"
+     height="1080"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       id="arrowBlue"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="9"
+       orient="auto">
+      <path
+         d="M0,0 L18,9 L0,18 z"
+         fill="#245c91"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowAmber"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="9"
+       orient="auto">
+      <path
+         d="M0,0 L18,9 L0,18 z"
+         fill="#b56b1f"
+         id="path2" />
+    </marker>
+  </defs>
+  <rect
+     x="560"
+     y="28"
+     width="1080"
+     height="92"
+     rx="16"
+     fill="#f6f8fa"
+     stroke="#d7e0e8"
+     stroke-width="2"
+     id="rect2" />
+  <text
+     x="1100"
+     y="66"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#334155"
+     id="text2">Illustrative window: 90–110%</text>
+  <text
+     x="1100"
+     y="101"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#334155"
+     id="text3">Values shown = measured volume % of the defined reference</text>
+  <rect
+     x="60"
+     y="145"
+     width="1010"
+     height="815"
+     rx="24"
+     fill="#fbfdff"
+     stroke="#c7d7e5"
+     stroke-width="3"
+     id="rect3" />
+  <rect
+     x="1130"
+     y="145"
+     width="1010"
+     height="815"
+     rx="24"
+     fill="#fbfdff"
+     stroke="#c7d7e5"
+     stroke-width="3"
+     id="rect4" />
+  <text
+     x="565"
+     y="205"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text4">Regional cluster</text>
+  <text
+     x="1635"
+     y="205"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text5">Isolated low result</text>
+  <text
+     x="345.0"
+     y="273"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text6">1</text>
+  <text
+     x="579.0"
+     y="273"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text7">2</text>
+  <text
+     x="813.0"
+     y="273"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text8">3</text>
+  <text
+     x="178"
+     y="405.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text9">Row A</text>
+  <text
+     x="178"
+     y="592.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text10">Row B</text>
+  <rect
+     x="240"
+     y="315"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#eaf5ed"
+     stroke="#76a786"
+     stroke-width="4"
+     id="rect10" />
+  <text
+     x="345.0"
+     y="385"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text11">98%</text>
+  <rect
+     x="474"
+     y="315"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#eaf5ed"
+     stroke="#76a786"
+     stroke-width="4"
+     id="rect11" />
+  <text
+     x="579.0"
+     y="385"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text12">101%</text>
+  <rect
+     x="708"
+     y="315"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#eaf5ed"
+     stroke="#76a786"
+     stroke-width="4"
+     id="rect12" />
+  <text
+     x="813.0"
+     y="385"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text13">97%</text>
+  <rect
+     x="240"
+     y="502"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#fff0e3"
+     stroke="#cf8b45"
+     stroke-width="4"
+     id="rect13" />
+  <text
+     x="345.0"
+     y="572"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text14">82%</text>
+  <circle
+     cx="422"
+     cy="530"
+     r="13"
+     fill="#ffffff"
+     stroke="#b56b1f"
+     stroke-width="4"
+     id="circle14" />
+  <text
+     x="422"
+     y="538"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#9a5b1a"
+     id="text15">!</text>
+  <rect
+     x="474"
+     y="502"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#fff0e3"
+     stroke="#cf8b45"
+     stroke-width="4"
+     id="rect15" />
+  <text
+     x="579.0"
+     y="572"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text16">80%</text>
+  <circle
+     cx="656"
+     cy="530"
+     r="13"
+     fill="#ffffff"
+     stroke="#b56b1f"
+     stroke-width="4"
+     id="circle16" />
+  <text
+     x="656"
+     y="538"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#9a5b1a"
+     id="text17">!</text>
+  <rect
+     x="708"
+     y="502"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#fff0e3"
+     stroke="#cf8b45"
+     stroke-width="4"
+     id="rect17" />
+  <text
+     x="813.0"
+     y="572"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text18">81%</text>
+  <circle
+     cx="890"
+     cy="530"
+     r="13"
+     fill="#ffffff"
+     stroke="#b56b1f"
+     stroke-width="4"
+     id="circle18" />
+  <text
+     x="890"
+     y="538"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#9a5b1a"
+     id="text19">!</text>
+  <rect
+     x="228"
+     y="490"
+     width="702"
+     height="189"
+     rx="24"
+     fill="none"
+     stroke="#b56b1f"
+     stroke-width="5"
+     stroke-dasharray="14 10"
+     id="rect19" />
+  <text
+     x="1415.0"
+     y="273"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text20">1</text>
+  <text
+     x="1649.0"
+     y="273"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text21">2</text>
+  <text
+     x="1883.0"
+     y="273"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text22">3</text>
+  <text
+     x="1248"
+     y="405.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text23">Row A</text>
+  <text
+     x="1248"
+     y="592.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text24">Row B</text>
+  <rect
+     x="1310"
+     y="315"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#eaf5ed"
+     stroke="#76a786"
+     stroke-width="4"
+     id="rect24" />
+  <text
+     x="1415.0"
+     y="385"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text25">98%</text>
+  <rect
+     x="1544"
+     y="315"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#eaf5ed"
+     stroke="#76a786"
+     stroke-width="4"
+     id="rect25" />
+  <text
+     x="1649.0"
+     y="385"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text26">101%</text>
+  <rect
+     x="1778"
+     y="315"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#eaf5ed"
+     stroke="#76a786"
+     stroke-width="4"
+     id="rect26" />
+  <text
+     x="1883.0"
+     y="385"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text27">97%</text>
+  <rect
+     x="1310"
+     y="502"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#eaf5ed"
+     stroke="#76a786"
+     stroke-width="4"
+     id="rect27" />
+  <text
+     x="1415.0"
+     y="572"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text28">99%</text>
+  <rect
+     x="1544"
+     y="502"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#fff0e3"
+     stroke="#cf8b45"
+     stroke-width="4"
+     id="rect28" />
+  <text
+     x="1649.0"
+     y="572"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text29">82%</text>
+  <circle
+     cx="1726"
+     cy="530"
+     r="13"
+     fill="#ffffff"
+     stroke="#b56b1f"
+     stroke-width="4"
+     id="circle29" />
+  <text
+     x="1726"
+     y="538"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="22"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#9a5b1a"
+     id="text30">!</text>
+  <rect
+     x="1778"
+     y="502"
+     width="210"
+     height="165"
+     rx="18"
+     fill="#eaf5ed"
+     stroke="#76a786"
+     stroke-width="4"
+     id="rect30" />
+  <text
+     x="1883.0"
+     y="572"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#243447"
+     id="text31">100%</text>
+  <rect
+     x="1532"
+     y="490"
+     width="234"
+     height="189"
+     rx="24"
+     fill="none"
+     stroke="#b56b1f"
+     stroke-width="5"
+     stroke-dasharray="14 10"
+     id="rect31" />
+  <rect
+     x="165"
+     y="735"
+     width="800"
+     height="150"
+     rx="18"
+     fill="#eef4f8"
+     stroke="#b9cad9"
+     stroke-width="3"
+     id="rect32" />
+  <text
+     x="565"
+     y="775"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="#245c91"
+     fill="#243447"
+     id="text32">First check</text>
+  <text
+     x="565"
+     y="810.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#334155"
+     id="text33">Check a common regional condition first:</text>
+  <text
+     x="565"
+     y="846.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#334155"
+     id="text34">local support/contact or corresponding stencil apertures.</text>
+  <line
+     x1="565"
+     y1="735"
+     x2="565"
+     y2="690"
+     stroke="#245c91"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line34" />
+  <rect
+     x="1235"
+     y="735"
+     width="800"
+     height="150"
+     rx="18"
+     fill="#eef4f8"
+     stroke="#b9cad9"
+     stroke-width="3"
+     id="rect34" />
+  <text
+     x="1635"
+     y="775"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="#245c91"
+     fill="#243447"
+     id="text35">First check</text>
+  <text
+     x="1635"
+     y="810.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#334155"
+     id="text36">Check the local aperture / release behavior</text>
+  <text
+     x="1635"
+     y="846.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#334155"
+     id="text37">for the isolated deposit first.</text>
+  <line
+     x1="1635"
+     y1="735"
+     x2="1635"
+     y2="690"
+     stroke="#245c91"
+     stroke-width="5"
+     marker-end="url(#arrowBlue)"
+     id="line37" />
+  <rect
+     x="300"
+     y="980"
+     width="1600"
+     height="58"
+     rx="14"
+     fill="#fff8e7"
+     stroke="#ead9a7"
+     stroke-width="2"
+     id="rect37" />
+  <text
+     x="685"
+     y="1018"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     text-anchor="#4b5563"
+     fill="#243447"
+     id="text38">Pattern guides the first check — it does not certify the root cause.</text>
+</svg>

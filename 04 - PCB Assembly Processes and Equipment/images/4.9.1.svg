@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2200"
+   height="1000"
+   viewBox="0 0 2200 1000"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="4.9.1.svg"
+   inkscape:export-filename="4.9.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.8"
+     inkscape:cx="1495"
+     inkscape:cy="474.375"
+     inkscape:window-width="2560"
+     inkscape:window-height="1324"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <rect
+     x="0"
+     y="0"
+     width="2200"
+     height="1000"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs5">
+    <marker
+       id="arrowBlue"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="9"
+       orient="auto">
+      <path
+         d="M0,0 L18,9 L0,18 z"
+         fill="#245c91"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowBlueStart"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       markerHeight="18"
+       refX="3"
+       refY="9"
+       orient="auto">
+      <path
+         d="M18,0 L0,9 L18,18 z"
+         fill="#245c91"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowDark"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="9"
+       orient="auto">
+      <path
+         d="M0,0 L18,9 L0,18 z"
+         fill="#374151"
+         id="path3" />
+    </marker>
+    <pattern
+       id="pasteDots"
+       width="34"
+       height="30"
+       patternUnits="userSpaceOnUse">
+      <rect
+         width="34"
+         height="30"
+         fill="#9ca3af"
+         id="rect3" />
+      <circle
+         cx="8"
+         cy="8"
+         r="3.1"
+         fill="#e5e7eb"
+         id="circle3" />
+      <circle
+         cx="25"
+         cy="12"
+         r="2.7"
+         fill="#d1d5db"
+         id="circle4" />
+      <circle
+         cx="16"
+         cy="24"
+         r="2.5"
+         fill="#f9fafb"
+         id="circle5" />
+    </pattern>
+  </defs>
+  <rect
+     x="55"
+     y="45"
+     width="1040"
+     height="910"
+     rx="24"
+     fill="#fbfdff"
+     stroke="#c7d7e5"
+     stroke-width="3"
+     id="rect5" />
+  <rect
+     x="1110"
+     y="45"
+     width="1035"
+     height="910"
+     rx="24"
+     fill="#fbfdff"
+     stroke="#c7d7e5"
+     stroke-width="3"
+     id="rect6" />
+  <text
+     x="100"
+     y="110"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#22354a"
+     id="text6">Top view — area and X/Y offset</text>
+  <text
+     x="1155"
+     y="110"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#22354a"
+     id="text7">Side / 3D view — height and volume</text>
+  <rect
+     x="150"
+     y="245"
+     width="830"
+     height="560"
+     rx="30"
+     fill="#4d9b70"
+     stroke="#2f6b4e"
+     stroke-width="4"
+     id="rect7" />
+  <rect
+     x="350"
+     y="360"
+     width="430"
+     height="300"
+     rx="18"
+     fill="#d8a64f"
+     stroke="#8a6428"
+     stroke-width="4"
+     id="rect8" />
+  <rect
+     x="395"
+     y="400"
+     width="330"
+     height="225"
+     rx="52"
+     fill="none"
+     stroke="#3f5f7d"
+     stroke-width="5"
+     stroke-dasharray="18 12"
+     id="rect9" />
+  <path
+     d="M465 415 C512 385, 624 383, 690 414 C736 436, 758 493, 742 544 C728 592, 675 614, 598 610 C520 607, 470 585, 452 538 C432 486, 438 440, 465 415 Z"
+     fill="url(#pasteDots)"
+     stroke="#5f6974"
+     stroke-width="4"
+     id="path9" />
+  <line
+     x1="545"
+     y1="515"
+     x2="575"
+     y2="515"
+     stroke="#3f5f7d"
+     stroke-width="4"
+     id="line9" />
+  <line
+     x1="560"
+     y1="500"
+     x2="560"
+     y2="530"
+     stroke="#3f5f7d"
+     stroke-width="4"
+     id="line10" />
+  <circle
+     cx="625"
+     cy="462"
+     r="9"
+     fill="#a33d2e"
+     id="circle10" />
+  <line
+     x1="560"
+     y1="515"
+     x2="625"
+     y2="515"
+     stroke="#245c91"
+     stroke-width="6"
+     marker-end="url(#arrowBlue)"
+     id="line11" />
+  <line
+     x1="625"
+     y1="515"
+     x2="625"
+     y2="462"
+     stroke="#245c91"
+     stroke-width="6"
+     marker-end="url(#arrowBlue)"
+     id="line12" />
+  <text
+     x="592.5"
+     y="553"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#245c91"
+     id="text12">Δx</text>
+  <text
+     x="653"
+     y="495.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#245c91"
+     id="text13">Δy</text>
+  <text
+     x="700"
+     y="700"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#245c91"
+     id="text14">X/Y offset</text>
+  <line
+     x1="230"
+     y1="730"
+     x2="330"
+     y2="730"
+     stroke="#374151"
+     stroke-width="5"
+     marker-end="url(#arrowDark)"
+     id="line14" />
+  <line
+     x1="230"
+     y1="730"
+     x2="230"
+     y2="630"
+     stroke="#374151"
+     stroke-width="5"
+     marker-end="url(#arrowDark)"
+     id="line15" />
+  <text
+     x="342"
+     y="740"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#374151"
+     id="text15">X</text>
+  <text
+     x="218"
+     y="615"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#374151"
+     id="text16">Y</text>
+  <text
+     x="150"
+     y="170"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#22354a"
+     id="text17">Programmed target / reference</text>
+  <line
+     x1="400"
+     y1="182"
+     x2="430"
+     y2="400"
+     stroke="#3f5f7d"
+     stroke-width="4"
+     marker-end="url(#arrowDark)"
+     id="line17" />
+  <text
+     x="1057.5"
+     y="217.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="bold"
+     text-anchor="end"
+     fill="#22354a"
+     id="text18">Measured footprint = area</text>
+  <line
+     x1="885"
+     y1="235"
+     x2="705"
+     y2="425"
+     stroke="#374151"
+     stroke-width="4"
+     marker-end="url(#arrowDark)"
+     id="line18" />
+  <rect
+     x="262.06079"
+     y="837.06079"
+     width="586.12842"
+     height="71.878426"
+     rx="13.526041"
+     fill="#f6f8fa"
+     stroke="#d7e0e8"
+     stroke-width="2.12157"
+     id="rect18" />
+  <line
+     x1="365"
+     y1="871"
+     x2="395"
+     y2="871"
+     stroke="#3f5f7d"
+     stroke-width="4"
+     id="line19" />
+  <line
+     x1="332"
+     y1="858"
+     x2="332"
+     y2="888"
+     stroke="#3f5f7d"
+     stroke-width="4"
+     id="line20" />
+  <text
+     x="362"
+     y="882"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="normal"
+     text-anchor="start"
+     fill="#22354a"
+     id="text20">target center</text>
+  <circle
+     cx="562"
+     cy="873"
+     r="9"
+     fill="#a33d2e"
+     id="circle20" />
+  <text
+     x="587"
+     y="882"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="normal"
+     text-anchor="start"
+     fill="#22354a"
+     id="text21">measured center</text>
+  <rect
+     x="1235"
+     y="680"
+     width="785"
+     height="165"
+     rx="20"
+     fill="#4d9b70"
+     stroke="#2f6b4e"
+     stroke-width="4"
+     id="rect21" />
+  <rect
+     x="1445"
+     y="635"
+     width="380"
+     height="50"
+     rx="8"
+     fill="#d8a64f"
+     stroke="#8a6428"
+     stroke-width="4"
+     id="rect22" />
+  <path
+     d="M1455 635 C1480 545, 1535 480, 1610 455 C1680 433, 1760 448, 1800 510 C1820 540, 1830 592, 1815 635 Z"
+     fill="url(#pasteDots)"
+     stroke="#5f6974"
+     stroke-width="4"
+     id="path22" />
+  <path
+     d="m 1485.1407,564.93568 c 46.3659,-77.45422 108.1871,-109.5424 180.3118,-113.96835 72.1247,-4.42596 125.7031,37.62062 149.4012,95.15804"
+     fill="none"
+     stroke="#245c91"
+     stroke-width="5.33871"
+     stroke-dasharray="14, 10"
+     id="path23" />
+  <line
+     x1="1365"
+     y1="635"
+     x2="1365"
+     y2="455"
+     stroke="#245c91"
+     stroke-width="6"
+     marker-start="url(#arrowBlueStart)"
+     marker-end="url(#arrowBlue)"
+     id="line23" />
+  <line
+     x1="1385"
+     y1="635"
+     x2="1445"
+     y2="635"
+     stroke="#245c91"
+     stroke-width="3"
+     id="line24" />
+  <line
+     x1="1385"
+     y1="455"
+     x2="1530"
+     y2="455"
+     stroke="#245c91"
+     stroke-width="3"
+     id="line25" />
+  <text
+     x="1335"
+     y="555"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="bold"
+     text-anchor="end"
+     fill="#245c91"
+     id="text25">Height</text>
+  <text
+     x="2050"
+     y="357.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="bold"
+     text-anchor="end"
+     fill="#245c91"
+     id="text26">3D measured surface</text>
+  <line
+     x1="1895.2289"
+     y1="370.75543"
+     x2="1795.4203"
+     y2="492.99985"
+     stroke="#245c91"
+     stroke-width="2.84905"
+     marker-end="url(#arrowBlue)"
+     id="line26" />
+  <text
+     x="2125"
+     y="520"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="bold"
+     text-anchor="end"
+     fill="#22354a"
+     id="text27"><tspan
+       sodipodi:role="line"
+       id="tspan30"
+       x="2125"
+       y="520">Measured paste</tspan><tspan
+       sodipodi:role="line"
+       id="tspan31"
+       x="2125"
+       y="558.75">volume</tspan></text>
+  <line
+     x1="1986.889"
+     y1="540.18964"
+     x2="1772.9114"
+     y2="601.48425"
+     stroke="#374151"
+     stroke-width="3.93498"
+     marker-end="url(#arrowDark)"
+     id="line27" />
+  <text
+     x="1190"
+     y="900"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#22354a"
+     id="text28">Chosen local reference surface</text>
+  <line
+     x1="1520"
+     y1="869.5"
+     x2="1520"
+     y2="639.84692"
+     stroke="#374151"
+     stroke-width="3.89662"
+     marker-end="url(#arrowDark)"
+     id="line28" />
+  <rect
+     x="1255"
+     y="162.5"
+     width="760"
+     height="110"
+     rx="16"
+     fill="#eef4f8"
+     stroke="#b9cad9"
+     stroke-width="3"
+     id="rect28" />
+  <text
+     x="1635"
+     y="205.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#334155"
+     id="text29">Volume comes from the measured 3D deposit shape,</text>
+  <text
+     x="1635"
+     y="245.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#334155"
+     id="text30">not from top-view area alone.</text>
+</svg>
