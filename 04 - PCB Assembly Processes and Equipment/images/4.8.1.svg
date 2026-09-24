@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2300"
+   height="1200"
+   viewBox="0 0 2300 1200"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg56"
+   sodipodi:docname="4.8.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.8.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview56"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.50299286"
+     inkscape:cx="1399.6223"
+     inkscape:cy="645.13838"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg56"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideHeavy"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, heavy arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path3" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#234f77"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowGray"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 12,6 0,12 Z"
+         fill="#475569"
+         id="path2" />
+    </marker>
+    <style
+       id="style2">
+    .label { font-family: Arial, Helvetica, sans-serif; fill:#17324d; font-size:34px; font-weight:700; }
+    .sub { font-family: Arial, Helvetica, sans-serif; fill:#334155; font-size:27px; }
+    .small { font-family: Arial, Helvetica, sans-serif; fill:#334155; font-size:25px; }
+    .tiny { font-family: Arial, Helvetica, sans-serif; fill:#334155; font-size:23px; }
+    .call { fill:#f8fbfd; stroke:#8fb5d1; stroke-width:3; }
+    .leader { fill:none; stroke:#234f77; stroke-width:4; stroke-linecap:round; stroke-linejoin:round; }
+  </style>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect2"
+     style="stroke-width:1" />
+  <!-- machine body -->
+  <rect
+     x="554.08917"
+     y="102.4689"
+     width="1232.8601"
+     height="927.93195"
+     rx="30.821505"
+     fill="#eef2f4"
+     stroke="#64748b"
+     stroke-width="5.06237"
+     id="rect3" />
+  <rect
+     x="570.09772"
+     y="116.47176"
+     width="1193.9951"
+     height="120.01227"
+     rx="29.849876"
+     fill="#d9e2e8"
+     stroke="#64748b"
+     stroke-width="4.98773"
+     id="rect4" />
+  <rect
+     x="576.11664"
+     y="252.80608"
+     width="1191.0543"
+     height="648.27484"
+     rx="23.303236"
+     fill="#ffffff"
+     stroke="#64748b"
+     stroke-width="5.79404"
+     id="rect5" />
+  <text
+     x="1170.1038"
+     y="331.47787"
+     text-anchor="middle"
+     class="tiny"
+     font-weight="700"
+     id="text5">PRINT ZONE</text>
+  <!-- conveyor rails / board handling -->
+  <rect
+     x="605.10388"
+     y="706.47791"
+     width="1130"
+     height="26"
+     rx="8"
+     fill="#7b8794"
+     id="rect6" />
+  <rect
+     x="605.10388"
+     y="761.47791"
+     width="1130"
+     height="26"
+     rx="8"
+     fill="#7b8794"
+     id="rect7" />
+  <line
+     x1="643.15552"
+     y1="746.47217"
+     x2="778.15552"
+     y2="746.47217"
+     stroke="#234f77"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line7" />
+  <line
+     x1="1546.0062"
+     y1="746.47217"
+     x2="1681.0062"
+     y2="746.47217"
+     stroke="#234f77"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line8" />
+  <!-- PCB -->
+  <rect
+     x="890.10382"
+     y="676.47791"
+     width="520"
+     height="100"
+     rx="8"
+     fill="#4f9c87"
+     stroke="#356c60"
+     stroke-width="4"
+     id="rect8" />
+  <rect
+     x="935.10382"
+     y="695.47791"
+     width="74"
+     height="24"
+     rx="4"
+     fill="#c99543"
+     id="rect9" />
+  <rect
+     x="1040.1038"
+     y="695.47791"
+     width="74"
+     height="24"
+     rx="4"
+     fill="#c99543"
+     id="rect10" />
+  <rect
+     x="1145.1038"
+     y="695.47791"
+     width="74"
+     height="24"
+     rx="4"
+     fill="#c99543"
+     id="rect11" />
+  <rect
+     x="1250.1038"
+     y="695.47791"
+     width="74"
+     height="24"
+     rx="4"
+     fill="#c99543"
+     id="rect12" />
+  <circle
+     cx="1365.1038"
+     cy="726.47791"
+     r="12"
+     fill="#f4d06f"
+     stroke="#755f2a"
+     stroke-width="3"
+     id="circle12" />
+  <text
+     x="1150.1038"
+     y="754.47791"
+     text-anchor="middle"
+     class="tiny"
+     fill="#ffffff"
+     id="text12">PCB</text>
+  <!-- support and clamps -->
+  <rect
+     x="975.10382"
+     y="796.47791"
+     width="350"
+     height="70"
+     rx="10"
+     fill="#8aa5b6"
+     stroke="#546e7a"
+     stroke-width="4"
+     id="rect13" />
+  <rect
+     x="1000.1038"
+     y="776.47791"
+     width="30"
+     height="24"
+     fill="#6f8796"
+     id="rect14" />
+  <rect
+     x="1270.1038"
+     y="776.47791"
+     width="30"
+     height="24"
+     fill="#6f8796"
+     id="rect15" />
+  <text
+     x="1150.1038"
+     y="842.47791"
+     text-anchor="middle"
+     class="small"
+     fill="#ffffff"
+     id="text15">board support</text>
+  <path
+     d="m 860.10385,688.47787 h 45 v 76 h -45"
+     fill="#6f8796"
+     stroke="#475569"
+     stroke-width="4"
+     id="path15" />
+  <path
+     d="m 1440.1038,688.47787 h -45 v 76 h 45"
+     fill="#6f8796"
+     stroke="#475569"
+     stroke-width="4"
+     id="path16" />
+  <!-- stencil frame and foil -->
+  <rect
+     x="790.10388"
+     y="506.47787"
+     width="760"
+     height="92"
+     rx="10"
+     fill="#c7cfd6"
+     stroke="#5f6b73"
+     stroke-width="5"
+     id="rect16" />
+  <rect
+     x="850.10388"
+     y="534.47791"
+     width="640"
+     height="36"
+     fill="#f1f3f5"
+     stroke="#68737c"
+     stroke-width="3"
+     id="rect17" />
+  <!-- aperture slots -->
+  <rect
+     x="1035.1038"
+     y="534.47791"
+     width="52"
+     height="36"
+     fill="#ffffff"
+     stroke="#68737c"
+     stroke-width="2"
+     id="rect18" />
+  <rect
+     x="1144.1038"
+     y="534.47791"
+     width="52"
+     height="36"
+     fill="#ffffff"
+     stroke="#68737c"
+     stroke-width="2"
+     id="rect19" />
+  <rect
+     x="1253.1038"
+     y="534.47791"
+     width="52"
+     height="36"
+     fill="#ffffff"
+     stroke="#68737c"
+     stroke-width="2"
+     id="rect20" />
+  <!-- squeegee carriage / blade -->
+  <rect
+     x="920.10382"
+     y="361.47787"
+     width="500"
+     height="82"
+     rx="14"
+     fill="#6f8796"
+     stroke="#475569"
+     stroke-width="5"
+     id="rect21" />
+  <rect
+     x="990.10382"
+     y="326.47787"
+     width="30"
+     height="35"
+     fill="#475569"
+     id="rect22" />
+  <rect
+     x="1320.1038"
+     y="326.47787"
+     width="30"
+     height="35"
+     fill="#475569"
+     id="rect23" />
+  <polygon
+     points="1110,528 1060,528 1030,438 1140,438 "
+     fill="#4d5962"
+     stroke="#2f3a42"
+     stroke-width="4"
+     id="polygon23"
+     transform="translate(70.10382,6.477873)" />
+  <line
+     x1="990.10382"
+     y1="398.47787"
+     x2="1350.1038"
+     y2="398.47787"
+     stroke="#d9e2e8"
+     stroke-width="4"
+     id="line23" />
+  <!-- print direction arrow -->
+  <line
+     x1="1026.2004"
+     y1="302.09164"
+     x2="1316.2003"
+     y2="302.09164"
+     stroke="#234f77"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line24"
+     style="marker-end:url(#Triangle);stroke-width:3;stroke-dasharray:none" />
+  <text
+     x="1170.1038"
+     y="288.47787"
+     text-anchor="middle"
+     class="tiny"
+     id="text24">squeegee travel</text>
+  <!-- paste bead ahead of active blade -->
+  <path
+     d="m 1205.1038,506.47787 c 45,-30 160,-30 225,0 20,10 28,20 12,28 h -237 c -15,-8 -15,-20 0,-28 z"
+     fill="#9aa0a6"
+     stroke="#5c6368"
+     stroke-width="4"
+     id="path24" />
+  <circle
+     cx="1255.1038"
+     cy="508.47787"
+     r="6"
+     fill="#e5e7eb"
+     id="circle24" />
+  <circle
+     cx="1300.1038"
+     cy="520.47791"
+     r="5"
+     fill="#e5e7eb"
+     id="circle25" />
+  <circle
+     cx="1360.1038"
+     cy="505.47787"
+     r="6"
+     fill="#e5e7eb"
+     id="circle26" />
+  <circle
+     cx="1410.1038"
+     cy="522.47791"
+     r="5"
+     fill="#e5e7eb"
+     id="circle27" />
+  <!-- vision camera parked left, fiducial sight -->
+  <rect
+     x="671.8515"
+     y="520.23126"
+     width="95"
+     height="52"
+     rx="9"
+     fill="#8db5cf"
+     stroke="#476d85"
+     stroke-width="4"
+     id="rect27" />
+  <circle
+     cx="718.8515"
+     cy="574.23126"
+     r="15"
+     fill="#243746"
+     stroke="#0f172a"
+     stroke-width="3"
+     id="circle28" />
+  <!-- separation arrows -->
+  <line
+     x1="1566.6383"
+     y1="547.20923"
+     x2="1566.6383"
+     y2="497.2092"
+     stroke="#234f77"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line29"
+     style="marker-end:url(#ArrowWideHeavy)" />
+  <line
+     x1="1566.7101"
+     y1="558.04742"
+     x2="1566.7101"
+     y2="608.04742"
+     stroke="#234f77"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line30"
+     style="marker-end:url(#ArrowWideHeavy)" />
+  <!-- understencil cleaning parked below/right -->
+  <g
+     id="g60"
+     transform="translate(-655.46492,-299.81221)"
+     style="stroke-width:2;stroke-dasharray:none">
+    <rect
+       x="2235.3457"
+       y="900.83167"
+       width="170"
+       height="58"
+       rx="12"
+       fill="#a9bac6"
+       stroke="#5b7280"
+       stroke-width="4"
+       id="rect30"
+       style="stroke-width:2;stroke-dasharray:none" />
+    <circle
+       cx="2270.3457"
+       cy="929.83167"
+       r="16"
+       fill="#f2f4f5"
+       stroke="#65747d"
+       stroke-width="3"
+       id="circle30"
+       style="stroke-width:2;stroke-dasharray:none" />
+    <circle
+       cx="2370.3457"
+       cy="929.83167"
+       r="16"
+       fill="#f2f4f5"
+       stroke="#65747d"
+       stroke-width="3"
+       id="circle31"
+       style="stroke-width:2;stroke-dasharray:none" />
+    <rect
+       x="2284.3457"
+       y="918.83167"
+       width="72"
+       height="22"
+       fill="#ffffff"
+       stroke="#65747d"
+       stroke-width="3"
+       id="rect31"
+       style="stroke-width:2;stroke-dasharray:none" />
+    <line
+       x1="2230.3457"
+       y1="929.83167"
+       x2="2080.3457"
+       y2="929.83167"
+       stroke="#476d85"
+       stroke-width="4"
+       stroke-dasharray="10, 9"
+       marker-end="url(#arrow)"
+       id="line31"
+       style="stroke-width:2;stroke-dasharray:none" />
+  </g>
+  <!-- machine base -->
+  <rect
+     x="583.69739"
+     y="921.75818"
+     width="1177.6947"
+     height="84.439438"
+     rx="18.319695"
+     fill="#d9e2e8"
+     stroke="#64748b"
+     stroke-width="4.56056"
+     id="rect32" />
+  <!-- callout boxes LEFT -->
+  <rect
+     class="call"
+     x="86.833244"
+     y="646.71948"
+     width="391.60361"
+     height="119.87275"
+     rx="17.404604"
+     id="rect33" />
+  <text
+     x="113.76962"
+     y="690.65588"
+     class="label"
+     id="text33">PCB conveyor</text>
+  <text
+     x="113.76962"
+     y="731.65588"
+     class="sub"
+     id="text34">transport / board handling</text>
+  <g
+     id="g63"
+     transform="translate(92.8615,339.25631)">
+    <rect
+       class="call"
+       x="-5.1065741"
+       y="102.40018"
+       width="392.49405"
+       height="139.869"
+       rx="17.44418"
+       id="rect34" />
+    <text
+       x="21.827925"
+       y="146.33469"
+       class="label"
+       id="text35">Vision / alignment</text>
+    <text
+       x="21.827925"
+       y="187.33469"
+       class="sub"
+       id="text36">register PCB fiducials</text>
+    <text
+       x="21.827925"
+       y="221.33469"
+       class="sub"
+       id="text37">to stencil pattern before print</text>
+  </g>
+  <g
+     id="g62"
+     transform="translate(725.19882,186.31851)">
+    <rect
+       class="call"
+       x="-640.92224"
+       y="632.36053"
+       width="393.74393"
+       height="139.86407"
+       rx="17.499731"
+       id="rect37" />
+    <text
+       x="-613.99023"
+       y="676.29254"
+       class="label"
+       id="text38">Support + clamping</text>
+    <text
+       x="-613.99023"
+       y="717.29254"
+       class="sub"
+       id="text39">flat, stable, repeatable board</text>
+    <text
+       x="-613.99023"
+       y="751.29254"
+       class="sub"
+       id="text40">position during printing</text>
+  </g>
+  <g
+     id="g61"
+     transform="translate(2848.729,-420.46714)">
+    <rect
+       class="call"
+       x="-1019.9867"
+       y="1151.2061"
+       width="403.74316"
+       height="149.82481"
+       rx="17.944141"
+       id="rect41" />
+    <text
+       x="-993.07428"
+       y="1195.1184"
+       class="label"
+       id="text41">Understencil cleaning</text>
+    <text
+       x="-993.07428"
+       y="1236.1184"
+       class="sub"
+       id="text42">wipes / vacuums stencil</text>
+    <text
+       x="-993.07428"
+       y="1270.1184"
+       class="sub"
+       id="text43">underside when required</text>
+  </g>
+  <!-- callout boxes RIGHT -->
+  <rect
+     class="call"
+     x="88.977257"
+     y="249.88356"
+     width="394.03464"
+     height="139.86293"
+     rx="17.51265"
+     id="rect43" />
+  <text
+     x="115.90871"
+     y="293.815"
+     class="label"
+     id="text44">Stencil frame</text>
+  <text
+     x="115.90871"
+     y="334.815"
+     class="sub"
+     id="text45">holds stencil securely</text>
+  <text
+     x="115.90871"
+     y="368.81503"
+     class="sub"
+     id="text46">over the PCB</text>
+  <rect
+     class="call"
+     x="1831.8206"
+     y="203.07582"
+     width="391.60336"
+     height="139.87251"
+     rx="17.404594"
+     id="rect46" />
+  <text
+     x="1858.7568"
+     y="247.01207"
+     class="label"
+     id="text47">Squeegee head</text>
+  <text
+     x="1858.7568"
+     y="288.01205"
+     class="sub"
+     id="text48">moves active blade with</text>
+  <text
+     x="1858.7568"
+     y="322.01205"
+     class="sub"
+     id="text49">controlled speed + force</text>
+  <rect
+     class="call"
+     x="1829.3248"
+     y="383.63937"
+     width="396.46597"
+     height="134.85344"
+     rx="17.62071"
+     id="rect49" />
+  <text
+     x="1856.2516"
+     y="427.56607"
+     class="label"
+     id="text50">Solder-paste bead</text>
+  <text
+     x="1856.2516"
+     y="468.56607"
+     class="sub"
+     id="text51">rolls ahead of active blade</text>
+  <text
+     x="1856.2516"
+     y="502.56607"
+     class="sub"
+     id="text52">across stencil surface</text>
+  <rect
+     class="call"
+     x="1829.1561"
+     y="553.10266"
+     width="401.32843"
+     height="149.83423"
+     rx="17.836819"
+     id="rect52" />
+  <text
+     x="1856.0732"
+     y="597.01978"
+     class="label"
+     id="text53">Separation motion</text>
+  <text
+     x="1856.0732"
+     y="638.01978"
+     class="sub"
+     id="text54">parts stencil and PCB</text>
+  <text
+     x="1856.0732"
+     y="672.01978"
+     class="sub"
+     id="text55">after the print stroke</text>
+  <!-- small note -->
+  <text
+     x="1170.1038"
+     y="1116.4779"
+     text-anchor="middle"
+     class="small"
+     id="text56">Conceptual functional layout — components are separated for clarity; exact mechanical packaging varies by printer.</text>
+  <path
+     style="display:inline;fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 481.11862,311.7835 827.71726,509.49118"
+     id="path64"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 483.55946,499.72783 192.826,41.4942"
+     id="path65"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 481.11862,690.113 134.24595,51.25754"
+     id="path66"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 483.55946,875.61646 493.04879,-43.935"
+     id="path67"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 1830.9006,282.49347 1186.52,458.23363"
+     id="path68"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1826.0189,428.9436 -524.7796,65.90256"
+     id="path69"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 1826.0189,599.80209 1579.4945,548.54454"
+     id="path70"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 1823.5781,804.83226 1664.9238,638.85545"
+     id="path71"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="M 481.12015,864.82341 882.71631,745.53742"
+     id="path4"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+</svg>
