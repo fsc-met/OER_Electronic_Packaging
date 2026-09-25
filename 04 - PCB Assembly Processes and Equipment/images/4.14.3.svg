@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1350" viewBox="0 0 2400 1350" preserveAspectRatio="xMidYMid meet">
+<rect x="0" y="0" width="2400" height="1350" fill="#ffffff"/>
+<defs>
+  <marker id="arrowNavy" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 Z" fill="#25384A"/></marker>
+  <marker id="arrowCool" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 Z" fill="#2B627F"/></marker>
+  <marker id="arrowWarm" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 Z" fill="#B76A2F"/></marker>
+  <pattern id="copperHatch" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+    <rect width="20" height="20" fill="#EED9AA" fill-opacity="0.55"/>
+    <line x1="0" y1="0" x2="0" y2="20" stroke="#D3A24B" stroke-width="5" stroke-opacity="0.55"/>
+  </pattern>
+</defs>
+
+<!-- Bridging message -->
+<text x="1200" y="88" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#25384A">Same board • same oven recipe • different local thermal response</text>
+<text x="1200" y="126" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#5B6974">Conceptual product-temperature curves • not to scale</text>
+
+<!-- Left PCB panel -->
+<rect x="80" y="175" width="970" height="1060" rx="24" fill="#ffffff" stroke="#B7C4CE" stroke-width="3"/>
+<text x="125" y="230" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#25384A">One PCB, two thermal locations</text>
+
+<!-- A label box -->
+<rect x="125" y="275" width="370" height="150" rx="18" fill="#EEF5F8" stroke="#2B627F" stroke-width="3"/>
+<circle cx="165" cy="320" r="20" fill="#ffffff" stroke="#2B627F" stroke-width="7"/>
+<text x="205" y="315" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#2B627F">Location A</text>
+<text x="205" y="351" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#25384A">Low thermal mass</text>
+<text x="205" y="385" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#4D5A65">Small passive</text>
+
+<!-- B label box -->
+<rect x="600" y="275" width="395" height="150" rx="18" fill="#FBF2EA" stroke="#B76A2F" stroke-width="3"/>
+<rect x="635" y="301" width="40" height="40" fill="#ffffff" stroke="#B76A2F" stroke-width="7"/>
+<text x="695" y="315" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#B76A2F">Location B</text>
+<text x="695" y="351" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#25384A">High thermal mass /</text>
+<text x="695" y="385" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#25384A">copper-coupled</text>
+
+<!-- PCB top view -->
+<rect x="160" y="500" width="810" height="400" rx="34" fill="#78B889" stroke="#2F6D4F" stroke-width="5"/>
+<!-- Board holes -->
+<circle cx="205" cy="545" r="15" fill="#ffffff" stroke="#2F6D4F" stroke-width="3"/>
+<circle cx="925" cy="545" r="15" fill="#ffffff" stroke="#2F6D4F" stroke-width="3"/>
+<circle cx="205" cy="855" r="15" fill="#ffffff" stroke="#2F6D4F" stroke-width="3"/>
+<circle cx="925" cy="855" r="15" fill="#ffffff" stroke="#2F6D4F" stroke-width="3"/>
+<!-- traces -->
+<path d="M270 610 H500 V690 H650" fill="none" stroke="#C8E4D2" stroke-width="10" stroke-linecap="round"/>
+<path d="M280 790 H440 V735 H610" fill="none" stroke="#C8E4D2" stroke-width="8" stroke-linecap="round"/>
+<path d="M610 585 H790 V625 H875" fill="none" stroke="#C8E4D2" stroke-width="8" stroke-linecap="round"/>
+<!-- copper-rich region cue -->
+<rect x="675" y="625" width="235" height="190" rx="18" fill="url(#copperHatch)" stroke="#D3A24B" stroke-width="3" stroke-dasharray="12 10"/>
+<!-- generic ICs -->
+<rect x="470" y="570" width="115" height="80" rx="10" fill="#4A5661" stroke="#2F3942" stroke-width="3"/>
+<rect x="480" y="765" width="130" height="70" rx="10" fill="#4A5661" stroke="#2F3942" stroke-width="3"/>
+<rect x="275" y="720" width="90" height="65" rx="9" fill="#4A5661" stroke="#2F3942" stroke-width="3"/>
+<!-- small passives -->
+<g fill="#D8DDE2" stroke="#6C7780" stroke-width="2">
+<rect x="310" y="595" width="72" height="30" rx="6"/><rect x="390" y="605" width="70" height="28" rx="6"/>
+<rect x="330" y="820" width="70" height="28" rx="6"/><rect x="620" y="540" width="72" height="30" rx="6"/>
+<rect x="615" y="845" width="70" height="28" rx="6"/><rect x="820" y="560" width="72" height="30" rx="6"/>
+</g>
+<!-- Location A specific passive -->
+<rect x="355" y="655" width="82" height="36" rx="6" fill="#F4E7C0" stroke="#8B7A54" stroke-width="3"/>
+<rect x="355" y="655" width="14" height="36" fill="#C9A04E"/><rect x="423" y="655" width="14" height="36" fill="#C9A04E"/>
+<!-- Location B high-mass component -->
+<rect x="735" y="675" width="135" height="92" rx="12" fill="#3E4852" stroke="#29313A" stroke-width="4"/>
+<rect x="750" y="645" width="105" height="35" rx="8" fill="#7E8993" stroke="#46515A" stroke-width="3"/>
+<line x1="764" y1="640" x2="764" y2="680" stroke="#9DA7AF" stroke-width="6"/>
+<line x1="790" y1="640" x2="790" y2="680" stroke="#9DA7AF" stroke-width="6"/>
+<line x1="816" y1="640" x2="816" y2="680" stroke="#9DA7AF" stroke-width="6"/>
+<line x1="842" y1="640" x2="842" y2="680" stroke="#9DA7AF" stroke-width="6"/>
+<!-- Location markers -->
+<circle cx="396" cy="673" r="26" fill="#ffffff" stroke="#2B627F" stroke-width="8"/>
+<text x="396" y="683" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#2B627F">A</text>
+<rect x="775" y="700" width="52" height="52" fill="#ffffff" stroke="#B76A2F" stroke-width="8"/>
+<text x="801" y="737" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#B76A2F">B</text>
+<!-- label leaders -->
+<path d="M310 425 C330 470 360 520 390 645" fill="none" stroke="#2B627F" stroke-width="4" marker-end="url(#arrowCool)"/>
+<path d="M780 425 C790 505 800 580 801 690" fill="none" stroke="#B76A2F" stroke-width="4" marker-end="url(#arrowWarm)"/>
+<!-- copper area label -->
+<path d="M720 925 L835 825" fill="none" stroke="#B76A2F" stroke-width="3" marker-end="url(#arrowWarm)"/>
+<rect x="495" y="925" width="500" height="95" rx="15" fill="#FFF9F2" stroke="#D8C0A4" stroke-width="2"/>
+<text x="515" y="962" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#B76A2F">Large copper area / plane influence</text>
+<text x="515" y="994" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#59656F">changes local heat spreading and thermal response</text>
+<!-- factors note -->
+<rect x="125" y="1055" width="870" height="130" rx="18" fill="#F6F8FA" stroke="#CED7DE" stroke-width="2"/>
+<text x="155" y="1094" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#25384A">Other contributors to local response:</text>
+<text x="155" y="1130" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#4D5A65">board construction • copper distribution • component density</text>
+<text x="155" y="1163" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#4D5A65">shielding / airflow exposure • local convection conditions</text>
+
+<!-- Right graph panel -->
+<rect x="1120" y="175" width="1200" height="1060" rx="24" fill="#ffffff" stroke="#B7C4CE" stroke-width="3"/>
+<text x="1170" y="230" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#25384A">Conceptual local product-temperature response</text>
+
+<!-- Graph background and axes -->
+<rect x="1255" y="290" width="935" height="690" rx="12" fill="#FBFCFD" stroke="#D7DEE4" stroke-width="2"/>
+<line x1="1320" y1="925" x2="2150" y2="925" stroke="#25384A" stroke-width="4" marker-end="url(#arrowNavy)"/>
+<line x1="1320" y1="925" x2="1320" y2="330" stroke="#25384A" stroke-width="4" marker-end="url(#arrowNavy)"/>
+<text x="1735" y="970" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#25384A">Time</text>
+<text x="1185" y="630" text-anchor="middle" transform="rotate(-90 1185 630)" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#25384A">Product temperature</text>
+
+<!-- phase hints, secondary -->
+<text x="1430" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#667480">Heating</text>
+<text x="1805" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#667480">Peak / reflow region</text>
+<text x="2075" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#667480">Cooling</text>
+
+<!-- Curve A solid -->
+<path d="M1340 890 C1445 805 1510 645 1615 565 C1725 480 1815 370 1910 395 C2000 420 2035 620 2090 760 C2120 835 2140 870 2160 895" fill="none" stroke="#2B627F" stroke-width="12" stroke-linecap="round"/>
+<!-- Curve B dashed -->
+<path d="M1340 890 C1455 835 1540 710 1645 635 C1750 555 1845 430 1940 455 C2035 485 2080 610 2125 700 C2145 745 2155 775 2160 800" fill="none" stroke="#B76A2F" stroke-width="11" stroke-linecap="round" stroke-dasharray="28 18"/>
+
+<!-- direct curve labels -->
+<circle cx="1690" cy="505" r="18" fill="#ffffff" stroke="#2B627F" stroke-width="6"/>
+<rect x="1722" y="455" width="365" height="96" rx="12" fill="#ffffff" fill-opacity="0.94" stroke="#D7E1E7" stroke-width="2"/>
+<text x="1748" y="495" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#2B627F">A - faster response</text>
+<text x="1748" y="529" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#50606B">heats faster • peaks earlier</text>
+
+<rect x="1760" y="602" width="34" height="34" fill="#ffffff" stroke="#B76A2F" stroke-width="6"/>
+<rect x="1800" y="579" width="330" height="94" rx="12" fill="#ffffff" fill-opacity="0.94" stroke="#E6D2C0" stroke-width="2"/>
+<text x="1825" y="619" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#B76A2F">B - slower response</text>
+<text x="1825" y="653" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#50606B">lags during heating</text>
+
+<!-- cooling retention callout -->
+<path d="M1965 770 C2030 805 2060 805 2118 710" fill="none" stroke="#B76A2F" stroke-width="3.5" marker-end="url(#arrowWarm)"/>
+<rect x="1605" y="792" width="545" height="92" rx="14" fill="#FFF9F2" stroke="#D8C0A4" stroke-width="2"/>
+<text x="1632" y="830" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#B76A2F">B retains heat longer during cooling</text>
+<text x="1632" y="865" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#59656F">slower thermal response can keep this location warmer</text>
+
+<!-- heating lag arrow between curves -->
+<line x1="1560" y1="650" x2="1560" y2="730" stroke="#25384A" stroke-width="3" marker-start="url(#arrowNavy)" marker-end="url(#arrowNavy)"/>
+<text x="1580" y="696" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#25384A">heating lag</text>
+
+<!-- outcome note -->
+<rect x="1245" y="1020" width="950" height="145" rx="18" fill="#F5F7F9" stroke="#C6D0D7" stroke-width="2"/>
+<text x="1275" y="1063" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#25384A">Practical implication</text>
+<text x="1275" y="1105" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#43515D">The process must heat the cold location enough without overheating</text>
+<text x="1275" y="1143" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#43515D">the hottest sensitive location elsewhere on the assembly.</text>
+
+</svg>

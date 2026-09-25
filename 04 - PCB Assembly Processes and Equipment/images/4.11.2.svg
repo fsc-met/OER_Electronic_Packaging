@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2300" height="1540" viewBox="0 0 2300 1540" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <marker id="arrow-seq" markerWidth="17" markerHeight="17" refX="14" refY="8.5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L17,8.5 L0,17 Z" fill="#596a78"/>
+    </marker>
+    <marker id="arrow-blue" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#2f6f9f"/>
+    </marker>
+    <marker id="arrow-teal" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#2b8f83"/>
+    </marker>
+    <marker id="arrow-amber" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#c47b2a"/>
+    </marker>
+    <style>
+      .title { font-family: Arial, Helvetica, sans-serif; font-size:36px; font-weight:700; fill:#20364f; }
+      .body { font-family: Arial, Helvetica, sans-serif; font-size:27px; fill:#415364; }
+      .small { font-family: Arial, Helvetica, sans-serif; font-size:23px; fill:#526474; }
+      .num { font-family: Arial, Helvetica, sans-serif; font-size:32px; font-weight:700; fill:#20364f; }
+      .panel { fill:#f8fafc; stroke:#bfd0dd; stroke-width:4; }
+      .hdr { fill:#e8f1f7; }
+      .seq { fill:none; stroke:#596a78; stroke-width:9; marker-end:url(#arrow-seq); }
+      .local { fill:none; stroke:#2f6f9f; stroke-width:7; marker-end:url(#arrow-blue); }
+      .local2 { fill:none; stroke:#2f6f9f; stroke-width:7; marker-start:url(#arrow-blue); marker-end:url(#arrow-blue); }
+      .vision { fill:none; stroke:#2b8f83; stroke-width:5; stroke-dasharray:11 9; }
+      .vision2 { fill:none; stroke:#c47b2a; stroke-width:5; stroke-dasharray:11 9; }
+      .nozzle { fill:#667785; stroke:#455463; stroke-width:4; }
+      .component { fill:#4d5863; stroke:#293640; stroke-width:4; }
+      .endcap { fill:#c8cfd5; stroke:#6d7a85; stroke-width:3; }
+      .pcb { fill:#82b68b; stroke:#4d7f59; stroke-width:4; }
+      .pad { fill:#d6b651; stroke:#987a28; stroke-width:2; }
+      .paste { fill:#aeb4b9; stroke:#707980; stroke-width:2; }
+      .camera { fill:#2b8f83; stroke:#236d65; stroke-width:4; }
+      .cam2 { fill:#c9934a; stroke:#8b632d; stroke-width:4; }
+      .feeder { fill:#91a9be; stroke:#5d7386; stroke-width:4; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="2300" height="1540" fill="#ffffff"/>
+
+  <!-- TOP ROW PANELS -->
+  <!-- Step 1 -->
+  <g id="step1">
+    <rect x="70" y="80" width="490" height="570" rx="24" class="panel"/>
+    <rect x="70" y="80" width="490" height="78" rx="24" class="hdr"/>
+    <circle cx="120" cy="119" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
+    <text x="120" y="130" text-anchor="middle" class="num">1</text>
+    <text x="165" y="130" class="title">Locate board</text>
+
+    <rect x="145" y="370" width="340" height="115" rx="12" class="pcb"/>
+    <rect x="175" y="402" width="55" height="22" rx="4" class="pad"/>
+    <rect x="265" y="402" width="55" height="22" rx="4" class="pad"/>
+    <rect x="355" y="402" width="55" height="22" rx="4" class="pad"/>
+    <circle cx="180" cy="392" r="13" fill="#f0d760" stroke="#536575" stroke-width="3"/>
+    <path d="M125 350 L125 500 M505 350 L505 500" stroke="#667785" stroke-width="12"/>
+    <text x="315" y="528" text-anchor="middle" class="small">PCB held on support / conveyor</text>
+
+    <rect x="285" y="205" width="62" height="70" rx="10" class="camera"/>
+    <circle cx="316" cy="262" r="12" fill="#d9ffff" stroke="#236d65" stroke-width="3"/>
+    <line x1="316" y1="275" x2="180" y2="380" class="vision"/>
+    <text x="315" y="320" text-anchor="middle" class="body">Board camera sees fiducial</text>
+    <text x="315" y="575" text-anchor="middle" class="body">Board reference established</text>
+  </g>
+
+  <!-- Step 2 -->
+  <g id="step2">
+    <rect x="590" y="80" width="490" height="570" rx="24" class="panel"/>
+    <rect x="590" y="80" width="490" height="78" rx="24" class="hdr"/>
+    <circle cx="640" cy="119" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
+    <text x="640" y="130" text-anchor="middle" class="num">2</text>
+    <text x="685" y="130" class="title">Select expected source</text>
+
+    <!-- feeder -->
+    <g transform="translate(655,365)">
+      <rect x="0" y="0" width="75" height="150" rx="11" class="feeder"/>
+      <rect x="90" y="0" width="75" height="150" rx="11" class="feeder"/>
+      <rect x="180" y="0" width="75" height="150" rx="11" class="feeder"/>
+      <rect x="270" y="0" width="75" height="150" rx="11" class="feeder"/>
+      <circle cx="37" cy="28" r="10" fill="#e2b64c"/>
+      <circle cx="127" cy="28" r="10" fill="#e2b64c"/>
+      <circle cx="217" cy="28" r="10" fill="#e2b64c"/>
+      <circle cx="307" cy="28" r="10" fill="#e2b64c"/>
+      <rect x="20" y="85" width="36" height="23" rx="5" class="component"/>
+      <rect x="110" y="85" width="36" height="23" rx="5" class="component"/>
+      <rect x="200" y="85" width="36" height="23" rx="5" class="component"/>
+      <rect x="290" y="85" width="36" height="23" rx="5" class="component"/>
+    </g>
+    <!-- head -->
+    <rect x="790" y="205" width="90" height="90" rx="18" class="nozzle"/>
+    <rect x="818" y="295" width="34" height="90" rx="10" class="nozzle"/>
+    <text x="835" y="190" text-anchor="middle" class="body">X/Y travel to assigned source</text>
+    <line x1="690" y1="330" x2="805" y2="330" class="local"/>
+    <text x="835" y="560" text-anchor="middle" class="body">Job/setup determines source</text>
+    <text x="835" y="595" text-anchor="middle" class="small">not visual guessing</text>
+  </g>
+
+  <!-- Step 3 -->
+  <g id="step3">
+    <rect x="1110" y="80" width="490" height="570" rx="24" class="panel"/>
+    <rect x="1110" y="80" width="490" height="78" rx="24" class="hdr"/>
+    <circle cx="1160" cy="119" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
+    <text x="1160" y="130" text-anchor="middle" class="num">3</text>
+    <text x="1205" y="130" class="title">Pick by vacuum</text>
+
+    <rect x="1310" y="215" width="90" height="92" rx="18" class="nozzle"/>
+    <rect x="1338" y="307" width="34" height="100" rx="10" class="nozzle"/>
+    <path d="M1345 407 L1365 407 L1380 455 L1330 455 Z" class="nozzle"/>
+    <line x1="1355" y1="430" x2="1355" y2="355" class="local"/>
+    <rect x="1305" y="470" width="100" height="44" rx="9" class="component"/>
+    <rect x="1290" y="478" width="15" height="28" class="endcap"/>
+    <rect x="1405" y="478" width="15" height="28" class="endcap"/>
+    <line x1="1470" y1="300" x2="1470" y2="480" class="local2"/>
+    <text x="1500" y="390" class="body">Z</text>
+    <text x="1355" y="555" text-anchor="middle" class="body">contact → vacuum → lift</text>
+    <text x="1355" y="592" text-anchor="middle" class="small">component remains on nozzle</text>
+  </g>
+
+  <!-- Step 4 -->
+  <g id="step4">
+    <rect x="1630" y="80" width="600" height="570" rx="24" class="panel"/>
+    <rect x="1630" y="80" width="600" height="78" rx="24" class="hdr"/>
+    <circle cx="1680" cy="119" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
+    <text x="1680" y="130" text-anchor="middle" class="num">4</text>
+    <text x="1725" y="130" class="title">Inspect / compensate</text>
+
+    <rect x="1875" y="205" width="90" height="90" rx="18" class="nozzle"/>
+    <rect x="1903" y="295" width="34" height="90" rx="10" class="nozzle"/>
+    <rect x="1870" y="402" width="100" height="44" rx="9" class="component"/>
+    <rect x="1855" y="410" width="15" height="28" class="endcap"/>
+    <rect x="1970" y="410" width="15" height="28" class="endcap"/>
+    <rect x="1880" y="500" width="82" height="62" rx="13" class="cam2"/>
+    <circle cx="1921" cy="520" r="18" fill="#fae1b6" stroke="#8b632d" stroke-width="3"/>
+    <line x1="1921" y1="500" x2="1921" y2="450" class="vision2"/>
+    <line x1="1825" y1="425" x2="2015" y2="425" stroke="#c47b2a" stroke-width="3" stroke-dasharray="9 8"/>
+    <line x1="1921" y1="365" x2="1921" y2="485" stroke="#c47b2a" stroke-width="3" stroke-dasharray="9 8"/>
+    <path d="M2010 370 A80 70 0 0 1 2035 445" fill="none" stroke="#2f6f9f" stroke-width="6" marker-end="url(#arrow-blue)"/>
+    <text x="2070" y="405" class="body">θ</text>
+    <text x="1930" y="595" text-anchor="middle" class="body">pickup X/Y/θ offset measured</text>
+    <text x="1930" y="625" text-anchor="middle" class="small">controller compensates placement motion</text>
+  </g>
+
+  <!-- SEQUENCE ARROWS TOP -->
+  <line x1="560" y1="350" x2="585" y2="350" class="seq"/>
+  <line x1="1080" y1="350" x2="1105" y2="350" class="seq"/>
+  <line x1="1600" y1="350" x2="1625" y2="350" class="seq"/>
+
+  <!-- ROW TRANSITION -->
+  <path d="M2140 650 L2140 725 L260 725 L260 800" class="seq"/>
+  <rect x="970" y="686" width="360" height="64" rx="18" fill="#ffffff"/>
+  <text x="1150" y="730" text-anchor="middle" class="body">continue to Step 5</text>
+
+  <!-- BOTTOM ROW -->
+  <!-- Step 5 -->
+  <g id="step5">
+    <rect x="140" y="800" width="610" height="620" rx="24" class="panel"/>
+    <rect x="140" y="800" width="610" height="78" rx="24" class="hdr"/>
+    <circle cx="190" cy="839" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
+    <text x="190" y="850" text-anchor="middle" class="num">5</text>
+    <text x="235" y="850" class="title">Move to corrected location</text>
+
+    <!-- left head/component -->
+    <rect x="250" y="980" width="85" height="82" rx="16" class="nozzle"/>
+    <rect x="276" y="1062" width="32" height="72" rx="9" class="nozzle"/>
+    <rect x="240" y="1145" width="105" height="45" rx="9" class="component"/>
+    <rect x="225" y="1153" width="15" height="29" class="endcap"/>
+    <rect x="345" y="1153" width="15" height="29" class="endcap"/>
+    <!-- board target -->
+    <rect x="475" y="1120" width="200" height="110" rx="12" class="pcb"/>
+    <rect x="520" y="1155" width="52" height="22" rx="4" class="paste"/>
+    <rect x="590" y="1155" width="52" height="22" rx="4" class="paste"/>
+    <line x1="355" y1="1105" x2="500" y2="1105" class="local"/>
+    <text x="425" y="1080" text-anchor="middle" class="body">X/Y transfer</text>
+    <text x="445" y="1295" text-anchor="middle" class="body">Head carries picked component</text>
+    <text x="445" y="1332" text-anchor="middle" class="small">toward corrected board position</text>
+  </g>
+
+  <!-- Step 6 -->
+  <g id="step6">
+    <rect x="845" y="800" width="610" height="620" rx="24" class="panel"/>
+    <rect x="845" y="800" width="610" height="78" rx="24" class="hdr"/>
+    <circle cx="895" cy="839" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
+    <text x="895" y="850" text-anchor="middle" class="num">6</text>
+    <text x="940" y="850" class="title">Rotate to orientation</text>
+
+    <rect x="1100" y="980" width="90" height="90" rx="18" class="nozzle"/>
+    <rect x="1128" y="1070" width="34" height="85" rx="10" class="nozzle"/>
+    <g transform="rotate(-18 1145 1190)">
+      <rect x="1095" y="1170" width="100" height="44" rx="9" class="component"/>
+      <rect x="1080" y="1178" width="15" height="28" class="endcap"/>
+      <rect x="1195" y="1178" width="15" height="28" class="endcap"/>
+    </g>
+    <path d="M1035 1160 A120 95 0 1 1 1245 1165" fill="none" stroke="#2f6f9f" stroke-width="7" marker-end="url(#arrow-blue)"/>
+    <text x="1275" y="1165" class="title">θ</text>
+    <rect x="1078" y="1270" width="145" height="70" rx="10" fill="#f5f8fa" stroke="#9fb2c0" stroke-width="3"/>
+    <rect x="1123" y="1294" width="55" height="22" rx="4" fill="#7d8a94"/>
+    <text x="1150" y="1375" text-anchor="middle" class="body">Match programmed orientation</text>
+  </g>
+
+  <!-- Step 7 -->
+  <g id="step7">
+    <rect x="1550" y="800" width="610" height="620" rx="24" class="panel"/>
+    <rect x="1550" y="800" width="610" height="78" rx="24" class="hdr"/>
+    <circle cx="1600" cy="839" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
+    <text x="1600" y="850" text-anchor="middle" class="num">7</text>
+    <text x="1645" y="850" class="title">Place, release, retract</text>
+
+    <!-- board -->
+    <rect x="1660" y="1190" width="390" height="125" rx="14" class="pcb"/>
+    <rect x="1740" y="1225" width="80" height="25" rx="4" class="pad"/>
+    <rect x="1888" y="1225" width="80" height="25" rx="4" class="pad"/>
+    <!-- paste -->
+    <rect x="1745" y="1212" width="70" height="17" rx="5" class="paste"/>
+    <rect x="1893" y="1212" width="70" height="17" rx="5" class="paste"/>
+    <!-- component seated on paste; end caps overlap paste deposits slightly -->
+    <rect x="1807" y="1183" width="95" height="47" rx="9" class="component"/>
+    <rect x="1792" y="1192" width="15" height="29" class="endcap"/>
+    <rect x="1902" y="1192" width="15" height="29" class="endcap"/>
+
+    <!-- retracted nozzle with visible release gap -->
+    <rect x="1810" y="940" width="90" height="90" rx="18" class="nozzle"/>
+    <rect x="1838" y="1030" width="34" height="70" rx="10" class="nozzle"/>
+    <path d="M1845 1100 L1865 1100 L1880 1128 L1830 1128 Z" class="nozzle"/>
+    <line x1="1990" y1="1150" x2="1990" y2="995" class="local"/>
+    <text x="2025" y="1095" class="body">Z up</text>
+    <text x="1855" y="1360" text-anchor="middle" class="body">Component remains in solder paste</text>
+    <text x="1855" y="1396" text-anchor="middle" class="small">no solder joint yet — reflow comes later</text>
+  </g>
+
+  <!-- BOTTOM SEQUENCE ARROWS -->
+  <line x1="750" y1="1085" x2="840" y2="1085" class="seq"/>
+  <line x1="1455" y1="1085" x2="1545" y2="1085" class="seq"/>
+</svg>

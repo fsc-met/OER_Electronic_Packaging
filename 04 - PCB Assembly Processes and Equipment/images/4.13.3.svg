@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2240" height="1320" viewBox="0 0 2240 1320" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <marker id="arrow-amber" markerWidth="15" markerHeight="15" refX="12" refY="7.5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L15,7.5 L0,15 Z" fill="#b8782a"/>
+    </marker>
+    <style>
+      .panel { fill:#f8fafc; stroke:#bfd0dc; stroke-width:4; }
+      .pcb { fill:#82b68b; stroke:#4d7f59; stroke-width:4; }
+      .pad { fill:#d6b651; stroke:#987a28; stroke-width:3; }
+      .paste { fill:#b5bcc2; stroke:#707980; stroke-width:2; }
+      .comp { fill:#4d5863; stroke:#293640; stroke-width:4; }
+      .endcap { fill:#c8cfd5; stroke:#6d7a85; stroke-width:3; }
+      .title { font-family: Arial, Helvetica, sans-serif; font-size:35px; font-weight:700; fill:#20364f; }
+      .body { font-family: Arial, Helvetica, sans-serif; font-size:27px; fill:#415364; }
+      .small { font-family: Arial, Helvetica, sans-serif; font-size:27px; fill:#526474; }
+      .warn { fill:#fff6e9; stroke:#ddb980; stroke-width:3; }
+      .leader { fill:none; stroke:#b8782a; stroke-width:5; marker-end:url(#arrow-amber); }
+      .ref { fill:#f1c46a; stroke:#8b632d; stroke-width:3; }
+    </style>
+  </defs>
+
+  <!-- explicit white background -->
+  <rect x="0" y="0" width="2240" height="1320" fill="#ffffff"/>
+
+  <rect x="590" y="16" width="1060" height="38" rx="14" fill="#eef4f8" stroke="#c1d1dc" stroke-width="2"/>
+  <text x="1120" y="43" text-anchor="middle" class="small">Pre-reflow comparison • solder paste remains visible; no solder joints yet</text>
+
+  <!-- PANEL 1: Acceptable -->
+  <g id="acceptable">
+    <rect x="70" y="70" width="660" height="500" rx="28" class="panel"/>
+    <text x="400" y="125" text-anchor="middle" class="title">Acceptable placement</text>
+    <rect x="145" y="175" width="510" height="300" rx="20" class="pcb"/>
+    <!-- fixed footprint -->
+    <rect x="245" y="305" width="105" height="70" rx="8" class="pad"/>
+    <rect x="450" y="305" width="105" height="70" rx="8" class="pad"/>
+    <rect x="258" y="318" width="78" height="44" rx="6" class="paste"/>
+    <rect x="463" y="318" width="78" height="44" rx="6" class="paste"/>
+    <!-- centered component -->
+    <rect x="325" y="300" width="150" height="80" rx="15" class="comp"/>
+    <rect x="305" y="312" width="20" height="56" rx="4" class="endcap"/>
+    <rect x="475" y="312" width="20" height="56" rx="4" class="endcap"/>
+    <text x="400" y="520" text-anchor="middle" class="small">centered on the intended paste / pads</text>
+  </g>
+
+  <!-- PANEL 2: Missing -->
+  <g id="missing">
+    <rect x="790" y="70" width="660" height="500" rx="28" class="panel"/>
+    <text x="1120" y="125" text-anchor="middle" class="title">Missing component</text>
+    <rect x="865" y="175" width="510" height="300" rx="20" class="pcb"/>
+    <rect x="965" y="305" width="105" height="70" rx="8" class="pad"/>
+    <rect x="1170" y="305" width="105" height="70" rx="8" class="pad"/>
+    <rect x="978" y="318" width="78" height="44" rx="6" class="paste"/>
+    <rect x="1183" y="318" width="78" height="44" rx="6" class="paste"/>
+    <text x="1120" y="520" text-anchor="middle" class="small">paste visible; intended footprint is empty</text>
+  </g>
+
+  <!-- PANEL 3: Shifted -->
+  <g id="shifted">
+    <rect x="1510" y="70" width="660" height="500" rx="28" class="panel"/>
+    <text x="1840" y="125" text-anchor="middle" class="title">Shifted component</text>
+    <rect x="1585" y="175" width="510" height="300" rx="20" class="pcb"/>
+    <rect x="1685" y="305" width="105" height="70" rx="8" class="pad"/>
+    <rect x="1890" y="305" width="105" height="70" rx="8" class="pad"/>
+    <rect x="1698" y="318" width="78" height="44" rx="6" class="paste"/>
+    <rect x="1903" y="318" width="78" height="44" rx="6" class="paste"/>
+    <!-- component shifted +55 x, +28 y -->
+    <rect x="1800" y="328" width="150" height="80" rx="15" class="comp"/>
+    <rect x="1780" y="340" width="20" height="56" rx="4" class="endcap"/>
+    <rect x="1950" y="340" width="20" height="56" rx="4" class="endcap"/>
+    <text x="1840" y="520" text-anchor="middle" class="small">component visibly offset from the footprint</text>
+  </g>
+
+  <!-- PANEL 4: Wrong orientation/polarity -->
+  <g id="orientation">
+    <rect x="430" y="625" width="660" height="500" rx="28" class="panel"/>
+    <text x="760" y="680" text-anchor="middle" class="title">Wrong orientation / polarity</text>
+    <rect x="505" y="730" width="510" height="300" rx="20" class="pcb"/>
+    <!-- diode footprint with fixed expected reference on left -->
+    <rect x="605" y="860" width="105" height="70" rx="8" class="pad"/>
+    <rect x="810" y="860" width="105" height="70" rx="8" class="pad"/>
+    <rect x="618" y="873" width="78" height="44" rx="6" class="paste"/>
+    <rect x="823" y="873" width="78" height="44" rx="6" class="paste"/>
+    <!-- expected footprint band/reference on left -->
+    <rect x="577" y="845" width="18" height="100" rx="5" class="ref"/>
+    <text x="570" y="820" text-anchor="middle" class="small">expected</text>
+    <text x="570" y="852" text-anchor="middle" class="small">band</text>
+    <!-- polarized component, intentionally reversed: component band on right -->
+    <rect x="685" y="855" width="150" height="80" rx="15" class="comp"/>
+    <rect x="665" y="867" width="20" height="56" rx="4" class="endcap"/>
+    <rect x="835" y="867" width="20" height="56" rx="4" class="endcap"/>
+    <rect x="810" y="855" width="18" height="80" fill="#f1c46a" stroke="#8b632d" stroke-width="3"/>
+    <text x="880" y="820" class="small">component band</text>
+    <path d="M890 832 L828 875" class="leader"/>
+    <text x="760" y="1075" text-anchor="middle" class="small">footprint reference fixed; component reversed</text>
+  </g>
+
+  <!-- PANEL 5: Dropped/stray -->
+  <g id="dropped">
+    <rect x="1150" y="625" width="660" height="500" rx="28" class="panel"/>
+    <text x="1480" y="680" text-anchor="middle" class="title">Dropped / stray component</text>
+    <rect x="1225" y="730" width="510" height="300" rx="20" class="pcb"/>
+    <!-- intended footprint remains empty -->
+    <rect x="1325" y="860" width="105" height="70" rx="8" class="pad"/>
+    <rect x="1530" y="860" width="105" height="70" rx="8" class="pad"/>
+    <rect x="1338" y="873" width="78" height="44" rx="6" class="paste"/>
+    <rect x="1543" y="873" width="78" height="44" rx="6" class="paste"/>
+    <!-- stray component off footprint -->
+    <g transform="rotate(18 1635 790)">
+      <rect x="1560" y="750" width="150" height="80" rx="15" class="comp"/>
+      <rect x="1540" y="762" width="20" height="56" rx="4" class="endcap"/>
+      <rect x="1710" y="762" width="20" height="56" rx="4" class="endcap"/>
+    </g>
+    <text x="1480" y="1075" text-anchor="middle" class="small">empty footprint + loose part nearby</text>
+  </g>
+
+  <!-- global teaching note -->
+  <rect x="360" y="1170" width="1520" height="95" rx="24" class="warn"/>
+  <text x="1120" y="1210" text-anchor="middle" class="title">Observation ≠ root cause</text>
+  <text x="1120" y="1248" text-anchor="middle" class="body">Use machine + feeder + vision + material + setup evidence to determine what happened.</text>
+</svg>

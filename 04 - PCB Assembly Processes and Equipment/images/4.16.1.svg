@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1420" viewBox="0 0 2400 1420" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <marker id="flowArrow" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L18,9 L0,18 Z" fill="#3f6f91"/>
+    </marker>
+    <marker id="influenceArrow" markerWidth="15" markerHeight="15" refX="13" refY="7.5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L15,7.5 L0,15 Z" fill="#6f7882"/>
+    </marker>
+    <marker id="backArrow" markerWidth="18" markerHeight="18" refX="2" refY="9" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M18,0 L0,9 L18,18 Z" fill="#324a5f"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="2400" height="1420" fill="#ffffff"/>
+
+  <!-- Upstream influence boxes -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#263746">
+    <rect x="120" y="70" width="620" height="205" rx="24" fill="#f4f7f9" stroke="#557d96" stroke-width="4"/>
+    <text x="160" y="125" font-size="42" font-weight="700">Design / land pattern</text>
+    <text x="160" y="177" font-size="32">pad geometry • spacing</text>
+    <text x="160" y="221" font-size="32">copper balance • solder-mask geometry</text>
+
+
+    <rect x="890" y="70" width="620" height="205" rx="24" fill="#f5f8f3" stroke="#548260" stroke-width="4"/>
+    <text x="930" y="125" font-size="42" font-weight="700">Component / PCB condition</text>
+    <text x="930" y="177" font-size="32">solderability • oxidation</text>
+    <text x="930" y="221" font-size="32">warpage • damage • surface condition</text>
+
+
+    <rect x="1660" y="70" width="620" height="205" rx="24" fill="#faf7f1" stroke="#a07842" stroke-width="4"/>
+    <text x="1700" y="125" font-size="42" font-weight="700">Handling / material status</text>
+    <text x="1700" y="177" font-size="32">paste condition • storage</text>
+    <text x="1700" y="221" font-size="32">moisture • contamination • handling</text>
+
+  </g>
+
+  <!-- Influence routing lanes -->
+  <g fill="none" stroke="#6f7882" stroke-width="4" stroke-dasharray="13 11">
+    <!-- Design / land-pattern influence lane -->
+    <path d="M430 275 V390 H250"/>
+    <path d="M250 390 H1380"/>
+    <path d="M250 390 V510" marker-end="url(#influenceArrow)"/>
+    <path d="M780 390 V510" marker-end="url(#influenceArrow)"/>
+    <path d="M1380 390 V510" marker-end="url(#influenceArrow)"/>
+
+    <!-- Component / PCB condition influence lane -->
+    <path d="M1200 275 V435 H965"/>
+    <path d="M965 435 H2110"/>
+    <path d="M965 435 V510" marker-end="url(#influenceArrow)"/>
+    <path d="M1565 435 V510" marker-end="url(#influenceArrow)"/>
+    <path d="M2110 435 V510" marker-end="url(#influenceArrow)"/>
+
+    <!-- Handling / material-status influence lane -->
+    <path d="M1970 275 V480 H520"/>
+    <path d="M520 480 V510" marker-end="url(#influenceArrow)"/>
+    <path d="M1140 480 V510" marker-end="url(#influenceArrow)"/>
+    <path d="M1730 480 V510" marker-end="url(#influenceArrow)"/>
+  </g>
+
+
+  <!-- Crossover halos keep influence lanes visually unambiguous -->
+  <g fill="none" stroke="#ffffff" stroke-width="14">
+    <path d="M1200 275 V435"/>
+    <path d="M1970 275 V480"/>
+  </g>
+  <g fill="none" stroke="#6f7882" stroke-width="4" stroke-dasharray="13 11">
+    <path d="M1200 275 V435"/>
+    <path d="M1970 275 V480"/>
+  </g>
+
+  <!-- Process spine cards -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#243646">
+    <!-- Printing -->
+    <rect x="115" y="510" width="500" height="430" rx="26" fill="#f6fafc" stroke="#537f9c" stroke-width="5"/>
+    <rect x="115" y="510" width="500" height="86" rx="26" fill="#dcebf4"/>
+    <rect x="115" y="570" width="500" height="26" fill="#dcebf4"/>
+    <text x="365" y="564" text-anchor="middle" font-size="42" font-weight="700">Solder-paste printing</text>
+    <!-- stencil / pads -->
+    <rect x="205" y="655" width="320" height="34" rx="5" fill="#cfd5da" stroke="#4c5963" stroke-width="3"/>
+    <rect x="245" y="690" width="240" height="96" rx="10" fill="#5f996a" stroke="#315f3b" stroke-width="4"/>
+    <rect x="275" y="715" width="70" height="28" rx="4" fill="#d6a44b"/>
+    <rect x="385" y="715" width="70" height="28" rx="4" fill="#d6a44b"/>
+    <rect x="275" y="687" width="70" height="20" rx="4" fill="#9a9fa4"/>
+    <rect x="385" y="687" width="70" height="20" rx="4" fill="#9a9fa4"/>
+    <path d="M295 655 V688 M415 655 V688" stroke="#707981" stroke-width="4"/>
+    <text x="365" y="836" text-anchor="middle" font-size="31" font-weight="700">Key evidence</text>
+    <text x="365" y="878" text-anchor="middle" font-size="30">paste volume • registration</text>
+    <text x="365" y="918" text-anchor="middle" font-size="30">release • stencil condition</text>
+
+    <!-- Placement -->
+    <rect x="715" y="510" width="500" height="430" rx="26" fill="#f7faf7" stroke="#548260" stroke-width="5"/>
+    <rect x="715" y="510" width="500" height="86" rx="26" fill="#e0efe3"/>
+    <rect x="715" y="570" width="500" height="26" fill="#e0efe3"/>
+    <text x="965" y="564" text-anchor="middle" font-size="42" font-weight="700">Component placement</text>
+    <!-- nozzle / component / pads -->
+    <rect x="915" y="620" width="100" height="76" rx="10" fill="#687681" stroke="#34424d" stroke-width="4"/>
+    <path d="M940 696 L925 737 H1005 L990 696 Z" fill="#44515a" stroke="#2e3940" stroke-width="3"/>
+    <rect x="895" y="742" width="140" height="54" rx="8" fill="#3f4a53" stroke="#29343c" stroke-width="3"/>
+    <rect x="840" y="807" width="250" height="54" rx="10" fill="#5f996a" stroke="#315f3b" stroke-width="4"/>
+    <rect x="865" y="819" width="70" height="24" rx="4" fill="#d6a44b"/>
+    <rect x="995" y="819" width="70" height="24" rx="4" fill="#d6a44b"/>
+    <path d="M965 796 V807" stroke="#6f7882" stroke-width="4" stroke-dasharray="8 8"/>
+    <text x="965" y="888" text-anchor="middle" font-size="31" font-weight="700">Key evidence</text>
+    <text x="965" y="925" text-anchor="middle" font-size="30">position • rotation • seating</text>
+
+    <!-- Reflow -->
+    <rect x="1315" y="510" width="500" height="430" rx="26" fill="#fcf8f4" stroke="#a07842" stroke-width="5"/>
+    <rect x="1315" y="510" width="500" height="86" rx="26" fill="#f3e7d8"/>
+    <rect x="1315" y="570" width="500" height="26" fill="#f3e7d8"/>
+    <text x="1565" y="564" text-anchor="middle" font-size="42" font-weight="700">Reflow</text>
+    <!-- oven -->
+    <rect x="1400" y="650" width="330" height="140" rx="18" fill="#d9dde0" stroke="#525e67" stroke-width="4"/>
+    <rect x="1435" y="688" width="260" height="72" rx="9" fill="#f8e8d2" stroke="#7f705f" stroke-width="3"/>
+    <path d="M1470 688 V735 M1535 688 V735 M1600 688 V735 M1665 688 V735" stroke="#d36b3f" stroke-width="7" marker-end="url(#influenceArrow)"/>
+    <rect x="1475" y="735" width="180" height="26" rx="4" fill="#5f996a" stroke="#315f3b" stroke-width="3"/>
+    <rect x="1520" y="714" width="95" height="32" rx="6" fill="#3f4a53"/>
+    <text x="1565" y="836" text-anchor="middle" font-size="31" font-weight="700">Key evidence</text>
+    <text x="1565" y="878" text-anchor="middle" font-size="29">heating • wetting</text>
+    <text x="1565" y="918" text-anchor="middle" font-size="29">thermal history • atmosphere</text>
+
+    <!-- Final observation -->
+    <rect x="1915" y="510" width="370" height="430" rx="26" fill="#f6f5f9" stroke="#6d638c" stroke-width="5"/>
+    <rect x="1915" y="510" width="370" height="86" rx="26" fill="#e9e6f2"/>
+    <rect x="1915" y="570" width="370" height="26" fill="#e9e6f2"/>
+    <text x="2100" y="548" text-anchor="middle" font-size="37" font-weight="700">Post-reflow defect</text>
+    <text x="2100" y="587" text-anchor="middle" font-size="37" font-weight="700">observed</text>
+    <!-- generic assembled joint + evidence icon -->
+    <rect x="2010" y="710" width="180" height="40" rx="6" fill="#5f996a" stroke="#315f3b" stroke-width="3"/>
+    <rect x="2055" y="665" width="90" height="64" rx="8" fill="#3f4a53" stroke="#29343c" stroke-width="3"/>
+    <path d="M2055 729 Q2070 750 2090 742" fill="none" stroke="#b6bdc2" stroke-width="12" stroke-linecap="round"/>
+    <path d="M2145 729 Q2130 750 2110 742" fill="none" stroke="#b6bdc2" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="2180" cy="688" r="58" fill="#ffffff" stroke="#6d638c" stroke-width="6"/>
+    <circle cx="2162" cy="674" r="24" fill="none" stroke="#6d638c" stroke-width="6"/>
+    <line x1="2179" y1="691" x2="2210" y2="722" stroke="#6d638c" stroke-width="8" stroke-linecap="round"/>
+    <text x="2100" y="826" text-anchor="middle" font-size="31" font-weight="700">Observation = evidence</text>
+    <text x="2100" y="870" text-anchor="middle" font-size="28">not an automatic</text>
+    <text x="2100" y="906" text-anchor="middle" font-size="28">root-cause diagnosis</text>
+  </g>
+
+  <!-- Process flow arrows -->
+  <g fill="none" stroke="#3f6f91" stroke-width="10" marker-end="url(#flowArrow)">
+    <line x1="625" y1="725" x2="695" y2="725"/>
+    <line x1="1225" y1="725" x2="1295" y2="725"/>
+    <line x1="1825" y1="725" x2="1895" y2="725"/>
+  </g>
+
+  <!-- Work backward cue -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="420" y="1030" width="1560" height="195" rx="30" fill="#f4f7f9" stroke="#9ca9b3" stroke-width="3"/>
+    <text x="1200" y="1085" text-anchor="middle" font-size="37" font-weight="700" fill="#263746">Troubleshooting: work backward from evidence</text>
+    <line x1="1780" y1="1142" x2="620" y2="1142" stroke="#324a5f" stroke-width="8" marker-end="url(#backArrow)"/>
+    <text x="1200" y="1198" text-anchor="middle" font-size="30" fill="#51616e">One symptom can have several sources — collect evidence before changing the process.</text>
+  </g>
+
+  <!-- Legend -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#51616e">
+    <line x1="720" y1="1325" x2="840" y2="1325" stroke="#3f6f91" stroke-width="9" marker-end="url(#flowArrow)"/>
+    <text x="875" y="1337" font-size="30">physical process flow</text>
+    <line x1="1390" y1="1325" x2="1510" y2="1325" stroke="#6f7882" stroke-width="4" stroke-dasharray="13 11" marker-end="url(#influenceArrow)"/>
+    <text x="1545" y="1337" font-size="30">possible upstream influence</text>
+  </g>
+</svg>

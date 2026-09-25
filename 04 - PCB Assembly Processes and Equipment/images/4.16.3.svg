@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1600" viewBox="0 0 2600 1600" preserveAspectRatio="xMidYMid meet">
+<defs>
+  <marker id="arrow" markerWidth="22" markerHeight="22" refX="17" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L18,7 L0,14 z" fill="#38556b"/></marker>
+  <style>
+    .t{font-family:Arial,Helvetica,sans-serif;fill:#263746}.h{font-size:50px;font-weight:700}.sub{font-size:38px;font-weight:700}.body{font-size:33px}.small{font-size:29px}.tiny{font-size:25px}.panel{fill:#fff;stroke:#c8d3dc;stroke-width:4}.pcb{fill:#4d9b66;stroke:#2f6d47;stroke-width:4}.pad{fill:#d7a93a;stroke:#8a6514;stroke-width:3}.pkg{fill:#4a4f55;stroke:#222b31;stroke-width:4}.ball{fill:#d9dde0;stroke:#6f777d;stroke-width:4}.joint{fill:#c8cdd1;stroke:#6f777d;stroke-width:4}.blue{fill:#eaf4fb;stroke:#4a91be;stroke-width:3}.orange{fill:#fff1df;stroke:#d8892f;stroke-width:3}.red{fill:#f9e8e8;stroke:#c84e4e;stroke-width:3}.leader{fill:none;stroke:#38556b;stroke-width:5;marker-end:url(#arrow)}
+  </style>
+</defs>
+<rect x="0" y="0" width="2600" height="1600" fill="#ffffff"/>
+
+<!-- External view -->
+<rect class="panel" x="110" y="105" width="790" height="1230" rx="28"/>
+<rect x="110" y="105" width="790" height="125" rx="28" fill="#dbeaf4"/>
+<text class="t h" x="505" y="185" text-anchor="middle">Top view - joints hidden</text>
+
+<polygon points="220,535 685,450 800,665 334,754" fill="#4f9f68" stroke="#2f6d47" stroke-width="5"/>
+<polygon points="334,754 800,665 800,727 334,818" fill="#d0b555" stroke="#7b6925" stroke-width="4"/>
+<g fill="#d6a63c" opacity="0.9">
+ <rect x="267" y="582" width="68" height="24" rx="8" transform="rotate(-10 267 582)"/>
+ <rect x="675" y="515" width="70" height="24" rx="8" transform="rotate(-10 675 515)"/>
+ <rect x="690" y="681" width="65" height="24" rx="8" transform="rotate(-10 690 681)"/>
+ <rect x="382" y="713" width="68" height="24" rx="8" transform="rotate(-10 382 713)"/>
+</g>
+<g fill="#e8d6a7" stroke="#6f777d" stroke-width="3">
+ <rect x="250" y="550" width="58" height="34" rx="5" transform="rotate(-10 250 550)"/>
+ <rect x="688" y="488" width="58" height="34" rx="5" transform="rotate(-10 688 488)"/>
+ <rect x="678" y="665" width="62" height="34" rx="5" transform="rotate(-10 678 665)"/>
+ <rect x="397" y="695" width="58" height="34" rx="5" transform="rotate(-10 397 695)"/>
+</g>
+<polygon points="365,512 632,463 720,630 451,682" class="pkg"/>
+<text class="t sub" x="544" y="578" text-anchor="middle" fill="#ffffff">BGA</text>
+<text class="t body" x="505" y="900" text-anchor="middle">Package appears normal from above.</text>
+<text class="t body" x="505" y="952" text-anchor="middle">The solder joints are underneath the body.</text>
+<text class="t small" x="505" y="1042" text-anchor="middle">Top-side viewing cannot directly show</text>
+<text class="t small" x="505" y="1086" text-anchor="middle">the hidden joint condition.</text>
+<rect x="210" y="1150" width="590" height="100" rx="18" fill="#f4f7f9" stroke="#b8c8d2" stroke-width="3"/>
+<text class="t small" x="505" y="1208" text-anchor="middle">A normal exterior view is not proof</text>
+<text class="t small" x="505" y="1247" text-anchor="middle">that the hidden joints are acceptable.</text>
+
+<!-- transition -->
+<path class="leader" d="M920 720 H1005"/>
+<text class="t small" x="962" y="675" text-anchor="middle">Internal view</text>
+
+<!-- Internal group -->
+<rect class="panel" x="1025" y="105" width="1465" height="1230" rx="28"/>
+<rect x="1025" y="105" width="1465" height="125" rx="28" fill="#edf1f4"/>
+<text class="t h" x="1757" y="185" text-anchor="middle">Hidden joint conditions - simplified internal views</text>
+
+<!-- Bridge panel -->
+<rect class="blue" x="1100" y="260" width="1315" height="320" rx="20"/>
+<text class="t sub" x="1160" y="325">Bridge</text>
+<text class="t small" x="1160" y="377">Adjacent joints become electrically connected</text>
+<text class="t small" x="1160" y="418">by unintended solder.</text>
+<!-- graphic right -->
+<g transform="translate(1710,300)">
+ <rect class="pkg" x="0" y="0" width="550" height="48" rx="5"/>
+ <rect class="pad" x="64" y="48" width="78" height="18"/><rect class="pad" x="408" y="48" width="78" height="18"/>
+ <path class="joint" d="M70 66 C44 92 46 152 78 180 C104 203 134 203 160 180 C191 152 193 92 167 66 Z"/>
+ <path class="joint" d="M414 66 C388 92 390 152 422 180 C448 203 478 203 504 180 C535 152 537 92 511 66 Z"/>
+ <path d="M154 147 C234 118 346 118 426 147 L426 180 C335 157 245 157 154 180 Z" fill="#c8cdd1" stroke="#6f777d" stroke-width="4"/>
+ <rect class="pad" x="53" y="180" width="120" height="18"/><rect class="pad" x="397" y="180" width="120" height="18"/>
+ <rect class="pcb" x="-25" y="198" width="600" height="30" rx="3"/>
+</g>
+
+<!-- Void panel -->
+<rect class="orange" x="1100" y="605" width="1315" height="320" rx="20"/>
+<text class="t sub" x="1160" y="660">Void</text>
+<text class="t small" x="1160" y="711">An enclosed cavity exists inside the solder.</text>
+<text class="t small" x="1160" y="752">The joint can still be physically connected.</text>
+<g transform="translate(1840,620)">
+ <rect class="pkg" x="0" y="0" width="420" height="48" rx="5"/>
+ <rect class="pad" x="171" y="48" width="78" height="18"/>
+ <path class="joint" d="M177 66 C143 99 146 163 184 193 C214 217 245 217 275 193 C313 163 316 99 282 66 Z"/>
+ <ellipse cx="229" cy="145" rx="31" ry="24" fill="#ffffff" stroke="#6f777d" stroke-width="4"/>
+ <rect class="pad" x="160" y="193" width="138" height="18"/>
+ <rect class="pcb" x="-65" y="211" width="550" height="30" rx="3"/>
+</g>
+
+<!-- HIP panel -->
+<rect class="red" x="1100" y="950" width="1315" height="320" rx="20"/>
+<text class="t sub" x="1160" y="1008">Head-in-pillow / open</text>
+<text class="t small" x="1160" y="1059">The package ball and pad-side solder do not</text>
+<text class="t small" x="1160" y="1100">fully coalesce, leaving a narrow separation.</text>
+<g transform="translate(1840,970)">
+ <rect class="pkg" x="0" y="0" width="420" height="48" rx="5"/>
+ <rect class="pad" x="171" y="48" width="78" height="18"/>
+ <path class="ball" d="M177 66 C147 95 149 148 181 174 C209 197 241 197 269 174 C301 148 303 95 273 66 Z"/>
+ <rect x="180" y="192" width="90" height="14" fill="#ffffff" stroke="#c84e4e" stroke-width="4"/>
+ <path class="joint" d="M182 205 C157 217 146 235 140 250 H310 C304 235 293 217 268 205 Z"/>
+ <rect class="pad" x="154" y="250" width="145" height="18"/>
+ <rect class="pcb" x="-65" y="268" width="550" height="30" rx="3"/>
+</g>
+
+<!-- bottom evidence cue -->
+<rect x="110" y="1385" width="2380" height="125" rx="22" fill="#eef5f8" stroke="#8eabb9" stroke-width="3"/>
+<text class="t sub" x="200" y="1440">X-ray / internal inspection</text>
+<text class="t body" x="200" y="1484">can provide structural evidence hidden from normal top-side viewing. No single inspection method detects every possible defect.</text>
+</svg>

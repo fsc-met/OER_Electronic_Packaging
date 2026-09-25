@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2460" height="1380" viewBox="0 0 2460 1380" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <marker id="arrow-blue" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#517b9a"/>
+    </marker>
+    <marker id="arrow-green" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#4f8b5f"/>
+    </marker>
+    <marker id="arrow-amber" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#b8782a"/>
+    </marker>
+    <style>
+      .h1 { font-family: Arial, Helvetica, sans-serif; font-size:36px; font-weight:700; fill:#20364f; }
+      .body { font-family: Arial, Helvetica, sans-serif; font-size:28px; fill:#415364; }
+      .small { font-family: Arial, Helvetica, sans-serif; font-size:24px; fill:#526474; }
+      .tiny { font-family: Arial, Helvetica, sans-serif; font-size:22px; fill:#5b6c79; }
+      .box { fill:#f7fafc; stroke:#afc3d2; stroke-width:4; }
+      .box2 { fill:#eef4f8; stroke:#9db7ca; stroke-width:4; }
+      .passbox { fill:#eef7ef; stroke:#7aaa87; stroke-width:4; }
+      .warnbox { fill:#fff6e8; stroke:#d2a25b; stroke-width:4; }
+      .flow { fill:none; stroke:#517b9a; stroke-width:8; marker-end:url(#arrow-blue); }
+      .pass { fill:none; stroke:#4f8b5f; stroke-width:8; marker-end:url(#arrow-green); }
+      .warn { fill:none; stroke:#b8782a; stroke-width:8; marker-end:url(#arrow-amber); }
+      .return { fill:none; stroke:#b8782a; stroke-width:6; stroke-dasharray:14 10; marker-end:url(#arrow-amber); }
+    </style>
+  </defs>
+
+  <!-- Explicit white background -->
+  <rect x="0" y="0" width="2460" height="1380" fill="#ffffff"/>
+
+  <!-- subtle context note, not an overall title -->
+  <rect x="720" y="58" width="1020" height="64" rx="20" fill="#f3f7fa" stroke="#c7d5de" stroke-width="3"/>
+  <text x="1230" y="100" text-anchor="middle" class="small">Generic verification logic — local procedures vary</text>
+
+  <!-- STEP 1 -->
+  <g id="step1">
+    <rect x="80" y="230" width="350" height="410" rx="28" class="box"/>
+    <circle cx="130" cy="280" r="29" fill="#dcebf5" stroke="#7195ad" stroke-width="3"/>
+    <text x="130" y="291" text-anchor="middle" class="h1">1</text>
+    <!-- simple job document icon -->
+    <rect x="165" y="258" width="86" height="105" rx="10" fill="#ffffff" stroke="#6f8493" stroke-width="4"/>
+    <line x1="185" y1="288" x2="232" y2="288" stroke="#6f8493" stroke-width="4"/>
+    <line x1="185" y1="310" x2="232" y2="310" stroke="#6f8493" stroke-width="4"/>
+    <line x1="185" y1="332" x2="220" y2="332" stroke="#6f8493" stroke-width="4"/>
+    <text x="255" y="300" class="h1">Correct job</text>
+    <text x="115" y="415" class="body">• product / job ID</text>
+    <text x="115" y="458" class="body">• PCB revision</text>
+    <text x="115" y="501" class="body">• assembly side</text>
+  </g>
+
+  <!-- STEP 2 -->
+  <g id="step2">
+    <rect x="475" y="230" width="370" height="410" rx="28" class="box"/>
+    <circle cx="525" cy="280" r="29" fill="#dcebf5" stroke="#7195ad" stroke-width="3"/>
+    <text x="525" y="291" text-anchor="middle" class="h1">2</text>
+    <!-- reel and feeder icon -->
+    <circle cx="610" cy="306" r="48" fill="#b7c7d3" stroke="#60788a" stroke-width="4"/>
+    <circle cx="610" cy="306" r="15" fill="#ffffff" stroke="#60788a" stroke-width="4"/>
+    <rect x="678" y="280" width="95" height="52" rx="10" fill="#8fa8bb" stroke="#60788a" stroke-width="4"/>
+    <text x="660" y="375" text-anchor="middle" class="h1">Materials + feeders</text>
+    <text x="660" y="420" text-anchor="middle" class="h1">verified</text>
+    <text x="515" y="485" class="body">• correct part / alternate</text>
+    <text x="515" y="528" class="body">• feeder ID / location</text>
+  </g>
+
+  <!-- STEP 3 -->
+  <g id="step3">
+    <rect x="890" y="230" width="405" height="410" rx="28" class="box"/>
+    <circle cx="940" cy="280" r="29" fill="#dcebf5" stroke="#7195ad" stroke-width="3"/>
+    <text x="940" y="291" text-anchor="middle" class="h1">3</text>
+    <!-- nozzle icon -->
+    <rect x="1008" y="255" width="50" height="65" rx="10" fill="#6b7d8a" stroke="#465764" stroke-width="4"/>
+    <rect x="1022" y="320" width="22" height="55" rx="6" fill="#6b7d8a" stroke="#465764" stroke-width="4"/>
+    <path d="M1026 375 L1040 375 L1054 408 L1012 408 Z" fill="#8798a5" stroke="#465764" stroke-width="4"/>
+    <!-- board support icon -->
+    <rect x="1122" y="294" width="120" height="54" rx="8" fill="#83b78b" stroke="#477d56" stroke-width="4"/>
+    <line x1="1147" y1="348" x2="1147" y2="396" stroke="#657582" stroke-width="10"/>
+    <line x1="1217" y1="348" x2="1217" y2="396" stroke="#657582" stroke-width="10"/>
+    <text x="1093" y="455" text-anchor="middle" class="h1">Nozzle/tool +</text>
+    <text x="1093" y="498" text-anchor="middle" class="h1">board support ready</text>
+    <text x="935" y="555" class="body">• suitable clean tool</text>
+    <text x="935" y="598" class="body">• stable board support</text>
+  </g>
+
+  <!-- STEP 4 -->
+  <g id="step4">
+    <rect x="1340" y="230" width="390" height="410" rx="28" class="box"/>
+    <circle cx="1390" cy="280" r="29" fill="#dcebf5" stroke="#7195ad" stroke-width="3"/>
+    <text x="1390" y="291" text-anchor="middle" class="h1">4</text>
+    <!-- fiducial/board icon -->
+    <rect x="1450" y="270" width="180" height="100" rx="10" fill="#83b78b" stroke="#477d56" stroke-width="4"/>
+    <circle cx="1485" cy="302" r="12" fill="#f0d760" stroke="#5e6b75" stroke-width="3"/>
+    <circle cx="1595" cy="338" r="12" fill="#f0d760" stroke="#5e6b75" stroke-width="3"/>
+    <circle cx="1485" cy="302" r="25" fill="none" stroke="#2b8f83" stroke-width="4"/>
+    <text x="1535" y="430" text-anchor="middle" class="h1">Fiducials / board map</text>
+    <text x="1535" y="473" text-anchor="middle" class="h1">reasonable</text>
+    <text x="1385" y="535" class="body">• expected references found</text>
+    <text x="1385" y="578" class="body">• map aligns with footprints</text>
+  </g>
+
+  <!-- STEP 5 -->
+  <g id="step5">
+    <rect x="1775" y="230" width="390" height="410" rx="28" class="box2"/>
+    <circle cx="1825" cy="280" r="29" fill="#dcebf5" stroke="#7195ad" stroke-width="3"/>
+    <text x="1825" y="291" text-anchor="middle" class="h1">5</text>
+    <!-- first board icon -->
+    <rect x="1900" y="270" width="160" height="92" rx="10" fill="#83b78b" stroke="#477d56" stroke-width="4"/>
+    <rect x="1930" y="296" width="45" height="32" rx="5" fill="#4d5963"/>
+    <rect x="1990" y="293" width="35" height="24" rx="4" fill="#4d5963"/>
+    <circle cx="2040" cy="338" r="8" fill="#f0d760"/>
+    <text x="1970" y="425" text-anchor="middle" class="h1">First-board verification</text>
+    <text x="1820" y="485" class="body">• present + oriented</text>
+    <text x="1820" y="528" class="body">• reasonably centered</text>
+    <text x="1820" y="571" class="body">• no abnormal setup / pick</text>
+    <text x="1820" y="604" class="body">  evidence</text>
+  </g>
+
+  <!-- STEP 6 -->
+  <g id="step6">
+    <rect x="2180" y="280" width="240" height="310" rx="28" class="passbox"/>
+    <circle cx="2300" cy="350" r="46" fill="#7fb38a" stroke="#4f8b5f" stroke-width="4"/>
+    <path d="M2283 351 L2299 369 L2330 330" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="2300" y="435" text-anchor="middle" class="h1">Release</text>
+    <text x="2300" y="477" text-anchor="middle" class="h1">normal</text>
+    <text x="2300" y="519" text-anchor="middle" class="h1">production</text>
+  </g>
+
+  <!-- Main flow arrows -->
+  <line x1="430" y1="435" x2="468" y2="435" class="flow"/>
+  <line x1="845" y1="435" x2="883" y2="435" class="flow"/>
+  <line x1="1295" y1="435" x2="1333" y2="435" class="flow"/>
+  <line x1="1730" y1="435" x2="1768" y2="435" class="flow"/>
+  <line x1="2165" y1="435" x2="2173" y2="435" class="pass"/>
+  <rect x="2108" y="365" width="92" height="44" rx="16" fill="#eef7ef" stroke="#7aaa87" stroke-width="3"/>
+  <text x="2154" y="395" text-anchor="middle" class="small" fill="#4f8b5f">PASS</text>
+
+  <!-- Mismatch branch -->
+  <line x1="1970" y1="640" x2="1970" y2="755" class="warn"/>
+  <rect x="1975" y="680" width="400" height="56" rx="17" fill="#fff6e8" stroke="#d2a25b" stroke-width="3"/>
+  <text x="2175" y="718" text-anchor="middle" class="body" fill="#8c591f">Mismatch / abnormal evidence</text>
+
+  <rect x="1375" y="805" width="1035" height="300" rx="28" class="warnbox"/>
+  <text x="1892" y="865" text-anchor="middle" class="h1" fill="#8c591f">STOP • correct setup • verify again</text>
+  <text x="1435" y="930" class="body">• identify the affected setup step(s)</text>
+  <text x="1435" y="978" class="body">• correct using the approved local procedure</text>
+  <text x="1435" y="1026" class="body">• recheck the first board before release</text>
+
+  <!-- Return arrow to first-board gate -->
+  <path d="M1375 955 C1240 955, 1240 720, 1715 720 C1810 720, 1885 690, 1935 646" class="return"/>
+  <rect x="1145" y="730" width="520" height="58" rx="17" fill="#ffffff" stroke="#e2c28e" stroke-width="2"/>
+  <text x="1405" y="769" text-anchor="middle" class="body" fill="#8c591f">after correction: reverify setup + first board</text>
+
+  <!-- Support-system note outside the required pass path -->
+  <rect x="80" y="805" width="1070" height="300" rx="28" fill="#f6f8fa" stroke="#c8d3da" stroke-width="3"/>
+  <text x="125" y="865" class="h1">Verification aids can support the setup</text>
+  <text x="125" y="930" class="body">Barcode / feeder / reel / nozzle IDs + software interlocks</text>
+  <text x="125" y="975" class="body">can help catch setup mismatches.</text>
+  <text x="125" y="1035" class="small">They do not replace correct job/BOM/library data</text>
+  <text x="125" y="1070" class="small">or first-board evidence.</text>
+</svg>
