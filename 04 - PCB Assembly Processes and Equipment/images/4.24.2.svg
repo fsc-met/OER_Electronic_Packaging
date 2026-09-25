@@ -1,0 +1,311 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3600" height="1900" viewBox="0 0 3600 1900" preserveAspectRatio="xMidYMid meet">
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<defs>
+  <marker id="arrow" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#395B75"/></marker>
+  <marker id="arrowGreen" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#4F9362"/></marker>
+  <marker id="arrowAmber" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#C9821A"/></marker>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif; fill:#22313F}
+    .h{font-size:50px;font-weight:700}
+    .sh{font-size:40px;font-weight:700}
+    .b{font-size:36px}
+    .s{font-size:34px}
+    .xs{font-size:30px}
+    .micro{font-size:27px}
+  </style>
+</defs>
+<line x1="600" y1="720" x2="720" y2="720" stroke="#395B75" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+<line x1="1240" y1="720" x2="1360" y2="720" stroke="#395B75" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+<line x1="2020" y1="720" x2="2140" y2="720" stroke="#395B75" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+<line x1="2660" y1="720" x2="2710" y2="720" stroke="#395B75" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+<g id="verified-material-issued">
+<rect x="80" y="400" width="520" height="650" rx="26" fill="#DCEFEA" stroke="#6FA79A" stroke-width="4"/>
+<text x="340" y="458" class="h" text-anchor="middle">
+<tspan x="340" dy="0">Verified material</tspan>
+<tspan x="340" dy="54">issued</tspan>
+</text>
+<circle cx="240" cy="670" r="92" fill="#F4F5F5" stroke="#66757F" stroke-width="5"/>
+<circle cx="240" cy="670" r="28" fill="#FFFFFF" stroke="#66757F" stroke-width="4"/>
+<circle cx="296.0" cy="670.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<circle cx="240.0" cy="726.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<circle cx="184.0" cy="670.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<circle cx="240.0" cy="614.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<rect x="335" y="555" width="220" height="220" rx="14" fill="#FFFFFF" stroke="#98A99A" stroke-width="3"/>
+<text x="349" y="595" class="micro" text-anchor="start" font-weight="700">
+<tspan x="349" dy="0">ID</tspan>
+</text>
+<text x="541" y="595" class="micro" text-anchor="end">
+<tspan x="541" dy="0">PN A123</tspan>
+</text>
+<text x="349" y="639" class="micro" text-anchor="start" font-weight="700">
+<tspan x="349" dy="0">Lot/date</tspan>
+</text>
+<text x="541" y="639" class="micro" text-anchor="end">
+<tspan x="541" dy="0">L24-7</tspan>
+</text>
+<text x="349" y="683" class="micro" text-anchor="start" font-weight="700">
+<tspan x="349" dy="0">Qty</tspan>
+</text>
+<text x="541" y="683" class="micro" text-anchor="end">
+<tspan x="541" dy="0">5000</tspan>
+</text>
+<text x="349" y="727" class="micro" text-anchor="start" font-weight="700">
+<tspan x="349" dy="0">Status</tspan>
+</text>
+<text x="541" y="727" class="micro" text-anchor="end" fill="#4F9362" font-weight="700">
+<tspan x="541" dy="0">known</tspan>
+</text>
+<rect x="355" y="748" width="4" height="16" fill="#263238"/>
+<rect x="368" y="748" width="7" height="16" fill="#263238"/>
+<rect x="381" y="748" width="3" height="16" fill="#263238"/>
+<rect x="394" y="748" width="5" height="16" fill="#263238"/>
+<rect x="407" y="748" width="9" height="16" fill="#263238"/>
+<rect x="420" y="748" width="4" height="16" fill="#263238"/>
+<rect x="433" y="748" width="6" height="16" fill="#263238"/>
+<rect x="446" y="748" width="3" height="16" fill="#263238"/>
+<rect x="459" y="748" width="8" height="16" fill="#263238"/>
+<rect x="472" y="748" width="5" height="16" fill="#263238"/>
+<rect x="485" y="748" width="4" height="16" fill="#263238"/>
+<rect x="498" y="748" width="7" height="16" fill="#263238"/>
+<rect x="135" y="845" width="410" height="95" rx="18" fill="#F4FAF6" stroke="#8FA985" stroke-width="3"/>
+<circle cx="195" cy="892" r="28" fill="#FFFFFF" stroke="#6E98B8" stroke-width="4"/>
+<path d="M 178 892 l 12 13 l 25 -29" fill="none" stroke="#4F9362" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="235" y="904" class="micro" text-anchor="start" font-weight="700">
+<tspan x="235" dy="0">correct identity + usable status</tspan>
+</text>
+<text x="340" y="980" class="xs" text-anchor="middle" fill="#5D6B78">
+<tspan x="340" dy="0">Controlled information remains</tspan>
+<tspan x="340" dy="34">associated with the material</tspan>
+</text>
+</g>
+<g id="active-job">
+<rect x="720" y="400" width="520" height="650" rx="26" fill="#DDEAF5" stroke="#6E98B8" stroke-width="4"/>
+<text x="980" y="458" class="h" text-anchor="middle">
+<tspan x="980" dy="0">Active PCB</tspan>
+<tspan x="980" dy="54">assembly job</tspan>
+</text>
+<rect x="855" y="600" width="250" height="160" rx="18" fill="#DDEDE3" stroke="#4F9362" stroke-width="4"/>
+<rect x="880" y="628" width="52" height="30" rx="5" fill="#E8EDF2" stroke="#596C7B" stroke-width="2"/>
+<rect x="960" y="624" width="78" height="38" rx="5" fill="#E8EDF2" stroke="#596C7B" stroke-width="2"/>
+<rect x="885" y="686" width="80" height="34" rx="5" fill="#E8EDF2" stroke="#596C7B" stroke-width="2"/>
+<rect x="1000" y="682" width="58" height="36" rx="5" fill="#E8EDF2" stroke="#596C7B" stroke-width="2"/>
+<rect x="1080" y="620" width="14" height="12" fill="#C89A2D"/>
+<rect x="1080" y="644" width="14" height="12" fill="#C89A2D"/>
+<rect x="1080" y="668" width="14" height="12" fill="#C89A2D"/>
+<rect x="1080" y="692" width="14" height="12" fill="#C89A2D"/>
+<rect x="1080" y="716" width="14" height="12" fill="#C89A2D"/>
+<line x1="815" y1="810" x2="1145" y2="810" stroke="#8A9AA8" stroke-width="5" fill="none"/>
+<circle cx="845" cy="810" r="10" fill="#8A9AA8" stroke="none" stroke-width="0"/>
+<circle cx="925" cy="810" r="10" fill="#8A9AA8" stroke="none" stroke-width="0"/>
+<circle cx="1005" cy="810" r="10" fill="#8A9AA8" stroke="none" stroke-width="0"/>
+<circle cx="1085" cy="810" r="10" fill="#8A9AA8" stroke="none" stroke-width="0"/>
+<text x="980" y="880" class="sh" text-anchor="middle">
+<tspan x="980" dy="0">Current product / revision</tspan>
+</text>
+<text x="980" y="940" class="xs" text-anchor="middle" fill="#5D6B78">
+<tspan x="980" dy="0">Material is used in the active job</tspan>
+<tspan x="980" dy="34">under the current controlled setup</tspan>
+</text>
+</g>
+<g id="replenishment">
+<rect x="1360" y="330" width="660" height="790" rx="26" fill="#E8EDF2" stroke="#8A9AA8" stroke-width="4"/>
+<text x="1690" y="390" class="h" text-anchor="middle">
+<tspan x="1690" dy="0">Use / controlled</tspan>
+<tspan x="1690" dy="54">replenishment</tspan>
+</text>
+<circle cx="1480" cy="620" r="70" fill="#F4F5F5" stroke="#66757F" stroke-width="5"/>
+<circle cx="1480" cy="620" r="28" fill="#FFFFFF" stroke="#66757F" stroke-width="4"/>
+<circle cx="1536.0" cy="620.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<circle cx="1480.0" cy="676.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<circle cx="1424.0" cy="620.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<circle cx="1480.0" cy="564.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<rect x="1608" y="550" width="164" height="105" rx="12" fill="#E8EDF2" stroke="#596C7B" stroke-width="3"/>
+<rect x="1626" y="568" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
+<rect x="1662" y="568" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
+<rect x="1698" y="568" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
+<rect x="1734" y="568" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
+<rect x="1626" y="607" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
+<rect x="1662" y="607" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
+<rect x="1698" y="607" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
+<rect x="1734" y="607" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
+<path d="M1850,574 L1956,574 L1942,654 L1864,654 Z" fill="#E8EDF2" stroke="#596C7B" stroke-width="3"/>
+<ellipse cx="1903.0" cy="574" rx="53.0" ry="18" fill="#F4F7FA" stroke="#596C7B" stroke-width="3"/>
+<text x="1903.0" y="620" class="xs" text-anchor="middle">
+<tspan x="1903.0" dy="0">Paste</tspan>
+</text>
+<text x="1480" y="730" class="micro" text-anchor="middle">
+<tspan x="1480" dy="0">new reel / tray</tspan>
+</text>
+<text x="1690" y="705" class="micro" text-anchor="middle">
+<tspan x="1690" dy="0">feeder or tray</tspan>
+<tspan x="1690" dy="30">change</tspan>
+</text>
+<text x="1903" y="705" class="micro" text-anchor="middle">
+<tspan x="1903" dy="0">paste container</tspan>
+<tspan x="1903" dy="30">as applicable</tspan>
+</text>
+<circle cx="1690" cy="835" r="42" fill="#FFFFFF" stroke="#6E98B8" stroke-width="4"/>
+<path d="M 1673 835 l 12 13 l 25 -29" fill="none" stroke="#4F9362" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1690" y="910" class="s" text-anchor="middle" font-weight="700">
+<tspan x="1690" dy="0">Verify identity + required status</tspan>
+<tspan x="1690" dy="38">before replacement material</tspan>
+<tspan x="1690" dy="38">rejoins the active job</tspan>
+</text>
+<text x="1690" y="1050" class="xs" text-anchor="middle" fill="#5D6B78">
+<tspan x="1690" dy="0">Replenishment is another verification point</tspan>
+</text>
+</g>
+<text x="1690" y="165" class="s" text-anchor="middle" fill="#5D6B78">
+<tspan x="1690" dy="0">Replacement material</tspan>
+</text>
+<line x1="1690" y1="195" x2="1690" y2="315" stroke="#6E98B8" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+<g id="partial-material">
+<rect x="2140" y="400" width="520" height="650" rx="26" fill="#EAF1E6" stroke="#8FA985" stroke-width="4"/>
+<text x="2400" y="458" class="h" text-anchor="middle">
+<tspan x="2400" dy="0">Partial / unused</tspan>
+<tspan x="2400" dy="54">material leaves line</tspan>
+</text>
+<circle cx="2295" cy="670" r="92" fill="#F4F5F5" stroke="#66757F" stroke-width="5"/>
+<circle cx="2295" cy="670" r="28" fill="#FFFFFF" stroke="#66757F" stroke-width="4"/>
+<circle cx="2351.0" cy="670.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<circle cx="2295.0" cy="726.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<circle cx="2239.0" cy="670.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<circle cx="2295.0" cy="614.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
+<path d="M 2227 604 A 74 74 0 0 1 2309 598" stroke="#6FA79A" stroke-width="10" fill="none"/>
+<rect x="2380" y="555" width="220" height="220" rx="14" fill="#FFFFFF" stroke="#98A99A" stroke-width="3"/>
+<text x="2394" y="595" class="micro" text-anchor="start" font-weight="700">
+<tspan x="2394" dy="0">ID</tspan>
+</text>
+<text x="2586" y="595" class="micro" text-anchor="end">
+<tspan x="2586" dy="0">PN A123</tspan>
+</text>
+<text x="2394" y="639" class="micro" text-anchor="start" font-weight="700">
+<tspan x="2394" dy="0">Lot/date</tspan>
+</text>
+<text x="2586" y="639" class="micro" text-anchor="end">
+<tspan x="2586" dy="0">L24-7</tspan>
+</text>
+<text x="2394" y="683" class="micro" text-anchor="start" font-weight="700">
+<tspan x="2394" dy="0">Qty</tspan>
+</text>
+<text x="2586" y="683" class="micro" text-anchor="end">
+<tspan x="2586" dy="0">2500</tspan>
+</text>
+<text x="2394" y="727" class="micro" text-anchor="start" font-weight="700">
+<tspan x="2394" dy="0">Status</tspan>
+</text>
+<text x="2586" y="727" class="micro" text-anchor="end" fill="#4F9362" font-weight="700">
+<tspan x="2586" dy="0">known</tspan>
+</text>
+<rect x="2400" y="748" width="4" height="16" fill="#263238"/>
+<rect x="2413" y="748" width="7" height="16" fill="#263238"/>
+<rect x="2426" y="748" width="3" height="16" fill="#263238"/>
+<rect x="2439" y="748" width="5" height="16" fill="#263238"/>
+<rect x="2452" y="748" width="9" height="16" fill="#263238"/>
+<rect x="2465" y="748" width="4" height="16" fill="#263238"/>
+<rect x="2478" y="748" width="6" height="16" fill="#263238"/>
+<rect x="2491" y="748" width="3" height="16" fill="#263238"/>
+<rect x="2504" y="748" width="8" height="16" fill="#263238"/>
+<rect x="2517" y="748" width="5" height="16" fill="#263238"/>
+<rect x="2530" y="748" width="4" height="16" fill="#263238"/>
+<rect x="2543" y="748" width="7" height="16" fill="#263238"/>
+<rect x="2205" y="845" width="390" height="120" rx="18" fill="#F6FAF4" stroke="#A6B99E" stroke-width="3"/>
+<text x="2400" y="890" class="s" text-anchor="middle" font-weight="700">
+<tspan x="2400" dy="0">status stays associated</tspan>
+<tspan x="2400" dy="38">with the material</tspan>
+</text>
+<text x="2400" y="1010" class="xs" text-anchor="middle" fill="#5D6B78">
+<tspan x="2400" dy="0">Needed for the next controlled decision</tspan>
+</text>
+</g>
+<g id="status-decision">
+<polygon points="3020,490 3345,720 3020,950 2695,720" fill="#FFF3D6" stroke="#C89A2D" stroke-width="5"/>
+<text x="3020" y="650" class="h" text-anchor="middle">
+<tspan x="3020" dy="0">Identity + required</tspan>
+<tspan x="3020" dy="56">status preserved?</tspan>
+</text>
+<text x="3020" y="800" class="xs" text-anchor="middle" fill="#5D6B78">
+<tspan x="3020" dy="0">for the next controlled</tspan>
+<tspan x="3020" dy="34">decision</tspan>
+</text>
+</g>
+<g id="approved-return">
+<path d="M 3020 490 V 350" stroke="#4F9362" stroke-width="6" fill="none" marker-end="url(#arrowGreen)"/>
+<text x="3085" y="430" class="s" text-anchor="start" fill="#356F47" font-weight="700">
+<tspan x="3085" dy="0">YES / return permitted</tspan>
+</text>
+<rect x="2700" y="65" width="640" height="270" rx="26" fill="#E3F3E7" stroke="#4F9362" stroke-width="4"/>
+<circle cx="2788" cy="174" r="34" fill="#FFFFFF" stroke="#6E98B8" stroke-width="4"/>
+<path d="M 2771 174 l 12 13 l 25 -29" fill="none" stroke="#4F9362" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="3050" y="125" class="sh" text-anchor="middle">
+<tspan x="3050" dy="0">Approved return /</tspan>
+<tspan x="3050" dy="46">controlled stock status</tspan>
+</text>
+<text x="3050" y="242" class="xs" text-anchor="middle" fill="#356F47">
+<tspan x="3050" dy="0">identity and required status remain usable</tspan>
+</text>
+<text x="3050" y="278" class="micro" text-anchor="middle" fill="#5D6B78">
+<tspan x="3050" dy="0">Return / reuse depends on material</tspan>
+<tspan x="3050" dy="29">and the approved procedure</tspan>
+</text>
+</g>
+<g id="hold-path">
+<path d="M 3020 950 V 1210" stroke="#C9821A" stroke-width="6" fill="none" marker-end="url(#arrowAmber)"/>
+<text x="3080" y="1065" class="xs" text-anchor="start" fill="#A7442D" font-weight="700">
+<tspan x="3080" dy="0">NO / status incomplete</tspan>
+<tspan x="3080" dy="34">or unknown</tspan>
+</text>
+<rect x="2750" y="1225" width="590" height="315" rx="26" fill="#FFF1D6" stroke="#C9821A" stroke-width="4"/>
+<circle cx="2840" cy="1308" r="32" fill="#C9821A" stroke="none" stroke-width="0"/>
+<text x="2840" y="1321" class="sh" text-anchor="middle" fill="#FFFFFF" font-weight="700">
+<tspan x="2840" dy="0">!</tspan>
+</text>
+<text x="3065" y="1320" class="h" text-anchor="middle" fill="#A7442D">
+<tspan x="3065" dy="0">HOLD</tspan>
+</text>
+<text x="3065" y="1405" class="sh" text-anchor="middle">
+<tspan x="3065" dy="0">Verification / disposition</tspan>
+<tspan x="3065" dy="46">required</tspan>
+</text>
+<text x="3045" y="1505" class="xs" text-anchor="middle" fill="#5D6B78">
+<tspan x="3045" dy="0">Do not return unknown-status material</tspan>
+</text>
+</g>
+<g id="status-information">
+<rect x="1940" y="1145" width="760" height="675" rx="24" fill="#F4F7FA" stroke="#8A9AA8" stroke-width="4"/>
+<text x="2320" y="1210" class="sh" text-anchor="middle">
+<tspan x="2320" dy="0">Examples of information needed</tspan>
+<tspan x="2320" dy="44">for the next decision</tspan>
+</text>
+<circle cx="2015" cy="1325" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
+<text x="2045" y="1335" class="xs" text-anchor="start">
+<tspan x="2045" dy="0">material identity</tspan>
+</text>
+<circle cx="2015" cy="1381" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
+<text x="2045" y="1391" class="xs" text-anchor="start">
+<tspan x="2045" dy="0">remaining quantity</tspan>
+</text>
+<circle cx="2015" cy="1437" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
+<text x="2045" y="1447" class="xs" text-anchor="start">
+<tspan x="2045" dy="0">lot / date code</tspan>
+</text>
+<circle cx="2015" cy="1493" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
+<text x="2045" y="1503" class="xs" text-anchor="start">
+<tspan x="2045" dy="0">moisture / exposure status</tspan>
+<tspan x="2045" dy="34">as applicable</tspan>
+</text>
+<circle cx="2015" cy="1575" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
+<text x="2045" y="1585" class="xs" text-anchor="start">
+<tspan x="2045" dy="0">expiration / use status</tspan>
+<tspan x="2045" dy="34">as applicable</tspan>
+</text>
+<circle cx="2015" cy="1657" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
+<text x="2045" y="1667" class="xs" text-anchor="start">
+<tspan x="2045" dy="0">product / process restrictions</tspan>
+<tspan x="2045" dy="34">as applicable</tspan>
+</text>
+<text x="2320" y="1782" class="xs" text-anchor="middle" fill="#5D6B78">
+<tspan x="2320" dy="0">Examples vary by material and approved procedure</tspan>
+</text>
+</g>
+</svg>
