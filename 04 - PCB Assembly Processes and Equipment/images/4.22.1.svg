@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="1780" viewBox="0 0 3000 1780" preserveAspectRatio="xMidYMid meet">
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<defs>
+  <marker id="arrowBlue" markerWidth="18" markerHeight="18" refX="15" refY="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L18,9 L0,18 z" fill="#2f6f9f"/></marker>
+  <marker id="arrowGray" markerWidth="18" markerHeight="18" refX="15" refY="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L18,9 L0,18 z" fill="#647887"/></marker>
+  <marker id="arrowAmber" markerWidth="18" markerHeight="18" refX="15" refY="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L18,9 L0,18 z" fill="#bf6a24"/></marker>
+</defs>
+<g id="frame" font-family="Arial, Helvetica, sans-serif" fill="#1f2d35">
+  <rect x="80" y="70" width="2840" height="920" rx="26" fill="#f8fbfc" stroke="#b8c8d1" stroke-width="4"/>
+  <rect x="80" y="1040" width="2840" height="660" rx="26" fill="#fbfcfc" stroke="#b8c8d1" stroke-width="4"/>
+</g>
+
+<!-- Main process panels -->
+<g id="stageA" font-family="Arial, Helvetica, sans-serif" fill="#1f2d35">
+  <rect x="120" y="110" width="820" height="820" rx="22" fill="#f1f8fc" stroke="#8bb8d6" stroke-width="4"/>
+  <rect x="120" y="110" width="820" height="110" rx="22" fill="#dceef8"/>
+  <text x="160" y="180" font-size="54" font-weight="700">Clean / wash</text>
+  <text x="160" y="272" font-size="34" font-weight="700">Target residue / contamination</text>
+  <line x1="575" y1="290" x2="575" y2="358" stroke="#bf6a24" stroke-width="5" marker-end="url(#arrowAmber)"/>
+
+  <!-- board -->
+  <g id="boardA">
+    <rect x="220" y="560" width="620" height="80" rx="8" fill="#4f9b7d" stroke="#2b5e4a" stroke-width="5"/>
+    <rect x="270" y="472" width="150" height="88" rx="12" fill="#5c6872" stroke="#303a42" stroke-width="4"/>
+    <rect x="500" y="486" width="120" height="74" rx="10" fill="#79858e" stroke="#303a42" stroke-width="4"/>
+    <rect x="690" y="455" width="90" height="105" rx="10" fill="#535f67" stroke="#303a42" stroke-width="4"/>
+    <circle cx="345" cy="645" r="17" fill="#c98a43" stroke="#8a5723" stroke-width="3"/>
+    <circle cx="550" cy="645" r="17" fill="#c98a43" stroke="#8a5723" stroke-width="3"/>
+    <circle cx="735" cy="645" r="17" fill="#c98a43" stroke="#8a5723" stroke-width="3"/>
+    <!-- residue -->
+    <path d="M280 648 q40 25 90 0 q35 28 80 2" fill="none" stroke="#bf6a24" stroke-width="15" stroke-linecap="round"/>
+    <path d="M610 650 q28 20 60 0" fill="none" stroke="#bf6a24" stroke-width="15" stroke-linecap="round"/>
+  </g>
+  <!-- cleaning medium -->
+  <text x="160" y="760" font-size="34" font-weight="700">Cleaning medium</text>
+  <path d="M360 410 C355 455,335 500,325 535" fill="none" stroke="#3a8fb7" stroke-width="11" marker-end="url(#arrowBlue)"/>
+  <path d="M520 410 C520 455,520 505,520 540" fill="none" stroke="#3a8fb7" stroke-width="11" marker-end="url(#arrowBlue)"/>
+  <path d="M690 410 C700 460,715 500,730 535" fill="none" stroke="#3a8fb7" stroke-width="11" marker-end="url(#arrowBlue)"/>
+  <circle cx="360" cy="382" r="18" fill="#75bdd7"/><circle cx="520" cy="382" r="18" fill="#75bdd7"/><circle cx="690" cy="382" r="18" fill="#75bdd7"/>
+  <text x="160" y="834" font-size="31">Wet and mobilize the target residue.</text>
+  <text x="160" y="878" font-size="31">Carry contamination away from the surface.</text>
+</g>
+
+<g id="flowArrow1"><line x1="975" y1="515" x2="1045" y2="515" stroke="#2f6f9f" stroke-width="11" marker-end="url(#arrowBlue)"/></g>
+
+<g id="stageB" font-family="Arial, Helvetica, sans-serif" fill="#1f2d35">
+  <rect x="1080" y="110" width="820" height="820" rx="22" fill="#f2faf6" stroke="#87bfa3" stroke-width="4"/>
+  <rect x="1080" y="110" width="820" height="110" rx="22" fill="#dff1e7"/>
+  <text x="1120" y="180" font-size="54" font-weight="700">Rinse</text>
+  <text x="1120" y="272" font-size="34" font-weight="700">Remove cleaner + dissolved contamination</text>
+  <g id="boardB">
+    <rect x="1180" y="560" width="620" height="80" rx="8" fill="#4f9b7d" stroke="#2b5e4a" stroke-width="5"/>
+    <rect x="1230" y="472" width="150" height="88" rx="12" fill="#5c6872" stroke="#303a42" stroke-width="4"/>
+    <rect x="1460" y="486" width="120" height="74" rx="10" fill="#79858e" stroke="#303a42" stroke-width="4"/>
+    <rect x="1650" y="455" width="90" height="105" rx="10" fill="#535f67" stroke="#303a42" stroke-width="4"/>
+    <circle cx="1305" cy="645" r="17" fill="#c98a43" stroke="#8a5723" stroke-width="3"/>
+    <circle cx="1510" cy="645" r="17" fill="#c98a43" stroke="#8a5723" stroke-width="3"/>
+    <circle cx="1695" cy="645" r="17" fill="#c98a43" stroke="#8a5723" stroke-width="3"/>
+  </g>
+  <!-- rinse incoming -->
+  <path d="M1300 390 C1295 445,1280 500,1270 540" fill="none" stroke="#3a8fb7" stroke-width="11" marker-end="url(#arrowBlue)"/>
+  <path d="M1485 390 C1485 445,1485 500,1485 540" fill="none" stroke="#3a8fb7" stroke-width="11" marker-end="url(#arrowBlue)"/>
+  <path d="M1670 390 C1680 445,1690 500,1705 540" fill="none" stroke="#3a8fb7" stroke-width="11" marker-end="url(#arrowBlue)"/>
+  <!-- outgoing contaminated rinse -->
+  <path d="M1280 665 C1250 710,1220 735,1180 750" fill="none" stroke="#3a8fb7" stroke-width="10" marker-end="url(#arrowBlue)"/>
+  <path d="M1490 665 C1490 720,1490 748,1490 782" fill="none" stroke="#3a8fb7" stroke-width="10" marker-end="url(#arrowBlue)"/>
+  <path d="M1700 665 C1725 710,1750 735,1790 750" fill="none" stroke="#3a8fb7" stroke-width="10" marker-end="url(#arrowBlue)"/>
+  <circle cx="1230" cy="724" r="9" fill="#bf6a24"/><circle cx="1468" cy="738" r="9" fill="#bf6a24"/><circle cx="1750" cy="722" r="9" fill="#bf6a24"/>
+  <text x="1120" y="842" font-size="31">Rinse flow carries cleaner and contamination off-board.</text>
+  <text x="1120" y="886" font-size="31">A poor rinse can leave a new residue behind.</text>
+</g>
+
+<g id="flowArrow2"><line x1="1935" y1="515" x2="2005" y2="515" stroke="#2f6f9f" stroke-width="11" marker-end="url(#arrowBlue)"/></g>
+
+<g id="stageC" font-family="Arial, Helvetica, sans-serif" fill="#1f2d35">
+  <rect x="2040" y="110" width="840" height="820" rx="22" fill="#faf8f1" stroke="#c7b482" stroke-width="4"/>
+  <rect x="2040" y="110" width="840" height="110" rx="22" fill="#f1ead7"/>
+  <text x="2080" y="180" font-size="54" font-weight="700">Dry</text>
+  <text x="2080" y="272" font-size="34" font-weight="700">Remove retained process liquid</text>
+  <g id="boardC">
+    <rect x="2140" y="560" width="640" height="80" rx="8" fill="#4f9b7d" stroke="#2b5e4a" stroke-width="5"/>
+    <rect x="2190" y="472" width="150" height="88" rx="12" fill="#5c6872" stroke="#303a42" stroke-width="4"/>
+    <rect x="2430" y="486" width="120" height="74" rx="10" fill="#79858e" stroke="#303a42" stroke-width="4"/>
+    <rect x="2630" y="455" width="90" height="105" rx="10" fill="#535f67" stroke="#303a42" stroke-width="4"/>
+    <circle cx="2265" cy="645" r="17" fill="#c98a43" stroke="#8a5723" stroke-width="3"/>
+    <circle cx="2480" cy="645" r="17" fill="#c98a43" stroke="#8a5723" stroke-width="3"/>
+    <circle cx="2675" cy="645" r="17" fill="#c98a43" stroke="#8a5723" stroke-width="3"/>
+  </g>
+  <!-- drying arrows -->
+  <path d="M2220 385 C2240 425,2260 470,2290 520" fill="none" stroke="#647887" stroke-width="11" marker-end="url(#arrowGray)"/>
+  <path d="M2420 370 C2440 420,2460 470,2480 520" fill="none" stroke="#647887" stroke-width="11" marker-end="url(#arrowGray)"/>
+  <path d="M2620 385 C2605 430,2590 475,2570 520" fill="none" stroke="#647887" stroke-width="11" marker-end="url(#arrowGray)"/>
+  <path d="M2710 390 C2700 440,2700 490,2690 530" fill="none" stroke="#647887" stroke-width="11" marker-end="url(#arrowGray)"/>
+  <text x="2080" y="770" font-size="31">Dry exposed surfaces and hidden regions.</text>
+  <text x="2080" y="816" font-size="31">A dry-looking top surface does not prove hidden gaps are dry.</text>
+</g>
+
+<!-- Hidden-gap inset -->
+<g id="hiddenInset" font-family="Arial, Helvetica, sans-serif" fill="#1f2d35">
+  <text x="120" y="1115" font-size="46" font-weight="700">Hidden low-standoff gap</text>
+  <text x="120" y="1165" font-size="30">Same package geometry; different rinse/dry outcome</text>
+
+  <!-- poor -->
+  <rect x="120" y="1215" width="1320" height="410" rx="20" fill="#fff7f1" stroke="#d8a07e" stroke-width="4"/>
+  <text x="165" y="1280" font-size="38" font-weight="700" fill="#9c4d20">Incomplete rinse / dry</text>
+  <text x="165" y="1330" font-size="30">Top surface may look dry while liquid remains underneath.</text>
+  <rect x="230" y="1490" width="760" height="58" rx="6" fill="#4f9b7d" stroke="#2b5e4a" stroke-width="5"/>
+  <rect x="410" y="1388" width="400" height="80" rx="10" fill="#4e5961" stroke="#303a42" stroke-width="4"/>
+  <circle cx="470" cy="1478" r="15" fill="#aab2b8" stroke="#5d686f" stroke-width="3"/><circle cx="555" cy="1478" r="15" fill="#aab2b8" stroke="#5d686f" stroke-width="3"/><circle cx="665" cy="1478" r="15" fill="#aab2b8" stroke="#5d686f" stroke-width="3"/><circle cx="750" cy="1478" r="15" fill="#aab2b8" stroke="#5d686f" stroke-width="3"/>
+  <path d="M470 1488 C520 1462,610 1462,670 1488 C710 1500,750 1502,790 1490 L790 1510 L460 1510 Z" fill="#d99652" opacity="0.9"/>
+  <text x="970" y="1428" font-size="32" font-weight="700" fill="#9c4d20">Trapped liquid / residue risk</text>
+  <path d="M965 1448 C910 1460,855 1475,795 1490" fill="none" stroke="#bf6a24" stroke-width="5" marker-end="url(#arrowAmber)"/>
+  <text x="970" y="1490" font-size="28">Narrow gap slows rinse exchange</text>
+  <text x="970" y="1528" font-size="28">and liquid removal.</text>
+
+  <!-- good -->
+  <rect x="1480" y="1215" width="1400" height="410" rx="20" fill="#f2faf6" stroke="#87bfa3" stroke-width="4"/>
+  <text x="1525" y="1280" font-size="38" font-weight="700" fill="#2c6b4c">Properly rinsed and dried</text>
+  <text x="1525" y="1324" font-size="30">Same package geometry after adequate rinse and dry.</text>
+  <text x="1525" y="1362" font-size="30">No retained process liquid is shown in the hidden gap.</text>
+  <rect x="1590" y="1490" width="760" height="58" rx="6" fill="#4f9b7d" stroke="#2b5e4a" stroke-width="5"/>
+  <rect x="1770" y="1388" width="400" height="80" rx="10" fill="#4e5961" stroke="#303a42" stroke-width="4"/>
+  <circle cx="1830" cy="1478" r="15" fill="#aab2b8" stroke="#5d686f" stroke-width="3"/><circle cx="1915" cy="1478" r="15" fill="#aab2b8" stroke="#5d686f" stroke-width="3"/><circle cx="2025" cy="1478" r="15" fill="#aab2b8" stroke="#5d686f" stroke-width="3"/><circle cx="2110" cy="1478" r="15" fill="#aab2b8" stroke="#5d686f" stroke-width="3"/>
+  <path d="M1810 1448 C1765 1420,1745 1405,1720 1385" fill="none" stroke="#647887" stroke-width="5" marker-end="url(#arrowGray)"/>
+  <path d="M2130 1448 C2175 1420,2200 1405,2230 1385" fill="none" stroke="#647887" stroke-width="5" marker-end="url(#arrowGray)"/>
+  <text x="2380" y="1440" font-size="30" font-weight="700" fill="#2c6b4c">Proper hidden-region outcome</text>
+  <text x="2380" y="1490" font-size="28">Process reaches, rinses, and dries</text>
+  <text x="2380" y="1528" font-size="28">the difficult location—not just the top.</text>
+</g>
+</svg>

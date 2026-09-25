@@ -1,16 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1300" viewBox="0 0 2400 1300" preserveAspectRatio="xMidYMid meet">
-  <rect x="0" y="0" width="2400" height="1300" fill="#ffffff"/>
-  <defs>
-    <marker id="arrow" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
-      <path d="M0,0 L16,8 L0,16 Z" fill="#243746"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2400"
+   height="1300"
+   viewBox="0 0 2400 1300"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="4.14.2.svg"
+   inkscape:export-filename="4.14.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.36840263"
+     inkscape:cx="1077.6253"
+     inkscape:cy="716.60725"
+     inkscape:window-width="1496"
+     inkscape:window-height="905"
+     inkscape:window-x="1366"
+     inkscape:window-y="80"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <rect
+     x="0"
+     y="0"
+     width="2400"
+     height="1300"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs3">
+    <marker
+       id="arrow"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,8 L0,16 Z"
+         fill="#243746"
+         id="path1" />
     </marker>
-    <marker id="arrow-small" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse">
-      <path d="M0,0 L12,6 L0,12 Z" fill="#243746"/>
+    <marker
+       id="arrow-small"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L12,6 L0,12 Z"
+         fill="#243746"
+         id="path2" />
     </marker>
-    <marker id="arrow-small-start" markerWidth="12" markerHeight="12" refX="2" refY="6" orient="auto-start-reverse" markerUnits="userSpaceOnUse">
-      <path d="M0,0 L12,6 L0,12 Z" fill="#243746"/>
+    <marker
+       id="arrow-small-start"
+       markerWidth="12"
+       markerHeight="12"
+       refX="2"
+       refY="6"
+       orient="auto-start-reverse"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L12,6 L0,12 Z"
+         fill="#243746"
+         id="path3" />
     </marker>
-    <style>
+    <style
+       id="style3">
       .txt{font-family:Arial,Helvetica,sans-serif; fill:#26333d}
       .region{font-size:34px;font-weight:700}
       .note{font-size:29px;font-weight:500}
@@ -20,89 +93,346 @@
       .minor{font-size:27px;font-weight:500}
     </style>
   </defs>
-
   <!-- Profile-region header band -->
-  <text class="txt small" x="285" y="58" font-weight="700" letter-spacing="1.5">PROFILE REGIONS</text>
-  <g id="profile-regions">
-    <rect x="285" y="85" width="450" height="185" rx="18" fill="#f7edcf" stroke="#c9b477" stroke-width="2"/>
-    <rect x="735" y="85" width="430" height="185" rx="18" fill="#f5e2b9" stroke="#c9ad72" stroke-width="2"/>
-    <rect x="1165" y="85" width="470" height="185" rx="18" fill="#f2cc91" stroke="#c99552" stroke-width="2"/>
-    <rect x="1635" y="85" width="470" height="185" rx="18" fill="#dceef6" stroke="#88aebe" stroke-width="2"/>
-
-    <text class="txt region" x="510" y="135" text-anchor="middle">Ramp / preheat</text>
-    <text class="txt note" x="510" y="181" text-anchor="middle">controlled warm-up</text>
-    <text class="txt note" x="510" y="216" text-anchor="middle">flux begins to activate</text>
-
-    <text class="txt region" x="950" y="128" text-anchor="middle">Optional soak /</text>
-    <text class="txt region" x="950" y="165" text-anchor="middle">thermal equalization</text>
-    <text class="txt note" x="950" y="208" text-anchor="middle">reduce temperature differences</text>
-    <text class="txt note" x="950" y="238" text-anchor="middle">continued flux activity</text>
-
-    <text class="txt region" x="1400" y="135" text-anchor="middle">Reflow / peak</text>
-    <text class="txt note" x="1400" y="181" text-anchor="middle">solder molten</text>
-    <text class="txt note" x="1400" y="216" text-anchor="middle">wetting and joint formation</text>
-
-    <text class="txt region" x="1870" y="135" text-anchor="middle">Controlled cooling</text>
-    <text class="txt note" x="1870" y="181" text-anchor="middle">solder solidifies</text>
-    <text class="txt note" x="1870" y="216" text-anchor="middle">heat removed under control</text>
+  <text
+     class="txt small"
+     x="285"
+     y="58"
+     font-weight="700"
+     letter-spacing="1.5"
+     id="text3">PROFILE REGIONS</text>
+  <g
+     id="profile-regions">
+    <rect
+       x="285"
+       y="85"
+       width="450"
+       height="185"
+       rx="18"
+       fill="#f7edcf"
+       stroke="#c9b477"
+       stroke-width="2"
+       id="rect3" />
+    <rect
+       x="735"
+       y="85"
+       width="430"
+       height="185"
+       rx="18"
+       fill="#f5e2b9"
+       stroke="#c9ad72"
+       stroke-width="2"
+       id="rect4" />
+    <rect
+       x="1165"
+       y="85"
+       width="470"
+       height="185"
+       rx="18"
+       fill="#f2cc91"
+       stroke="#c99552"
+       stroke-width="2"
+       id="rect5" />
+    <rect
+       x="1635"
+       y="85"
+       width="470"
+       height="185"
+       rx="18"
+       fill="#dceef6"
+       stroke="#88aebe"
+       stroke-width="2"
+       id="rect6" />
+    <text
+       class="txt region"
+       x="510"
+       y="135"
+       text-anchor="middle"
+       id="text6">Ramp / preheat</text>
+    <text
+       class="txt note"
+       x="510"
+       y="181"
+       text-anchor="middle"
+       id="text7">controlled warm-up</text>
+    <text
+       class="txt note"
+       x="510"
+       y="216"
+       text-anchor="middle"
+       id="text8">flux begins to activate</text>
+    <text
+       class="txt region"
+       x="950"
+       y="128"
+       text-anchor="middle"
+       id="text9">Optional soak /</text>
+    <text
+       class="txt region"
+       x="950"
+       y="165"
+       text-anchor="middle"
+       id="text10">thermal equalization</text>
+    <text
+       class="txt note"
+       x="950"
+       y="208"
+       text-anchor="middle"
+       id="text11">reduce temperature differences</text>
+    <text
+       class="txt note"
+       x="950"
+       y="238"
+       text-anchor="middle"
+       id="text12">continued flux activity</text>
+    <text
+       class="txt region"
+       x="1400"
+       y="135"
+       text-anchor="middle"
+       id="text13">Reflow / peak</text>
+    <text
+       class="txt note"
+       x="1400"
+       y="181"
+       text-anchor="middle"
+       id="text14">solder molten</text>
+    <text
+       class="txt note"
+       x="1400"
+       y="216"
+       text-anchor="middle"
+       id="text15">wetting and joint formation</text>
+    <text
+       class="txt region"
+       x="1870"
+       y="135"
+       text-anchor="middle"
+       id="text16">Controlled cooling</text>
+    <text
+       class="txt note"
+       x="1870"
+       y="181"
+       text-anchor="middle"
+       id="text17">solder solidifies</text>
+    <text
+       class="txt note"
+       x="1870"
+       y="216"
+       text-anchor="middle"
+       id="text18">heat removed under control</text>
   </g>
-
   <!-- Graph field -->
-  <g id="graph">
-    <rect x="285" y="330" width="1820" height="840" rx="12" fill="#ffffff" stroke="#c6ced4" stroke-width="2"/>
-
-    <!-- light separators corresponding to profile regions, not oven zones -->
-    <line x1="735" y1="330" x2="735" y2="1170" stroke="#d9dde1" stroke-width="2" stroke-dasharray="10 12"/>
-    <line x1="1165" y1="330" x2="1165" y2="1170" stroke="#d9dde1" stroke-width="2" stroke-dasharray="10 12"/>
-    <line x1="1635" y1="330" x2="1635" y2="1170" stroke="#d9dde1" stroke-width="2" stroke-dasharray="10 12"/>
-
-    <!-- axes -->
-    <line x1="360" y1="1095" x2="2050" y2="1095" stroke="#243746" stroke-width="5" marker-end="url(#arrow)"/>
-    <line x1="360" y1="1095" x2="360" y2="390" stroke="#243746" stroke-width="5" marker-end="url(#arrow)"/>
-    <text class="txt axis" x="1205" y="1148" text-anchor="middle">Time</text>
-    <text class="txt axis" x="112" y="760" text-anchor="middle" transform="rotate(-90 112 760)">Product temperature (°C)</text>
-
-    <!-- liquidus reference -->
-    <line x1="360" y1="620" x2="2050" y2="620" stroke="#6f7b84" stroke-width="3" stroke-dasharray="16 12"/>
-    <rect x="405" y="566" width="360" height="45" rx="8" fill="#ffffff" opacity="0.95"/>
-    <text class="txt emph" x="425" y="596">SAC305 liquidus reference ≈ 217 °C</text>
-
-    <!-- warm accent for interval above liquidus -->
-    <rect x="1350" y="628" width="350" height="35" rx="8" fill="#f8e4be" stroke="#d49a49" stroke-width="1.5"/>
-
-    <!-- representative smooth product temperature curve -->
-    <path id="profile-curve" d="M390 1025
-      C510 900, 620 790, 735 720
-      C855 655, 1000 646, 1165 640
-      C1245 637, 1310 632, 1360 620
-      C1400 555, 1450 478, 1515 445
-      C1585 423, 1655 505, 1690 620
-      C1750 755, 1875 905, 2030 1010"
-      fill="none" stroke="#285b78" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-
-    <!-- crossing markers -->
-    <circle cx="1360" cy="620" r="10" fill="#ffffff" stroke="#d18f39" stroke-width="5"/>
-    <circle cx="1690" cy="620" r="10" fill="#ffffff" stroke="#d18f39" stroke-width="5"/>
-
-    <!-- TAL bracket -->
-    <line x1="1372" y1="690" x2="1678" y2="690" stroke="#243746" stroke-width="3.5" marker-start="url(#arrow-small-start)" marker-end="url(#arrow-small)"/>
-    <text class="txt emph" x="1525" y="734" text-anchor="middle">Time above liquidus (TAL)</text>
-    <text class="txt minor" x="1525" y="769" text-anchor="middle">interval above the liquidus reference only</text>
-
-    <!-- peak marker and callout -->
-    <circle cx="1515" cy="445" r="11" fill="#ffffff" stroke="#285b78" stroke-width="5"/>
-    <path d="M1525 440 L1665 398" fill="none" stroke="#243746" stroke-width="2.5"/>
-    <text class="txt emph" x="1682" y="395">Peak temperature</text>
-    <text class="txt small" x="1682" y="430">highest local product temperature</text>
-
-    <!-- product vs oven clarification -->
-    <rect x="420" y="875" width="440" height="106" rx="14" fill="#f5f7f8" stroke="#9aa7b0" stroke-width="2"/>
-    <text class="txt emph" x="445" y="916">The curve is product temperature</text>
-    <text class="txt small" x="445" y="953">not an oven-zone heater setpoint.</text>
-
-    <!-- qualification note -->
-    <rect x="1590" y="865" width="455" height="118" rx="14" fill="#f8fafb" stroke="#9aa7b0" stroke-width="2" stroke-dasharray="8 6"/>
-    <text class="txt small" x="1618" y="906">Representative SAC305 process scale;</text>
-    <text class="txt small" x="1618" y="944">supplier and product limits control.</text>
-  </g>
+  <rect
+     x="285"
+     y="330"
+     width="1820"
+     height="840"
+     rx="12"
+     fill="#ffffff"
+     stroke="#c6ced4"
+     stroke-width="2"
+     id="rect18" />
+  <line
+     x1="735"
+     y1="330"
+     x2="735"
+     y2="1170"
+     stroke="#d9dde1"
+     stroke-width="2"
+     stroke-dasharray="10, 12"
+     id="line18" />
+  <line
+     x1="1165"
+     y1="330"
+     x2="1165"
+     y2="1170"
+     stroke="#d9dde1"
+     stroke-width="2"
+     stroke-dasharray="10, 12"
+     id="line19" />
+  <line
+     x1="1635"
+     y1="330"
+     x2="1635"
+     y2="1170"
+     stroke="#d9dde1"
+     stroke-width="2"
+     stroke-dasharray="10, 12"
+     id="line20" />
+  <line
+     x1="360"
+     y1="1095"
+     x2="2050"
+     y2="1095"
+     stroke="#243746"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line21" />
+  <line
+     x1="360"
+     y1="1095"
+     x2="360"
+     y2="390"
+     stroke="#243746"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line22" />
+  <text
+     class="txt axis"
+     x="1205"
+     y="1148"
+     text-anchor="middle"
+     id="text22">Time</text>
+  <text
+     class="txt axis"
+     x="-760"
+     y="112"
+     text-anchor="middle"
+     transform="rotate(-90)"
+     id="text23">Product temperature (°C)</text>
+  <line
+     x1="360"
+     y1="620"
+     x2="2050"
+     y2="620"
+     stroke="#6f7b84"
+     stroke-width="3"
+     stroke-dasharray="16, 12"
+     id="line23" />
+  <rect
+     x="405"
+     y="566"
+     width="360"
+     height="45"
+     rx="8"
+     fill="#ffffff"
+     opacity="0.95"
+     id="rect23" />
+  <text
+     class="txt emph"
+     x="425"
+     y="596"
+     id="text24">SAC305 liquidus reference ≈ 217 °C</text>
+  <rect
+     x="1350"
+     y="628"
+     width="350"
+     height="35"
+     rx="8"
+     fill="#f8e4be"
+     stroke="#d49a49"
+     stroke-width="1.5"
+     id="rect24" />
+  <path
+     id="profile-curve"
+     d="M 390,1025 C 510,900 620,790 735,720 c 120,-65 265,-74 430,-80 80,-3 145,-8 195,-20 40,-65 90,-142 155,-175 70,-22 140,60 175,175 60,135 185,285 340,390"
+     fill="none"
+     stroke="#285b78"
+     stroke-width="9"
+     stroke-linecap="round"
+     stroke-linejoin="round" />
+  <circle
+     cx="1360"
+     cy="620"
+     r="10"
+     fill="#ffffff"
+     stroke="#d18f39"
+     stroke-width="5"
+     id="circle24" />
+  <circle
+     cx="1690"
+     cy="620"
+     r="10"
+     fill="#ffffff"
+     stroke="#d18f39"
+     stroke-width="5"
+     id="circle25" />
+  <line
+     x1="1372"
+     y1="690"
+     x2="1678"
+     y2="690"
+     stroke="#243746"
+     stroke-width="3.5"
+     marker-start="url(#arrow-small-start)"
+     marker-end="url(#arrow-small)"
+     id="line25" />
+  <text
+     class="txt emph"
+     x="1525"
+     y="734"
+     text-anchor="middle"
+     id="text25">Time above liquidus (TAL)</text>
+  <text
+     class="txt minor"
+     x="1505.999"
+     y="769"
+     text-anchor="middle"
+     id="text26">interval above the liquidus reference only</text>
+  <circle
+     cx="1515"
+     cy="445"
+     r="11"
+     fill="#ffffff"
+     stroke="#285b78"
+     stroke-width="5"
+     id="circle26" />
+  <path
+     d="m 1525,440 140,-42"
+     fill="none"
+     stroke="#243746"
+     stroke-width="2.5"
+     id="path26" />
+  <text
+     class="txt emph"
+     x="1682"
+     y="395"
+     id="text27">Peak temperature</text>
+  <text
+     class="txt small"
+     x="1682"
+     y="430"
+     id="text28">highest local product temperature</text>
+  <rect
+     x="504.16519"
+     y="940.16425"
+     width="456.25027"
+     height="105.96375"
+     rx="14.517055"
+     fill="#f5f7f8"
+     stroke="#9aa7b0"
+     stroke-width="2.03625"
+     id="rect28" />
+  <text
+     class="txt emph"
+     x="529.14703"
+     y="981.14612"
+     id="text29">The curve is product temperature</text>
+  <text
+     class="txt small"
+     x="529.14703"
+     y="1018.1461"
+     id="text30">not an oven-zone heater setpoint.</text>
+  <rect
+     x="1353.9059"
+     y="938.34991"
+     width="511.88116"
+     height="117.87885"
+     rx="15.750189"
+     fill="#f8fafb"
+     stroke="#9aa7b0"
+     stroke-width="2.12025"
+     stroke-dasharray="8, 6"
+     id="rect30" />
+  <text
+     class="txt small"
+     x="1381.8453"
+     y="979.28937"
+     id="text31">Representative SAC305 process scale;</text>
+  <text
+     class="txt small"
+     x="1381.8453"
+     y="1017.2894"
+     id="text32">supplier and product limits control.</text>
 </svg>

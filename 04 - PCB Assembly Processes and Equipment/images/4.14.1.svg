@@ -1,2 +1,2033 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="1550" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 2700 1550" width="2700" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><marker id="arrowDark" markerHeight="16" markerUnits="userSpaceOnUse" markerWidth="18" orient="auto" refX="15" refY="8" viewBox="0 0 18 16"><path d="M0,0 L18,8 L0,16 Z" fill="#243447" /></marker><marker id="arrowWarm" markerHeight="16" markerUnits="userSpaceOnUse" markerWidth="18" orient="auto" refX="15" refY="8" viewBox="0 0 18 16"><path d="M0,0 L18,8 L0,16 Z" fill="#B66B2E" /></marker><marker id="arrowCool" markerHeight="16" markerUnits="userSpaceOnUse" markerWidth="18" orient="auto" refX="15" refY="8" viewBox="0 0 18 16"><path d="M0,0 L18,8 L0,16 Z" fill="#4D88AF" /></marker><marker id="arrowGas" markerHeight="16" markerUnits="userSpaceOnUse" markerWidth="18" orient="auto" refX="15" refY="8" viewBox="0 0 18 16"><path d="M0,0 L18,8 L0,16 Z" fill="#6F7C85" /></marker></defs><rect fill="#ffffff" height="1550" width="2700" x="0" y="0" /><rect fill="#E8EDF1" height="820" rx="28" ry="28" stroke="#34495A" stroke-width="5" width="2460" x="120" y="410" /><rect fill="#FAFBFC" height="445" stroke="#34495A" stroke-width="4" width="2270" x="215" y="565" /><rect fill="#F8E9CB" height="445" stroke="#A48057" stroke-width="2.5" width="300.0" x="400.0" y="565" /><rect fill="#F7E1BA" height="445" stroke="#A48057" stroke-width="2.5" width="300.0" x="700.0" y="565" /><rect fill="#F5D6A3" height="445" stroke="#A48057" stroke-width="2.5" width="300.0" x="1000.0" y="565" /><rect fill="#F2C98B" height="445" stroke="#A48057" stroke-width="2.5" width="300.0" x="1300.0" y="565" /><rect fill="#EEBA72" height="445" stroke="#A48057" stroke-width="2.5" width="300.0" x="1600.0" y="565" /><rect fill="#D9EAF4" height="445" stroke="#6F94AA" stroke-width="2.5" width="230.0" x="1900.0" y="565" /><rect fill="#C6DFEE" height="445" stroke="#6F94AA" stroke-width="2.5" width="230.0" x="2130.0" y="565" /><rect fill="#F4F6F7" height="445" stroke="none" width="185" x="215" y="565" /><rect fill="#F4F6F7" height="445" stroke="none" width="125" x="2360" y="565" /><path d="M 400,384 V 350 H 1900 V 384" fill="none" stroke="#243447" stroke-width="4" /><text fill="#1F2933" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="bold" text-anchor="middle" x="1150.0" y="315">Heating zones — independent zone control</text><text fill="#315F7A" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" x="2130.0" y="370">Controlled cooling</text><text fill="#1F2933" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" x="307.5" y="525">Entrance</text><text fill="#1F2933" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" x="2422.5" y="525">Exit</text><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="466.0" y="600" /><g><circle cx="550.0" cy="624" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 550.0,624 Q 560.0,624.0 566.7292529983038,634.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 550.0,624 Q 545.0,632.6602540378444 532.1433204779737,633.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 550.0,624 Q 545.0,615.3397459621556 551.1274265237225,604.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="550.0" cy="624" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="484.0" y="666" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="466.0" y="906" /><g><circle cx="550.0" cy="930" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 550.0,930 Q 560.0,930.0 566.7292529983038,940.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 550.0,930 Q 545.0,938.6602540378444 532.1433204779737,939.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 550.0,930 Q 545.0,921.3397459621556 551.1274265237225,910.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="550.0" cy="930" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="484.0" y="871" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="510.0" x2="510.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="510.0" x2="510.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="550.0" x2="550.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="550.0" x2="550.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="590.0" x2="590.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="590.0" x2="590.0" y1="860" y2="805" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="766.0" y="600" /><g><circle cx="850.0" cy="624" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 850.0,624 Q 860.0,624.0 866.7292529983038,634.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 850.0,624 Q 845.0,632.6602540378444 832.1433204779737,633.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 850.0,624 Q 845.0,615.3397459621556 851.1274265237225,604.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="850.0" cy="624" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="784.0" y="666" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="766.0" y="906" /><g><circle cx="850.0" cy="930" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 850.0,930 Q 860.0,930.0 866.7292529983038,940.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 850.0,930 Q 845.0,938.6602540378444 832.1433204779737,939.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 850.0,930 Q 845.0,921.3397459621556 851.1274265237225,910.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="850.0" cy="930" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="784.0" y="871" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="810.0" x2="810.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="810.0" x2="810.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="850.0" x2="850.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="850.0" x2="850.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="890.0" x2="890.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="890.0" x2="890.0" y1="860" y2="805" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="1066.0" y="600" /><g><circle cx="1150.0" cy="624" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 1150.0,624 Q 1160.0,624.0 1166.7292529983038,634.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1150.0,624 Q 1145.0,632.6602540378444 1132.1433204779737,633.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1150.0,624 Q 1145.0,615.3397459621556 1151.1274265237225,604.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="1150.0" cy="624" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="1084.0" y="666" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="1066.0" y="906" /><g><circle cx="1150.0" cy="930" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 1150.0,930 Q 1160.0,930.0 1166.7292529983038,940.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1150.0,930 Q 1145.0,938.6602540378444 1132.1433204779737,939.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1150.0,930 Q 1145.0,921.3397459621556 1151.1274265237225,910.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="1150.0" cy="930" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="1084.0" y="871" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1110.0" x2="1110.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1110.0" x2="1110.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1150.0" x2="1150.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1150.0" x2="1150.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1190.0" x2="1190.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1190.0" x2="1190.0" y1="860" y2="805" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="1366.0" y="600" /><g><circle cx="1450.0" cy="624" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 1450.0,624 Q 1460.0,624.0 1466.7292529983038,634.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1450.0,624 Q 1445.0,632.6602540378444 1432.1433204779737,633.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1450.0,624 Q 1445.0,615.3397459621556 1451.1274265237225,604.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="1450.0" cy="624" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="1384.0" y="666" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="1366.0" y="906" /><g><circle cx="1450.0" cy="930" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 1450.0,930 Q 1460.0,930.0 1466.7292529983038,940.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1450.0,930 Q 1445.0,938.6602540378444 1432.1433204779737,939.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1450.0,930 Q 1445.0,921.3397459621556 1451.1274265237225,910.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="1450.0" cy="930" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="1384.0" y="871" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1410.0" x2="1410.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1410.0" x2="1410.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1450.0" x2="1450.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1450.0" x2="1450.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1490.0" x2="1490.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1490.0" x2="1490.0" y1="860" y2="805" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="1666.0" y="600" /><g><circle cx="1750.0" cy="624" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 1750.0,624 Q 1760.0,624.0 1766.7292529983038,634.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1750.0,624 Q 1745.0,632.6602540378444 1732.1433204779737,633.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1750.0,624 Q 1745.0,615.3397459621556 1751.1274265237225,604.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="1750.0" cy="624" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="1684.0" y="666" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#34495A" stroke-width="3" width="168" x="1666.0" y="906" /><g><circle cx="1750.0" cy="930" fill="#ffffff" r="27" stroke="#34495A" stroke-width="4" /><path d="M 1750.0,930 Q 1760.0,930.0 1766.7292529983038,940.9604787358375" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1750.0,930 Q 1745.0,938.6602540378444 1732.1433204779737,939.0077187149493" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><path d="M 1750.0,930 Q 1745.0,921.3397459621556 1751.1274265237225,910.0318025492132" fill="none" stroke="#34495A" stroke-linecap="round" stroke-width="7" /><circle cx="1750.0" cy="930" fill="#34495A" r="6" /></g><rect fill="#A9B3BA" height="17" stroke="#34495A" stroke-width="2" width="132" x="1684.0" y="871" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1710.0" x2="1710.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1710.0" x2="1710.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1750.0" x2="1750.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1750.0" x2="1750.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1790.0" x2="1790.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowWarm)" stroke="#B66B2E" stroke-linecap="round" stroke-width="5" x1="1790.0" x2="1790.0" y1="860" y2="805" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#476E86" stroke-width="3" width="164" x="1933.0" y="600" /><g><circle cx="2015.0" cy="624" fill="#ffffff" r="27" stroke="#476E86" stroke-width="4" /><path d="M 2015.0,624 Q 2025.0,624.0 2031.7292529983038,634.9604787358375" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><path d="M 2015.0,624 Q 2010.0,632.6602540378444 1997.1433204779737,633.0077187149493" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><path d="M 2015.0,624 Q 2010.0,615.3397459621556 2016.1274265237225,604.0318025492132" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><circle cx="2015.0" cy="624" fill="#476E86" r="6" /></g><rect fill="#9DB7C8" height="17" stroke="#476E86" stroke-width="2" width="128" x="1951.0" y="666" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#476E86" stroke-width="3" width="164" x="1933.0" y="906" /><g><circle cx="2015.0" cy="930" fill="#ffffff" r="27" stroke="#476E86" stroke-width="4" /><path d="M 2015.0,930 Q 2025.0,930.0 2031.7292529983038,940.9604787358375" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><path d="M 2015.0,930 Q 2010.0,938.6602540378444 1997.1433204779737,939.0077187149493" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><path d="M 2015.0,930 Q 2010.0,921.3397459621556 2016.1274265237225,910.0318025492132" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><circle cx="2015.0" cy="930" fill="#476E86" r="6" /></g><rect fill="#9DB7C8" height="17" stroke="#476E86" stroke-width="2" width="128" x="1951.0" y="871" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="1977.0" x2="1977.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="1977.0" x2="1977.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2015.0" x2="2015.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2015.0" x2="2015.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2053.0" x2="2053.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2053.0" x2="2053.0" y1="860" y2="805" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#476E86" stroke-width="3" width="164" x="2163.0" y="600" /><g><circle cx="2245.0" cy="624" fill="#ffffff" r="27" stroke="#476E86" stroke-width="4" /><path d="M 2245.0,624 Q 2255.0,624.0 2261.7292529983038,634.9604787358375" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><path d="M 2245.0,624 Q 2240.0,632.6602540378444 2227.1433204779737,633.0077187149493" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><path d="M 2245.0,624 Q 2240.0,615.3397459621556 2246.1274265237225,604.0318025492132" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><circle cx="2245.0" cy="624" fill="#476E86" r="6" /></g><rect fill="#9DB7C8" height="17" stroke="#476E86" stroke-width="2" width="128" x="2181.0" y="666" /><rect fill="#F4F6F7" height="48" rx="10" ry="10" stroke="#476E86" stroke-width="3" width="164" x="2163.0" y="906" /><g><circle cx="2245.0" cy="930" fill="#ffffff" r="27" stroke="#476E86" stroke-width="4" /><path d="M 2245.0,930 Q 2255.0,930.0 2261.7292529983038,940.9604787358375" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><path d="M 2245.0,930 Q 2240.0,938.6602540378444 2227.1433204779737,939.0077187149493" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><path d="M 2245.0,930 Q 2240.0,921.3397459621556 2246.1274265237225,910.0318025492132" fill="none" stroke="#476E86" stroke-linecap="round" stroke-width="7" /><circle cx="2245.0" cy="930" fill="#476E86" r="6" /></g><rect fill="#9DB7C8" height="17" stroke="#476E86" stroke-width="2" width="128" x="2181.0" y="871" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2207.0" x2="2207.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2207.0" x2="2207.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2245.0" x2="2245.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2245.0" x2="2245.0" y1="860" y2="805" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2283.0" x2="2283.0" y1="691" y2="752" /><line fill="none" marker-end="url(#arrowCool)" stroke="#4D88AF" stroke-linecap="round" stroke-width="5" x1="2283.0" x2="2283.0" y1="860" y2="805" /><rect fill="#5A6770" height="17" width="2214" x="243" y="786" /><rect fill="#5A6770" height="17" width="2214" x="243" y="842" /><rect fill="#8A959D" height="39" width="11" x="280" y="803" /><rect fill="#8A959D" height="39" width="11" x="540" y="803" /><rect fill="#8A959D" height="39" width="11" x="800" y="803" /><rect fill="#8A959D" height="39" width="11" x="1060" y="803" /><rect fill="#8A959D" height="39" width="11" x="1320" y="803" /><rect fill="#8A959D" height="39" width="11" x="1580" y="803" /><rect fill="#8A959D" height="39" width="11" x="1840" y="803" /><rect fill="#8A959D" height="39" width="11" x="2100" y="803" /><rect fill="#8A959D" height="39" width="11" x="2360" y="803" /><rect fill="#5B9668" height="90" rx="10" ry="10" stroke="#2E5F3B" stroke-width="4" width="285" x="1180" y="740" /><rect fill="#36454F" height="27" rx="4" ry="4" stroke="#1E2A32" stroke-width="2" width="58" x="1210" y="756" /><rect fill="#D9DDE1" height="20" rx="4" ry="4" stroke="#1E2A32" stroke-width="2" width="36" x="1292" y="752" /><rect fill="#2F3940" height="27" rx="4" ry="4" stroke="#1E2A32" stroke-width="2" width="65" x="1347" y="756" /><rect fill="#CED3D7" height="14" rx="4" ry="4" stroke="#1E2A32" stroke-width="2" width="25" x="1228" y="797" /><rect fill="#263640" height="23" rx="4" ry="4" stroke="#1E2A32" stroke-width="2" width="46" x="1284" y="790" /><rect fill="#D8DCE0" height="17" rx="4" ry="4" stroke="#1E2A32" stroke-width="2" width="30" x="1360" y="794" /><text fill="#2E5F3B" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" text-anchor="start" x="1030" y="713">PCB assembly</text><line fill="none" stroke="#2E5F3B" stroke-linecap="round" stroke-width="3" x1="1160" x2="1222" y1="718" y2="748" /><line fill="none" marker-end="url(#arrowDark)" stroke="#243447" stroke-linecap="round" stroke-width="7" x1="405" x2="2320" y1="1095" y2="1095" /><text fill="#1F2933" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="bold" text-anchor="middle" x="1365" y="1160">Board travel</text><text fill="#7A4B20" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="bold" text-anchor="middle" x="690" y="525">Top heating / airflow</text><line fill="none" stroke="#7A4B20" stroke-linecap="round" stroke-width="3" x1="690" x2="700" y1="538" y2="598" /><text fill="#7A4B20" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="bold" text-anchor="middle" x="690" y="995">Bottom heating / airflow</text><line fill="none" stroke="#7A4B20" stroke-linecap="round" stroke-width="3" x1="690" x2="700" y1="970" y2="954" /><rect fill="#FFF9F2" height="110" rx="12" ry="12" stroke="#A9784B" stroke-width="2.5" width="320" x="1510" y="703" /><text fill="#6D4726" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="bold" text-anchor="middle" x="1670.0" y="741"><tspan dy="0" x="1670.0">Forced convection</tspan><tspan dy="30.240000000000002" x="1670.0">process gas moves over</tspan><tspan dy="30.240000000000002" x="1670.0">and around the assembly</tspan></text><line fill="none" stroke="#A9784B" stroke-linecap="round" stroke-width="3" x1="1600" x2="1570" y1="703" y2="750" /><text fill="#315F7A" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="bold" text-anchor="middle" x="2130.0" y="985">Cooling airflow removes heat</text><rect fill="#F8FAFC" height="150" rx="18" ry="18" stroke="#8A98A1" stroke-width="3" width="700" x="120" y="70" /><text fill="#1F2933" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="bold" text-anchor="start" x="150" y="122"><tspan dy="0" x="150">Process atmosphere:  Air</tspan><tspan dy="37.82" x="150">Nitrogen when reduced oxidation is beneficial</tspan></text><path d="M 820,165 H 875 V 450 H 300 V 560" fill="none" marker-end="url(#arrowGas)" stroke="#727E87" stroke-width="4" /><path d="M 1640,570 C 1640,500 1640,420 1640,390" fill="none" marker-end="url(#arrowWarm)" stroke="#B08A66" stroke-dasharray="10,8" stroke-width="4" /><path d="M 1780,570 C 1780,500 1780,420 1780,390" fill="none" marker-end="url(#arrowWarm)" stroke="#B08A66" stroke-dasharray="10,8" stroke-width="4" /><path d="M 1600,390 H 1845 V 250 H 2240" fill="none" stroke="#68747D" stroke-linecap="round" stroke-width="14" /><rect fill="#EEF2F4" height="150" rx="14" ry="14" stroke="#34495A" stroke-width="4" width="250" x="2240" y="90" /><text fill="#1F2933" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="bold" text-anchor="middle" x="2365.0" y="148">Trap / filter</text><line fill="none" stroke="#87949D" stroke-linecap="round" stroke-width="3" x1="2298" x2="2432" y1="182" y2="182" /><line fill="none" stroke="#87949D" stroke-linecap="round" stroke-width="3" x1="2298" x2="2432" y1="202" y2="202" /><line fill="none" stroke="#87949D" stroke-linecap="round" stroke-width="3" x1="2298" x2="2432" y1="222" y2="222" /><line fill="none" marker-end="url(#arrowDark)" stroke="#243447" stroke-linecap="round" stroke-width="6" x1="2365.0" x2="2365.0" y1="90" y2="45" /><text fill="#1F2933" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="bold" text-anchor="middle" x="1990" y="95"><tspan dy="0" x="1990">Exhaust / flux</tspan><tspan dy="38.279999999999994" x="1990">management</tspan></text><line fill="none" stroke="#243447" stroke-linecap="round" stroke-width="3" x1="2010" x2="2205" y1="170" y2="165" /><text fill="#1F2933" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="bold" text-anchor="start" x="165" y="1325"><tspan dy="0" x="165">Conveyor / rails</tspan><tspan dy="37.76" x="165">rail or mesh transport depending on product</tspan></text><line fill="none" stroke="#243447" stroke-linecap="round" stroke-width="3" x1="455" x2="300" y1="1270" y2="842" /><rect fill="#F7F8F9" height="120" rx="14" ry="14" stroke="#98A2A9" stroke-dasharray="9,7" stroke-width="2.5" width="610" x="1900" y="1332" /><text fill="#46525B" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="bold" text-anchor="middle" x="2205.0" y="1377"><tspan dy="0" x="2205.0">Physical machine zones ≠</tspan><tspan dy="36.58" x="2205.0">thermal-profile regions</tspan></text><line fill="none" stroke="#7A858D" stroke-linecap="round" stroke-width="4" x1="160" x2="2540" y1="1260" y2="1260" /><rect fill="#68737B" height="52" rx="8" ry="8" width="82" x="255" y="1230" /><rect fill="#68737B" height="52" rx="8" ry="8" width="82" x="2320" y="1230" /></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="1550"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   viewBox="0 0 2700 1550"
+   width="2700"
+   id="svg124"
+   sodipodi:docname="4.14.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.14.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview124"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.23129329"
+     inkscape:cx="825.79134"
+     inkscape:cy="1158.702"
+     inkscape:window-width="1496"
+     inkscape:window-height="905"
+     inkscape:window-x="1366"
+     inkscape:window-y="80"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg124"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowDark"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       orient="auto"
+       refX="15"
+       refY="8"
+       viewBox="0 0 18 16">
+      <path
+         d="M0,0 L18,8 L0,16 Z"
+         fill="#243447"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowWarm"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       orient="auto"
+       refX="15"
+       refY="8"
+       viewBox="0 0 18 16">
+      <path
+         d="M0,0 L18,8 L0,16 Z"
+         fill="#B66B2E"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowCool"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       orient="auto"
+       refX="15"
+       refY="8"
+       viewBox="0 0 18 16">
+      <path
+         d="M0,0 L18,8 L0,16 Z"
+         fill="#4D88AF"
+         id="path3" />
+    </marker>
+    <marker
+       id="arrowGas"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="18"
+       orient="auto"
+       refX="15"
+       refY="8"
+       viewBox="0 0 18 16">
+      <path
+         d="M0,0 L18,8 L0,16 Z"
+         fill="#6F7C85"
+         id="path4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-3" />
+    </marker>
+  </defs>
+  <rect
+     fill="#ffffff"
+     height="1550"
+     width="2700"
+     x="-4.4471335e-07"
+     y="2.2407"
+     id="rect4" />
+  <rect
+     fill="#e8edf1"
+     height="820"
+     rx="28"
+     ry="28"
+     stroke="#34495a"
+     stroke-width="5"
+     width="2460"
+     x="146"
+     y="420"
+     id="rect5" />
+  <rect
+     fill="#fafbfc"
+     height="445"
+     stroke="#34495a"
+     stroke-width="4"
+     width="2270"
+     x="241"
+     y="575"
+     id="rect6" />
+  <rect
+     fill="#f8e9cb"
+     height="445"
+     stroke="#a48057"
+     stroke-width="2.5"
+     width="300"
+     x="426"
+     y="575"
+     id="rect7" />
+  <rect
+     fill="#f7e1ba"
+     height="445"
+     stroke="#a48057"
+     stroke-width="2.5"
+     width="300"
+     x="726"
+     y="575"
+     id="rect8" />
+  <rect
+     fill="#f5d6a3"
+     height="445"
+     stroke="#a48057"
+     stroke-width="2.5"
+     width="300"
+     x="1026"
+     y="575"
+     id="rect9" />
+  <rect
+     fill="#f2c98b"
+     height="445"
+     stroke="#a48057"
+     stroke-width="2.5"
+     width="300"
+     x="1326"
+     y="575"
+     id="rect10" />
+  <rect
+     fill="#eeba72"
+     height="445"
+     stroke="#a48057"
+     stroke-width="2.5"
+     width="300"
+     x="1626"
+     y="575"
+     id="rect11" />
+  <rect
+     fill="#d9eaf4"
+     height="445"
+     stroke="#6f94aa"
+     stroke-width="2.5"
+     width="230"
+     x="1926"
+     y="575"
+     id="rect12" />
+  <rect
+     fill="#c6dfee"
+     height="445"
+     stroke="#6f94aa"
+     stroke-width="2.5"
+     width="230"
+     x="2156"
+     y="575"
+     id="rect13" />
+  <rect
+     fill="#f4f6f7"
+     height="445"
+     stroke="none"
+     width="185"
+     x="241"
+     y="575"
+     id="rect14" />
+  <rect
+     fill="#f4f6f7"
+     height="445"
+     stroke="none"
+     width="125"
+     x="2386"
+     y="575"
+     id="rect15" />
+  <path
+     d="m 426,394 v -34 h 1500 v 34"
+     fill="none"
+     stroke="#243447"
+     stroke-width="4"
+     id="path15" />
+  <path
+     d="m 1941.2641,393.96152 v -35.29128 h 444.474 v 35.29128"
+     fill="none"
+     stroke="#243447"
+     stroke-width="2.21836"
+     id="path15-9"
+     style="stroke-width:4;stroke-dasharray:none" />
+  <text
+     fill="#1f2933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="1176"
+     y="325"
+     id="text15">Heating zones — independent zone control</text>
+  <text
+     fill="#315f7a"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="2167.2036"
+     y="321.74182"
+     id="text16">Controlled cooling</text>
+  <text
+     fill="#1f2933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="333.35281"
+     y="615.63953"
+     id="text17">Entrance</text>
+  <text
+     fill="#1f2933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="2446.2593"
+     y="617.90588"
+     id="text18">Exit</text>
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="492"
+     y="610"
+     id="rect18" />
+  <g
+     id="g20"
+     transform="translate(26,10)">
+    <circle
+       cx="550"
+       cy="624"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle18" />
+    <path
+       d="m 550,624 q 10,0 16.72925,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path18" />
+    <path
+       d="m 550,624 q -5,8.66025 -17.85668,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path19" />
+    <path
+       d="m 550,624 q -5,-8.66025 1.12743,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path20" />
+    <circle
+       cx="550"
+       cy="624"
+       fill="#34495a"
+       r="6"
+       id="circle20" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="510"
+     y="676"
+     id="rect20" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="492"
+     y="916"
+     id="rect21" />
+  <g
+     id="g23"
+     transform="translate(26,10)">
+    <circle
+       cx="550"
+       cy="930"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle21" />
+    <path
+       d="m 550,930 q 10,0 16.72925,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path21" />
+    <path
+       d="m 550,930 q -5,8.66025 -17.85668,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path22" />
+    <path
+       d="m 550,930 q -5,-8.66025 1.12743,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path23" />
+    <circle
+       cx="550"
+       cy="930"
+       fill="#34495a"
+       r="6"
+       id="circle23" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="510"
+     y="881"
+     id="rect23" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="536"
+     x2="536"
+     y1="701"
+     y2="762"
+     id="line23" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="536"
+     x2="536"
+     y1="870"
+     y2="815"
+     id="line24" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="576"
+     x2="576"
+     y1="701"
+     y2="762"
+     id="line25" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="576"
+     x2="576"
+     y1="870"
+     y2="815"
+     id="line26" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="616"
+     x2="616"
+     y1="701"
+     y2="762"
+     id="line27" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="616"
+     x2="616"
+     y1="870"
+     y2="815"
+     id="line28" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="792"
+     y="610"
+     id="rect28" />
+  <g
+     id="g30"
+     transform="translate(26,10)">
+    <circle
+       cx="850"
+       cy="624"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle28" />
+    <path
+       d="m 850,624 q 10,0 16.72925,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path28" />
+    <path
+       d="m 850,624 q -5,8.66025 -17.85668,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path29" />
+    <path
+       d="m 850,624 q -5,-8.66025 1.12743,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path30" />
+    <circle
+       cx="850"
+       cy="624"
+       fill="#34495a"
+       r="6"
+       id="circle30" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="810"
+     y="676"
+     id="rect30" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="792"
+     y="916"
+     id="rect31" />
+  <g
+     id="g33"
+     transform="translate(26,10)">
+    <circle
+       cx="850"
+       cy="930"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle31" />
+    <path
+       d="m 850,930 q 10,0 16.72925,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path31" />
+    <path
+       d="m 850,930 q -5,8.66025 -17.85668,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path32" />
+    <path
+       d="m 850,930 q -5,-8.66025 1.12743,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path33" />
+    <circle
+       cx="850"
+       cy="930"
+       fill="#34495a"
+       r="6"
+       id="circle33" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="810"
+     y="881"
+     id="rect33" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="836"
+     x2="836"
+     y1="701"
+     y2="762"
+     id="line33" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="836"
+     x2="836"
+     y1="870"
+     y2="815"
+     id="line34" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="876"
+     x2="876"
+     y1="701"
+     y2="762"
+     id="line35" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="876"
+     x2="876"
+     y1="870"
+     y2="815"
+     id="line36" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="916"
+     x2="916"
+     y1="701"
+     y2="762"
+     id="line37" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="916"
+     x2="916"
+     y1="870"
+     y2="815"
+     id="line38" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="1092"
+     y="610"
+     id="rect38" />
+  <g
+     id="g40"
+     transform="translate(26,10)">
+    <circle
+       cx="1150"
+       cy="624"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle38" />
+    <path
+       d="m 1150,624 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path38" />
+    <path
+       d="m 1150,624 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path39" />
+    <path
+       d="m 1150,624 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path40" />
+    <circle
+       cx="1150"
+       cy="624"
+       fill="#34495a"
+       r="6"
+       id="circle40" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="1110"
+     y="676"
+     id="rect40" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="1092"
+     y="916"
+     id="rect41" />
+  <g
+     id="g43"
+     transform="translate(26,10)">
+    <circle
+       cx="1150"
+       cy="930"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle41" />
+    <path
+       d="m 1150,930 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path41" />
+    <path
+       d="m 1150,930 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path42" />
+    <path
+       d="m 1150,930 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path43" />
+    <circle
+       cx="1150"
+       cy="930"
+       fill="#34495a"
+       r="6"
+       id="circle43" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="1110"
+     y="881"
+     id="rect43" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1136"
+     x2="1136"
+     y1="701"
+     y2="762"
+     id="line43" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1136"
+     x2="1136"
+     y1="870"
+     y2="815"
+     id="line44" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1176"
+     x2="1176"
+     y1="701"
+     y2="762"
+     id="line45" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1176"
+     x2="1176"
+     y1="870"
+     y2="815"
+     id="line46" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1216"
+     x2="1216"
+     y1="701"
+     y2="762"
+     id="line47" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1216"
+     x2="1216"
+     y1="870"
+     y2="815"
+     id="line48" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="1392"
+     y="610"
+     id="rect48" />
+  <g
+     id="g50"
+     transform="translate(26,10)">
+    <circle
+       cx="1450"
+       cy="624"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle48" />
+    <path
+       d="m 1450,624 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path48" />
+    <path
+       d="m 1450,624 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path49" />
+    <path
+       d="m 1450,624 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path50" />
+    <circle
+       cx="1450"
+       cy="624"
+       fill="#34495a"
+       r="6"
+       id="circle50" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="1410"
+     y="676"
+     id="rect50" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="1392"
+     y="916"
+     id="rect51" />
+  <g
+     id="g53"
+     transform="translate(26,10)">
+    <circle
+       cx="1450"
+       cy="930"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle51" />
+    <path
+       d="m 1450,930 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path51" />
+    <path
+       d="m 1450,930 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path52" />
+    <path
+       d="m 1450,930 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path53" />
+    <circle
+       cx="1450"
+       cy="930"
+       fill="#34495a"
+       r="6"
+       id="circle53" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="1410"
+     y="881"
+     id="rect53" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1436"
+     x2="1436"
+     y1="701"
+     y2="762"
+     id="line53" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1436"
+     x2="1436"
+     y1="870"
+     y2="815"
+     id="line54" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1476"
+     x2="1476"
+     y1="701"
+     y2="762"
+     id="line55" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1476"
+     x2="1476"
+     y1="870"
+     y2="815"
+     id="line56" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1516"
+     x2="1516"
+     y1="701"
+     y2="762"
+     id="line57" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1516"
+     x2="1516"
+     y1="870"
+     y2="815"
+     id="line58" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="1692"
+     y="610"
+     id="rect58" />
+  <g
+     id="g60"
+     transform="translate(26,10)">
+    <circle
+       cx="1750"
+       cy="624"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle58" />
+    <path
+       d="m 1750,624 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path58" />
+    <path
+       d="m 1750,624 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path59" />
+    <path
+       d="m 1750,624 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path60" />
+    <circle
+       cx="1750"
+       cy="624"
+       fill="#34495a"
+       r="6"
+       id="circle60" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="1710"
+     y="676"
+     id="rect60" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#34495a"
+     stroke-width="3"
+     width="168"
+     x="1692"
+     y="916"
+     id="rect61" />
+  <g
+     id="g63"
+     transform="translate(26,10)">
+    <circle
+       cx="1750"
+       cy="930"
+       fill="#ffffff"
+       r="27"
+       stroke="#34495a"
+       stroke-width="4"
+       id="circle61" />
+    <path
+       d="m 1750,930 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path61" />
+    <path
+       d="m 1750,930 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path62" />
+    <path
+       d="m 1750,930 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#34495a"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path63" />
+    <circle
+       cx="1750"
+       cy="930"
+       fill="#34495a"
+       r="6"
+       id="circle63" />
+  </g>
+  <rect
+     fill="#a9b3ba"
+     height="17"
+     stroke="#34495a"
+     stroke-width="2"
+     width="132"
+     x="1710"
+     y="881"
+     id="rect63" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1736"
+     x2="1736"
+     y1="701"
+     y2="762"
+     id="line63" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1736"
+     x2="1736"
+     y1="870"
+     y2="815"
+     id="line64" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1776"
+     x2="1776"
+     y1="701"
+     y2="762"
+     id="line65" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1776"
+     x2="1776"
+     y1="870"
+     y2="815"
+     id="line66" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1816"
+     x2="1816"
+     y1="701"
+     y2="762"
+     id="line67" />
+  <line
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b66b2e"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="1816"
+     x2="1816"
+     y1="870"
+     y2="815"
+     id="line68" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#476e86"
+     stroke-width="3"
+     width="164"
+     x="1959"
+     y="610"
+     id="rect68" />
+  <g
+     id="g70"
+     transform="translate(26,10)">
+    <circle
+       cx="2015"
+       cy="624"
+       fill="#ffffff"
+       r="27"
+       stroke="#476e86"
+       stroke-width="4"
+       id="circle68" />
+    <path
+       d="m 2015,624 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path68" />
+    <path
+       d="m 2015,624 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path69" />
+    <path
+       d="m 2015,624 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path70" />
+    <circle
+       cx="2015"
+       cy="624"
+       fill="#476e86"
+       r="6"
+       id="circle70" />
+  </g>
+  <rect
+     fill="#9db7c8"
+     height="17"
+     stroke="#476e86"
+     stroke-width="2"
+     width="128"
+     x="1977"
+     y="676"
+     id="rect70" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#476e86"
+     stroke-width="3"
+     width="164"
+     x="1959"
+     y="916"
+     id="rect71" />
+  <g
+     id="g73"
+     transform="translate(26,10)">
+    <circle
+       cx="2015"
+       cy="930"
+       fill="#ffffff"
+       r="27"
+       stroke="#476e86"
+       stroke-width="4"
+       id="circle71" />
+    <path
+       d="m 2015,930 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path71" />
+    <path
+       d="m 2015,930 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path72" />
+    <path
+       d="m 2015,930 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path73" />
+    <circle
+       cx="2015"
+       cy="930"
+       fill="#476e86"
+       r="6"
+       id="circle73" />
+  </g>
+  <rect
+     fill="#9db7c8"
+     height="17"
+     stroke="#476e86"
+     stroke-width="2"
+     width="128"
+     x="1977"
+     y="881"
+     id="rect73" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2003"
+     x2="2003"
+     y1="701"
+     y2="762"
+     id="line73" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2003"
+     x2="2003"
+     y1="870"
+     y2="815"
+     id="line74" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2041"
+     x2="2041"
+     y1="701"
+     y2="762"
+     id="line75" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2041"
+     x2="2041"
+     y1="870"
+     y2="815"
+     id="line76" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2079"
+     x2="2079"
+     y1="701"
+     y2="762"
+     id="line77" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2079"
+     x2="2079"
+     y1="870"
+     y2="815"
+     id="line78" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#476e86"
+     stroke-width="3"
+     width="164"
+     x="2189"
+     y="610"
+     id="rect78" />
+  <g
+     id="g80"
+     transform="translate(26,10)">
+    <circle
+       cx="2245"
+       cy="624"
+       fill="#ffffff"
+       r="27"
+       stroke="#476e86"
+       stroke-width="4"
+       id="circle78" />
+    <path
+       d="m 2245,624 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path78" />
+    <path
+       d="m 2245,624 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path79" />
+    <path
+       d="m 2245,624 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path80" />
+    <circle
+       cx="2245"
+       cy="624"
+       fill="#476e86"
+       r="6"
+       id="circle80" />
+  </g>
+  <rect
+     fill="#9db7c8"
+     height="17"
+     stroke="#476e86"
+     stroke-width="2"
+     width="128"
+     x="2207"
+     y="676"
+     id="rect80" />
+  <rect
+     fill="#f4f6f7"
+     height="48"
+     rx="10"
+     ry="10"
+     stroke="#476e86"
+     stroke-width="3"
+     width="164"
+     x="2189"
+     y="916"
+     id="rect81" />
+  <g
+     id="g83"
+     transform="translate(26,10)">
+    <circle
+       cx="2245"
+       cy="930"
+       fill="#ffffff"
+       r="27"
+       stroke="#476e86"
+       stroke-width="4"
+       id="circle81" />
+    <path
+       d="m 2245,930 q 10,0 16.7293,10.96048"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path81" />
+    <path
+       d="m 2245,930 q -5,8.66025 -17.8567,9.00772"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path82" />
+    <path
+       d="m 2245,930 q -5,-8.66025 1.1274,-19.9682"
+       fill="none"
+       stroke="#476e86"
+       stroke-linecap="round"
+       stroke-width="7"
+       id="path83" />
+    <circle
+       cx="2245"
+       cy="930"
+       fill="#476e86"
+       r="6"
+       id="circle83" />
+  </g>
+  <rect
+     fill="#9db7c8"
+     height="17"
+     stroke="#476e86"
+     stroke-width="2"
+     width="128"
+     x="2207"
+     y="881"
+     id="rect83" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2233"
+     x2="2233"
+     y1="701"
+     y2="762"
+     id="line83" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2233"
+     x2="2233"
+     y1="870"
+     y2="815"
+     id="line84" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2271"
+     x2="2271"
+     y1="701"
+     y2="762"
+     id="line85" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2271"
+     x2="2271"
+     y1="870"
+     y2="815"
+     id="line86" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2309"
+     x2="2309"
+     y1="701"
+     y2="762"
+     id="line87" />
+  <line
+     fill="none"
+     marker-end="url(#arrowCool)"
+     stroke="#4d88af"
+     stroke-linecap="round"
+     stroke-width="5"
+     x1="2309"
+     x2="2309"
+     y1="870"
+     y2="815"
+     id="line88" />
+  <rect
+     fill="#5a6770"
+     height="17"
+     width="2214"
+     x="269"
+     y="796"
+     id="rect88" />
+  <rect
+     fill="#5a6770"
+     height="17"
+     width="2214"
+     x="269"
+     y="852"
+     id="rect89" />
+  <rect
+     fill="#8a959d"
+     height="39"
+     width="11"
+     x="306"
+     y="813"
+     id="rect90" />
+  <rect
+     fill="#8a959d"
+     height="39"
+     width="11"
+     x="566"
+     y="813"
+     id="rect91" />
+  <rect
+     fill="#8a959d"
+     height="39"
+     width="11"
+     x="826"
+     y="813"
+     id="rect92" />
+  <rect
+     fill="#8a959d"
+     height="39"
+     width="11"
+     x="1086"
+     y="813"
+     id="rect93" />
+  <rect
+     fill="#8a959d"
+     height="39"
+     width="11"
+     x="1346"
+     y="813"
+     id="rect94" />
+  <rect
+     fill="#8a959d"
+     height="39"
+     width="11"
+     x="1606"
+     y="813"
+     id="rect95" />
+  <rect
+     fill="#8a959d"
+     height="39"
+     width="11"
+     x="1866"
+     y="813"
+     id="rect96" />
+  <rect
+     fill="#8a959d"
+     height="39"
+     width="11"
+     x="2126"
+     y="813"
+     id="rect97" />
+  <rect
+     fill="#8a959d"
+     height="39"
+     width="11"
+     x="2386"
+     y="813"
+     id="rect98" />
+  <rect
+     fill="#5b9668"
+     height="90"
+     rx="10"
+     ry="10"
+     stroke="#2e5f3b"
+     stroke-width="4"
+     width="285"
+     x="1206"
+     y="750"
+     id="rect99" />
+  <rect
+     fill="#36454f"
+     height="27"
+     rx="4"
+     ry="4"
+     stroke="#1e2a32"
+     stroke-width="2"
+     width="58"
+     x="1236"
+     y="766"
+     id="rect100" />
+  <rect
+     fill="#d9dde1"
+     height="20"
+     rx="4"
+     ry="4"
+     stroke="#1e2a32"
+     stroke-width="2"
+     width="36"
+     x="1318"
+     y="762"
+     id="rect101" />
+  <rect
+     fill="#2f3940"
+     height="27"
+     rx="4"
+     ry="4"
+     stroke="#1e2a32"
+     stroke-width="2"
+     width="65"
+     x="1373"
+     y="766"
+     id="rect102" />
+  <rect
+     fill="#ced3d7"
+     height="14"
+     rx="4"
+     ry="4"
+     stroke="#1e2a32"
+     stroke-width="2"
+     width="25"
+     x="1254"
+     y="807"
+     id="rect103" />
+  <rect
+     fill="#263640"
+     height="23"
+     rx="4"
+     ry="4"
+     stroke="#1e2a32"
+     stroke-width="2"
+     width="46"
+     x="1310"
+     y="800"
+     id="rect104" />
+  <rect
+     fill="#d8dce0"
+     height="17"
+     rx="4"
+     ry="4"
+     stroke="#1e2a32"
+     stroke-width="2"
+     width="30"
+     x="1386"
+     y="804"
+     id="rect105" />
+  <line
+     fill="none"
+     marker-end="url(#arrowDark)"
+     stroke="#243447"
+     stroke-linecap="round"
+     stroke-width="7"
+     x1="431"
+     x2="2346"
+     y1="1105"
+     y2="1105"
+     id="line106" />
+  <text
+     fill="#1f2933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="1391"
+     y="1170"
+     id="text106">Board travel</text>
+  <text
+     fill="#7a4b20"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="1170.8621"
+     y="559.64771"
+     id="text107">Top heating / airflow</text>
+  <text
+     fill="#7a4b20"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="1191.0283"
+     y="1058.7767"
+     id="text108">Bottom heating / airflow</text>
+  <rect
+     fill="#fff9f2"
+     height="109.80125"
+     rx="14.009177"
+     ry="11.978318"
+     stroke="#a9784b"
+     stroke-width="2.69875"
+     width="373.57806"
+     x="1359.0841"
+     y="1333.7733"
+     id="rect108" />
+  <text
+     fill="#6d4726"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="27px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="1541.3917"
+     y="1367.1925"
+     id="text110"><tspan
+       dy="0"
+       x="1541.3917"
+       id="tspan108">Forced convection</tspan><tspan
+       dy="30.24"
+       x="1541.3917"
+       id="tspan109">process gas moves over</tspan><tspan
+       dy="30.24"
+       x="1541.3917"
+       id="tspan110">and around the assembly</tspan></text>
+  <text
+     fill="#315f7a"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="2156"
+     y="995"
+     id="text111">Cooling airflow removes heat</text>
+  <rect
+     fill="#f8fafc"
+     height="115.96448"
+     rx="19.013189"
+     ry="13.915737"
+     stroke="#8a98a1"
+     stroke-width="2.63914"
+     width="739.40173"
+     x="64.971184"
+     y="101.15987"
+     id="rect111" />
+  <text
+     fill="#1f2933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="bold"
+     text-anchor="start"
+     x="95.110771"
+     y="153.29945"
+     id="text112"><tspan
+       dy="0"
+       x="95.110771"
+       id="tspan111">Process atmosphere: Air</tspan><tspan
+       dy="37.82"
+       x="95.110771"
+       id="tspan112">Nitrogen when reduced oxidation is beneficial</tspan></text>
+  <path
+     d="M 327.86298,219.67548 326,570"
+     fill="none"
+     marker-end="url(#arrowGas)"
+     stroke="#727e87"
+     stroke-width="4"
+     id="path112"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="m 1666,580 c 0,-70 0,-150 0,-180"
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b08a66"
+     stroke-dasharray="10, 8"
+     stroke-width="4"
+     id="path113" />
+  <path
+     d="m 1806,580 c 0,-70 0,-150 0,-180"
+     fill="none"
+     marker-end="url(#arrowWarm)"
+     stroke="#b08a66"
+     stroke-dasharray="10, 8"
+     stroke-width="4"
+     id="path114" />
+  <path
+     d="m 1626,400 h 245 V 260"
+     fill="none"
+     stroke="#68747d"
+     stroke-linecap="round"
+     stroke-width="14"
+     id="path115"
+     sodipodi:nodetypes="ccc" />
+  <rect
+     fill="#eef2f4"
+     height="150"
+     rx="14"
+     ry="14"
+     stroke="#34495a"
+     stroke-width="4"
+     width="250"
+     x="1750.639"
+     y="102.2407"
+     id="rect115" />
+  <text
+     fill="#1f2933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="1875.639"
+     y="160.24071"
+     id="text115">Trap / filter</text>
+  <line
+     fill="none"
+     stroke="#87949d"
+     stroke-linecap="round"
+     stroke-width="3"
+     x1="1808.639"
+     x2="1942.639"
+     y1="194.24071"
+     y2="194.24071"
+     id="line115" />
+  <line
+     fill="none"
+     stroke="#87949d"
+     stroke-linecap="round"
+     stroke-width="3"
+     x1="1808.639"
+     x2="1942.639"
+     y1="214.24071"
+     y2="214.24071"
+     id="line116" />
+  <line
+     fill="none"
+     stroke="#87949d"
+     stroke-linecap="round"
+     stroke-width="3"
+     x1="1808.639"
+     x2="1942.639"
+     y1="234.24071"
+     y2="234.24071"
+     id="line117" />
+  <line
+     fill="none"
+     marker-end="url(#arrowDark)"
+     stroke="#243447"
+     stroke-linecap="round"
+     stroke-width="6"
+     x1="1875.639"
+     x2="1875.639"
+     y1="102.2407"
+     y2="57.240704"
+     id="line118" />
+  <text
+     fill="#1f2933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="2123.5537"
+     y="163.25819"
+     id="text119"><tspan
+       dy="0"
+       x="2123.5537"
+       id="tspan118">Exhaust / flux</tspan><tspan
+       dy="38.279999"
+       x="2123.5537"
+       id="tspan119">management</tspan></text>
+  <text
+     fill="#1f2933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="bold"
+     text-anchor="start"
+     x="54.317329"
+     y="1381.9097"
+     id="text121"><tspan
+       dy="0"
+       x="54.317329"
+       id="tspan120">Conveyor / rails</tspan><tspan
+       dy="37.759998"
+       x="54.317329"
+       id="tspan121">rail or mesh transport depending on product</tspan></text>
+  <line
+     fill="none"
+     stroke="#243447"
+     stroke-linecap="round"
+     stroke-width="2.07496"
+     x1="137.06882"
+     x2="315.59387"
+     y1="1341.2524"
+     y2="875.69427"
+     id="line121"
+     style="stroke-width:2;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <line
+     fill="none"
+     stroke="#243447"
+     stroke-linecap="round"
+     stroke-width="2.07496"
+     x1="1559.457"
+     x2="1512.8724"
+     y1="1330.0503"
+     y2="842.81287"
+     id="line121-8"
+     style="stroke:#6d4726;stroke-width:1.8763;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-0)" />
+  <rect
+     fill="#f7f8f9"
+     height="87.68042"
+     rx="18.570166"
+     ry="10.229383"
+     stroke="#98a2a9"
+     stroke-dasharray="9, 7"
+     stroke-width="1.84645"
+     width="809.12878"
+     x="1799.3213"
+     y="1349.99"
+     id="rect121" />
+  <text
+     fill="#46525b"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="bold"
+     text-anchor="middle"
+     x="2205"
+     y="1377"
+     id="text123"
+     style="white-space:pre;inline-size:1347.93;display:inline"
+     transform="translate(-0.042841,26.475392)"
+     xml:space="preserve"><tspan
+       x="2205"
+       y="1377"
+       id="tspan1">Physical machine zones ≠thermal-profile regions</tspan></text>
+  <line
+     fill="none"
+     stroke="#7a858d"
+     stroke-linecap="round"
+     stroke-width="4"
+     x1="186"
+     x2="2566"
+     y1="1294.5027"
+     y2="1294.5027"
+     id="line123" />
+  <rect
+     fill="#68737b"
+     height="52"
+     rx="8"
+     ry="8"
+     width="82"
+     x="281"
+     y="1264.5027"
+     id="rect123" />
+  <rect
+     fill="#68737b"
+     height="52"
+     rx="8"
+     ry="8"
+     width="82"
+     x="2346"
+     y="1264.5027"
+     id="rect124" />
+</svg>
