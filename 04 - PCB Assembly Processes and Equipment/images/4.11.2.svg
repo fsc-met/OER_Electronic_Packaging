@@ -1,18 +1,136 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2300" height="1540" viewBox="0 0 2300 1540" preserveAspectRatio="xMidYMid meet">
-  <defs>
-    <marker id="arrow-seq" markerWidth="17" markerHeight="17" refX="14" refY="8.5" orient="auto" markerUnits="userSpaceOnUse">
-      <path d="M0,0 L17,8.5 L0,17 Z" fill="#596a78"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2400"
+   height="1540"
+   viewBox="0 0 2400 1540"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg83"
+   sodipodi:docname="4.11.2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.11.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview83"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false"
+     inkscape:zoom="0.25800086"
+     inkscape:cx="1286.8174"
+     inkscape:cy="1040.6942"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg83"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="marker83"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path83" />
     </marker>
-    <marker id="arrow-blue" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
-      <path d="M0,0 L16,8 L0,16 Z" fill="#2f6f9f"/>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
     </marker>
-    <marker id="arrow-teal" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
-      <path d="M0,0 L16,8 L0,16 Z" fill="#2b8f83"/>
+    <marker
+       id="arrow-seq"
+       markerWidth="17"
+       markerHeight="17"
+       refX="14"
+       refY="8.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       viewBox="0 0 17 17"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 17,8.5 0,17 Z"
+         fill="#596a78"
+         id="path1" />
     </marker>
-    <marker id="arrow-amber" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
-      <path d="M0,0 L16,8 L0,16 Z" fill="#c47b2a"/>
+    <marker
+       id="arrow-blue"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 16,8 0,16 Z"
+         fill="#2f6f9f"
+         id="path2" />
     </marker>
-    <style>
+    <marker
+       id="arrow-teal"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 16,8 0,16 Z"
+         fill="#2b8f83"
+         id="path3" />
+    </marker>
+    <marker
+       id="arrow-amber"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 16,8 0,16 Z"
+         fill="#c47b2a"
+         id="path4" />
+    </marker>
+    <style
+       id="style4">
       .title { font-family: Arial, Helvetica, sans-serif; font-size:36px; font-weight:700; fill:#20364f; }
       .body { font-family: Arial, Helvetica, sans-serif; font-size:27px; fill:#415364; }
       .small { font-family: Arial, Helvetica, sans-serif; font-size:23px; fill:#526474; }
@@ -34,199 +152,1039 @@
       .cam2 { fill:#c9934a; stroke:#8b632d; stroke-width:4; }
       .feeder { fill:#91a9be; stroke:#5d7386; stroke-width:4; }
     </style>
+    <marker
+       style="overflow:visible"
+       id="marker83-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path83-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker83-9-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path83-1-3" />
+    </marker>
   </defs>
-
-  <rect x="0" y="0" width="2300" height="1540" fill="#ffffff"/>
-
+  <rect
+     x="0"
+     y="-1540"
+     width="2400"
+     height="1540"
+     fill="#ffffff"
+     id="rect4"
+     transform="scale(1,-1)"
+     style="stroke-width:1.02151" />
   <!-- TOP ROW PANELS -->
   <!-- Step 1 -->
-  <g id="step1">
-    <rect x="70" y="80" width="490" height="570" rx="24" class="panel"/>
-    <rect x="70" y="80" width="490" height="78" rx="24" class="hdr"/>
-    <circle cx="120" cy="119" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
-    <text x="120" y="130" text-anchor="middle" class="num">1</text>
-    <text x="165" y="130" class="title">Locate board</text>
-
-    <rect x="145" y="370" width="340" height="115" rx="12" class="pcb"/>
-    <rect x="175" y="402" width="55" height="22" rx="4" class="pad"/>
-    <rect x="265" y="402" width="55" height="22" rx="4" class="pad"/>
-    <rect x="355" y="402" width="55" height="22" rx="4" class="pad"/>
-    <circle cx="180" cy="392" r="13" fill="#f0d760" stroke="#536575" stroke-width="3"/>
-    <path d="M125 350 L125 500 M505 350 L505 500" stroke="#667785" stroke-width="12"/>
-    <text x="315" y="528" text-anchor="middle" class="small">PCB held on support / conveyor</text>
-
-    <rect x="285" y="205" width="62" height="70" rx="10" class="camera"/>
-    <circle cx="316" cy="262" r="12" fill="#d9ffff" stroke="#236d65" stroke-width="3"/>
-    <line x1="316" y1="275" x2="180" y2="380" class="vision"/>
-    <text x="315" y="320" text-anchor="middle" class="body">Board camera sees fiducial</text>
-    <text x="315" y="575" text-anchor="middle" class="body">Board reference established</text>
+  <g
+     id="g83"
+     transform="translate(109.44863,26.303823)">
+    <rect
+       x="12"
+       y="80"
+       width="490"
+       height="570"
+       rx="24"
+       class="panel"
+       id="rect5" />
+    <rect
+       x="12"
+       y="80"
+       width="490"
+       height="78"
+       rx="24"
+       class="hdr"
+       id="rect6" />
+    <circle
+       cx="62"
+       cy="119"
+       r="27"
+       fill="#d8ebf7"
+       stroke="#6f9fbe"
+       stroke-width="3"
+       id="circle6" />
+    <text
+       x="62"
+       y="130"
+       text-anchor="middle"
+       class="num"
+       id="text6">1</text>
+    <text
+       x="107"
+       y="130"
+       class="title"
+       id="text7">Locate board</text>
+    <rect
+       x="87"
+       y="370"
+       width="340"
+       height="115"
+       rx="12"
+       class="pcb"
+       id="rect7" />
+    <rect
+       x="143"
+       y="416"
+       width="55"
+       height="22"
+       rx="4"
+       class="pad"
+       id="rect8" />
+    <rect
+       x="233"
+       y="416"
+       width="55"
+       height="22"
+       rx="4"
+       class="pad"
+       id="rect9" />
+    <rect
+       x="323"
+       y="416"
+       width="55"
+       height="22"
+       rx="4"
+       class="pad"
+       id="rect10" />
+    <circle
+       cx="122"
+       cy="392"
+       r="13"
+       fill="#f0d760"
+       stroke="#536575"
+       stroke-width="3"
+       id="circle10" />
+    <path
+       d="M 67,350 V 500 M 447,350 v 150"
+       stroke="#667785"
+       stroke-width="12"
+       id="path10" />
+    <text
+       x="257"
+       y="528"
+       text-anchor="middle"
+       class="small"
+       id="text10">PCB held on support / conveyor</text>
+    <rect
+       x="91"
+       y="205"
+       width="62"
+       height="70"
+       rx="10"
+       class="camera"
+       id="rect11" />
+    <circle
+       cx="122"
+       cy="262"
+       r="12"
+       fill="#d9ffff"
+       stroke="#236d65"
+       stroke-width="3"
+       id="circle11" />
+    <line
+       x1="121.38879"
+       y1="274.93054"
+       x2="121.1754"
+       y2="381.38519"
+       class="vision"
+       id="line11"
+       style="stroke-width:2;stroke-dasharray:4.4, 3.6;stroke-dashoffset:0" />
+    <text
+       x="299.5369"
+       y="318.69116"
+       text-anchor="middle"
+       class="body"
+       id="text11">Board camera sees fiducial</text>
+    <text
+       x="257"
+       y="575"
+       text-anchor="middle"
+       class="body"
+       id="text12">Board reference established</text>
   </g>
-
   <!-- Step 2 -->
-  <g id="step2">
-    <rect x="590" y="80" width="490" height="570" rx="24" class="panel"/>
-    <rect x="590" y="80" width="490" height="78" rx="24" class="hdr"/>
-    <circle cx="640" cy="119" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
-    <text x="640" y="130" text-anchor="middle" class="num">2</text>
-    <text x="685" y="130" class="title">Select expected source</text>
-
-    <!-- feeder -->
-    <g transform="translate(655,365)">
-      <rect x="0" y="0" width="75" height="150" rx="11" class="feeder"/>
-      <rect x="90" y="0" width="75" height="150" rx="11" class="feeder"/>
-      <rect x="180" y="0" width="75" height="150" rx="11" class="feeder"/>
-      <rect x="270" y="0" width="75" height="150" rx="11" class="feeder"/>
-      <circle cx="37" cy="28" r="10" fill="#e2b64c"/>
-      <circle cx="127" cy="28" r="10" fill="#e2b64c"/>
-      <circle cx="217" cy="28" r="10" fill="#e2b64c"/>
-      <circle cx="307" cy="28" r="10" fill="#e2b64c"/>
-      <rect x="20" y="85" width="36" height="23" rx="5" class="component"/>
-      <rect x="110" y="85" width="36" height="23" rx="5" class="component"/>
-      <rect x="200" y="85" width="36" height="23" rx="5" class="component"/>
-      <rect x="290" y="85" width="36" height="23" rx="5" class="component"/>
-    </g>
-    <!-- head -->
-    <rect x="790" y="205" width="90" height="90" rx="18" class="nozzle"/>
-    <rect x="818" y="295" width="34" height="90" rx="10" class="nozzle"/>
-    <text x="835" y="190" text-anchor="middle" class="body">X/Y travel to assigned source</text>
-    <line x1="690" y1="330" x2="805" y2="330" class="local"/>
-    <text x="835" y="560" text-anchor="middle" class="body">Job/setup determines source</text>
-    <text x="835" y="595" text-anchor="middle" class="small">not visual guessing</text>
+  <rect
+     x="647.49561"
+     y="106.35077"
+     width="513.35785"
+     height="569.90613"
+     rx="25.144058"
+     class="panel"
+     id="rect12" />
+  <rect
+     x="647.44867"
+     y="106.30383"
+     width="508.03979"
+     height="78"
+     rx="24.883581"
+     class="hdr"
+     id="rect13"
+     style="stroke-width:1.01824" />
+  <circle
+     cx="699.44867"
+     cy="145.30382"
+     r="27"
+     fill="#d8ebf7"
+     stroke="#6f9fbe"
+     stroke-width="3"
+     id="circle13" />
+  <text
+     x="699.44867"
+     y="158.30382"
+     text-anchor="middle"
+     class="num"
+     id="text13">2</text>
+  <text
+     x="736.44867"
+     y="156.30382"
+     class="title"
+     id="text14">Select expected source</text>
+  <g
+     transform="translate(724.44863,395.30383)"
+     id="g23">
+    <rect
+       x="0"
+       y="0"
+       width="75"
+       height="150"
+       rx="11"
+       class="feeder"
+       id="rect14" />
+    <rect
+       x="90"
+       y="0"
+       width="75"
+       height="150"
+       rx="11"
+       class="feeder"
+       id="rect15" />
+    <rect
+       x="180"
+       y="0"
+       width="75"
+       height="150"
+       rx="11"
+       class="feeder"
+       id="rect16" />
+    <rect
+       x="270"
+       y="0"
+       width="75"
+       height="150"
+       rx="11"
+       class="feeder"
+       id="rect17" />
+    <circle
+       cx="37"
+       cy="28"
+       r="10"
+       fill="#e2b64c"
+       id="circle17" />
+    <circle
+       cx="127"
+       cy="28"
+       r="10"
+       fill="#e2b64c"
+       id="circle18" />
+    <circle
+       cx="217"
+       cy="28"
+       r="10"
+       fill="#e2b64c"
+       id="circle19" />
+    <circle
+       cx="307"
+       cy="28"
+       r="10"
+       fill="#e2b64c"
+       id="circle20" />
+    <rect
+       x="20"
+       y="85"
+       width="36"
+       height="23"
+       rx="5"
+       class="component"
+       id="rect20" />
+    <rect
+       x="110"
+       y="85"
+       width="36"
+       height="23"
+       rx="5"
+       class="component"
+       id="rect21" />
+    <rect
+       x="200"
+       y="85"
+       width="36"
+       height="23"
+       rx="5"
+       class="component"
+       id="rect22" />
+    <rect
+       x="290"
+       y="85"
+       width="36"
+       height="23"
+       rx="5"
+       class="component"
+       id="rect23" />
   </g>
-
+  <rect
+     x="858.99017"
+     y="238.84534"
+     width="90.916969"
+     height="52.92683"
+     rx="18.183393"
+     class="nozzle"
+     id="rect24" />
+  <rect
+     x="887.24115"
+     y="293.09631"
+     width="34.415047"
+     height="71.419975"
+     rx="10.122073"
+     class="nozzle"
+     id="rect25" />
+  <text
+     x="904.44867"
+     y="220.30382"
+     text-anchor="middle"
+     class="body"
+     id="text25">X/Y travel to assigned source</text>
+  <line
+     x1="755.88708"
+     y1="324.68808"
+     x2="862.11212"
+     y2="324.68808"
+     class="local"
+     id="line25"
+     style="stroke-width:1.92218;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <text
+     x="904.44867"
+     y="590.30383"
+     text-anchor="middle"
+     class="body"
+     id="text26">Job/setup determines source</text>
+  <text
+     x="904.44867"
+     y="625.30383"
+     text-anchor="middle"
+     class="small"
+     id="text27">not visual guessing</text>
   <!-- Step 3 -->
-  <g id="step3">
-    <rect x="1110" y="80" width="490" height="570" rx="24" class="panel"/>
-    <rect x="1110" y="80" width="490" height="78" rx="24" class="hdr"/>
-    <circle cx="1160" cy="119" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
-    <text x="1160" y="130" text-anchor="middle" class="num">3</text>
-    <text x="1205" y="130" class="title">Pick by vacuum</text>
-
-    <rect x="1310" y="215" width="90" height="92" rx="18" class="nozzle"/>
-    <rect x="1338" y="307" width="34" height="100" rx="10" class="nozzle"/>
-    <path d="M1345 407 L1365 407 L1380 455 L1330 455 Z" class="nozzle"/>
-    <line x1="1355" y1="430" x2="1355" y2="355" class="local"/>
-    <rect x="1305" y="470" width="100" height="44" rx="9" class="component"/>
-    <rect x="1290" y="478" width="15" height="28" class="endcap"/>
-    <rect x="1405" y="478" width="15" height="28" class="endcap"/>
-    <line x1="1470" y1="300" x2="1470" y2="480" class="local2"/>
-    <text x="1500" y="390" class="body">Z</text>
-    <text x="1355" y="555" text-anchor="middle" class="body">contact → vacuum → lift</text>
-    <text x="1355" y="592" text-anchor="middle" class="small">component remains on nozzle</text>
-  </g>
-
+  <rect
+     x="1197.4485"
+     y="106.30383"
+     width="490"
+     height="570"
+     rx="24"
+     class="panel"
+     id="rect27" />
+  <rect
+     x="1197.4485"
+     y="106.30383"
+     width="490"
+     height="78"
+     rx="24"
+     class="hdr"
+     id="rect28" />
+  <circle
+     cx="1293.4485"
+     cy="145.30382"
+     r="27"
+     fill="#d8ebf7"
+     stroke="#6f9fbe"
+     stroke-width="3"
+     id="circle28" />
+  <text
+     x="1293.4485"
+     y="156.30382"
+     text-anchor="middle"
+     class="num"
+     id="text28">3</text>
+  <text
+     x="1338.4485"
+     y="156.30382"
+     class="title"
+     id="text29">Pick by vacuum</text>
+  <rect
+     x="1393.4485"
+     y="235.30382"
+     width="90"
+     height="92"
+     rx="18"
+     class="nozzle"
+     id="rect29" />
+  <rect
+     x="1421.4485"
+     y="327.30383"
+     width="34"
+     height="100"
+     rx="10"
+     class="nozzle"
+     id="rect30" />
+  <path
+     d="m 1428.4486,427.30383 h 20 l 15,48 h -50 z"
+     class="nozzle"
+     id="path30" />
+  <rect
+     x="1388.4485"
+     y="490.30383"
+     width="100"
+     height="44"
+     rx="9"
+     class="component"
+     id="rect31" />
+  <rect
+     x="1373.4485"
+     y="498.30383"
+     width="15"
+     height="28"
+     class="endcap"
+     id="rect32" />
+  <rect
+     x="1488.4485"
+     y="498.30383"
+     width="15"
+     height="28"
+     class="endcap"
+     id="rect33" />
+  <line
+     x1="1557.4485"
+     y1="326.30383"
+     x2="1557.4485"
+     y2="506.30383"
+     class="local2"
+     id="line33"
+     style="stroke-width:2;stroke-dasharray:none;marker-start:url(#marker83);marker-end:url(#marker83)" />
+  <text
+     x="1587.4485"
+     y="416.30383"
+     class="body"
+     id="text33">Z</text>
+  <text
+     x="1442.4485"
+     y="581.30383"
+     text-anchor="middle"
+     class="body"
+     id="text34">contact → vacuum → lift</text>
+  <text
+     x="1442.4485"
+     y="618.30383"
+     text-anchor="middle"
+     class="small"
+     id="text35">component remains on nozzle</text>
   <!-- Step 4 -->
-  <g id="step4">
-    <rect x="1630" y="80" width="600" height="570" rx="24" class="panel"/>
-    <rect x="1630" y="80" width="600" height="78" rx="24" class="hdr"/>
-    <circle cx="1680" cy="119" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
-    <text x="1680" y="130" text-anchor="middle" class="num">4</text>
-    <text x="1725" y="130" class="title">Inspect / compensate</text>
-
-    <rect x="1875" y="205" width="90" height="90" rx="18" class="nozzle"/>
-    <rect x="1903" y="295" width="34" height="90" rx="10" class="nozzle"/>
-    <rect x="1870" y="402" width="100" height="44" rx="9" class="component"/>
-    <rect x="1855" y="410" width="15" height="28" class="endcap"/>
-    <rect x="1970" y="410" width="15" height="28" class="endcap"/>
-    <rect x="1880" y="500" width="82" height="62" rx="13" class="cam2"/>
-    <circle cx="1921" cy="520" r="18" fill="#fae1b6" stroke="#8b632d" stroke-width="3"/>
-    <line x1="1921" y1="500" x2="1921" y2="450" class="vision2"/>
-    <line x1="1825" y1="425" x2="2015" y2="425" stroke="#c47b2a" stroke-width="3" stroke-dasharray="9 8"/>
-    <line x1="1921" y1="365" x2="1921" y2="485" stroke="#c47b2a" stroke-width="3" stroke-dasharray="9 8"/>
-    <path d="M2010 370 A80 70 0 0 1 2035 445" fill="none" stroke="#2f6f9f" stroke-width="6" marker-end="url(#arrow-blue)"/>
-    <text x="2070" y="405" class="body">θ</text>
-    <text x="1930" y="595" text-anchor="middle" class="body">pickup X/Y/θ offset measured</text>
-    <text x="1930" y="625" text-anchor="middle" class="small">controller compensates placement motion</text>
-  </g>
-
+  <rect
+     x="1739.3442"
+     y="106.19955"
+     width="538.87323"
+     height="570.20856"
+     rx="21.55493"
+     class="panel"
+     id="rect35" />
+  <rect
+     x="1739.4485"
+     y="106.30383"
+     width="540.46869"
+     height="78"
+     rx="21.618748"
+     class="hdr"
+     id="rect36"
+     style="stroke-width:0.949095" />
+  <circle
+     cx="1809.4485"
+     cy="145.30382"
+     r="27"
+     fill="#d8ebf7"
+     stroke="#6f9fbe"
+     stroke-width="3"
+     id="circle36" />
+  <text
+     x="1809.4485"
+     y="156.30382"
+     text-anchor="middle"
+     class="num"
+     id="text36">4</text>
+  <text
+     x="1854.4485"
+     y="156.30382"
+     class="title"
+     id="text37">Inspect / compensate</text>
+  <rect
+     x="1962.4485"
+     y="231.30382"
+     width="90"
+     height="90"
+     rx="18"
+     class="nozzle"
+     id="rect37" />
+  <rect
+     x="1990.4485"
+     y="321.30383"
+     width="34"
+     height="90"
+     rx="10"
+     class="nozzle"
+     id="rect38" />
+  <rect
+     x="1957.4485"
+     y="428.30383"
+     width="100"
+     height="44"
+     rx="9"
+     class="component"
+     id="rect39" />
+  <rect
+     x="1942.4485"
+     y="436.30383"
+     width="15"
+     height="28"
+     class="endcap"
+     id="rect40" />
+  <rect
+     x="2057.4485"
+     y="436.30383"
+     width="15"
+     height="28"
+     class="endcap"
+     id="rect41" />
+  <rect
+     x="1967.4485"
+     y="526.30377"
+     width="82"
+     height="62"
+     rx="13"
+     class="cam2"
+     id="rect42" />
+  <circle
+     cx="2008.4485"
+     cy="546.30383"
+     r="18"
+     fill="#fae1b6"
+     stroke="#8b632d"
+     stroke-width="3"
+     id="circle42" />
+  <line
+     x1="2008.4485"
+     y1="526.30377"
+     x2="2008.4485"
+     y2="476.30383"
+     class="vision2"
+     id="line42" />
+  <line
+     x1="1912.4485"
+     y1="451.30383"
+     x2="2102.4487"
+     y2="451.30383"
+     stroke="#c47b2a"
+     stroke-width="3"
+     stroke-dasharray="9, 8"
+     id="line43" />
+  <line
+     x1="2008.4485"
+     y1="391.30383"
+     x2="2008.4485"
+     y2="511.30383"
+     stroke="#c47b2a"
+     stroke-width="3"
+     stroke-dasharray="9, 8"
+     id="line44" />
+  <path
+     d="m 2097.4486,396.30383 a 80,70 0 0 1 25,75"
+     fill="none"
+     stroke="#2f6f9f"
+     stroke-width="6"
+     marker-end="url(#arrow-blue)"
+     id="path44" />
+  <text
+     x="2157.4487"
+     y="431.30383"
+     class="body"
+     id="text44">θ</text>
+  <text
+     x="2017.4485"
+     y="621.30383"
+     text-anchor="middle"
+     class="body"
+     id="text45">pickup X/Y/θ offset measured</text>
+  <text
+     x="2017.4485"
+     y="651.30383"
+     text-anchor="middle"
+     class="small"
+     id="text46">controller compensates placement motion</text>
   <!-- SEQUENCE ARROWS TOP -->
-  <line x1="560" y1="350" x2="585" y2="350" class="seq"/>
-  <line x1="1080" y1="350" x2="1105" y2="350" class="seq"/>
-  <line x1="1600" y1="350" x2="1625" y2="350" class="seq"/>
-
+  <line
+     x1="611.44867"
+     y1="376.30383"
+     x2="636.44867"
+     y2="376.30383"
+     class="seq"
+     id="line46"
+     style="stroke-width:2;stroke-dasharray:none;marker-end:url(#marker83)" />
+  <line
+     x1="1159.7957"
+     y1="389.23434"
+     x2="1184.7957"
+     y2="389.23434"
+     class="seq"
+     id="line46-5"
+     style="fill:none;stroke:#596a78;stroke-width:2;stroke-dasharray:none;marker-end:url(#marker83-9)" />
+  <line
+     x1="1690.3866"
+     y1="388.46716"
+     x2="1715.3866"
+     y2="388.46716"
+     class="seq"
+     id="line46-5-3"
+     style="fill:none;stroke:#596a78;stroke-width:2;stroke-dasharray:none;marker-end:url(#marker83-9-6)" />
   <!-- ROW TRANSITION -->
-  <path d="M2140 650 L2140 725 L260 725 L260 800" class="seq"/>
-  <rect x="970" y="686" width="360" height="64" rx="18" fill="#ffffff"/>
-  <text x="1150" y="730" text-anchor="middle" class="body">continue to Step 5</text>
-
+  <path
+     d="m 2167.1317,681.00765 v 75 H 287.13169 v 75"
+     class="seq"
+     id="path48"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <rect
+     x="997.13171"
+     y="717.00763"
+     width="360"
+     height="64"
+     rx="18"
+     fill="#ffffff"
+     id="rect48" />
+  <text
+     x="1177.1316"
+     y="761.00763"
+     text-anchor="middle"
+     class="body"
+     id="text48">continue to Step 5</text>
   <!-- BOTTOM ROW -->
   <!-- Step 5 -->
-  <g id="step5">
-    <rect x="140" y="800" width="610" height="620" rx="24" class="panel"/>
-    <rect x="140" y="800" width="610" height="78" rx="24" class="hdr"/>
-    <circle cx="190" cy="839" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
-    <text x="190" y="850" text-anchor="middle" class="num">5</text>
-    <text x="235" y="850" class="title">Move to corrected location</text>
-
-    <!-- left head/component -->
-    <rect x="250" y="980" width="85" height="82" rx="16" class="nozzle"/>
-    <rect x="276" y="1062" width="32" height="72" rx="9" class="nozzle"/>
-    <rect x="240" y="1145" width="105" height="45" rx="9" class="component"/>
-    <rect x="225" y="1153" width="15" height="29" class="endcap"/>
-    <rect x="345" y="1153" width="15" height="29" class="endcap"/>
-    <!-- board target -->
-    <rect x="475" y="1120" width="200" height="110" rx="12" class="pcb"/>
-    <rect x="520" y="1155" width="52" height="22" rx="4" class="paste"/>
-    <rect x="590" y="1155" width="52" height="22" rx="4" class="paste"/>
-    <line x1="355" y1="1105" x2="500" y2="1105" class="local"/>
-    <text x="425" y="1080" text-anchor="middle" class="body">X/Y transfer</text>
-    <text x="445" y="1295" text-anchor="middle" class="body">Head carries picked component</text>
-    <text x="445" y="1332" text-anchor="middle" class="small">toward corrected board position</text>
-  </g>
-
+  <rect
+     x="167.1317"
+     y="831.00763"
+     width="610"
+     height="620"
+     rx="24"
+     class="panel"
+     id="rect49" />
+  <rect
+     x="167.1317"
+     y="831.00763"
+     width="610"
+     height="78"
+     rx="24"
+     class="hdr"
+     id="rect50" />
+  <circle
+     cx="217.1317"
+     cy="870.00763"
+     r="27"
+     fill="#d8ebf7"
+     stroke="#6f9fbe"
+     stroke-width="3"
+     id="circle50" />
+  <text
+     x="217.1317"
+     y="881.00763"
+     text-anchor="middle"
+     class="num"
+     id="text50">5</text>
+  <text
+     x="262.13168"
+     y="881.00763"
+     class="title"
+     id="text51">Move to corrected location</text>
+  <rect
+     x="277.13168"
+     y="1011.0076"
+     width="85"
+     height="82"
+     rx="16"
+     class="nozzle"
+     id="rect51" />
+  <rect
+     x="303.13168"
+     y="1093.0077"
+     width="32"
+     height="72"
+     rx="9"
+     class="nozzle"
+     id="rect52" />
+  <rect
+     x="267.13168"
+     y="1176.0077"
+     width="105"
+     height="45"
+     rx="9"
+     class="component"
+     id="rect53" />
+  <rect
+     x="252.1317"
+     y="1184.0077"
+     width="15"
+     height="29"
+     class="endcap"
+     id="rect54" />
+  <rect
+     x="372.13168"
+     y="1184.0077"
+     width="15"
+     height="29"
+     class="endcap"
+     id="rect55" />
+  <rect
+     x="502.13168"
+     y="1151.0077"
+     width="200"
+     height="110"
+     rx="12"
+     class="pcb"
+     id="rect56" />
+  <rect
+     x="547.13171"
+     y="1186.0077"
+     width="52"
+     height="22"
+     rx="4"
+     class="paste"
+     id="rect57" />
+  <rect
+     x="617.13171"
+     y="1186.0077"
+     width="52"
+     height="22"
+     rx="4"
+     class="paste"
+     id="rect58" />
+  <line
+     x1="388.88058"
+     y1="1118.1971"
+     x2="533.88062"
+     y2="1118.1971"
+     class="local"
+     id="line58"
+     style="stroke-width:2;stroke-dasharray:none;marker-end:url(#marker83)" />
+  <text
+     x="458.88058"
+     y="1099.1971"
+     text-anchor="middle"
+     class="body"
+     id="text58">X/Y transfer</text>
+  <text
+     x="472.13168"
+     y="1326.0077"
+     text-anchor="middle"
+     class="body"
+     id="text59">Head carries picked component</text>
+  <text
+     x="472.13168"
+     y="1363.0077"
+     text-anchor="middle"
+     class="small"
+     id="text60">toward corrected board position</text>
   <!-- Step 6 -->
-  <g id="step6">
-    <rect x="845" y="800" width="610" height="620" rx="24" class="panel"/>
-    <rect x="845" y="800" width="610" height="78" rx="24" class="hdr"/>
-    <circle cx="895" cy="839" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
-    <text x="895" y="850" text-anchor="middle" class="num">6</text>
-    <text x="940" y="850" class="title">Rotate to orientation</text>
-
-    <rect x="1100" y="980" width="90" height="90" rx="18" class="nozzle"/>
-    <rect x="1128" y="1070" width="34" height="85" rx="10" class="nozzle"/>
-    <g transform="rotate(-18 1145 1190)">
-      <rect x="1095" y="1170" width="100" height="44" rx="9" class="component"/>
-      <rect x="1080" y="1178" width="15" height="28" class="endcap"/>
-      <rect x="1195" y="1178" width="15" height="28" class="endcap"/>
-    </g>
-    <path d="M1035 1160 A120 95 0 1 1 1245 1165" fill="none" stroke="#2f6f9f" stroke-width="7" marker-end="url(#arrow-blue)"/>
-    <text x="1275" y="1165" class="title">θ</text>
-    <rect x="1078" y="1270" width="145" height="70" rx="10" fill="#f5f8fa" stroke="#9fb2c0" stroke-width="3"/>
-    <rect x="1123" y="1294" width="55" height="22" rx="4" fill="#7d8a94"/>
-    <text x="1150" y="1375" text-anchor="middle" class="body">Match programmed orientation</text>
+  <rect
+     x="872.13171"
+     y="831.00763"
+     width="610"
+     height="620"
+     rx="24"
+     class="panel"
+     id="rect60" />
+  <rect
+     x="872.13171"
+     y="831.00763"
+     width="610"
+     height="78"
+     rx="24"
+     class="hdr"
+     id="rect61" />
+  <circle
+     cx="988.13171"
+     cy="870.00763"
+     r="27"
+     fill="#d8ebf7"
+     stroke="#6f9fbe"
+     stroke-width="3"
+     id="circle61" />
+  <text
+     x="988.13171"
+     y="881.00763"
+     text-anchor="middle"
+     class="num"
+     id="text61">6</text>
+  <text
+     x="1033.1317"
+     y="881.00763"
+     class="title"
+     id="text62">Rotate to orientation</text>
+  <rect
+     x="1127.1316"
+     y="1011.0076"
+     width="90"
+     height="90"
+     rx="18"
+     class="nozzle"
+     id="rect62" />
+  <rect
+     x="1155.1316"
+     y="1101.0077"
+     width="34"
+     height="85"
+     rx="10"
+     class="nozzle"
+     id="rect63" />
+  <g
+     transform="matrix(0.53888209,0.00860387,-0.00454617,1.0198629,557.77432,-16.116046)"
+     id="g66">
+    <rect
+       x="1095"
+       y="1170"
+       width="100"
+       height="44"
+       rx="9"
+       class="component"
+       id="rect64" />
+    <rect
+       x="1080"
+       y="1178"
+       width="15"
+       height="28"
+       class="endcap"
+       id="rect65" />
+    <rect
+       x="1195"
+       y="1178"
+       width="15"
+       height="28"
+       class="endcap"
+       id="rect66" />
   </g>
-
+  <path
+     d="m 1061.8249,1194.1818 a 120.34495,50.997146 0 1 1 210.6036,2.6841"
+     fill="none"
+     stroke="#2f6f9f"
+     stroke-width="7"
+     marker-end="url(#arrow-blue)"
+     id="path66"
+     style="stroke-width:1.46745;stroke-dasharray:none" />
+  <text
+     x="1319.0039"
+     y="1180.8226"
+     class="title"
+     id="text66">θ</text>
+  <rect
+     x="1105.1316"
+     y="1301.0077"
+     width="145"
+     height="70"
+     rx="10"
+     fill="#f5f8fa"
+     stroke="#9fb2c0"
+     stroke-width="3"
+     id="rect67" />
+  <rect
+     x="1150.1316"
+     y="1325.0077"
+     width="55"
+     height="22"
+     rx="4"
+     fill="#7d8a94"
+     id="rect68" />
+  <text
+     x="1177.1316"
+     y="1406.0077"
+     text-anchor="middle"
+     class="body"
+     id="text68">Match programmed orientation</text>
   <!-- Step 7 -->
-  <g id="step7">
-    <rect x="1550" y="800" width="610" height="620" rx="24" class="panel"/>
-    <rect x="1550" y="800" width="610" height="78" rx="24" class="hdr"/>
-    <circle cx="1600" cy="839" r="27" fill="#d8ebf7" stroke="#6f9fbe" stroke-width="3"/>
-    <text x="1600" y="850" text-anchor="middle" class="num">7</text>
-    <text x="1645" y="850" class="title">Place, release, retract</text>
-
-    <!-- board -->
-    <rect x="1660" y="1190" width="390" height="125" rx="14" class="pcb"/>
-    <rect x="1740" y="1225" width="80" height="25" rx="4" class="pad"/>
-    <rect x="1888" y="1225" width="80" height="25" rx="4" class="pad"/>
-    <!-- paste -->
-    <rect x="1745" y="1212" width="70" height="17" rx="5" class="paste"/>
-    <rect x="1893" y="1212" width="70" height="17" rx="5" class="paste"/>
-    <!-- component seated on paste; end caps overlap paste deposits slightly -->
-    <rect x="1807" y="1183" width="95" height="47" rx="9" class="component"/>
-    <rect x="1792" y="1192" width="15" height="29" class="endcap"/>
-    <rect x="1902" y="1192" width="15" height="29" class="endcap"/>
-
-    <!-- retracted nozzle with visible release gap -->
-    <rect x="1810" y="940" width="90" height="90" rx="18" class="nozzle"/>
-    <rect x="1838" y="1030" width="34" height="70" rx="10" class="nozzle"/>
-    <path d="M1845 1100 L1865 1100 L1880 1128 L1830 1128 Z" class="nozzle"/>
-    <line x1="1990" y1="1150" x2="1990" y2="995" class="local"/>
-    <text x="2025" y="1095" class="body">Z up</text>
-    <text x="1855" y="1360" text-anchor="middle" class="body">Component remains in solder paste</text>
-    <text x="1855" y="1396" text-anchor="middle" class="small">no solder joint yet — reflow comes later</text>
-  </g>
-
+  <rect
+     x="1577.1316"
+     y="831.00763"
+     width="610"
+     height="620"
+     rx="24"
+     class="panel"
+     id="rect69" />
+  <rect
+     x="1577.1316"
+     y="831.00763"
+     width="610"
+     height="78"
+     rx="24"
+     class="hdr"
+     id="rect70" />
+  <circle
+     cx="1685.1316"
+     cy="870.00763"
+     r="27"
+     fill="#d8ebf7"
+     stroke="#6f9fbe"
+     stroke-width="3"
+     id="circle70" />
+  <text
+     x="1685.1316"
+     y="881.00763"
+     text-anchor="middle"
+     class="num"
+     id="text70">7</text>
+  <text
+     x="1730.1316"
+     y="881.00763"
+     class="title"
+     id="text71">Place, release, retract</text>
+  <rect
+     x="1687.1316"
+     y="1221.0077"
+     width="390"
+     height="125"
+     rx="14"
+     class="pcb"
+     id="rect71" />
+  <rect
+     x="1767.1316"
+     y="1256.0077"
+     width="80"
+     height="25"
+     rx="4"
+     class="pad"
+     id="rect72" />
+  <rect
+     x="1915.1316"
+     y="1256.0077"
+     width="80"
+     height="25"
+     rx="4"
+     class="pad"
+     id="rect73" />
+  <rect
+     x="1772.1316"
+     y="1243.0077"
+     width="70"
+     height="17"
+     rx="5"
+     class="paste"
+     id="rect74" />
+  <rect
+     x="1920.1316"
+     y="1243.0077"
+     width="70"
+     height="17"
+     rx="5"
+     class="paste"
+     id="rect75" />
+  <rect
+     x="1834.1316"
+     y="1214.0077"
+     width="95"
+     height="47"
+     rx="9"
+     class="component"
+     id="rect76" />
+  <rect
+     x="1819.1316"
+     y="1223.0077"
+     width="15"
+     height="29"
+     class="endcap"
+     id="rect77" />
+  <rect
+     x="1929.1316"
+     y="1223.0077"
+     width="15"
+     height="29"
+     class="endcap"
+     id="rect78" />
+  <rect
+     x="1837.1316"
+     y="971.00763"
+     width="90"
+     height="90"
+     rx="18"
+     class="nozzle"
+     id="rect79" />
+  <rect
+     x="1865.1316"
+     y="1061.0077"
+     width="34"
+     height="70"
+     rx="10"
+     class="nozzle"
+     id="rect80" />
+  <path
+     d="m 1872.1317,1131.0076 h 20 l 15,28 h -50 z"
+     class="nozzle"
+     id="path80" />
+  <line
+     x1="2002.759"
+     y1="1157.3352"
+     x2="2002.759"
+     y2="1002.3351"
+     class="local"
+     id="line80"
+     style="stroke-width:2;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <text
+     x="2037.759"
+     y="1102.3352"
+     class="body"
+     id="text80">Z up</text>
+  <text
+     x="1882.1316"
+     y="1391.0077"
+     text-anchor="middle"
+     class="body"
+     id="text81">Component remains in solder paste</text>
+  <text
+     x="1882.1316"
+     y="1427.0077"
+     text-anchor="middle"
+     class="small"
+     id="text82">no solder joint yet — reflow comes later</text>
   <!-- BOTTOM SEQUENCE ARROWS -->
-  <line x1="750" y1="1085" x2="840" y2="1085" class="seq"/>
-  <line x1="1455" y1="1085" x2="1545" y2="1085" class="seq"/>
+  <line
+     x1="782.50043"
+     y1="1116.0077"
+     x2="857.95459"
+     y2="1116.0077"
+     class="seq"
+     id="line82"
+     style="stroke-width:1.83126;stroke-dasharray:none;marker-end:url(#marker83)" />
+  <line
+     x1="1488.0886"
+     y1="1116.0077"
+     x2="1564.6384"
+     y2="1116.0077"
+     class="seq"
+     id="line83"
+     style="stroke-width:1.84451;stroke-dasharray:none;marker-end:url(#marker83)" />
 </svg>

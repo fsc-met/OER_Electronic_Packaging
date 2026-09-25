@@ -24,13 +24,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.41904762"
-     inkscape:cx="491.59091"
-     inkscape:cy="468.92045"
-     inkscape:window-width="2560"
-     inkscape:window-height="1324"
+     inkscape:zoom="0.38128659"
+     inkscape:cx="3538.0211"
+     inkscape:cy="696.32661"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg57"
      inkscape:export-bgcolor="#ffffffff" />
@@ -531,17 +531,17 @@
      stroke-dasharray="10 9"
      id="line37" />
   <line
-     x1="998"
-     y1="560"
-     x2="1050"
-     y2="560"
+     x1="1103.7004"
+     y1="558.70654"
+     x2="1051.7062"
+     y2="559.47699"
      stroke="#c27b1a"
      stroke-width="4"
      marker-end="url(#arrow-amber)"
      id="line38" />
   <text
-     x="1134.9659"
-     y="569.02271"
+     x="1184.1847"
+     y="566.03973"
      text-anchor="middle"
      style="font-weight:600;font-size:26px;font-family:'DejaVu Sans';fill:#c27b1a"
      id="text38">off-center</text>
