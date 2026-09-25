@@ -1,0 +1,284 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4000" height="2050" viewBox="0 0 4000 2050" preserveAspectRatio="xMidYMid meet">
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<defs>
+  <marker id="arrowBlue" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#3F6179"/></marker>
+  <marker id="arrowGreen" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#4F9362"/></marker>
+  <marker id="arrowAmber" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#C9821A"/></marker>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif;fill:#22313F}
+    .sideTitle{font-size:48px;font-weight:700}
+    .boardLabel{font-size:36px;font-weight:700}
+    .body{font-size:32px}
+    .small{font-size:28px}
+    .tiny{font-size:24px}
+    .phase{font-size:34px;font-weight:700}
+    .step{font-size:30px;font-weight:700}
+  </style>
+</defs>
+<rect x="90" y="70" width="1860" height="930" rx="30" fill="#F7FAFC" stroke="#6E98B8" stroke-width="4"/>
+<rect x="2050" y="70" width="1860" height="930" rx="30" fill="#F7FAFC" stroke="#6E98B8" stroke-width="4"/>
+<text x="1020" y="135" class="sideTitle" text-anchor="middle">TOP SIDE</text>
+<text x="2980" y="135" class="sideTitle" text-anchor="middle">BOTTOM SIDE</text>
+<text x="1020" y="185" class="small" text-anchor="middle">Industrial Sensor Controller - Rev B</text>
+<text x="2980" y="185" class="small" text-anchor="middle">Industrial Sensor Controller - Rev B</text>
+<rect x="300" y="255" width="1440" height="610" rx="30" fill="#DDEFE7" stroke="#4F9362" stroke-width="7"/>
+<circle cx="370" cy="325" r="22" fill="#ffffff" stroke="#4F9362" stroke-width="5"/>
+<circle cx="1670" cy="325" r="22" fill="#ffffff" stroke="#4F9362" stroke-width="5"/>
+<circle cx="370" cy="795" r="22" fill="#ffffff" stroke="#4F9362" stroke-width="5"/>
+<circle cx="1670" cy="795" r="22" fill="#ffffff" stroke="#4F9362" stroke-width="5"/>
+<rect x="2260" y="255" width="1440" height="610" rx="30" fill="#DDEFE7" stroke="#4F9362" stroke-width="7"/>
+<circle cx="2330" cy="325" r="22" fill="#ffffff" stroke="#4F9362" stroke-width="5"/>
+<circle cx="3630" cy="325" r="22" fill="#ffffff" stroke="#4F9362" stroke-width="5"/>
+<circle cx="2330" cy="795" r="22" fill="#ffffff" stroke="#4F9362" stroke-width="5"/>
+<circle cx="3630" cy="795" r="22" fill="#ffffff" stroke="#4F9362" stroke-width="5"/>
+<g id="u1"><rect x="680" y="435" width="260" height="210" rx="18" fill="#596C7B" stroke="#24323B" stroke-width="5"/>
+<line x1="700" y1="420" x2="700" y2="435" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="700" y1="645" x2="700" y2="660" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="740" y1="420" x2="740" y2="435" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="740" y1="645" x2="740" y2="660" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="780" y1="420" x2="780" y2="435" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="780" y1="645" x2="780" y2="660" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="820" y1="420" x2="820" y2="435" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="820" y1="645" x2="820" y2="660" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="860" y1="420" x2="860" y2="435" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="860" y1="645" x2="860" y2="660" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="900" y1="420" x2="900" y2="435" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="900" y1="645" x2="900" y2="660" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="665" y1="465" x2="680" y2="465" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="940" y1="465" x2="955" y2="465" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="665" y1="510" x2="680" y2="510" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="940" y1="510" x2="955" y2="510" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="665" y1="555" x2="680" y2="555" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="940" y1="555" x2="955" y2="555" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="665" y1="600" x2="680" y2="600" stroke="#AEB8BE" stroke-width="6"/>
+<line x1="940" y1="600" x2="955" y2="600" stroke="#AEB8BE" stroke-width="6"/>
+<text x="810" y="540" class="boardLabel" text-anchor="middle" fill="#ffffff">U1</text>
+<text x="810" y="590" class="small" text-anchor="middle" fill="#ffffff">QFN-32</text>
+</g>
+<g id="u2"><rect x="1115" y="410" width="300" height="260" rx="20" fill="#45545F" stroke="#24323B" stroke-width="5"/>
+<text x="1265" y="525" class="boardLabel" text-anchor="middle" fill="#ffffff">U2</text>
+<text x="1265" y="575" class="small" text-anchor="middle" fill="#ffffff">BGA-64</text>
+</g>
+
+<g id="j1-top"><rect x="1480" y="385" width="180" height="360" rx="20" fill="#6E7780" stroke="#3B454D" stroke-width="5"/>
+<circle cx="1525" cy="415" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1615" cy="415" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1525" cy="455" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1615" cy="455" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1525" cy="495" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1615" cy="495" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1525" cy="535" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1615" cy="535" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1525" cy="575" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1615" cy="575" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1525" cy="615" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1615" cy="615" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1525" cy="655" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1615" cy="655" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1525" cy="695" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+<circle cx="1615" cy="695" r="12" fill="#D6DEE4" stroke="#3B454D" stroke-width="2"/>
+
+</g>
+<rect x="420" y="405" width="68" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="470" y="405" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="520" y="405" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="420" y="475" width="68" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="480" y="485" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="545" y="485" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="600" y="385" width="68" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="600" y="695" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="710" y="710" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="820" y="725" width="68" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="970" y="395" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="990" y="705" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="1060" y="725" width="68" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="1220" y="705" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="1340" y="725" width="58" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="1410" y="775" width="68" height="28" rx="5" fill="#C8B36A" stroke="#6C6338" stroke-width="3"/>
+<rect x="475" y="600" width="75" height="34" rx="5" fill="#D29B5F" stroke="#855D2B" stroke-width="4"/>
+<text x="515" y="585" class="small" text-anchor="middle">R17</text>
+<text x="730" y="795" class="small" text-anchor="start">
+<tspan x="730" dy="0">R1-R20 / C1-C16</tspan>
+<tspan x="730" dy="38">main SMT population</tspan>
+</text>
+
+<rect x="2730" y="550" width="85" height="42" rx="6" fill="#C8B36A" stroke="#6C6338" stroke-width="4"/>
+<text x="2772" y="535" class="tiny" text-anchor="middle">C17</text>
+<rect x="2880" y="550" width="85" height="42" rx="6" fill="#C8B36A" stroke="#6C6338" stroke-width="4"/>
+<text x="2922" y="535" class="tiny" text-anchor="middle">C18</text>
+<rect x="3030" y="550" width="85" height="42" rx="6" fill="#C8B36A" stroke="#6C6338" stroke-width="4"/>
+<text x="3072" y="535" class="tiny" text-anchor="middle">C19</text>
+<rect x="3180" y="550" width="85" height="42" rx="6" fill="#C8B36A" stroke="#6C6338" stroke-width="4"/>
+<text x="3222" y="535" class="tiny" text-anchor="middle">C20</text>
+<circle cx="3475" cy="405" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3550" cy="405" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3475" cy="455" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3550" cy="455" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3475" cy="505" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3550" cy="505" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3475" cy="555" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3550" cy="555" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3475" cy="605" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3550" cy="605" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3475" cy="655" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3550" cy="655" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3475" cy="705" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3550" cy="705" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3475" cy="755" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<circle cx="3550" cy="755" r="10" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+
+
+<g id="product-map-labels">
+  <path d="M 1265 670 V 875 L 1185 895" fill="none" stroke="#8A9AA8" stroke-width="3"/>
+  <text x="1185" y="920" class="body" text-anchor="middle" font-weight="700">U2 BGA-64</text>
+  <text x="1185" y="955" class="tiny" text-anchor="middle" fill="#5D6B78">hidden joints not visible from top</text>
+
+  <path d="M 1570 745 V 875 L 1605 895" fill="none" stroke="#8A9AA8" stroke-width="3"/>
+  <text x="1605" y="920" class="body" text-anchor="middle" font-weight="700">J1 - 2 × 8 THT</text>
+  <text x="1605" y="955" class="tiny" text-anchor="middle" fill="#5D6B78">top-mounted connector</text>
+
+  <text x="2980" y="915" class="body" text-anchor="middle" font-weight="700">C17-C20 - four 0603 capacitors</text>
+  <text x="2980" y="952" class="small" text-anchor="middle" fill="#5D6B78">light first-side SMT population</text>
+
+  <path d="M 3510 780 V 890" fill="none" stroke="#8A9AA8" stroke-width="3"/>
+  <text x="3510" y="915" class="body" text-anchor="middle" font-weight="700">J1 pin locations</text>
+  <text x="3510" y="952" class="tiny" text-anchor="middle" fill="#5D6B78">connector body is on the top side</text>
+</g>
+<path d="M 1880 485 C 1960 420 2040 420 2120 485" fill="none" stroke="#6E98B8" stroke-width="6" marker-end="url(#arrowBlue)"/>
+<text x="2000" y="410" class="body" text-anchor="middle" fill="#5D6B78">same PCB - opposite sides</text>
+<rect x="90" y="1060" width="3820" height="900" rx="32" fill="#FBFCFD" stroke="#8A9AA8" stroke-width="4"/>
+<rect x="145" y="1115" width="1175" height="90" rx="18" fill="#DDEAF5" stroke="#6E98B8" stroke-width="3"/>
+<text x="732" y="1173" class="phase" text-anchor="middle">Bottom-side SMT pass</text>
+<rect x="1365" y="1115" width="290" height="90" rx="18" fill="#F4F5F5" stroke="#8A9AA8" stroke-width="3"/>
+<text x="1510" y="1173" class="phase" text-anchor="middle">Board flip</text>
+<rect x="1670" y="1115" width="1175" height="90" rx="18" fill="#E8EDF4" stroke="#6E98B8" stroke-width="3"/>
+<text x="2258" y="1173" class="phase" text-anchor="middle">Top-side SMT pass</text>
+<rect x="2890" y="1115" width="885" height="90" rx="18" fill="#FFF1DD" stroke="#C9821A" stroke-width="3"/>
+<text x="3332" y="1173" class="phase" text-anchor="middle">THT completion + inspection</text>
+<rect x="155" y="1300" width="250" height="300" rx="22" fill="#E8F1F7" stroke="#6E98B8" stroke-width="4"/>
+<text x="280.0" y="1405" class="step" text-anchor="middle">
+<tspan x="280.0" dy="0">Print</tspan>
+<tspan x="280.0" dy="48">bottom side</tspan>
+</text>
+<rect x="225" y="1490" width="110" height="55" rx="8" fill="#D6DEE4" stroke="#596C7B" stroke-width="3"/>
+<line x1="245" y1="1510" x2="315" y2="1510" stroke="#8A9AA8" stroke-width="5"/>
+<rect x="460" y="1300" width="250" height="300" rx="22" fill="#E8F1F7" stroke="#6E98B8" stroke-width="4"/>
+<text x="585.0" y="1405" class="step" text-anchor="middle">
+<tspan x="585.0" dy="0">SPI</tspan>
+<tspan x="585.0" dy="48">paste check</tspan>
+</text>
+<rect x="545" y="1475" width="80" height="70" rx="10" fill="#ffffff" stroke="#6E98B8" stroke-width="3"/>
+<circle cx="585" cy="1510" r="22" fill="none" stroke="#6E98B8" stroke-width="4"/>
+<rect x="765" y="1300" width="250" height="300" rx="22" fill="#E8F1F7" stroke="#6E98B8" stroke-width="4"/>
+<text x="890.0" y="1405" class="step" text-anchor="middle">
+<tspan x="890.0" dy="0">Place</tspan>
+<tspan x="890.0" dy="48">C17-C20</tspan>
+</text>
+<line x1="845" y1="1475" x2="935" y2="1475" stroke="#596C7B" stroke-width="7"/>
+<line x1="870" y1="1475" x2="870" y2="1540" stroke="#596C7B" stroke-width="6"/>
+<line x1="915" y1="1475" x2="915" y2="1540" stroke="#596C7B" stroke-width="6"/>
+<rect x="835" y="1535" width="110" height="35" rx="5" fill="#DCEFEA" stroke="#4F9362" stroke-width="3"/>
+<rect x="1070" y="1300" width="250" height="300" rx="22" fill="#E8F1F7" stroke="#6E98B8" stroke-width="4"/>
+<text x="1195.0" y="1405" class="step" text-anchor="middle">
+<tspan x="1195.0" dy="0">Reflow 1</tspan>
+<tspan x="1195.0" dy="48">first SMT pass</tspan>
+</text>
+<rect x="1125" y="1490" width="140" height="55" rx="10" fill="#F7F8FA" stroke="#596C7B" stroke-width="3"/>
+<path d="M 1145 1520 Q 1175 1480 1205 1520 T 1250 1520" fill="none" stroke="#C9821A" stroke-width="4"/>
+<rect x="1375" y="1300" width="250" height="300" rx="22" fill="#F5F5F5" stroke="#8A9AA8" stroke-width="4"/>
+<text x="1500.0" y="1405" class="step" text-anchor="middle">
+<tspan x="1500.0" dy="0">Flip board</tspan>
+<tspan x="1500.0" dy="48">top side up</tspan>
+</text>
+<path d="M 1450 1540 C 1445 1470 1560 1470 1555 1540" fill="none" stroke="#6E98B8" stroke-width="5" marker-end="url(#arrowBlue)"/>
+<rect x="1460" y="1550" width="90" height="25" rx="5" fill="#DCEFEA" stroke="#4F9362" stroke-width="3"/>
+<rect x="1680" y="1300" width="250" height="300" rx="22" fill="#E8EDF4" stroke="#6E98B8" stroke-width="4"/>
+<text x="1805.0" y="1405" class="step" text-anchor="middle">
+<tspan x="1805.0" dy="0">Print</tspan>
+<tspan x="1805.0" dy="48">top side</tspan>
+</text>
+<rect x="1750" y="1490" width="110" height="55" rx="8" fill="#D6DEE4" stroke="#596C7B" stroke-width="3"/>
+<line x1="1770" y1="1510" x2="1840" y2="1510" stroke="#8A9AA8" stroke-width="5"/>
+<rect x="1985" y="1300" width="250" height="300" rx="22" fill="#E8EDF4" stroke="#6E98B8" stroke-width="4"/>
+<text x="2110.0" y="1405" class="step" text-anchor="middle">
+<tspan x="2110.0" dy="0">SPI</tspan>
+<tspan x="2110.0" dy="48">paste check</tspan>
+</text>
+<rect x="2070" y="1475" width="80" height="70" rx="10" fill="#ffffff" stroke="#6E98B8" stroke-width="3"/>
+<circle cx="2110" cy="1510" r="22" fill="none" stroke="#6E98B8" stroke-width="4"/>
+<rect x="2290" y="1300" width="250" height="300" rx="22" fill="#E8EDF4" stroke="#6E98B8" stroke-width="4"/>
+<text x="2415.0" y="1405" class="step" text-anchor="middle">
+<tspan x="2415.0" dy="0">Place</tspan>
+<tspan x="2415.0" dy="48">top-side SMT</tspan>
+</text>
+<line x1="2370" y1="1475" x2="2460" y2="1475" stroke="#596C7B" stroke-width="7"/>
+<line x1="2395" y1="1475" x2="2395" y2="1540" stroke="#596C7B" stroke-width="6"/>
+<line x1="2440" y1="1475" x2="2440" y2="1540" stroke="#596C7B" stroke-width="6"/>
+<rect x="2360" y="1535" width="110" height="35" rx="5" fill="#DCEFEA" stroke="#4F9362" stroke-width="3"/>
+<rect x="2595" y="1300" width="250" height="300" rx="22" fill="#E8EDF4" stroke="#6E98B8" stroke-width="4"/>
+<text x="2720.0" y="1405" class="step" text-anchor="middle">
+<tspan x="2720.0" dy="0">Reflow 2</tspan>
+<tspan x="2720.0" dy="48">second SMT pass</tspan>
+</text>
+<rect x="2650" y="1490" width="140" height="55" rx="10" fill="#F7F8FA" stroke="#596C7B" stroke-width="3"/>
+<path d="M 2670 1520 Q 2700 1480 2730 1520 T 2775 1520" fill="none" stroke="#C9821A" stroke-width="4"/>
+<rect x="2900" y="1300" width="250" height="300" rx="22" fill="#FFF1DD" stroke="#C9821A" stroke-width="4"/>
+<text x="3025.0" y="1405" class="step" text-anchor="middle">
+<tspan x="3025.0" dy="0">Insert J1</tspan>
+<tspan x="3025.0" dy="48">THT connector</tspan>
+</text>
+<rect x="2985" y="1470" width="80" height="48" rx="6" fill="#6E7780" stroke="#3B454D" stroke-width="3"/>
+<line x1="3000" y1="1518" x2="3000" y2="1560" stroke="#8A9AA8" stroke-width="4"/>
+<line x1="3025" y1="1518" x2="3025" y2="1560" stroke="#8A9AA8" stroke-width="4"/>
+<line x1="3050" y1="1518" x2="3050" y2="1560" stroke="#8A9AA8" stroke-width="4"/>
+<rect x="2965" y="1560" width="120" height="20" rx="4" fill="#DCEFEA" stroke="#4F9362" stroke-width="2"/>
+<rect x="3205" y="1300" width="250" height="300" rx="22" fill="#FFF1DD" stroke="#C9821A" stroke-width="4"/>
+<text x="3330.0" y="1405" class="step" text-anchor="middle">
+<tspan x="3330.0" dy="0">Selective solder</tspan>
+<tspan x="3330.0" dy="48">J1 pins</tspan>
+</text>
+<rect x="3280" y="1550" width="100" height="22" rx="4" fill="#DCEFEA" stroke="#4F9362" stroke-width="2"/>
+<path d="M 3330 1470 V 1540" stroke="#596C7B" stroke-width="8"/>
+<path d="M 3305 1545 Q 3330 1515 3355 1545" fill="#C9821A" opacity="0.55"/>
+<rect x="3510" y="1300" width="250" height="300" rx="22" fill="#E6F3E3" stroke="#4F9362" stroke-width="4"/>
+<text x="3635.0" y="1405" class="step" text-anchor="middle">
+<tspan x="3635.0" dy="0">Required</tspan>
+<tspan x="3635.0" dy="48">inspection</tspan>
+</text>
+<circle cx="3628" cy="1515" r="38" fill="none" stroke="#4F9362" stroke-width="6"/>
+<line x1="3655" y1="1542" x2="3695" y2="1582" stroke="#4F9362" stroke-width="9" stroke-linecap="round"/>
+<line x1="405" y1="1450" x2="460" y2="1450" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="710" y1="1450" x2="765" y2="1450" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="1015" y1="1450" x2="1070" y2="1450" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="1320" y1="1450" x2="1375" y2="1450" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="1625" y1="1450" x2="1680" y2="1450" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="1930" y1="1450" x2="1985" y2="1450" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="2235" y1="1450" x2="2290" y2="1450" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="2540" y1="1450" x2="2595" y2="1450" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="2845" y1="1450" x2="2900" y2="1450" stroke="#C9821A" stroke-width="7" marker-end="url(#arrowAmber)"/>
+<line x1="3150" y1="1450" x2="3205" y2="1450" stroke="#C9821A" stroke-width="7" marker-end="url(#arrowAmber)"/>
+<line x1="3455" y1="1450" x2="3510" y2="1450" stroke="#4F9362" stroke-width="7" marker-end="url(#arrowGreen)"/>
+
+
+
+
+
+<g id="route-callouts">
+  <rect x="2475" y="1660" width="500" height="165" rx="20" fill="#FFF7EA" stroke="#C9821A" stroke-width="3"/>
+  <text x="2725" y="1710" class="small" text-anchor="middle" font-weight="700">Second-reflow awareness</text>
+  <text x="2725" y="1755" class="small" text-anchor="middle">first-side passives stay underneath</text>
+  <text x="2725" y="1797" class="small" text-anchor="middle">same-alloy joints may re-melt</text>
+
+  <rect x="3045" y="1660" width="520" height="165" rx="20" fill="#FFF7EA" stroke="#C9821A" stroke-width="3"/>
+  <text x="3305" y="1710" class="small" text-anchor="middle" font-weight="700">Selective soldering at J1</text>
+  <text x="3305" y="1755" class="small" text-anchor="middle">localized contact at connector pins</text>
+  <text x="3305" y="1797" class="tiny" text-anchor="middle">nozzle access / local keep-out confirmed</text>
+
+  <rect x="3590" y="1660" width="260" height="165" rx="20" fill="#EEF7EC" stroke="#4F9362" stroke-width="3"/>
+  <text x="3720" y="1710" class="small" text-anchor="middle" font-weight="700">Inspect</text>
+  <text x="3720" y="1755" class="small" text-anchor="middle">visual / AOI</text>
+  <text x="3720" y="1797" class="small" text-anchor="middle">X-ray when required</text>
+</g>
+
+<text x="2000" y="1915" class="small" text-anchor="middle" fill="#5D6B78" font-weight="700">Case-specific route: product geometry and released process access determine the sequence.</text>
+</svg>

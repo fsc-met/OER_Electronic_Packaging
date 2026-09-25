@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3800" height="2050" viewBox="0 0 3800 2050" preserveAspectRatio="xMidYMid meet">
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<defs>
+  <marker id="arrowBlue" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse">
+    <path d="M0,0 L0,12 L16,6 z" fill="#3F6179"/>
+  </marker>
+  <marker id="arrowTeal" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse">
+    <path d="M0,0 L0,12 L16,6 z" fill="#3D7B82"/>
+  </marker>
+  <marker id="arrowAmber" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse">
+    <path d="M0,0 L0,12 L16,6 z" fill="#B85C3E"/>
+  </marker>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif;fill:#22313F}
+    .panelTitle{font-size:46px;font-weight:700}
+    .metric{font-size:42px;font-weight:700}
+    .body{font-size:35px}
+    .small{font-size:31px}
+    .tiny{font-size:27px}
+    .conclusion{font-size:48px;font-weight:700}
+  </style>
+</defs>
+<rect x="90" y="90" width="845" height="1110" rx="28" fill="#EEF5FA" stroke="#6E98B8" stroke-width="4"/>
+<text x="512.5" y="155" class="panelTitle" text-anchor="middle">
+<tspan x="512.5" dy="0">A. SPI evidence</tspan>
+<tspan x="512.5" dy="48">R17 paste deposits</tspan>
+</text>
+<rect x="1015" y="90" width="845" height="1110" rx="28" fill="#EEF6EC" stroke="#7FAE76" stroke-width="4"/>
+<text x="1437.5" y="155" class="panelTitle" text-anchor="middle">
+<tspan x="1437.5" dy="0">B. Pre-reflow placement</tspan>
+<tspan x="1437.5" dy="48">R17 position</tspan>
+</text>
+<rect x="1940" y="90" width="845" height="1110" rx="28" fill="#F7F4EC" stroke="#B29B6F" stroke-width="4"/>
+<text x="2362.5" y="155" class="panelTitle" text-anchor="middle">
+<tspan x="2362.5" dy="0">C. Reflow evidence</tspan>
+<tspan x="2362.5" dy="48">near R17</tspan>
+</text>
+<rect x="2865" y="90" width="845" height="1110" rx="28" fill="#F3EFF8" stroke="#8C7BB8" stroke-width="4"/>
+<text x="3287.5" y="155" class="panelTitle" text-anchor="middle">
+<tspan x="3287.5" dy="0">D. Post-reflow observation</tspan>
+<tspan x="3287.5" dy="48">R17 condition</tspan>
+</text>
+<rect x="175" y="265" width="675" height="100" rx="18" fill="#ffffff" stroke="#8A9AA8" stroke-width="3"/>
+<text x="512.5" y="310" class="small" text-anchor="middle" font-weight="700">
+<tspan x="512.5" dy="0">Supplied case criterion</tspan>
+<tspan x="512.5" dy="38">80-120% of nominal paste volume</tspan>
+</text>
+<text x="512.5" y="405" class="tiny" text-anchor="middle" fill="#5D6B78">schematic deposits; percentages are SPI volume results</text>
+<rect x="265" y="500" width="210" height="120" rx="12" fill="#D6DEE4" stroke="#66757F" stroke-width="4"/>
+<rect x="310.0" y="528" width="120" height="64" rx="10" fill="#BCC6CD" stroke="#8A9AA8" stroke-width="3"/>
+<text x="370" y="455" class="body" text-anchor="middle">
+<tspan x="370" dy="0">Pad A</tspan>
+</text>
+<text x="370" y="675" class="metric" text-anchor="middle">
+<tspan x="370" dy="0">63%</tspan>
+<tspan x="370" dy="42">of nominal</tspan>
+</text>
+<rect x="312.5" y="765" width="115" height="54" rx="14" fill="#B85C3E"/>
+<text x="370.0" y="802" class="small" text-anchor="middle" fill="#ffffff" font-weight="700">FAIL</text>
+<rect x="550" y="500" width="210" height="120" rx="12" fill="#D6DEE4" stroke="#66757F" stroke-width="4"/>
+<rect x="560.0" y="528" width="190" height="64" rx="10" fill="#BCC6CD" stroke="#8A9AA8" stroke-width="3"/>
+<text x="655" y="455" class="body" text-anchor="middle">
+<tspan x="655" dy="0">Pad B</tspan>
+</text>
+<text x="655" y="675" class="metric" text-anchor="middle">
+<tspan x="655" dy="0">98%</tspan>
+<tspan x="655" dy="42">of nominal</tspan>
+</text>
+<rect x="597.5" y="765" width="115" height="54" rx="14" fill="#4F9362"/>
+<text x="655.0" y="802" class="small" text-anchor="middle" fill="#ffffff" font-weight="700">PASS</text>
+
+<text x="512.5" y="1025" class="body" text-anchor="middle" fill="#7B4A2D" font-weight="700">
+<tspan x="512.5" dy="0">Strong abnormal evidence:</tspan>
+<tspan x="512.5" dy="42">unequal paste deposits</tspan>
+</text>
+<rect x="1160" y="425" width="555" height="320" rx="18" fill="#DCEFEA" stroke="#4F9362" stroke-width="5"/>
+<rect x="1240" y="575" width="180" height="72" rx="8" fill="#D6DEE4" stroke="#66757F" stroke-width="3"/>
+<rect x="1260" y="593" width="140" height="36" rx="6" fill="#BCC6CD" stroke="#8A9AA8" stroke-width="2"/>
+<rect x="1455" y="575" width="180" height="72" rx="8" fill="#D6DEE4" stroke="#66757F" stroke-width="3"/>
+<rect x="1475" y="593" width="140" height="36" rx="6" fill="#BCC6CD" stroke="#8A9AA8" stroke-width="2"/>
+<rect x="1330" y="530" width="215" height="160" rx="16" fill="#4E5961" stroke="#25313A" stroke-width="5"/>
+<rect x="1305" y="545" width="35" height="130" rx="5" fill="#D8DADD" stroke="#8A9AA8" stroke-width="3"/>
+<rect x="1545" y="545" width="35" height="130" rx="5" fill="#D8DADD" stroke="#8A9AA8" stroke-width="3"/>
+<text x="1437.5" y="820" class="metric" text-anchor="middle">
+<tspan x="1437.5" dy="0">R17 centered before reflow</tspan>
+</text>
+<circle cx="1165" cy="920" r="16" fill="#4F9362"/>
+<path d="M 1157 912 l 7 7 l 14 -17" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1202" y="930" class="body" text-anchor="start">correct component / orientation</text>
+<circle cx="1165" cy="995" r="16" fill="#4F9362"/>
+<path d="M 1157 987 l 7 7 l 14 -17" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1202" y="1005" class="body" text-anchor="start">no gross placement error observed</text>
+
+
+<rect x="2045" y="425" width="635" height="205" rx="20" fill="#ffffff" stroke="#B29B6F" stroke-width="3"/>
+<text x="2090" y="483" class="body" text-anchor="start" font-weight="700">Peak</text>
+<text x="2090" y="538" class="metric" text-anchor="start">241 °C</text>
+<text x="2090" y="590" class="small" text-anchor="start">supplied window: 235-245 °C</text>
+<rect x="2530" y="497" width="115" height="54" rx="14" fill="#4F9362"/>
+<text x="2587.5" y="534" class="small" text-anchor="middle" fill="#ffffff" font-weight="700">PASS</text>
+<rect x="2045" y="685" width="635" height="205" rx="20" fill="#ffffff" stroke="#B29B6F" stroke-width="3"/>
+<text x="2090" y="743" class="body" text-anchor="start" font-weight="700">TAL</text>
+<text x="2090" y="798" class="metric" text-anchor="start">66 s above 217 °C</text>
+<text x="2090" y="850" class="small" text-anchor="start">supplied window: 45-90 s</text>
+<rect x="2530" y="757" width="115" height="54" rx="14" fill="#4F9362"/>
+<text x="2587.5" y="794" class="small" text-anchor="middle" fill="#ffffff" font-weight="700">PASS</text>
+<text x="2362.5" y="965" class="body" text-anchor="middle" font-weight="700">
+<tspan x="2362.5" dy="0">Within the two supplied case limits</tspan>
+</text>
+<text x="2362.5" y="1025" class="small" text-anchor="middle" fill="#5D6B78">
+<tspan x="2362.5" dy="0">Nearby pass evidence does not prove</tspan>
+<tspan x="2362.5" dy="40">every board location is identical.</tspan>
+</text>
+<rect x="2985" y="760" width="605" height="70" rx="10" fill="#DCEFEA" stroke="#4F9362" stroke-width="4"/>
+<rect x="3050" y="728" width="170" height="38" rx="7" fill="#B9C3C9" stroke="#707B82" stroke-width="3"/>
+<rect x="3365" y="728" width="170" height="38" rx="7" fill="#B9C3C9" stroke="#707B82" stroke-width="3"/>
+<g transform="rotate(-29 3300 610)">
+<rect x="3145" y="540" width="310" height="120" rx="16" fill="#4E5961" stroke="#25313A" stroke-width="5"/>
+<rect x="3125" y="555" width="35" height="90" rx="5" fill="#D8DADD" stroke="#8A9AA8" stroke-width="3"/>
+<rect x="3440" y="555" width="35" height="90" rx="5" fill="#D8DADD" stroke="#8A9AA8" stroke-width="3"/>
+</g>
+<path d="M 3100 725 Q 3140 655 3185 725" fill="#C0C7CB" stroke="#707B82" stroke-width="3"/>
+<line x1="3485" y1="460" x2="3420" y2="530" stroke="#B85C3E" stroke-width="6" marker-end="url(#arrowAmber)"/>
+<text x="3287.5" y="330" class="metric" text-anchor="middle" fill="#7B3E2D">
+<tspan x="3287.5" dy="0">R17 tombstoned</tspan>
+</text>
+<text x="3287.5" y="390" class="small" text-anchor="middle" fill="#5D6B78">
+<tspan x="3287.5" dy="0">post-reflow AOI observation</tspan>
+</text>
+<text x="3287.5" y="940" class="body" text-anchor="middle" font-weight="700">
+<tspan x="3287.5" dy="0">One end lifted after reflow</tspan>
+</text>
+<text x="3287.5" y="1020" class="small" text-anchor="middle" fill="#5D6B78">
+<tspan x="3287.5" dy="0">Defect observation only;</tspan>
+<tspan x="3287.5" dy="40">not an automatic reflow diagnosis.</tspan>
+</text>
+<line x1="935" y1="645" x2="1015" y2="645" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="1860" y1="645" x2="1940" y2="645" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<line x1="2785" y1="645" x2="2865" y2="645" stroke="#3F6179" stroke-width="7" marker-end="url(#arrowBlue)"/>
+<rect x="180" y="1290" width="3440" height="630" rx="30" fill="#EEF6F7" stroke="#3D7B82" stroke-width="5"/>
+<text x="1900" y="1365" class="conclusion" text-anchor="middle" fill="#245A60">
+<tspan x="1900" dy="0">Best-supported next investigation</tspan>
+</text>
+<text x="1900" y="1435" class="conclusion" text-anchor="middle" fill="#245A60">
+<tspan x="1900" dy="0">PRINT PROCESS</tspan>
+</text>
+<text x="1900" y="1505" class="body" text-anchor="middle" fill="#4D6265">
+<tspan x="1900" dy="0">Unequal paste is the strongest abnormal upstream clue in the supplied case.</tspan>
+</text>
+<rect x="280" y="1585" width="700" height="130" rx="18" fill="#ffffff" stroke="#7FA9AD" stroke-width="3"/>
+<text x="630" y="1632" class="body" text-anchor="middle" font-weight="700">
+<tspan x="630" dy="0">R17 stencil apertures</tspan>
+</text>
+
+<rect x="1100" y="1585" width="700" height="130" rx="18" fill="#ffffff" stroke="#7FA9AD" stroke-width="3"/>
+<text x="1450" y="1632" class="body" text-anchor="middle" font-weight="700">
+<tspan x="1450" dy="0">Paste release / clogging</tspan>
+</text>
+
+<rect x="1920" y="1585" width="700" height="130" rx="18" fill="#ffffff" stroke="#7FA9AD" stroke-width="3"/>
+<text x="2270" y="1632" class="body" text-anchor="middle" font-weight="700">
+<tspan x="2270" dy="0">Stencil underside / gasketing</tspan>
+</text>
+
+<rect x="2740" y="1585" width="700" height="130" rx="18" fill="#ffffff" stroke="#7FA9AD" stroke-width="3"/>
+<text x="3090" y="1632" class="body" text-anchor="middle" font-weight="700">
+<tspan x="3090" dy="0">Print alignment / local support</tspan>
+</text>
+
+<rect x="420" y="1765" width="1770" height="100" rx="18" fill="#FFF7EA" stroke="#C9821A" stroke-width="3"/>
+<text x="1305" y="1828" class="body" text-anchor="middle" fill="#8B5D20" font-weight="700">
+<tspan x="1305" dy="0">Strongest clue ≠ proven root cause — verify before concluding.</tspan>
+</text>
+<rect x="2325" y="1765" width="1050" height="100" rx="18" fill="#F7F8FA" stroke="#8A9AA8" stroke-width="3"/>
+<text x="2850" y="1828" class="body" text-anchor="middle" fill="#5D6B78" font-weight="700">
+<tspan x="2850" dy="0">Do not change the oven first from this evidence.</tspan>
+</text>
+<line x1="512.5" y1="1200" x2="512.5" y2="1290" stroke="#3D7B82" stroke-width="5" marker-end="url(#arrowTeal)"/>
+<line x1="1437.5" y1="1200" x2="1437.5" y2="1290" stroke="#3D7B82" stroke-width="5" marker-end="url(#arrowTeal)"/>
+<line x1="2362.5" y1="1200" x2="2362.5" y2="1290" stroke="#3D7B82" stroke-width="5" marker-end="url(#arrowTeal)"/>
+<line x1="3287.5" y1="1200" x2="3287.5" y2="1290" stroke="#3D7B82" stroke-width="5" marker-end="url(#arrowTeal)"/>
+</svg>
