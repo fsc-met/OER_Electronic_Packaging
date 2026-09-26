@@ -1,10 +1,120 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3600" height="1900" viewBox="0 0 3600 1900" preserveAspectRatio="xMidYMid meet">
-<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
-<defs>
-  <marker id="arrow" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#395B75"/></marker>
-  <marker id="arrowGreen" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#4F9362"/></marker>
-  <marker id="arrowAmber" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#C9821A"/></marker>
-  <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3800"
+   height="2000"
+   viewBox="0 0 3800 2000"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg131"
+   sodipodi:docname="4.24.2.svg"
+   inkscape:export-filename="4.24.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview131"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.1782973"
+     inkscape:cx="1379.7181"
+     inkscape:cy="1455.4343"
+     inkscape:window-width="1728"
+     inkscape:window-height="986"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg131" />
+  <defs
+     id="defs3">
+    <marker
+       style="overflow:visible"
+       id="marker131"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path131" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 V 12 L 16,6 Z"
+         fill="#395b75"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowGreen"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 V 12 L 16,6 Z"
+         fill="#4f9362"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowAmber"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 V 12 L 16,6 Z"
+         fill="#c9821a"
+         id="path3" />
+    </marker>
+    <style
+       id="style3">
     text{font-family:Arial,Helvetica,sans-serif; fill:#22313F}
     .h{font-size:50px;font-weight:700}
     .sh{font-size:40px;font-weight:700}
@@ -13,299 +123,1417 @@
     .xs{font-size:30px}
     .micro{font-size:27px}
   </style>
-</defs>
-<line x1="600" y1="720" x2="720" y2="720" stroke="#395B75" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
-<line x1="1240" y1="720" x2="1360" y2="720" stroke="#395B75" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
-<line x1="2020" y1="720" x2="2140" y2="720" stroke="#395B75" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
-<line x1="2660" y1="720" x2="2710" y2="720" stroke="#395B75" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
-<g id="verified-material-issued">
-<rect x="80" y="400" width="520" height="650" rx="26" fill="#DCEFEA" stroke="#6FA79A" stroke-width="4"/>
-<text x="340" y="458" class="h" text-anchor="middle">
-<tspan x="340" dy="0">Verified material</tspan>
-<tspan x="340" dy="54">issued</tspan>
-</text>
-<circle cx="240" cy="670" r="92" fill="#F4F5F5" stroke="#66757F" stroke-width="5"/>
-<circle cx="240" cy="670" r="28" fill="#FFFFFF" stroke="#66757F" stroke-width="4"/>
-<circle cx="296.0" cy="670.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<circle cx="240.0" cy="726.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<circle cx="184.0" cy="670.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<circle cx="240.0" cy="614.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<rect x="335" y="555" width="220" height="220" rx="14" fill="#FFFFFF" stroke="#98A99A" stroke-width="3"/>
-<text x="349" y="595" class="micro" text-anchor="start" font-weight="700">
-<tspan x="349" dy="0">ID</tspan>
-</text>
-<text x="541" y="595" class="micro" text-anchor="end">
-<tspan x="541" dy="0">PN A123</tspan>
-</text>
-<text x="349" y="639" class="micro" text-anchor="start" font-weight="700">
-<tspan x="349" dy="0">Lot/date</tspan>
-</text>
-<text x="541" y="639" class="micro" text-anchor="end">
-<tspan x="541" dy="0">L24-7</tspan>
-</text>
-<text x="349" y="683" class="micro" text-anchor="start" font-weight="700">
-<tspan x="349" dy="0">Qty</tspan>
-</text>
-<text x="541" y="683" class="micro" text-anchor="end">
-<tspan x="541" dy="0">5000</tspan>
-</text>
-<text x="349" y="727" class="micro" text-anchor="start" font-weight="700">
-<tspan x="349" dy="0">Status</tspan>
-</text>
-<text x="541" y="727" class="micro" text-anchor="end" fill="#4F9362" font-weight="700">
-<tspan x="541" dy="0">known</tspan>
-</text>
-<rect x="355" y="748" width="4" height="16" fill="#263238"/>
-<rect x="368" y="748" width="7" height="16" fill="#263238"/>
-<rect x="381" y="748" width="3" height="16" fill="#263238"/>
-<rect x="394" y="748" width="5" height="16" fill="#263238"/>
-<rect x="407" y="748" width="9" height="16" fill="#263238"/>
-<rect x="420" y="748" width="4" height="16" fill="#263238"/>
-<rect x="433" y="748" width="6" height="16" fill="#263238"/>
-<rect x="446" y="748" width="3" height="16" fill="#263238"/>
-<rect x="459" y="748" width="8" height="16" fill="#263238"/>
-<rect x="472" y="748" width="5" height="16" fill="#263238"/>
-<rect x="485" y="748" width="4" height="16" fill="#263238"/>
-<rect x="498" y="748" width="7" height="16" fill="#263238"/>
-<rect x="135" y="845" width="410" height="95" rx="18" fill="#F4FAF6" stroke="#8FA985" stroke-width="3"/>
-<circle cx="195" cy="892" r="28" fill="#FFFFFF" stroke="#6E98B8" stroke-width="4"/>
-<path d="M 178 892 l 12 13 l 25 -29" fill="none" stroke="#4F9362" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="235" y="904" class="micro" text-anchor="start" font-weight="700">
-<tspan x="235" dy="0">correct identity + usable status</tspan>
-</text>
-<text x="340" y="980" class="xs" text-anchor="middle" fill="#5D6B78">
-<tspan x="340" dy="0">Controlled information remains</tspan>
-<tspan x="340" dy="34">associated with the material</tspan>
-</text>
-</g>
-<g id="active-job">
-<rect x="720" y="400" width="520" height="650" rx="26" fill="#DDEAF5" stroke="#6E98B8" stroke-width="4"/>
-<text x="980" y="458" class="h" text-anchor="middle">
-<tspan x="980" dy="0">Active PCB</tspan>
-<tspan x="980" dy="54">assembly job</tspan>
-</text>
-<rect x="855" y="600" width="250" height="160" rx="18" fill="#DDEDE3" stroke="#4F9362" stroke-width="4"/>
-<rect x="880" y="628" width="52" height="30" rx="5" fill="#E8EDF2" stroke="#596C7B" stroke-width="2"/>
-<rect x="960" y="624" width="78" height="38" rx="5" fill="#E8EDF2" stroke="#596C7B" stroke-width="2"/>
-<rect x="885" y="686" width="80" height="34" rx="5" fill="#E8EDF2" stroke="#596C7B" stroke-width="2"/>
-<rect x="1000" y="682" width="58" height="36" rx="5" fill="#E8EDF2" stroke="#596C7B" stroke-width="2"/>
-<rect x="1080" y="620" width="14" height="12" fill="#C89A2D"/>
-<rect x="1080" y="644" width="14" height="12" fill="#C89A2D"/>
-<rect x="1080" y="668" width="14" height="12" fill="#C89A2D"/>
-<rect x="1080" y="692" width="14" height="12" fill="#C89A2D"/>
-<rect x="1080" y="716" width="14" height="12" fill="#C89A2D"/>
-<line x1="815" y1="810" x2="1145" y2="810" stroke="#8A9AA8" stroke-width="5" fill="none"/>
-<circle cx="845" cy="810" r="10" fill="#8A9AA8" stroke="none" stroke-width="0"/>
-<circle cx="925" cy="810" r="10" fill="#8A9AA8" stroke="none" stroke-width="0"/>
-<circle cx="1005" cy="810" r="10" fill="#8A9AA8" stroke="none" stroke-width="0"/>
-<circle cx="1085" cy="810" r="10" fill="#8A9AA8" stroke="none" stroke-width="0"/>
-<text x="980" y="880" class="sh" text-anchor="middle">
-<tspan x="980" dy="0">Current product / revision</tspan>
-</text>
-<text x="980" y="940" class="xs" text-anchor="middle" fill="#5D6B78">
-<tspan x="980" dy="0">Material is used in the active job</tspan>
-<tspan x="980" dy="34">under the current controlled setup</tspan>
-</text>
-</g>
-<g id="replenishment">
-<rect x="1360" y="330" width="660" height="790" rx="26" fill="#E8EDF2" stroke="#8A9AA8" stroke-width="4"/>
-<text x="1690" y="390" class="h" text-anchor="middle">
-<tspan x="1690" dy="0">Use / controlled</tspan>
-<tspan x="1690" dy="54">replenishment</tspan>
-</text>
-<circle cx="1480" cy="620" r="70" fill="#F4F5F5" stroke="#66757F" stroke-width="5"/>
-<circle cx="1480" cy="620" r="28" fill="#FFFFFF" stroke="#66757F" stroke-width="4"/>
-<circle cx="1536.0" cy="620.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<circle cx="1480.0" cy="676.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<circle cx="1424.0" cy="620.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<circle cx="1480.0" cy="564.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<rect x="1608" y="550" width="164" height="105" rx="12" fill="#E8EDF2" stroke="#596C7B" stroke-width="3"/>
-<rect x="1626" y="568" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
-<rect x="1662" y="568" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
-<rect x="1698" y="568" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
-<rect x="1734" y="568" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
-<rect x="1626" y="607" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
-<rect x="1662" y="607" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
-<rect x="1698" y="607" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
-<rect x="1734" y="607" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="2"/>
-<path d="M1850,574 L1956,574 L1942,654 L1864,654 Z" fill="#E8EDF2" stroke="#596C7B" stroke-width="3"/>
-<ellipse cx="1903.0" cy="574" rx="53.0" ry="18" fill="#F4F7FA" stroke="#596C7B" stroke-width="3"/>
-<text x="1903.0" y="620" class="xs" text-anchor="middle">
-<tspan x="1903.0" dy="0">Paste</tspan>
-</text>
-<text x="1480" y="730" class="micro" text-anchor="middle">
-<tspan x="1480" dy="0">new reel / tray</tspan>
-</text>
-<text x="1690" y="705" class="micro" text-anchor="middle">
-<tspan x="1690" dy="0">feeder or tray</tspan>
-<tspan x="1690" dy="30">change</tspan>
-</text>
-<text x="1903" y="705" class="micro" text-anchor="middle">
-<tspan x="1903" dy="0">paste container</tspan>
-<tspan x="1903" dy="30">as applicable</tspan>
-</text>
-<circle cx="1690" cy="835" r="42" fill="#FFFFFF" stroke="#6E98B8" stroke-width="4"/>
-<path d="M 1673 835 l 12 13 l 25 -29" fill="none" stroke="#4F9362" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1690" y="910" class="s" text-anchor="middle" font-weight="700">
-<tspan x="1690" dy="0">Verify identity + required status</tspan>
-<tspan x="1690" dy="38">before replacement material</tspan>
-<tspan x="1690" dy="38">rejoins the active job</tspan>
-</text>
-<text x="1690" y="1050" class="xs" text-anchor="middle" fill="#5D6B78">
-<tspan x="1690" dy="0">Replenishment is another verification point</tspan>
-</text>
-</g>
-<text x="1690" y="165" class="s" text-anchor="middle" fill="#5D6B78">
-<tspan x="1690" dy="0">Replacement material</tspan>
-</text>
-<line x1="1690" y1="195" x2="1690" y2="315" stroke="#6E98B8" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
-<g id="partial-material">
-<rect x="2140" y="400" width="520" height="650" rx="26" fill="#EAF1E6" stroke="#8FA985" stroke-width="4"/>
-<text x="2400" y="458" class="h" text-anchor="middle">
-<tspan x="2400" dy="0">Partial / unused</tspan>
-<tspan x="2400" dy="54">material leaves line</tspan>
-</text>
-<circle cx="2295" cy="670" r="92" fill="#F4F5F5" stroke="#66757F" stroke-width="5"/>
-<circle cx="2295" cy="670" r="28" fill="#FFFFFF" stroke="#66757F" stroke-width="4"/>
-<circle cx="2351.0" cy="670.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<circle cx="2295.0" cy="726.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<circle cx="2239.0" cy="670.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<circle cx="2295.0" cy="614.0" r="23" fill="#D9DEDF" stroke="#8F9A9F" stroke-width="3"/>
-<path d="M 2227 604 A 74 74 0 0 1 2309 598" stroke="#6FA79A" stroke-width="10" fill="none"/>
-<rect x="2380" y="555" width="220" height="220" rx="14" fill="#FFFFFF" stroke="#98A99A" stroke-width="3"/>
-<text x="2394" y="595" class="micro" text-anchor="start" font-weight="700">
-<tspan x="2394" dy="0">ID</tspan>
-</text>
-<text x="2586" y="595" class="micro" text-anchor="end">
-<tspan x="2586" dy="0">PN A123</tspan>
-</text>
-<text x="2394" y="639" class="micro" text-anchor="start" font-weight="700">
-<tspan x="2394" dy="0">Lot/date</tspan>
-</text>
-<text x="2586" y="639" class="micro" text-anchor="end">
-<tspan x="2586" dy="0">L24-7</tspan>
-</text>
-<text x="2394" y="683" class="micro" text-anchor="start" font-weight="700">
-<tspan x="2394" dy="0">Qty</tspan>
-</text>
-<text x="2586" y="683" class="micro" text-anchor="end">
-<tspan x="2586" dy="0">2500</tspan>
-</text>
-<text x="2394" y="727" class="micro" text-anchor="start" font-weight="700">
-<tspan x="2394" dy="0">Status</tspan>
-</text>
-<text x="2586" y="727" class="micro" text-anchor="end" fill="#4F9362" font-weight="700">
-<tspan x="2586" dy="0">known</tspan>
-</text>
-<rect x="2400" y="748" width="4" height="16" fill="#263238"/>
-<rect x="2413" y="748" width="7" height="16" fill="#263238"/>
-<rect x="2426" y="748" width="3" height="16" fill="#263238"/>
-<rect x="2439" y="748" width="5" height="16" fill="#263238"/>
-<rect x="2452" y="748" width="9" height="16" fill="#263238"/>
-<rect x="2465" y="748" width="4" height="16" fill="#263238"/>
-<rect x="2478" y="748" width="6" height="16" fill="#263238"/>
-<rect x="2491" y="748" width="3" height="16" fill="#263238"/>
-<rect x="2504" y="748" width="8" height="16" fill="#263238"/>
-<rect x="2517" y="748" width="5" height="16" fill="#263238"/>
-<rect x="2530" y="748" width="4" height="16" fill="#263238"/>
-<rect x="2543" y="748" width="7" height="16" fill="#263238"/>
-<rect x="2205" y="845" width="390" height="120" rx="18" fill="#F6FAF4" stroke="#A6B99E" stroke-width="3"/>
-<text x="2400" y="890" class="s" text-anchor="middle" font-weight="700">
-<tspan x="2400" dy="0">status stays associated</tspan>
-<tspan x="2400" dy="38">with the material</tspan>
-</text>
-<text x="2400" y="1010" class="xs" text-anchor="middle" fill="#5D6B78">
-<tspan x="2400" dy="0">Needed for the next controlled decision</tspan>
-</text>
-</g>
-<g id="status-decision">
-<polygon points="3020,490 3345,720 3020,950 2695,720" fill="#FFF3D6" stroke="#C89A2D" stroke-width="5"/>
-<text x="3020" y="650" class="h" text-anchor="middle">
-<tspan x="3020" dy="0">Identity + required</tspan>
-<tspan x="3020" dy="56">status preserved?</tspan>
-</text>
-<text x="3020" y="800" class="xs" text-anchor="middle" fill="#5D6B78">
-<tspan x="3020" dy="0">for the next controlled</tspan>
-<tspan x="3020" dy="34">decision</tspan>
-</text>
-</g>
-<g id="approved-return">
-<path d="M 3020 490 V 350" stroke="#4F9362" stroke-width="6" fill="none" marker-end="url(#arrowGreen)"/>
-<text x="3085" y="430" class="s" text-anchor="start" fill="#356F47" font-weight="700">
-<tspan x="3085" dy="0">YES / return permitted</tspan>
-</text>
-<rect x="2700" y="65" width="640" height="270" rx="26" fill="#E3F3E7" stroke="#4F9362" stroke-width="4"/>
-<circle cx="2788" cy="174" r="34" fill="#FFFFFF" stroke="#6E98B8" stroke-width="4"/>
-<path d="M 2771 174 l 12 13 l 25 -29" fill="none" stroke="#4F9362" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="3050" y="125" class="sh" text-anchor="middle">
-<tspan x="3050" dy="0">Approved return /</tspan>
-<tspan x="3050" dy="46">controlled stock status</tspan>
-</text>
-<text x="3050" y="242" class="xs" text-anchor="middle" fill="#356F47">
-<tspan x="3050" dy="0">identity and required status remain usable</tspan>
-</text>
-<text x="3050" y="278" class="micro" text-anchor="middle" fill="#5D6B78">
-<tspan x="3050" dy="0">Return / reuse depends on material</tspan>
-<tspan x="3050" dy="29">and the approved procedure</tspan>
-</text>
-</g>
-<g id="hold-path">
-<path d="M 3020 950 V 1210" stroke="#C9821A" stroke-width="6" fill="none" marker-end="url(#arrowAmber)"/>
-<text x="3080" y="1065" class="xs" text-anchor="start" fill="#A7442D" font-weight="700">
-<tspan x="3080" dy="0">NO / status incomplete</tspan>
-<tspan x="3080" dy="34">or unknown</tspan>
-</text>
-<rect x="2750" y="1225" width="590" height="315" rx="26" fill="#FFF1D6" stroke="#C9821A" stroke-width="4"/>
-<circle cx="2840" cy="1308" r="32" fill="#C9821A" stroke="none" stroke-width="0"/>
-<text x="2840" y="1321" class="sh" text-anchor="middle" fill="#FFFFFF" font-weight="700">
-<tspan x="2840" dy="0">!</tspan>
-</text>
-<text x="3065" y="1320" class="h" text-anchor="middle" fill="#A7442D">
-<tspan x="3065" dy="0">HOLD</tspan>
-</text>
-<text x="3065" y="1405" class="sh" text-anchor="middle">
-<tspan x="3065" dy="0">Verification / disposition</tspan>
-<tspan x="3065" dy="46">required</tspan>
-</text>
-<text x="3045" y="1505" class="xs" text-anchor="middle" fill="#5D6B78">
-<tspan x="3045" dy="0">Do not return unknown-status material</tspan>
-</text>
-</g>
-<g id="status-information">
-<rect x="1940" y="1145" width="760" height="675" rx="24" fill="#F4F7FA" stroke="#8A9AA8" stroke-width="4"/>
-<text x="2320" y="1210" class="sh" text-anchor="middle">
-<tspan x="2320" dy="0">Examples of information needed</tspan>
-<tspan x="2320" dy="44">for the next decision</tspan>
-</text>
-<circle cx="2015" cy="1325" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
-<text x="2045" y="1335" class="xs" text-anchor="start">
-<tspan x="2045" dy="0">material identity</tspan>
-</text>
-<circle cx="2015" cy="1381" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
-<text x="2045" y="1391" class="xs" text-anchor="start">
-<tspan x="2045" dy="0">remaining quantity</tspan>
-</text>
-<circle cx="2015" cy="1437" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
-<text x="2045" y="1447" class="xs" text-anchor="start">
-<tspan x="2045" dy="0">lot / date code</tspan>
-</text>
-<circle cx="2015" cy="1493" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
-<text x="2045" y="1503" class="xs" text-anchor="start">
-<tspan x="2045" dy="0">moisture / exposure status</tspan>
-<tspan x="2045" dy="34">as applicable</tspan>
-</text>
-<circle cx="2015" cy="1575" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
-<text x="2045" y="1585" class="xs" text-anchor="start">
-<tspan x="2045" dy="0">expiration / use status</tspan>
-<tspan x="2045" dy="34">as applicable</tspan>
-</text>
-<circle cx="2015" cy="1657" r="8" fill="#6E98B8" stroke="none" stroke-width="0"/>
-<text x="2045" y="1667" class="xs" text-anchor="start">
-<tspan x="2045" dy="0">product / process restrictions</tspan>
-<tspan x="2045" dy="34">as applicable</tspan>
-</text>
-<text x="2320" y="1782" class="xs" text-anchor="middle" fill="#5D6B78">
-<tspan x="2320" dy="0">Examples vary by material and approved procedure</tspan>
-</text>
-</g>
+  </defs>
+  <line
+     x1="646.65393"
+     y1="776.08612"
+     x2="766.65393"
+     y2="776.08612"
+     stroke="#395b75"
+     stroke-width="6"
+     fill="none"
+     marker-end="url(#arrow)"
+     id="line3"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker131)" />
+  <line
+     x1="1345.9006"
+     y1="776.08612"
+     x2="1465.9006"
+     y2="776.08612"
+     stroke="#395b75"
+     stroke-width="6"
+     fill="none"
+     marker-end="url(#arrow)"
+     id="line4"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker131)" />
+  <line
+     x1="2149.0842"
+     y1="776.08612"
+     x2="2269.0842"
+     y2="776.08612"
+     stroke="#395b75"
+     stroke-width="6"
+     fill="none"
+     marker-end="url(#arrow)"
+     id="line5"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="2851.0842"
+     y1="776.08612"
+     x2="2935.3921"
+     y2="776.08612"
+     stroke="#395b75"
+     stroke-width="6"
+     fill="none"
+     marker-end="url(#arrow)"
+     id="line6"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <rect
+     x="65.400116"
+     y="456.19418"
+     width="577.91614"
+     height="649.78381"
+     rx="28.895807"
+     fill="#dcefea"
+     stroke="#6fa79a"
+     stroke-width="4.21617"
+     id="rect6" />
+  <text
+     x="351.12863"
+     y="523.77484"
+     class="h"
+     text-anchor="middle"
+     id="text7"><tspan
+       x="351.12863"
+       dy="0"
+       id="tspan6">Verified material</tspan><tspan
+       x="351.12863"
+       dy="54"
+       id="tspan7">issued</tspan></text>
+  <circle
+     cx="225.29205"
+     cy="726.08612"
+     r="92"
+     fill="#f4f5f5"
+     stroke="#66757f"
+     stroke-width="5"
+     id="circle7" />
+  <circle
+     cx="225.29205"
+     cy="726.08612"
+     r="28"
+     fill="#ffffff"
+     stroke="#66757f"
+     stroke-width="4"
+     id="circle8" />
+  <circle
+     cx="281.29205"
+     cy="726.08612"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle9" />
+  <circle
+     cx="225.29205"
+     cy="782.08612"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle10" />
+  <circle
+     cx="169.29204"
+     cy="726.08612"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle11" />
+  <circle
+     cx="225.29205"
+     cy="670.08612"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle12" />
+  <rect
+     x="320.29205"
+     y="611.08612"
+     width="220"
+     height="220"
+     rx="14"
+     fill="#ffffff"
+     stroke="#98a99a"
+     stroke-width="3"
+     id="rect12" />
+  <text
+     x="334.29205"
+     y="651.08612"
+     class="micro"
+     text-anchor="start"
+     font-weight="700"
+     id="text12"><tspan
+       x="334.29205"
+       dy="0"
+       id="tspan12">ID</tspan></text>
+  <text
+     x="526.29199"
+     y="651.08612"
+     class="micro"
+     text-anchor="end"
+     id="text13"><tspan
+       x="526.29199"
+       dy="0"
+       id="tspan13">PN A123</tspan></text>
+  <text
+     x="334.29205"
+     y="695.08612"
+     class="micro"
+     text-anchor="start"
+     font-weight="700"
+     id="text14"><tspan
+       x="334.29205"
+       dy="0"
+       id="tspan14">Lot/date</tspan></text>
+  <text
+     x="526.29199"
+     y="695.08612"
+     class="micro"
+     text-anchor="end"
+     id="text15"><tspan
+       x="526.29199"
+       dy="0"
+       id="tspan15">L24-7</tspan></text>
+  <text
+     x="334.29205"
+     y="739.08612"
+     class="micro"
+     text-anchor="start"
+     font-weight="700"
+     id="text16"><tspan
+       x="334.29205"
+       dy="0"
+       id="tspan16">Qty</tspan></text>
+  <text
+     x="526.29199"
+     y="739.08612"
+     class="micro"
+     text-anchor="end"
+     id="text17"><tspan
+       x="526.29199"
+       dy="0"
+       id="tspan17">5000</tspan></text>
+  <text
+     x="334.29205"
+     y="783.08612"
+     class="micro"
+     text-anchor="start"
+     font-weight="700"
+     id="text18"><tspan
+       x="334.29205"
+       dy="0"
+       id="tspan18">Status</tspan></text>
+  <text
+     x="526.29199"
+     y="783.08612"
+     class="micro"
+     text-anchor="end"
+     fill="#4F9362"
+     font-weight="700"
+     id="text19"><tspan
+       x="526.29199"
+       dy="0"
+       id="tspan19">known</tspan></text>
+  <rect
+     x="340.29202"
+     y="804.08612"
+     width="4"
+     height="16"
+     fill="#263238"
+     id="rect19" />
+  <rect
+     x="353.29202"
+     y="804.08612"
+     width="7"
+     height="16"
+     fill="#263238"
+     id="rect20" />
+  <rect
+     x="366.29202"
+     y="804.08612"
+     width="3"
+     height="16"
+     fill="#263238"
+     id="rect21" />
+  <rect
+     x="379.29202"
+     y="804.08612"
+     width="5"
+     height="16"
+     fill="#263238"
+     id="rect22" />
+  <rect
+     x="392.29202"
+     y="804.08612"
+     width="9"
+     height="16"
+     fill="#263238"
+     id="rect23" />
+  <rect
+     x="405.29202"
+     y="804.08612"
+     width="4"
+     height="16"
+     fill="#263238"
+     id="rect24" />
+  <rect
+     x="418.29202"
+     y="804.08612"
+     width="6"
+     height="16"
+     fill="#263238"
+     id="rect25" />
+  <rect
+     x="431.29202"
+     y="804.08612"
+     width="3"
+     height="16"
+     fill="#263238"
+     id="rect26" />
+  <rect
+     x="444.29202"
+     y="804.08612"
+     width="8"
+     height="16"
+     fill="#263238"
+     id="rect27" />
+  <rect
+     x="457.29202"
+     y="804.08612"
+     width="5"
+     height="16"
+     fill="#263238"
+     id="rect28" />
+  <rect
+     x="470.29202"
+     y="804.08612"
+     width="4"
+     height="16"
+     fill="#263238"
+     id="rect29" />
+  <rect
+     x="483.29202"
+     y="804.08612"
+     width="7"
+     height="16"
+     fill="#263238"
+     id="rect30" />
+  <rect
+     x="91.39547"
+     y="901.25574"
+     width="509.77759"
+     height="94.660797"
+     rx="22.38048"
+     fill="#f4faf6"
+     stroke="#8fa985"
+     stroke-width="3.3392"
+     id="rect31" />
+  <circle
+     cx="151.22589"
+     cy="948.08612"
+     r="28"
+     fill="#ffffff"
+     stroke="#6e98b8"
+     stroke-width="4"
+     id="circle31" />
+  <path
+     d="m 134.22587,948.0861 12,13 24.99999,-29"
+     fill="none"
+     stroke="#4f9362"
+     stroke-width="7"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path31" />
+  <text
+     x="191.22589"
+     y="960.08612"
+     class="micro"
+     text-anchor="start"
+     font-weight="700"
+     id="text31"><tspan
+       x="191.22589"
+       dy="0"
+       id="tspan31">correct identity + usable status</tspan></text>
+  <text
+     x="325.29205"
+     y="1036.0861"
+     class="xs"
+     text-anchor="middle"
+     fill="#5D6B78"
+     id="text33"><tspan
+       x="325.29205"
+       dy="0"
+       id="tspan32">Controlled information remains</tspan><tspan
+       x="325.29205"
+       dy="34"
+       id="tspan33">associated with the material</tspan></text>
+  <rect
+     x="787.32916"
+     y="456.15381"
+     width="555.9278"
+     height="649.86456"
+     rx="27.796387"
+     fill="#ddeaf5"
+     stroke="#6e98b8"
+     stroke-width="4.13545"
+     id="rect33" />
+  <text
+     x="1065.2931"
+     y="532.93817"
+     class="h"
+     text-anchor="middle"
+     id="text35"><tspan
+       x="1065.2931"
+       dy="0"
+       id="tspan34">Active PCB</tspan><tspan
+       x="1065.2931"
+       dy="54"
+       id="tspan35">assembly job</tspan></text>
+  <rect
+     x="940.29309"
+     y="674.93823"
+     width="250"
+     height="160"
+     rx="18"
+     fill="#ddede3"
+     stroke="#4f9362"
+     stroke-width="4"
+     id="rect35" />
+  <rect
+     x="965.29309"
+     y="702.93823"
+     width="52"
+     height="30"
+     rx="5"
+     fill="#e8edf2"
+     stroke="#596c7b"
+     stroke-width="2"
+     id="rect36" />
+  <rect
+     x="1045.2931"
+     y="698.93823"
+     width="78"
+     height="38"
+     rx="5"
+     fill="#e8edf2"
+     stroke="#596c7b"
+     stroke-width="2"
+     id="rect37" />
+  <rect
+     x="970.29309"
+     y="760.93823"
+     width="80"
+     height="34"
+     rx="5"
+     fill="#e8edf2"
+     stroke="#596c7b"
+     stroke-width="2"
+     id="rect38" />
+  <rect
+     x="1085.2931"
+     y="756.93823"
+     width="58"
+     height="36"
+     rx="5"
+     fill="#e8edf2"
+     stroke="#596c7b"
+     stroke-width="2"
+     id="rect39" />
+  <rect
+     x="1165.2931"
+     y="694.93823"
+     width="14"
+     height="12"
+     fill="#c89a2d"
+     id="rect40" />
+  <rect
+     x="1165.2931"
+     y="718.93823"
+     width="14"
+     height="12"
+     fill="#c89a2d"
+     id="rect41" />
+  <rect
+     x="1165.2931"
+     y="742.93823"
+     width="14"
+     height="12"
+     fill="#c89a2d"
+     id="rect42" />
+  <rect
+     x="1165.2931"
+     y="766.93823"
+     width="14"
+     height="12"
+     fill="#c89a2d"
+     id="rect43" />
+  <rect
+     x="1165.2931"
+     y="790.93823"
+     width="14"
+     height="12"
+     fill="#c89a2d"
+     id="rect44" />
+  <line
+     x1="900.29309"
+     y1="884.93823"
+     x2="1230.2931"
+     y2="884.93823"
+     stroke="#8a9aa8"
+     stroke-width="5"
+     fill="none"
+     id="line44" />
+  <circle
+     cx="930.29309"
+     cy="884.93823"
+     r="10"
+     fill="#8a9aa8"
+     stroke="none"
+     stroke-width="0"
+     id="circle44" />
+  <circle
+     cx="1010.2931"
+     cy="884.93823"
+     r="10"
+     fill="#8a9aa8"
+     stroke="none"
+     stroke-width="0"
+     id="circle45" />
+  <circle
+     cx="1090.2931"
+     cy="884.93823"
+     r="10"
+     fill="#8a9aa8"
+     stroke="none"
+     stroke-width="0"
+     id="circle46" />
+  <circle
+     cx="1170.2931"
+     cy="884.93823"
+     r="10"
+     fill="#8a9aa8"
+     stroke="none"
+     stroke-width="0"
+     id="circle47" />
+  <text
+     x="1065.2931"
+     y="954.93823"
+     class="sh"
+     text-anchor="middle"
+     id="text47"><tspan
+       x="1065.2931"
+       dy="0"
+       id="tspan47">Current product / revision</tspan></text>
+  <text
+     x="1065.2931"
+     y="1014.9382"
+     class="xs"
+     text-anchor="middle"
+     fill="#5D6B78"
+     id="text49"><tspan
+       x="1065.2931"
+       dy="0"
+       id="tspan48">Material is used in the active job</tspan><tspan
+       x="1065.2931"
+       dy="34"
+       id="tspan49">under the current controlled setup</tspan></text>
+  <rect
+     x="1489.0841"
+     y="386.08609"
+     width="660"
+     height="790"
+     rx="26"
+     fill="#e8edf2"
+     stroke="#8a9aa8"
+     stroke-width="4"
+     id="rect49" />
+  <text
+     x="1819.0841"
+     y="468.08609"
+     class="h"
+     text-anchor="middle"
+     id="text51"><tspan
+       x="1819.0841"
+       dy="0"
+       id="tspan50">Use / controlled</tspan><tspan
+       x="1819.0841"
+       dy="54"
+       id="tspan51">replenishment</tspan></text>
+  <circle
+     cx="1609.0841"
+     cy="698.08612"
+     r="70"
+     fill="#f4f5f5"
+     stroke="#66757f"
+     stroke-width="5"
+     id="circle51" />
+  <circle
+     cx="1609.0841"
+     cy="698.08612"
+     r="28"
+     fill="#ffffff"
+     stroke="#66757f"
+     stroke-width="4"
+     id="circle52" />
+  <circle
+     cx="1665.0841"
+     cy="698.08612"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle53" />
+  <circle
+     cx="1609.0841"
+     cy="754.08612"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle54" />
+  <circle
+     cx="1553.0841"
+     cy="698.08612"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle55" />
+  <circle
+     cx="1609.0841"
+     cy="642.08612"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle56" />
+  <rect
+     x="1737.0841"
+     y="628.08612"
+     width="164"
+     height="105"
+     rx="12"
+     fill="#e8edf2"
+     stroke="#596c7b"
+     stroke-width="3"
+     id="rect56" />
+  <rect
+     x="1755.0841"
+     y="646.08612"
+     width="24"
+     height="24"
+     rx="4"
+     fill="#ffffff"
+     stroke="#8a9aa8"
+     stroke-width="2"
+     id="rect57" />
+  <rect
+     x="1791.0841"
+     y="646.08612"
+     width="24"
+     height="24"
+     rx="4"
+     fill="#ffffff"
+     stroke="#8a9aa8"
+     stroke-width="2"
+     id="rect58" />
+  <rect
+     x="1827.0841"
+     y="646.08612"
+     width="24"
+     height="24"
+     rx="4"
+     fill="#ffffff"
+     stroke="#8a9aa8"
+     stroke-width="2"
+     id="rect59" />
+  <rect
+     x="1863.0841"
+     y="646.08612"
+     width="24"
+     height="24"
+     rx="4"
+     fill="#ffffff"
+     stroke="#8a9aa8"
+     stroke-width="2"
+     id="rect60" />
+  <rect
+     x="1755.0841"
+     y="685.08612"
+     width="24"
+     height="24"
+     rx="4"
+     fill="#ffffff"
+     stroke="#8a9aa8"
+     stroke-width="2"
+     id="rect61" />
+  <rect
+     x="1791.0841"
+     y="685.08612"
+     width="24"
+     height="24"
+     rx="4"
+     fill="#ffffff"
+     stroke="#8a9aa8"
+     stroke-width="2"
+     id="rect62" />
+  <rect
+     x="1827.0841"
+     y="685.08612"
+     width="24"
+     height="24"
+     rx="4"
+     fill="#ffffff"
+     stroke="#8a9aa8"
+     stroke-width="2"
+     id="rect63" />
+  <rect
+     x="1863.0841"
+     y="685.08612"
+     width="24"
+     height="24"
+     rx="4"
+     fill="#ffffff"
+     stroke="#8a9aa8"
+     stroke-width="2"
+     id="rect64" />
+  <path
+     d="m 1979.0841,652.0861 h 106 l -14,80 h -78 z"
+     fill="#e8edf2"
+     stroke="#596c7b"
+     stroke-width="3"
+     id="path64" />
+  <ellipse
+     cx="2032.0841"
+     cy="652.08612"
+     rx="53"
+     ry="18"
+     fill="#f4f7fa"
+     stroke="#596c7b"
+     stroke-width="3"
+     id="ellipse64" />
+  <text
+     x="2032.0841"
+     y="698.08612"
+     class="xs"
+     text-anchor="middle"
+     id="text64"><tspan
+       x="2032.0841"
+       dy="0"
+       id="tspan64">Paste</tspan></text>
+  <text
+     x="1609.0841"
+     y="808.08612"
+     class="micro"
+     text-anchor="middle"
+     id="text65"><tspan
+       x="1609.0841"
+       dy="0"
+       id="tspan65">new reel / tray</tspan></text>
+  <text
+     x="1819.0841"
+     y="783.08612"
+     class="micro"
+     text-anchor="middle"
+     id="text67"><tspan
+       x="1819.0841"
+       dy="0"
+       id="tspan66">feeder or tray</tspan><tspan
+       x="1819.0841"
+       dy="30"
+       id="tspan67">change</tspan></text>
+  <text
+     x="2032.0841"
+     y="783.08612"
+     class="micro"
+     text-anchor="middle"
+     id="text69"><tspan
+       x="2032.0841"
+       dy="0"
+       id="tspan68">paste container</tspan><tspan
+       x="2032.0841"
+       dy="30"
+       id="tspan69">as applicable</tspan></text>
+  <circle
+     cx="1819.0841"
+     cy="913.08612"
+     r="42"
+     fill="#ffffff"
+     stroke="#6e98b8"
+     stroke-width="4"
+     id="circle69" />
+  <path
+     d="m 1802.0841,913.0861 12,13 25,-29"
+     fill="none"
+     stroke="#4f9362"
+     stroke-width="7"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path69" />
+  <text
+     x="1819.0841"
+     y="988.08612"
+     class="s"
+     text-anchor="middle"
+     font-weight="700"
+     id="text72"><tspan
+       x="1819.0841"
+       dy="0"
+       id="tspan70">Verify identity + required status</tspan><tspan
+       x="1819.0841"
+       dy="38"
+       id="tspan71">before replacement material</tspan><tspan
+       x="1819.0841"
+       dy="38"
+       id="tspan72">rejoins the active job</tspan></text>
+  <text
+     x="1819.0841"
+     y="1128.0861"
+     class="xs"
+     text-anchor="middle"
+     fill="#5D6B78"
+     id="text73"><tspan
+       x="1819.0841"
+       dy="0"
+       id="tspan73">Replenishment is another verification point</tspan></text>
+  <text
+     x="1819.0841"
+     y="221.08611"
+     class="s"
+     text-anchor="middle"
+     fill="#5D6B78"
+     id="text74"><tspan
+       x="1819.0841"
+       dy="0"
+       id="tspan74">Replacement material</tspan></text>
+  <line
+     x1="1819.0841"
+     y1="251.08611"
+     x2="1819.0841"
+     y2="371.08609"
+     stroke="#6e98b8"
+     stroke-width="5"
+     fill="none"
+     marker-end="url(#arrow)"
+     id="line74"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker131)" />
+  <rect
+     x="2297.5034"
+     y="456.16718"
+     width="563.16174"
+     height="649.83783"
+     rx="28.158089"
+     fill="#eaf1e6"
+     stroke="#8fa985"
+     stroke-width="4.16218"
+     id="rect74" />
+  <text
+     x="2579.0842"
+     y="519.23798"
+     class="h"
+     text-anchor="middle"
+     id="text76"><tspan
+       x="2579.0842"
+       dy="0"
+       id="tspan75">Partial / unused</tspan><tspan
+       x="2579.0842"
+       dy="54"
+       id="tspan76">material leaves line</tspan></text>
+  <circle
+     cx="2474.0842"
+     cy="731.23804"
+     r="92"
+     fill="#f4f5f5"
+     stroke="#66757f"
+     stroke-width="5"
+     id="circle76" />
+  <circle
+     cx="2474.0842"
+     cy="731.23804"
+     r="28"
+     fill="#ffffff"
+     stroke="#66757f"
+     stroke-width="4"
+     id="circle77" />
+  <circle
+     cx="2530.0842"
+     cy="731.23804"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle78" />
+  <circle
+     cx="2474.0842"
+     cy="787.23804"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle79" />
+  <circle
+     cx="2418.0842"
+     cy="731.23804"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle80" />
+  <circle
+     cx="2474.0842"
+     cy="675.23804"
+     r="23"
+     fill="#d9dedf"
+     stroke="#8f9a9f"
+     stroke-width="3"
+     id="circle81" />
+  <path
+     d="m 2406.0841,665.23799 a 74,74 0 0 1 82,-6"
+     stroke="#6fa79a"
+     stroke-width="10"
+     fill="none"
+     id="path81" />
+  <rect
+     x="2559.0842"
+     y="616.23804"
+     width="220"
+     height="220"
+     rx="14"
+     fill="#ffffff"
+     stroke="#98a99a"
+     stroke-width="3"
+     id="rect81" />
+  <text
+     x="2573.0842"
+     y="656.23804"
+     class="micro"
+     text-anchor="start"
+     font-weight="700"
+     id="text81"><tspan
+       x="2573.0842"
+       dy="0"
+       id="tspan81">ID</tspan></text>
+  <text
+     x="2765.0842"
+     y="656.23804"
+     class="micro"
+     text-anchor="end"
+     id="text82"><tspan
+       x="2765.0842"
+       dy="0"
+       id="tspan82">PN A123</tspan></text>
+  <text
+     x="2573.0842"
+     y="700.23804"
+     class="micro"
+     text-anchor="start"
+     font-weight="700"
+     id="text83"><tspan
+       x="2573.0842"
+       dy="0"
+       id="tspan83">Lot/date</tspan></text>
+  <text
+     x="2765.0842"
+     y="700.23804"
+     class="micro"
+     text-anchor="end"
+     id="text84"><tspan
+       x="2765.0842"
+       dy="0"
+       id="tspan84">L24-7</tspan></text>
+  <text
+     x="2573.0842"
+     y="744.23804"
+     class="micro"
+     text-anchor="start"
+     font-weight="700"
+     id="text85"><tspan
+       x="2573.0842"
+       dy="0"
+       id="tspan85">Qty</tspan></text>
+  <text
+     x="2765.0842"
+     y="744.23804"
+     class="micro"
+     text-anchor="end"
+     id="text86"><tspan
+       x="2765.0842"
+       dy="0"
+       id="tspan86">2500</tspan></text>
+  <text
+     x="2573.0842"
+     y="788.23804"
+     class="micro"
+     text-anchor="start"
+     font-weight="700"
+     id="text87"><tspan
+       x="2573.0842"
+       dy="0"
+       id="tspan87">Status</tspan></text>
+  <text
+     x="2765.0842"
+     y="788.23804"
+     class="micro"
+     text-anchor="end"
+     fill="#4F9362"
+     font-weight="700"
+     id="text88"><tspan
+       x="2765.0842"
+       dy="0"
+       id="tspan88">known</tspan></text>
+  <rect
+     x="2579.0842"
+     y="809.23804"
+     width="4"
+     height="16"
+     fill="#263238"
+     id="rect88" />
+  <rect
+     x="2592.0842"
+     y="809.23804"
+     width="7"
+     height="16"
+     fill="#263238"
+     id="rect89" />
+  <rect
+     x="2605.0842"
+     y="809.23804"
+     width="3"
+     height="16"
+     fill="#263238"
+     id="rect90" />
+  <rect
+     x="2618.0842"
+     y="809.23804"
+     width="5"
+     height="16"
+     fill="#263238"
+     id="rect91" />
+  <rect
+     x="2631.0842"
+     y="809.23804"
+     width="9"
+     height="16"
+     fill="#263238"
+     id="rect92" />
+  <rect
+     x="2644.0842"
+     y="809.23804"
+     width="4"
+     height="16"
+     fill="#263238"
+     id="rect93" />
+  <rect
+     x="2657.0842"
+     y="809.23804"
+     width="6"
+     height="16"
+     fill="#263238"
+     id="rect94" />
+  <rect
+     x="2670.0842"
+     y="809.23804"
+     width="3"
+     height="16"
+     fill="#263238"
+     id="rect95" />
+  <rect
+     x="2683.0842"
+     y="809.23804"
+     width="8"
+     height="16"
+     fill="#263238"
+     id="rect96" />
+  <rect
+     x="2696.0842"
+     y="809.23804"
+     width="5"
+     height="16"
+     fill="#263238"
+     id="rect97" />
+  <rect
+     x="2709.0842"
+     y="809.23804"
+     width="4"
+     height="16"
+     fill="#263238"
+     id="rect98" />
+  <rect
+     x="2722.0842"
+     y="809.23804"
+     width="7"
+     height="16"
+     fill="#263238"
+     id="rect99" />
+  <rect
+     x="2384.0842"
+     y="906.23804"
+     width="390"
+     height="120"
+     rx="18"
+     fill="#f6faf4"
+     stroke="#a6b99e"
+     stroke-width="3"
+     id="rect100" />
+  <text
+     x="2579.0842"
+     y="951.23804"
+     class="s"
+     text-anchor="middle"
+     font-weight="700"
+     id="text101"><tspan
+       x="2579.0842"
+       dy="0"
+       id="tspan100">status stays associated</tspan><tspan
+       x="2579.0842"
+       dy="38"
+       id="tspan101">with the material</tspan></text>
+  <text
+     x="2579.0842"
+     y="1071.238"
+     class="xs"
+     text-anchor="middle"
+     fill="#5D6B78"
+     id="text102"><tspan
+       x="2579.0842"
+       dy="0"
+       id="tspan102">Needed for the next controlled decision</tspan></text>
+  <g
+     id="g131"
+     transform="translate(265.20552,41.947031)">
+    <polygon
+       points="2695,720 3020,490 3345,720 3020,950 "
+       fill="#fff3d6"
+       stroke="#c89a2d"
+       stroke-width="5"
+       id="polygon102"
+       transform="matrix(1.0679618,0,0,1.0707996,-182.85769,-34.480141)" />
+    <text
+       x="3045.9216"
+       y="708.91278"
+       class="h"
+       text-anchor="middle"
+       id="text104"><tspan
+         x="3045.9216"
+         dy="0"
+         id="tspan103">Identity + required</tspan><tspan
+         x="3045.9216"
+         dy="56"
+         id="tspan104">status preserved?</tspan></text>
+    <text
+       x="3045.9216"
+       y="858.91278"
+       class="xs"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text106"><tspan
+         x="3045.9216"
+         dy="0"
+         id="tspan105">for the next controlled</tspan><tspan
+         x="3045.9216"
+         dy="34"
+         id="tspan106">decision</tspan></text>
+  </g>
+  <path
+     d="m 3308.7706,524.8775 v -140"
+     stroke="#4f9362"
+     stroke-width="6"
+     fill="none"
+     marker-end="url(#arrowGreen)"
+     id="path106"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker131)" />
+  <text
+     x="3373.7708"
+     y="464.87747"
+     class="s"
+     text-anchor="start"
+     fill="#356F47"
+     font-weight="700"
+     id="text107"><tspan
+       x="3373.7708"
+       dy="0"
+       id="tspan107">YES / return permitted</tspan></text>
+  <rect
+     x="2988.814"
+     y="99.920746"
+     width="668.19165"
+     height="269.91351"
+     rx="27.145285"
+     fill="#e3f3e7"
+     stroke="#4f9362"
+     stroke-width="4.08649"
+     id="rect107" />
+  <circle
+     cx="3065.1067"
+     cy="187.21553"
+     r="34"
+     fill="#ffffff"
+     stroke="#6e98b8"
+     stroke-width="4"
+     id="circle107" />
+  <path
+     d="m 3048.1065,187.21553 12,13 25,-29"
+     fill="none"
+     stroke="#4f9362"
+     stroke-width="7"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path107" />
+  <text
+     x="3338.7708"
+     y="159.8775"
+     class="sh"
+     text-anchor="middle"
+     id="text109"><tspan
+       x="3338.7708"
+       dy="0"
+       id="tspan108">Approved return /</tspan><tspan
+       x="3338.7708"
+       dy="46"
+       id="tspan109">controlled stock status</tspan></text>
+  <text
+     x="3338.7708"
+     y="276.8775"
+     class="xs"
+     text-anchor="middle"
+     fill="#356F47"
+     id="text110"><tspan
+       x="3338.7708"
+       dy="0"
+       id="tspan110">identity and required status remain usable</tspan></text>
+  <text
+     x="3338.7708"
+     y="312.87747"
+     class="micro"
+     text-anchor="middle"
+     fill="#5D6B78"
+     id="text112"><tspan
+       x="3338.7708"
+       dy="0"
+       id="tspan111">Return / reuse depends on material</tspan><tspan
+       x="3338.7708"
+       dy="29"
+       id="tspan112">and the approved procedure</tspan></text>
+  <path
+     d="m 3306.4141,1029.6512 v 260"
+     stroke="#c9821a"
+     stroke-width="6"
+     fill="none"
+     marker-end="url(#arrowAmber)"
+     id="path112"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#marker131)" />
+  <text
+     x="3366.4143"
+     y="1144.6511"
+     class="xs"
+     text-anchor="start"
+     fill="#A7442D"
+     font-weight="700"
+     id="text114"><tspan
+       x="3366.4143"
+       dy="0"
+       id="tspan113">NO / status incomplete</tspan><tspan
+       x="3366.4143"
+       dy="34"
+       id="tspan114">or unknown</tspan></text>
+  <rect
+     x="3036.4143"
+     y="1304.6511"
+     width="590"
+     height="315"
+     rx="26"
+     fill="#fff1d6"
+     stroke="#c9821a"
+     stroke-width="4"
+     id="rect114" />
+  <circle
+     cx="3126.4143"
+     cy="1387.6511"
+     r="32"
+     fill="#c9821a"
+     stroke="none"
+     stroke-width="0"
+     id="circle114" />
+  <text
+     x="3126.4143"
+     y="1400.6511"
+     class="sh"
+     text-anchor="middle"
+     fill="#FFFFFF"
+     font-weight="700"
+     id="text115"><tspan
+       x="3126.4143"
+       dy="0"
+       id="tspan115">!</tspan></text>
+  <text
+     x="3351.4143"
+     y="1399.6511"
+     class="h"
+     text-anchor="middle"
+     fill="#A7442D"
+     id="text116"><tspan
+       x="3351.4143"
+       dy="0"
+       id="tspan116">HOLD</tspan></text>
+  <text
+     x="3351.4143"
+     y="1484.6511"
+     class="sh"
+     text-anchor="middle"
+     id="text118"><tspan
+       x="3351.4143"
+       dy="0"
+       id="tspan117">Verification / disposition</tspan><tspan
+       x="3351.4143"
+       dy="46"
+       id="tspan118">required</tspan></text>
+  <text
+     x="3331.4143"
+     y="1584.6511"
+     class="xs"
+     text-anchor="middle"
+     fill="#5D6B78"
+     id="text119"><tspan
+       x="3331.4143"
+       dy="0"
+       id="tspan119">Do not return unknown-status material</tspan></text>
+  <g
+     id="status-information"
+     transform="translate(252.05865,102.45308)">
+    <rect
+       x="1940"
+       y="1145"
+       width="760"
+       height="675"
+       rx="24"
+       fill="#f4f7fa"
+       stroke="#8a9aa8"
+       stroke-width="4"
+       id="rect119" />
+    <text
+       x="2320"
+       y="1210"
+       class="sh"
+       text-anchor="middle"
+       id="text121"><tspan
+         x="2320"
+         dy="0"
+         id="tspan120">Examples of information needed</tspan><tspan
+         x="2320"
+         dy="44"
+         id="tspan121">for the next decision</tspan></text>
+    <circle
+       cx="2015"
+       cy="1325"
+       r="8"
+       fill="#6e98b8"
+       stroke="none"
+       stroke-width="0"
+       id="circle121" />
+    <text
+       x="2045"
+       y="1335"
+       class="xs"
+       text-anchor="start"
+       id="text122"><tspan
+         x="2045"
+         dy="0"
+         id="tspan122">material identity</tspan></text>
+    <circle
+       cx="2015"
+       cy="1381"
+       r="8"
+       fill="#6e98b8"
+       stroke="none"
+       stroke-width="0"
+       id="circle122" />
+    <text
+       x="2045"
+       y="1391"
+       class="xs"
+       text-anchor="start"
+       id="text123"><tspan
+         x="2045"
+         dy="0"
+         id="tspan123">remaining quantity</tspan></text>
+    <circle
+       cx="2015"
+       cy="1437"
+       r="8"
+       fill="#6e98b8"
+       stroke="none"
+       stroke-width="0"
+       id="circle123" />
+    <text
+       x="2045"
+       y="1447"
+       class="xs"
+       text-anchor="start"
+       id="text124"><tspan
+         x="2045"
+         dy="0"
+         id="tspan124">lot / date code</tspan></text>
+    <circle
+       cx="2015"
+       cy="1493"
+       r="8"
+       fill="#6e98b8"
+       stroke="none"
+       stroke-width="0"
+       id="circle124" />
+    <text
+       x="2045"
+       y="1503"
+       class="xs"
+       text-anchor="start"
+       id="text126"><tspan
+         x="2045"
+         dy="0"
+         id="tspan125">moisture / exposure status</tspan><tspan
+         x="2045"
+         dy="34"
+         id="tspan126">as applicable</tspan></text>
+    <circle
+       cx="2015"
+       cy="1575"
+       r="8"
+       fill="#6e98b8"
+       stroke="none"
+       stroke-width="0"
+       id="circle126" />
+    <text
+       x="2045"
+       y="1585"
+       class="xs"
+       text-anchor="start"
+       id="text128"><tspan
+         x="2045"
+         dy="0"
+         id="tspan127">expiration / use status</tspan><tspan
+         x="2045"
+         dy="34"
+         id="tspan128">as applicable</tspan></text>
+    <circle
+       cx="2015"
+       cy="1657"
+       r="8"
+       fill="#6e98b8"
+       stroke="none"
+       stroke-width="0"
+       id="circle128" />
+    <text
+       x="2045"
+       y="1667"
+       class="xs"
+       text-anchor="start"
+       id="text130"><tspan
+         x="2045"
+         dy="0"
+         id="tspan129">product / process restrictions</tspan><tspan
+         x="2045"
+         dy="34"
+         id="tspan130">as applicable</tspan></text>
+    <text
+       x="2320"
+       y="1782"
+       class="xs"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text131"><tspan
+         x="2320"
+         dy="0"
+         id="tspan131">Examples vary by material and approved procedure</tspan></text>
+  </g>
 </svg>
