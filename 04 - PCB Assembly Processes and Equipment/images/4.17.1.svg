@@ -1,107 +1,960 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1500" viewBox="0 0 2400 1500" preserveAspectRatio="xMidYMid meet">
-<rect x="0" y="0" width="2400" height="1500" fill="#ffffff"/>
-<defs>
-<marker id="arrow" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
-  <path d="M0,0 L16,8 L0,16 z" fill="#405d78"/>
-</marker>
-<marker id="arrow2" markerWidth="13" markerHeight="13" refX="6.5" refY="6.5" orient="auto-start-reverse" markerUnits="userSpaceOnUse">
-  <path d="M0,0 L13,6.5 L0,13 z" fill="#405d78"/>
-</marker>
-</defs>
-<rect x="80" y="80" width="520" height="560" rx="26" fill="#eef5fb" stroke="#8195a8" stroke-width="4"/>
-<rect x="80" y="80" width="520" height="92" rx="26" fill="#e4edf4"/>
-<rect x="80" y="146" width="520" height="26" fill="#e4edf4"/>
-<text x="340.0" y="139" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#24384d">Axial leaded</text>
-<rect x="640" y="80" width="520" height="560" rx="26" fill="#eef8f1" stroke="#8195a8" stroke-width="4"/>
-<rect x="640" y="80" width="520" height="92" rx="26" fill="#e4edf4"/>
-<rect x="640" y="146" width="520" height="26" fill="#e4edf4"/>
-<text x="900.0" y="139" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#24384d">Radial leaded</text>
-<rect x="1200" y="80" width="520" height="560" rx="26" fill="#f8f5ec" stroke="#8195a8" stroke-width="4"/>
-<rect x="1200" y="80" width="520" height="92" rx="26" fill="#e4edf4"/>
-<rect x="1200" y="146" width="520" height="26" fill="#e4edf4"/>
-<text x="1460.0" y="139" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#24384d">Multi-pin connector</text>
-<rect x="1760" y="80" width="520" height="560" rx="26" fill="#f4f1f9" stroke="#8195a8" stroke-width="4"/>
-<rect x="1760" y="80" width="520" height="92" rx="26" fill="#e4edf4"/>
-<rect x="1760" y="146" width="520" height="26" fill="#e4edf4"/>
-<text x="2020.0" y="139" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#24384d">Transformer / odd-form</text>
-<line x1="165" y1="315" x2="252" y2="315" stroke="#7a8792" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="430" y1="315" x2="515" y2="315" stroke="#7a8792" stroke-width="10" fill="none" stroke-linecap="round"/>
-<rect x="250" y="253" width="185" height="124" rx="58" fill="#ddb36b" stroke="#8f6c32" stroke-width="5"/>
-<rect x="295" y="254" width="18" height="122" fill="#6b2e1f" opacity="0.9"/>
-<rect x="325" y="254" width="18" height="122" fill="#151515" opacity="0.9"/>
-<rect x="358" y="254" width="18" height="122" fill="#9a3b20" opacity="0.9"/>
-<text x="340" y="500.0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#4c6275">Leads exit</text>
-<text x="340" y="537.5" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#4c6275">opposite ends</text>
-<rect x="820" y="205" width="160" height="220" rx="52" fill="#5d7fa6" stroke="#394f69" stroke-width="5"/>
-<ellipse cx="900" cy="205" rx="80" ry="23" fill="#7f9dbd" stroke="#394f69" stroke-width="5"/>
-<line x1="865" y1="425" x2="865" y2="500" stroke="#7a8792" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="935" y1="425" x2="935" y2="500" stroke="#7a8792" stroke-width="10" fill="none" stroke-linecap="round"/>
-<text x="900" y="545.0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#4c6275">Leads exit</text>
-<text x="900" y="582.5" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#4c6275">from the same side</text>
-<rect x="1305" y="255" width="310" height="150" rx="18" fill="#4d5864" stroke="#2f3a43" stroke-width="5"/>
-<line x1="1335" y1="405" x2="1335" y2="500" stroke="#b58a32" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="1378" y1="405" x2="1378" y2="500" stroke="#b58a32" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="1421" y1="405" x2="1421" y2="500" stroke="#b58a32" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="1464" y1="405" x2="1464" y2="500" stroke="#b58a32" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="1507" y1="405" x2="1507" y2="500" stroke="#b58a32" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="1550" y1="405" x2="1550" y2="500" stroke="#b58a32" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="1593" y1="405" x2="1593" y2="500" stroke="#b58a32" stroke-width="10" fill="none" stroke-linecap="round"/>
-
-
-
-
-
-
-<text x="1460" y="545.0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#4c6275">Rigid housing with</text>
-<text x="1460" y="582.5" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#4c6275">organized pin field</text>
-<rect x="1875" y="220" width="290" height="220" rx="22" fill="#3f474f" stroke="#283039" stroke-width="5"/>
-<rect x="1925" y="255" width="190" height="145" rx="16" fill="#dfbb5f" stroke="#9b7b2c" stroke-width="4"/>
-<line x1="1950" y1="275" x2="2090" y2="275" stroke="#a57925" stroke-width="5" fill="none" stroke-linecap="round"/>
-<line x1="1950" y1="295" x2="2090" y2="295" stroke="#a57925" stroke-width="5" fill="none" stroke-linecap="round"/>
-<line x1="1950" y1="315" x2="2090" y2="315" stroke="#a57925" stroke-width="5" fill="none" stroke-linecap="round"/>
-<line x1="1950" y1="335" x2="2090" y2="335" stroke="#a57925" stroke-width="5" fill="none" stroke-linecap="round"/>
-<line x1="1950" y1="355" x2="2090" y2="355" stroke="#a57925" stroke-width="5" fill="none" stroke-linecap="round"/>
-<line x1="1950" y1="375" x2="2090" y2="375" stroke="#a57925" stroke-width="5" fill="none" stroke-linecap="round"/>
-<line x1="1915" y1="440" x2="1915" y2="510" stroke="#7a8792" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="1975" y1="440" x2="1975" y2="510" stroke="#7a8792" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="2075" y1="440" x2="2075" y2="510" stroke="#7a8792" stroke-width="10" fill="none" stroke-linecap="round"/>
-<line x1="2135" y1="440" x2="2135" y2="510" stroke="#7a8792" stroke-width="10" fill="none" stroke-linecap="round"/>
-<text x="2020" y="545.0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#4c6275">Larger body with</text>
-<text x="2020" y="582.5" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#4c6275">several leads / tabs</text>
-<rect x="80" y="700" width="2240" height="650" rx="28" fill="#f8fafc" stroke="#8ca0b2" stroke-width="4"/>
-<rect x="80" y="700" width="2240" height="92" rx="28" fill="#e8f0f6"/>
-<rect x="80" y="765" width="2240" height="27" fill="#e8f0f6"/>
-<text x="160" y="760" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="start" fill="#24384d">Shared through-hole relationship</text>
-<text x="150" y="900.0" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="start" fill="#24384d">Different package forms,</text>
-<text x="150" y="951.2" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="start" fill="#24384d">same physical insertion concept:</text>
-<text x="150" y="1015.0" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="400" text-anchor="start" fill="#4b6276">a conductive lead or pin</text>
-<text x="150" y="1066.3" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="400" text-anchor="start" fill="#4b6276">enters a plated PCB hole</text>
-<text x="150" y="1117.6" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="400" text-anchor="start" fill="#4b6276">before soldering.</text>
-<line x1="560" y1="1090" x2="835" y2="1090" stroke="#405d78" stroke-width="8" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<rect x="930" y="1000" width="1220" height="245" rx="8" fill="#72a77f" stroke="#3d6f4c" stroke-width="5"/>
-<rect x="930" y="1070" width="1220" height="105" fill="#91b89a" opacity="0.7"/>
-<rect x="1490" y="1000" width="180" height="245" fill="#ffffff"/>
-<rect x="1490" y="1000" width="34" height="245" fill="#d3a537" stroke="#9f7620" stroke-width="3"/>
-<rect x="1636" y="1000" width="34" height="245" fill="#d3a537" stroke="#9f7620" stroke-width="3"/>
-<rect x="1395" y="976" width="370" height="48" rx="5" fill="#d7a93b" stroke="#9f7620" stroke-width="3"/>
-<rect x="1395" y="1221" width="370" height="48" rx="5" fill="#d7a93b" stroke="#9f7620" stroke-width="3"/>
-<rect x="1554" y="835" width="52" height="520" rx="22" fill="#b9c4cc" stroke="#657580" stroke-width="5"/>
-<rect x="1450" y="820" width="270" height="115" rx="45" fill="#ddb36b" stroke="#8f6c32" stroke-width="5"/>
-<rect x="1870" y="835" width="305" height="62" rx="31" fill="#fff5dc" stroke="#d0a03a" stroke-width="3"/>
-<text x="2022" y="877" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#72571b">Before soldering</text>
-<line x1="1614" y1="1120" x2="1636" y2="1120" stroke="#405d78" stroke-width="4" marker-start="url(#arrow2)" marker-end="url(#arrow2)"/>
-<text x="1080" y="870" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="start" fill="#24384d">Component lead / pin</text>
-<line x1="1405" y1="882" x2="1558" y2="882" stroke="#6e8496" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="1870" y="965" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#24384d">Plated through-hole (PTH)</text>
-<line x1="1860" y1="975" x2="1622" y2="1040" stroke="#6e8496" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="1900" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#24384d">Plated barrel</text>
-<line x1="1890" y1="1284" x2="1654" y2="1208" stroke="#6e8496" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="1100" y="1310" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#24384d">PCB</text>
-<line x1="1170" y1="1298" x2="1315" y2="1212" stroke="#6e8496" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="1040" y="965" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="400" text-anchor="start" fill="#566d80">Copper pad / land</text>
-<line x1="1295" y1="975" x2="1395" y2="988" stroke="#6e8496" stroke-width="3" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-
-<text x="1840" y="1112" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="start" fill="#24384d">Process clearance</text>
-<line x1="1825" y1="1122" x2="1638" y2="1120" stroke="#6e8496" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2400"
+   height="1500"
+   viewBox="0 0 2400 1500"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg60"
+   sodipodi:docname="4.17.1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.17.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview60"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.36882101"
+     inkscape:cx="1255.3515"
+     inkscape:cy="627.67574"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg60" />
+  <rect
+     x="0"
+     y="0"
+     width="2400"
+     height="1500"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path60" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,8 L0,16 z"
+         fill="#405d78"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrow2"
+       markerWidth="13"
+       markerHeight="13"
+       refX="6.5"
+       refY="6.5"
+       orient="auto-start-reverse"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L13,6.5 L0,13 z"
+         fill="#405d78"
+         id="path2" />
+    </marker>
+  </defs>
+  <rect
+     x="80"
+     y="80"
+     width="520"
+     height="560"
+     rx="26"
+     fill="#eef5fb"
+     stroke="#8195a8"
+     stroke-width="4"
+     id="rect2" />
+  <rect
+     x="80"
+     y="80"
+     width="520"
+     height="92"
+     rx="26"
+     fill="#e4edf4"
+     id="rect3" />
+  <rect
+     x="80"
+     y="146"
+     width="520"
+     height="26"
+     fill="#e4edf4"
+     id="rect4" />
+  <text
+     x="340.0"
+     y="139"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text4">Axial leaded</text>
+  <rect
+     x="640"
+     y="80"
+     width="520"
+     height="560"
+     rx="26"
+     fill="#eef8f1"
+     stroke="#8195a8"
+     stroke-width="4"
+     id="rect5" />
+  <rect
+     x="640"
+     y="80"
+     width="520"
+     height="92"
+     rx="26"
+     fill="#e4edf4"
+     id="rect6" />
+  <rect
+     x="640"
+     y="146"
+     width="520"
+     height="26"
+     fill="#e4edf4"
+     id="rect7" />
+  <text
+     x="900.0"
+     y="139"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text7">Radial leaded</text>
+  <rect
+     x="1200"
+     y="80"
+     width="520"
+     height="560"
+     rx="26"
+     fill="#f8f5ec"
+     stroke="#8195a8"
+     stroke-width="4"
+     id="rect8" />
+  <rect
+     x="1200"
+     y="80"
+     width="520"
+     height="92"
+     rx="26"
+     fill="#e4edf4"
+     id="rect9" />
+  <rect
+     x="1200"
+     y="146"
+     width="520"
+     height="26"
+     fill="#e4edf4"
+     id="rect10" />
+  <text
+     x="1460.0"
+     y="139"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text10">Multi-pin connector</text>
+  <rect
+     x="1760"
+     y="80"
+     width="520"
+     height="560"
+     rx="26"
+     fill="#f4f1f9"
+     stroke="#8195a8"
+     stroke-width="4"
+     id="rect11" />
+  <rect
+     x="1760"
+     y="80"
+     width="520"
+     height="92"
+     rx="26"
+     fill="#e4edf4"
+     id="rect12" />
+  <rect
+     x="1760"
+     y="146"
+     width="520"
+     height="26"
+     fill="#e4edf4"
+     id="rect13" />
+  <text
+     x="2020.0"
+     y="139"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text13">Transformer / odd-form</text>
+  <line
+     x1="165"
+     y1="315"
+     x2="252"
+     y2="315"
+     stroke="#7a8792"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line13" />
+  <line
+     x1="430"
+     y1="315"
+     x2="515"
+     y2="315"
+     stroke="#7a8792"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line14" />
+  <rect
+     x="250"
+     y="253"
+     width="185"
+     height="124"
+     rx="58"
+     fill="#ddb36b"
+     stroke="#8f6c32"
+     stroke-width="5"
+     id="rect14" />
+  <rect
+     x="295"
+     y="254"
+     width="18"
+     height="122"
+     fill="#6b2e1f"
+     opacity="0.9"
+     id="rect15" />
+  <rect
+     x="325"
+     y="254"
+     width="18"
+     height="122"
+     fill="#151515"
+     opacity="0.9"
+     id="rect16" />
+  <rect
+     x="358"
+     y="254"
+     width="18"
+     height="122"
+     fill="#9a3b20"
+     opacity="0.9"
+     id="rect17" />
+  <text
+     x="340"
+     y="500.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#4c6275"
+     id="text17">Leads exit</text>
+  <text
+     x="340"
+     y="537.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#4c6275"
+     id="text18">opposite ends</text>
+  <rect
+     x="820"
+     y="205"
+     width="160"
+     height="220"
+     rx="52"
+     fill="#5d7fa6"
+     stroke="#394f69"
+     stroke-width="5"
+     id="rect18" />
+  <ellipse
+     cx="900"
+     cy="205"
+     rx="80"
+     ry="23"
+     fill="#7f9dbd"
+     stroke="#394f69"
+     stroke-width="5"
+     id="ellipse18" />
+  <line
+     x1="865"
+     y1="425"
+     x2="865"
+     y2="500"
+     stroke="#7a8792"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line18" />
+  <line
+     x1="935"
+     y1="425"
+     x2="935"
+     y2="500"
+     stroke="#7a8792"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line19" />
+  <text
+     x="900"
+     y="545.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#4c6275"
+     id="text19">Leads exit</text>
+  <text
+     x="900"
+     y="582.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#4c6275"
+     id="text20">from the same side</text>
+  <rect
+     x="1305"
+     y="255"
+     width="310"
+     height="150"
+     rx="18"
+     fill="#4d5864"
+     stroke="#2f3a43"
+     stroke-width="5"
+     id="rect20" />
+  <line
+     x1="1335"
+     y1="405"
+     x2="1335"
+     y2="500"
+     stroke="#b58a32"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line20" />
+  <line
+     x1="1378"
+     y1="405"
+     x2="1378"
+     y2="500"
+     stroke="#b58a32"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line21" />
+  <line
+     x1="1421"
+     y1="405"
+     x2="1421"
+     y2="500"
+     stroke="#b58a32"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line22" />
+  <line
+     x1="1464"
+     y1="405"
+     x2="1464"
+     y2="500"
+     stroke="#b58a32"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line23" />
+  <line
+     x1="1507"
+     y1="405"
+     x2="1507"
+     y2="500"
+     stroke="#b58a32"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line24" />
+  <line
+     x1="1550"
+     y1="405"
+     x2="1550"
+     y2="500"
+     stroke="#b58a32"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line25" />
+  <line
+     x1="1593"
+     y1="405"
+     x2="1593"
+     y2="500"
+     stroke="#b58a32"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line26" />
+  <text
+     x="1460"
+     y="545.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#4c6275"
+     id="text26">Rigid housing with</text>
+  <text
+     x="1460"
+     y="582.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#4c6275"
+     id="text27">organized pin field</text>
+  <rect
+     x="1875"
+     y="220"
+     width="290"
+     height="220"
+     rx="22"
+     fill="#3f474f"
+     stroke="#283039"
+     stroke-width="5"
+     id="rect27" />
+  <rect
+     x="1925"
+     y="255"
+     width="190"
+     height="145"
+     rx="16"
+     fill="#dfbb5f"
+     stroke="#9b7b2c"
+     stroke-width="4"
+     id="rect28" />
+  <line
+     x1="1950"
+     y1="275"
+     x2="2090"
+     y2="275"
+     stroke="#a57925"
+     stroke-width="5"
+     fill="none"
+     stroke-linecap="round"
+     id="line28" />
+  <line
+     x1="1950"
+     y1="295"
+     x2="2090"
+     y2="295"
+     stroke="#a57925"
+     stroke-width="5"
+     fill="none"
+     stroke-linecap="round"
+     id="line29" />
+  <line
+     x1="1950"
+     y1="315"
+     x2="2090"
+     y2="315"
+     stroke="#a57925"
+     stroke-width="5"
+     fill="none"
+     stroke-linecap="round"
+     id="line30" />
+  <line
+     x1="1950"
+     y1="335"
+     x2="2090"
+     y2="335"
+     stroke="#a57925"
+     stroke-width="5"
+     fill="none"
+     stroke-linecap="round"
+     id="line31" />
+  <line
+     x1="1950"
+     y1="355"
+     x2="2090"
+     y2="355"
+     stroke="#a57925"
+     stroke-width="5"
+     fill="none"
+     stroke-linecap="round"
+     id="line32" />
+  <line
+     x1="1950"
+     y1="375"
+     x2="2090"
+     y2="375"
+     stroke="#a57925"
+     stroke-width="5"
+     fill="none"
+     stroke-linecap="round"
+     id="line33" />
+  <line
+     x1="1915"
+     y1="440"
+     x2="1915"
+     y2="510"
+     stroke="#7a8792"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line34" />
+  <line
+     x1="1975"
+     y1="440"
+     x2="1975"
+     y2="510"
+     stroke="#7a8792"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line35" />
+  <line
+     x1="2075"
+     y1="440"
+     x2="2075"
+     y2="510"
+     stroke="#7a8792"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line36" />
+  <line
+     x1="2135"
+     y1="440"
+     x2="2135"
+     y2="510"
+     stroke="#7a8792"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line37" />
+  <text
+     x="2020"
+     y="545.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#4c6275"
+     id="text37">Larger body with</text>
+  <text
+     x="2020"
+     y="582.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#4c6275"
+     id="text38">several leads / tabs</text>
+  <rect
+     x="80.097343"
+     y="700.09735"
+     width="2239.8054"
+     height="714.8775"
+     rx="27.997566"
+     fill="#f8fafc"
+     stroke="#8ca0b2"
+     stroke-width="4.19469"
+     id="rect38" />
+  <rect
+     x="80"
+     y="700"
+     width="2240"
+     height="92"
+     rx="28"
+     fill="#e8f0f6"
+     id="rect39" />
+  <rect
+     x="80"
+     y="765"
+     width="2240"
+     height="27"
+     fill="#e8f0f6"
+     id="rect40" />
+  <text
+     x="160"
+     y="760"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text40">Shared through-hole relationship</text>
+  <text
+     x="134.70201"
+     y="950.99329"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text41">Different package forms,</text>
+  <text
+     x="134.70201"
+     y="1002.1933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text42">same physical insertion concept:</text>
+  <text
+     x="134.70201"
+     y="1065.9933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="400"
+     text-anchor="start"
+     fill="#4b6276"
+     id="text43">a conductive lead or pin</text>
+  <text
+     x="134.70201"
+     y="1117.2933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="400"
+     text-anchor="start"
+     fill="#4b6276"
+     id="text44">enters a plated PCB hole</text>
+  <text
+     x="134.70201"
+     y="1168.5933"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="400"
+     text-anchor="start"
+     fill="#4b6276"
+     id="text45">before soldering.</text>
+  <line
+     x1="603.3443"
+     y1="1092.5497"
+     x2="878.3443"
+     y2="1092.5497"
+     stroke="#405d78"
+     stroke-width="8"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line45"
+     style="marker-end:url(#RoundedArrow);stroke-width:3;stroke-dasharray:none" />
+  <rect
+     x="930"
+     y="1000"
+     width="1220"
+     height="245"
+     rx="8"
+     fill="#72a77f"
+     stroke="#3d6f4c"
+     stroke-width="5"
+     id="rect45" />
+  <rect
+     x="930"
+     y="1070"
+     width="1220"
+     height="105"
+     fill="#91b89a"
+     opacity="0.7"
+     id="rect46" />
+  <rect
+     x="1490"
+     y="1000"
+     width="180"
+     height="245"
+     fill="#ffffff"
+     id="rect47" />
+  <rect
+     x="1490"
+     y="1000"
+     width="34"
+     height="245"
+     fill="#d3a537"
+     stroke="#9f7620"
+     stroke-width="3"
+     id="rect48" />
+  <rect
+     x="1636"
+     y="1000"
+     width="34"
+     height="245"
+     fill="#d3a537"
+     stroke="#9f7620"
+     stroke-width="3"
+     id="rect49" />
+  <rect
+     x="1348.6537"
+     y="972.99792"
+     width="177.13036"
+     height="48.904816"
+     rx="2.3936536"
+     fill="#d7a93b"
+     stroke="#9f7620"
+     stroke-width="2.09518"
+     id="rect50" />
+  <rect
+     x="1636.2126"
+     y="972.87213"
+     width="177.13036"
+     height="48.904816"
+     rx="2.3936536"
+     fill="#d7a93b"
+     stroke="#9f7620"
+     stroke-width="2.09518"
+     id="rect50-0" />
+  <rect
+     x="1394.4045"
+     y="1220.4045"
+     width="131.27573"
+     height="49.191017"
+     rx="1.7739962"
+     fill="#d7a93b"
+     stroke="#9f7620"
+     stroke-width="1.80898"
+     id="rect51" />
+  <rect
+     x="1635.0637"
+     y="1219.1532"
+     width="131.27573"
+     height="49.191017"
+     rx="1.7739962"
+     fill="#d7a93b"
+     stroke="#9f7620"
+     stroke-width="1.80898"
+     id="rect51-2"
+     inkscape:transform-center-x="211.89599"
+     inkscape:transform-center-y="1.7512065" />
+  <rect
+     x="1554"
+     y="835"
+     width="52"
+     height="520"
+     rx="22"
+     fill="#b9c4cc"
+     stroke="#657580"
+     stroke-width="5"
+     id="rect52" />
+  <rect
+     x="1450"
+     y="820"
+     width="270"
+     height="115"
+     rx="45"
+     fill="#ddb36b"
+     stroke="#8f6c32"
+     stroke-width="5"
+     id="rect53" />
+  <rect
+     x="1870"
+     y="835"
+     width="305"
+     height="62"
+     rx="31"
+     fill="#fff5dc"
+     stroke="#d0a03a"
+     stroke-width="3"
+     id="rect54" />
+  <text
+     x="2022"
+     y="877"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#72571b"
+     id="text54">Before soldering</text>
+  <line
+     x1="1609.4525"
+     y1="1120"
+     x2="1633.7865"
+     y2="1120"
+     stroke="#405d78"
+     stroke-width="4.20739"
+     marker-start="url(#arrow2)"
+     marker-end="url(#arrow2)"
+     id="line54"
+     style="stroke-width:1.99973;stroke-dasharray:none;marker-start:url(#ArrowWide);marker-end:url(#ArrowWide)" />
+  <text
+     x="1057.053"
+     y="880.19867"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text55">Component lead / pin</text>
+  <line
+     x1="1417.201"
+     y1="880.46033"
+     x2="1578.9054"
+     y2="978.70251"
+     stroke="#6e8496"
+     stroke-width="4.73092"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line55"
+     style="stroke-width:3;stroke-dasharray:none" />
+  <text
+     x="1867.1602"
+     y="973.99286"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text56">Plated through-hole (PTH)</text>
+  <line
+     x1="1860"
+     y1="975"
+     x2="1622"
+     y2="1040"
+     stroke="#6e8496"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line56" />
+  <text
+     x="1900"
+     y="1298"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text57">Plated barrel</text>
+  <line
+     x1="1889.7355"
+     y1="1283.8455"
+     x2="1649.028"
+     y2="1192.7181"
+     stroke="#6e8496"
+     stroke-width="4.4235"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line57"
+     style="stroke-width:4;stroke-dasharray:none" />
+  <text
+     x="1098.2488"
+     y="1324.0096"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text58">PCB</text>
+  <line
+     x1="1170"
+     y1="1298"
+     x2="1315"
+     y2="1212"
+     stroke="#6e8496"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line58" />
+  <text
+     x="994.10608"
+     y="962.45032"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="400"
+     text-anchor="start"
+     fill="#566d80"
+     id="text59">Copper pad / land</text>
+  <line
+     x1="1249.1061"
+     y1="972.45032"
+     x2="1349.1061"
+     y2="985.45032"
+     stroke="#6e8496"
+     stroke-width="3"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line59" />
+  <text
+     x="1836.2135"
+     y="1129.5123"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text60">Process clearance</text>
+  <line
+     x1="1825"
+     y1="1122"
+     x2="1638"
+     y2="1120"
+     stroke="#6e8496"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line60" />
 </svg>

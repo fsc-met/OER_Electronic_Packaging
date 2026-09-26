@@ -1,77 +1,903 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1500" viewBox="0 0 2400 1500" preserveAspectRatio="xMidYMid meet">
-<rect x="0" y="0" width="2400" height="1500" fill="#ffffff"/>
-<defs>
-<marker id="arrow" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse">
-  <path d="M0,0 L16,8 L0,16 z" fill="#405d78"/>
-</marker>
-<marker id="forceArrow" markerWidth="15" markerHeight="15" refX="12" refY="7.5" orient="auto" markerUnits="userSpaceOnUse">
-  <path d="M0,0 L15,7.5 L0,15 z" fill="#8b5a43"/>
-</marker>
-</defs>
-<rect x="80" y="80" width="1080" height="1320" rx="28" fill="#f8fbfd" stroke="#6f8fa8" stroke-width="4"/>
-<rect x="1240" y="80" width="1080" height="1320" rx="28" fill="#f8fbf9" stroke="#71927a" stroke-width="4"/>
-<text x="620" y="150" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" text-anchor="middle" fill="#24384d">Conventional THT — soldered later</text>
-<text x="1780" y="150" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" text-anchor="middle" fill="#24384d">Compliant press-fit — solderless</text>
-<rect x="295.0" y="650" width="650" height="250" rx="8" fill="#72a77f" stroke="#3e6c4a" stroke-width="5"/>
-<rect x="295.0" y="730" width="650" height="90" fill="#91b89a" opacity="0.72"/>
-<rect x="530.0" y="650" width="180" height="250" fill="#ffffff"/>
-<rect x="530.0" y="650" width="32" height="250" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="678.0" y="650" width="32" height="250" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="440.0" y="624" width="360" height="52" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="440.0" y="874" width="360" height="52" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="592.0" y="390" width="56" height="700" rx="24" fill="#aeb9c2" stroke="#687883" stroke-width="5"/>
-<rect x="475" y="310" width="290" height="120" rx="55" fill="#ddb36b" stroke="#8f6c32" stroke-width="5"/>
-<line x1="562.0" y1="760" x2="584.0" y2="760" stroke="#405d78" stroke-width="4" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
-<line x1="656.0" y1="760" x2="678.0" y2="760" stroke="#405d78" stroke-width="4" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
-<text x="165" y="330" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="start" fill="#24384d">Conventional THT lead</text>
-<line x1="455" y1="340" x2="565" y2="390" stroke="#6d8394" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="135" y="565.0" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#40566a">Process clearance</text>
-<text x="135" y="602.82" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#40566a">before soldering</text>
-<line x1="405" y1="580" x2="515" y2="760" stroke="#6d8394" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="145" y="985" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" text-anchor="start" fill="#40566a">Plated barrel</text>
-<line x1="355" y1="975" x2="520" y2="860" stroke="#6d8394" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="865" y="980" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" text-anchor="start" fill="#40566a">PCB</text>
-<line x1="860" y1="965" x2="820" y2="835" stroke="#6d8394" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<line x1="620" y1="1110" x2="620" y2="1182" stroke="#405d78" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="620" y="1150" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#344d61">Soldering follows</text>
-<rect x="225" y="1180" width="790" height="175" rx="18" fill="#ffffff" stroke="#9aabb8" stroke-width="3"/>
-<text x="255" y="1220" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="start" fill="#344d61">After soldering</text>
-<text x="255" y="1265" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="400" text-anchor="start" fill="#566e80">Solder forms the final joint</text>
-<rect x="770" y="1255" width="210" height="55" rx="4" fill="#72a77f" stroke="#3e6c4a" stroke-width="3"/>
-<rect x="810" y="1236" width="130" height="22" fill="#d7aa40" stroke="#987221" stroke-width="2"/>
-<rect x="861" y="1192" width="32" height="125" rx="11" fill="#aeb9c2" stroke="#687883" stroke-width="3"/>
-<rect x="842" y="1228" width="70" height="90" rx="12" fill="#b9bec2" stroke="#7a858c" stroke-width="2" opacity="0.95"/>
-<rect x="861" y="1202" width="32" height="116" rx="10" fill="#aeb9c2" stroke="#687883" stroke-width="3"/>
-<rect x="1455.0" y="650" width="650" height="250" rx="8" fill="#72a77f" stroke="#3e6c4a" stroke-width="5"/>
-<rect x="1455.0" y="730" width="650" height="90" fill="#91b89a" opacity="0.72"/>
-<rect x="1690.0" y="650" width="180" height="250" fill="#ffffff"/>
-<rect x="1690.0" y="650" width="32" height="250" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1838.0" y="650" width="32" height="250" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1600.0" y="624" width="360" height="52" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1600.0" y="874" width="360" height="52" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1752" y="360" width="56" height="290" rx="20" fill="#aeb9c2" stroke="#687883" stroke-width="5"/>
-<path d="M1762,650 C1745,700 1722,735 1720,775 C1722,820 1745,850 1762,900" stroke="#687883" stroke-width="18" fill="none" stroke-linecap="round"/>
-<path d="M1798,650 C1815,700 1838,735 1840,775 C1838,820 1815,850 1798,900" stroke="#687883" stroke-width="18" fill="none" stroke-linecap="round"/>
-<line x1="1780" y1="650" x2="1780" y2="900" stroke="#ffffff" stroke-width="10" fill="none" stroke-linecap="round"/>
-<rect x="1756" y="900" width="48" height="210" rx="18" fill="#aeb9c2" stroke="#687883" stroke-width="5"/>
-<rect x="1722.0" y="725" width="18" height="70" rx="6" fill="#8b5a43"/>
-<rect x="1820.0" y="725" width="18" height="70" rx="6" fill="#8b5a43"/>
-<line x1="1755" y1="760" x2="1742.0" y2="760" stroke="#8b5a43" stroke-width="5" fill="none" stroke-linecap="round" marker-end="url(#forceArrow)"/>
-<line x1="1805" y1="760" x2="1818.0" y2="760" stroke="#8b5a43" stroke-width="5" fill="none" stroke-linecap="round" marker-end="url(#forceArrow)"/>
-<text x="1305" y="330" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="start" fill="#24384d">Compliant press-fit pin</text>
-<line x1="1620" y1="340" x2="1742" y2="400" stroke="#6d8394" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="1295" y="540.0" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#40566a">Compliant section</text>
-<text x="1295" y="577.82" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#40566a">deforms during insertion</text>
-<line x1="1575" y1="565" x2="1718" y2="710" stroke="#6d8394" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="1945" y="540.0" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#40566a">Controlled contact</text>
-<text x="1945" y="577.82" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#40566a">with plated barrel</text>
-<line x1="1940" y1="575" x2="1850" y2="760" stroke="#6d8394" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="2020" y="980" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" text-anchor="start" fill="#40566a">PCB</text>
-<line x1="2010" y1="965" x2="1970" y2="835" stroke="#6d8394" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="1780" y="1125" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#345a42">No solder joint required</text>
-<line x1="1570" y1="1145" x2="1990" y2="1145" stroke="#7ba087" stroke-width="4" fill="none" stroke-linecap="round"/>
-<rect x="1350" y="1180" width="860" height="175" rx="18" fill="#ffffff" stroke="#8ea79a" stroke-width="3"/>
-<text x="1390" y="1230" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="start" fill="#345a42">Final interconnection</text>
-<text x="1390" y="1275" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="400" text-anchor="start" fill="#566e80">Mechanical contact force against the plated barrel</text>
-<text x="1390" y="1320" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="400" text-anchor="start" fill="#566e80">Controlled pin / hole / plating system</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2400"
+   height="1500"
+   viewBox="0 0 2400 1500"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg45"
+   sodipodi:docname="4.17.3.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.17.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.30243592"
+     inkscape:cx="958.8808"
+     inkscape:cy="791.90328"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg45" />
+  <rect
+     x="0"
+     y="0"
+     width="2400"
+     height="1500"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker48"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path48" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path47" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,8 L0,16 z"
+         fill="#405d78"
+         id="path1" />
+    </marker>
+    <marker
+       id="forceArrow"
+       markerWidth="15"
+       markerHeight="15"
+       refX="12"
+       refY="7.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L15,7.5 L0,15 z"
+         fill="#8b5a43"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path47-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker48-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path48-3" />
+    </marker>
+  </defs>
+  <rect
+     x="80"
+     y="80"
+     width="1080"
+     height="1320"
+     rx="28"
+     fill="#f8fbfd"
+     stroke="#6f8fa8"
+     stroke-width="4"
+     id="rect2" />
+  <rect
+     x="1240"
+     y="80"
+     width="1080"
+     height="1320"
+     rx="28"
+     fill="#f8fbf9"
+     stroke="#71927a"
+     stroke-width="4"
+     id="rect3" />
+  <text
+     x="620"
+     y="150"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="44"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text3">Conventional THT — soldered later</text>
+  <text
+     x="1780"
+     y="150"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="44"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text4">Compliant press-fit — solderless</text>
+  <rect
+     x="295.0"
+     y="650"
+     width="650"
+     height="250"
+     rx="8"
+     fill="#72a77f"
+     stroke="#3e6c4a"
+     stroke-width="5"
+     id="rect4" />
+  <rect
+     x="295.0"
+     y="730"
+     width="650"
+     height="90"
+     fill="#91b89a"
+     opacity="0.72"
+     id="rect5" />
+  <rect
+     x="530.0"
+     y="650"
+     width="180"
+     height="250"
+     fill="#ffffff"
+     id="rect6" />
+  <rect
+     x="530.0"
+     y="650"
+     width="32"
+     height="250"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect7" />
+  <rect
+     x="678.0"
+     y="650"
+     width="32"
+     height="250"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect8" />
+  <rect
+     x="439.39542"
+     y="623.39539"
+     width="125.36528"
+     height="53.209187"
+     rx="1.7411845"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.79081"
+     id="rect9" />
+  <rect
+     x="677.08734"
+     y="625.67358"
+     width="125.36528"
+     height="53.209187"
+     rx="1.7411845"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.79081"
+     id="rect9-2" />
+  <rect
+     x="439.39096"
+     y="873.39093"
+     width="124.09936"
+     height="53.218102"
+     rx="1.7236023"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.7819"
+     id="rect10" />
+  <rect
+     x="678.67883"
+     y="868.37115"
+     width="124.09936"
+     height="53.218102"
+     rx="1.7236023"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.7819"
+     id="rect10-7" />
+  <rect
+     x="592.0"
+     y="390"
+     width="56"
+     height="700"
+     rx="24"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="5"
+     id="rect11" />
+  <rect
+     x="475"
+     y="310"
+     width="290"
+     height="120"
+     rx="55"
+     fill="#ddb36b"
+     stroke="#8f6c32"
+     stroke-width="5"
+     id="rect12" />
+  <line
+     x1="562.35431"
+     y1="760"
+     x2="588.42633"
+     y2="760"
+     stroke="#405d78"
+     stroke-width="4"
+     marker-start="url(#arrow)"
+     marker-end="url(#arrow)"
+     id="line12"
+     style="stroke-width:2.17724;stroke-dasharray:none;marker-start:url(#ArrowWide);marker-end:url(#marker48)" />
+  <line
+     x1="649.76086"
+     y1="760.60864"
+     x2="675.83289"
+     y2="760.60864"
+     stroke="#405d78"
+     stroke-width="4"
+     marker-start="url(#arrow)"
+     marker-end="url(#arrow)"
+     id="line12-0"
+     style="stroke-width:2.17724;stroke-dasharray:none;marker-start:url(#ArrowWide-2);marker-end:url(#marker48-8)" />
+  <text
+     x="134.35097"
+     y="288.53366"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text13">Conventional THT lead</text>
+  <line
+     x1="426.15384"
+     y1="307.54807"
+     x2="536.15387"
+     y2="357.54807"
+     stroke="#6d8394"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line14" />
+  <text
+     x="177.06946"
+     y="550.97687"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text14">Process clearance</text>
+  <text
+     x="177.06946"
+     y="588.79688"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text15">before soldering</text>
+  <line
+     x1="467.46677"
+     y1="576.17548"
+     x2="577.46674"
+     y2="756.17548"
+     stroke="#6d8394"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line15" />
+  <text
+     x="193.44362"
+     y="990.0993"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text16">Plated barrel</text>
+  <line
+     x1="383.0463"
+     y1="964.80133"
+     x2="548.04633"
+     y2="849.80133"
+     stroke="#6d8394"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line16" />
+  <text
+     x="865"
+     y="980"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text17">PCB</text>
+  <line
+     x1="860"
+     y1="965"
+     x2="820"
+     y2="835"
+     stroke="#6d8394"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line17" />
+  <line
+     x1="619.10211"
+     y1="1168.157"
+     x2="620.67023"
+     y2="1115.0665"
+     stroke="#405d78"
+     stroke-width="6"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line18"
+     style="stroke-width:2.82845;stroke-dasharray:none;marker-end:url(#Triangle)" />
+  <text
+     x="793.37714"
+     y="1150"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text18">Soldering follows</text>
+  <rect
+     x="225.09991"
+     y="1180.0999"
+     width="789.80017"
+     height="199.13913"
+     rx="17.995447"
+     fill="#ffffff"
+     stroke="#9aabb8"
+     stroke-width="3.19982"
+     id="rect18" />
+  <text
+     x="255"
+     y="1220"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text19">After soldering</text>
+  <text
+     x="255"
+     y="1265"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="400"
+     text-anchor="start"
+     fill="#566e80"
+     id="text20">Solder forms the final joint</text>
+  <rect
+     x="766.77087"
+     y="1254.0245"
+     width="87.101257"
+     height="56.049576"
+     rx="1.6590716"
+     fill="#72a77f"
+     stroke="#3e6c4a"
+     stroke-width="1.95042"
+     id="rect20" />
+  <rect
+     x="900.45837"
+     y="1253.7781"
+     width="87.101257"
+     height="56.049576"
+     rx="1.6590716"
+     fill="#72a77f"
+     stroke="#3e6c4a"
+     stroke-width="1.95042"
+     id="rect20-2" />
+  <rect
+     x="814.52228"
+     y="1233.7615"
+     width="39.825638"
+     height="22.871311"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.12869"
+     id="rect21" />
+  <rect
+     x="844.40369"
+     y="1257.0825"
+     width="9.8933201"
+     height="53.78635"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="0.862691"
+     id="rect21-7" />
+  <rect
+     x="855.57605"
+     y="1267.5345"
+     width="8.6922646"
+     height="65.472702"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="0.892165"
+     id="rect21-7-9"
+     style="fill:#c8cdd1;fill-opacity:1;stroke:#c8cdd1;stroke-opacity:1" />
+  <rect
+     x="856.44611"
+     y="1267.446"
+     width="8.6922646"
+     height="65.472702"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="0.892165"
+     id="rect21-7-9-2"
+     style="fill:#c8cdd1;fill-opacity:1;stroke:#c8cdd1;stroke-opacity:1" />
+  <rect
+     x="900.61646"
+     y="1255.7968"
+     width="9.8933201"
+     height="53.78635"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="0.862691"
+     id="rect21-7-3" />
+  <rect
+     x="900.25781"
+     y="1232.4093"
+     width="39.825638"
+     height="22.871311"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.12869"
+     id="rect21-9" />
+  <rect
+     x="814.54871"
+     y="1309.9899"
+     width="39.825638"
+     height="22.871311"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.12869"
+     id="rect21-8" />
+  <rect
+     x="900.29797"
+     y="1308.6515"
+     width="39.798153"
+     height="24.015406"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.15618"
+     id="rect21-9-6" />
+  <rect
+     x="862.5896"
+     y="1202.604"
+     width="31.525179"
+     height="170.22566"
+     rx="10.83678"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="3.47482"
+     id="rect22" />
+  <rect
+     x="1455.0"
+     y="650"
+     width="650"
+     height="250"
+     rx="8"
+     fill="#72a77f"
+     stroke="#3e6c4a"
+     stroke-width="5"
+     id="rect25" />
+  <rect
+     x="1455.0"
+     y="730"
+     width="650"
+     height="90"
+     fill="#91b89a"
+     opacity="0.72"
+     id="rect26" />
+  <rect
+     x="1690.0"
+     y="650"
+     width="180"
+     height="250"
+     fill="#ffffff"
+     id="rect27" />
+  <rect
+     x="1690.0"
+     y="650"
+     width="32"
+     height="250"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect28" />
+  <rect
+     x="1838.0"
+     y="650"
+     width="32"
+     height="250"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect29" />
+  <rect
+     x="1599.3873"
+     y="623.38733"
+     width="123.08397"
+     height="53.225288"
+     rx="1.7094996"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.77471"
+     id="rect30" />
+  <rect
+     x="1838.0013"
+     y="621.88733"
+     width="123.08397"
+     height="53.225288"
+     rx="1.7094996"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.77471"
+     id="rect30-5" />
+  <rect
+     x="1599.3875"
+     y="873.38733"
+     width="123.08396"
+     height="53.225285"
+     rx="1.7094996"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.77471"
+     id="rect31" />
+  <rect
+     x="1752"
+     y="360"
+     width="56"
+     height="290"
+     rx="20"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="5"
+     id="rect32" />
+  <path
+     d="M1762,650 C1745,700 1722,735 1720,775 C1722,820 1745,850 1762,900"
+     stroke="#687883"
+     stroke-width="18"
+     fill="none"
+     stroke-linecap="round"
+     id="path32" />
+  <path
+     d="M1798,650 C1815,700 1838,735 1840,775 C1838,820 1815,850 1798,900"
+     stroke="#687883"
+     stroke-width="18"
+     fill="none"
+     stroke-linecap="round"
+     id="path33" />
+  <line
+     x1="1780"
+     y1="650"
+     x2="1780"
+     y2="900"
+     stroke="#ffffff"
+     stroke-width="10"
+     fill="none"
+     stroke-linecap="round"
+     id="line33" />
+  <rect
+     x="1756"
+     y="900"
+     width="48"
+     height="210"
+     rx="18"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="5"
+     id="rect33" />
+  <rect
+     x="1722.0"
+     y="725"
+     width="18"
+     height="70"
+     rx="6"
+     fill="#8b5a43"
+     id="rect34" />
+  <rect
+     x="1820.0"
+     y="725"
+     width="18"
+     height="70"
+     rx="6"
+     fill="#8b5a43"
+     id="rect35" />
+  <line
+     x1="1755"
+     y1="760"
+     x2="1742.0"
+     y2="760"
+     stroke="#8b5a43"
+     stroke-width="5"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#forceArrow)"
+     id="line35" />
+  <line
+     x1="1805"
+     y1="760"
+     x2="1818.0"
+     y2="760"
+     stroke="#8b5a43"
+     stroke-width="5"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#forceArrow)"
+     id="line36" />
+  <text
+     x="1309.0023"
+     y="307.98694"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#24384d"
+     id="text36">Compliant press-fit pin</text>
+  <line
+     x1="1620"
+     y1="340"
+     x2="1742"
+     y2="400"
+     stroke="#6d8394"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line37" />
+  <text
+     x="1297.0012"
+     y="509.98218"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text37">Compliant section</text>
+  <text
+     x="1297.0012"
+     y="547.80219"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text38">deforms during insertion</text>
+  <line
+     x1="1575.1621"
+     y1="565.16217"
+     x2="1729.8363"
+     y2="721.83398"
+     stroke="#6d8394"
+     stroke-width="4.32427"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line38" />
+  <text
+     x="1951.0035"
+     y="527.99286"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text39">Controlled contact</text>
+  <text
+     x="1951.0035"
+     y="565.81287"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text40">with plated barrel</text>
+  <line
+     x1="1940"
+     y1="575"
+     x2="1850"
+     y2="760"
+     stroke="#6d8394"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line40" />
+  <text
+     x="2062.0249"
+     y="988.00476"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text41">PCB</text>
+  <line
+     x1="2080.0415"
+     y1="946.98932"
+     x2="2040.0415"
+     y2="816.98932"
+     stroke="#6d8394"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line41" />
+  <text
+     x="1782.0012"
+     y="1149.0143"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#345a42"
+     id="text42">No solder joint required</text>
+  <rect
+     x="1350"
+     y="1180"
+     width="860"
+     height="175"
+     rx="18"
+     fill="#ffffff"
+     stroke="#8ea79a"
+     stroke-width="3"
+     id="rect42" />
+  <text
+     x="1390"
+     y="1230"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     text-anchor="start"
+     fill="#345a42"
+     id="text43">Final interconnection</text>
+  <text
+     x="1390"
+     y="1275"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="400"
+     text-anchor="start"
+     fill="#566e80"
+     id="text44">Mechanical contact force against the plated barrel</text>
+  <text
+     x="1390"
+     y="1320"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="400"
+     text-anchor="start"
+     fill="#566e80"
+     id="text45">Controlled pin / hole / plating system</text>
+  <path
+     d="m 840.44011,1352.8644 c 27.26078,15.0336 50.19534,13.862 77.45613,-1.1716 l 5.85791,-18.8647 c -31.00917,1.8584 -57.44706,0.7402 -92.68669,0 z"
+     fill="#c8cdd1"
+     stroke="#6f777d"
+     stroke-width="1.68119"
+     id="path26"
+     style="stroke:#6f777d;stroke-opacity:0.280453"
+     sodipodi:nodetypes="ccccc" />
+  <rect
+     x="895.65649"
+     y="1268.8535"
+     width="4.2714252"
+     height="65.73819"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="0.626677"
+     id="rect21-7-9-6"
+     style="fill:#c8cdd1;fill-opacity:1;stroke:#c8cdd1;stroke-opacity:1" />
+  <rect
+     x="1838.0227"
+     y="869.86951"
+     width="123.08397"
+     height="53.225288"
+     rx="1.7094996"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="1.77471"
+     id="rect30-1" />
 </svg>
