@@ -1,14 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="1920" viewBox="0 0 3000 1920" preserveAspectRatio="xMidYMid meet">
-<defs>
-  <marker id="arrowNavy" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse">
-    <path d="M0,0 L12,6 L0,12 z" fill="#3f607d"/>
-  </marker>
-  <marker id="arrowGreen" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse">
-    <path d="M0,0 L12,6 L0,12 z" fill="#5a8d67"/>
-  </marker>
-</defs>
-<rect x="0" y="0" width="3000" height="1920" fill="#ffffff"/>
-<style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3000"
+   height="1920"
+   viewBox="0 0 3000 1920"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg135"
+   sodipodi:docname="4.20.3.svg"
+   inkscape:export-filename="4.20.3 - Bounded Process Planning Case for a Mixed Double-Sided PCBA.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview135"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.86181906"
+     inkscape:cx="695.04149"
+     inkscape:cy="713.0267"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg135" />
+  <defs
+     id="defs2">
+    <marker
+       id="arrowNavy"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#3f607d"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowGreen"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L12,6 L0,12 z"
+         fill="#5a8d67"
+         id="path2" />
+    </marker>
+  </defs>
+  <style
+     id="style2">
   .txt { font-family: Arial, Helvetica, sans-serif; fill:#243b53; }
   .panel { fill:#fbfcfd; stroke:#9fb0bd; stroke-width:4; }
   .headBlue { fill:#e7f0f6; }
@@ -28,138 +84,1287 @@
   .arrow { fill:none; stroke:#3f607d; stroke-width:5; marker-end:url(#arrowNavy); }
   .accessArrow { fill:none; stroke:#5a8d67; stroke-width:5; marker-end:url(#arrowGreen); }
 </style>
-
-<!-- top side panel -->
-<g id="top-side-panel">
-  <rect class="panel" x="80" y="70" width="1370" height="1050" rx="26"/>
-  <path class="headBlue" d="M106,70 h1318 a26,26 0 0 1 26,26 v92 h-1370 v-92 a26,26 0 0 1 26,-26z"/>
-  <text class="txt" x="765" y="138" text-anchor="middle" font-size="50" font-weight="700">Top side</text>
-  <text class="txt" x="765" y="194" text-anchor="middle" font-size="32" fill="#4f6b82">Representative of ~70 top-side SMT components</text>
-
-  <!-- board with orientation notch at upper right -->
-  <path class="board" d="M220,300 H1230 V330 H1290 V860 H220 Z"/>
-  <text class="txt" x="755" y="346" text-anchor="middle" font-size="28" font-weight="700" fill="#2f6040">Same fictional PCBA</text>
-
-  <!-- planned THT connector body near edge -->
-  <rect x="255" y="415" width="170" height="110" rx="14" fill="#f3f5f6" stroke="#6f7f8b" stroke-width="4" stroke-dasharray="12 10"/>
-  <g id="conn-top-pins">
-    <circle class="pad" cx="278" cy="535" r="5"/><circle class="pad" cx="291" cy="535" r="5"/><circle class="pad" cx="304" cy="535" r="5"/><circle class="pad" cx="317" cy="535" r="5"/><circle class="pad" cx="330" cy="535" r="5"/><circle class="pad" cx="343" cy="535" r="5"/><circle class="pad" cx="356" cy="535" r="5"/><circle class="pad" cx="369" cy="535" r="5"/><circle class="pad" cx="382" cy="535" r="5"/><circle class="pad" cx="395" cy="535" r="5"/>
-    <circle class="pad" cx="278" cy="550" r="5"/><circle class="pad" cx="291" cy="550" r="5"/><circle class="pad" cx="304" cy="550" r="5"/><circle class="pad" cx="317" cy="550" r="5"/><circle class="pad" cx="330" cy="550" r="5"/><circle class="pad" cx="343" cy="550" r="5"/><circle class="pad" cx="356" cy="550" r="5"/><circle class="pad" cx="369" cy="550" r="5"/><circle class="pad" cx="382" cy="550" r="5"/><circle class="pad" cx="395" cy="550" r="5"/>
+  <!-- top side panel -->
+  <rect
+     class="panel"
+     x="80"
+     y="70"
+     width="1370"
+     height="1050"
+     rx="26"
+     id="rect3" />
+  <path
+     class="headBlue"
+     d="m 106,70 h 1318 a 26,34.644068 0 0 1 26,34.64407 v 122.5867 H 80 V 104.64407 A 26,34.644068 0 0 1 106,70 Z"
+     id="path3"
+     style="stroke-width:1.15432" />
+  <text
+     class="txt"
+     x="765"
+     y="138"
+     text-anchor="middle"
+     font-size="50px"
+     font-weight="700"
+     id="text3">Top side</text>
+  <text
+     class="txt"
+     x="762.69232"
+     y="198.61539"
+     text-anchor="middle"
+     font-size="32px"
+     fill="#4f6b82"
+     id="text4">Representative of ~70 top-side SMT components</text>
+  <path
+     class="board"
+     d="M 167.07469,300.15161 H 1303.9033 v 29.98375 h 67.5344 V 859.84839 H 167.07469 Z"
+     id="path4" />
+  <text
+     class="txt"
+     x="755"
+     y="346"
+     text-anchor="middle"
+     font-size="28px"
+     font-weight="700"
+     fill="#2f6040"
+     id="text5">Same fictional PCBA</text>
+  <rect
+     x="255"
+     y="441.10855"
+     width="170"
+     height="110"
+     rx="14"
+     fill="#f3f5f6"
+     stroke="#6f7f8b"
+     stroke-width="4"
+     stroke-dasharray="12, 10"
+     id="rect5" />
+  <g
+     id="conn-top-pins"
+     transform="translate(0,26.108558)">
+    <circle
+       class="pad"
+       cx="278"
+       cy="535"
+       r="5"
+       id="circle5" />
+    <circle
+       class="pad"
+       cx="291"
+       cy="535"
+       r="5"
+       id="circle6" />
+    <circle
+       class="pad"
+       cx="304"
+       cy="535"
+       r="5"
+       id="circle7" />
+    <circle
+       class="pad"
+       cx="317"
+       cy="535"
+       r="5"
+       id="circle8" />
+    <circle
+       class="pad"
+       cx="330"
+       cy="535"
+       r="5"
+       id="circle9" />
+    <circle
+       class="pad"
+       cx="343"
+       cy="535"
+       r="5"
+       id="circle10" />
+    <circle
+       class="pad"
+       cx="356"
+       cy="535"
+       r="5"
+       id="circle11" />
+    <circle
+       class="pad"
+       cx="369"
+       cy="535"
+       r="5"
+       id="circle12" />
+    <circle
+       class="pad"
+       cx="382"
+       cy="535"
+       r="5"
+       id="circle13" />
+    <circle
+       class="pad"
+       cx="395"
+       cy="535"
+       r="5"
+       id="circle14" />
+    <circle
+       class="pad"
+       cx="278"
+       cy="550"
+       r="5"
+       id="circle15" />
+    <circle
+       class="pad"
+       cx="291"
+       cy="550"
+       r="5"
+       id="circle16" />
+    <circle
+       class="pad"
+       cx="304"
+       cy="550"
+       r="5"
+       id="circle17" />
+    <circle
+       class="pad"
+       cx="317"
+       cy="550"
+       r="5"
+       id="circle18" />
+    <circle
+       class="pad"
+       cx="330"
+       cy="550"
+       r="5"
+       id="circle19" />
+    <circle
+       class="pad"
+       cx="343"
+       cy="550"
+       r="5"
+       id="circle20" />
+    <circle
+       class="pad"
+       cx="356"
+       cy="550"
+       r="5"
+       id="circle21" />
+    <circle
+       class="pad"
+       cx="369"
+       cy="550"
+       r="5"
+       id="circle22" />
+    <circle
+       class="pad"
+       cx="382"
+       cy="550"
+       r="5"
+       id="circle23" />
+    <circle
+       class="pad"
+       cx="395"
+       cy="550"
+       r="5"
+       id="circle24" />
   </g>
-  <text class="txt" x="340" y="395" text-anchor="middle" font-size="32" font-weight="700">20-pin THT connector</text>
-  
-  <!-- BGA -->
-  <rect class="compDark" x="560" y="465" width="210" height="190" rx="18"/>
-  <circle class="pad" cx="585" cy="674" r="6"/><circle class="pad" cx="617" cy="674" r="6"/><circle class="pad" cx="649" cy="674" r="6"/><circle class="pad" cx="681" cy="674" r="6"/><circle class="pad" cx="713" cy="674" r="6"/><circle class="pad" cx="745" cy="674" r="6"/>
-  <text class="txt" x="665" y="450" text-anchor="middle" font-size="32" font-weight="700">BGA</text>
-
-  <!-- larger SMT group -->
-  <rect class="comp" x="880" y="430" width="190" height="90" rx="14"/>
-  <rect class="comp" x="910" y="620" width="250" height="92" rx="14"/>
-  <rect class="comp" x="495" y="735" width="160" height="68" rx="12"/>
-  <text class="txt" x="1020" y="405" text-anchor="middle" font-size="32" font-weight="700">BGA / larger SMT</text>
-
-  <!-- 2-lead THT power component -->
-  <rect x="1110" y="690" width="110" height="92" rx="18" fill="#f3f5f6" stroke="#6f7f8b" stroke-width="4" stroke-dasharray="12 10"/>
-  <line x1="1140" y1="782" x2="1140" y2="828" stroke="#8c6a2e" stroke-width="7"/>
-  <line x1="1190" y1="782" x2="1190" y2="828" stroke="#8c6a2e" stroke-width="7"/>
-  <text class="txt" x="1200" y="612" text-anchor="middle" font-size="30" font-weight="700">2-lead THT</text>
-  <text class="txt" x="1200" y="648" text-anchor="middle" font-size="30" font-weight="700">power component</text>
-
-  <rect class="call" x="350" y="900" width="820" height="135" rx="18"/>
-  <text class="txt" x="760" y="956" text-anchor="middle" font-size="34" font-weight="700">Larger / complex SMT assigned to second reflow side</text>
-  <text class="txt" x="760" y="1003" text-anchor="middle" font-size="27" fill="#5b7184">THT locations shown for planning; insert THT after both SMT passes.</text>
-</g>
-
-<!-- bottom side panel -->
-<g id="bottom-side-panel">
-  <rect class="panel" x="1550" y="70" width="1370" height="1050" rx="26"/>
-  <path class="headGreen" d="M1576,70 h1318 a26,26 0 0 1 26,26 v92 h-1370 v-92 a26,26 0 0 1 26,-26z"/>
-  <text class="txt" x="2235" y="138" text-anchor="middle" font-size="50" font-weight="700">Bottom side</text>
-  <text class="txt" x="2235" y="194" text-anchor="middle" font-size="32" fill="#4f6b82">Small first-side SMT remains outside local solder-contact regions</text>
-
-  <!-- mirrored board; notch now upper left -->
-  <path class="board" d="M1690,330 H1750 V300 H2760 V860 H1690 Z"/>
-  <text class="txt" x="2225" y="346" text-anchor="middle" font-size="28" font-weight="700" fill="#2f6040">Same board viewed from opposite side</text>
-
-  <!-- power leads now left after mirror -->
-  <circle class="pad" cx="1790" cy="735" r="13"/>
-  <circle class="pad" cx="1840" cy="735" r="13"/>
-  <rect class="zone" x="1725" y="665" width="185" height="150" rx="28"/>
-  <text class="txt" x="1815" y="642" text-anchor="middle" font-size="30" font-weight="700">2-lead THT power</text>
-
-  <!-- 18 bottom passives, 3x6 -->
-  <g id="bottom-passives">
-    <g><rect class="comp" x="1930" y="455" width="66" height="34" rx="7"/><rect class="pad" x="1922" y="463" width="10" height="18"/><rect class="pad" x="1996" y="463" width="10" height="18"/></g><g><rect class="comp" x="2035" y="455" width="66" height="34" rx="7"/><rect class="pad" x="2027" y="463" width="10" height="18"/><rect class="pad" x="2101" y="463" width="10" height="18"/></g><g><rect class="comp" x="2140" y="455" width="66" height="34" rx="7"/><rect class="pad" x="2132" y="463" width="10" height="18"/><rect class="pad" x="2206" y="463" width="10" height="18"/></g><g><rect class="comp" x="2245" y="455" width="66" height="34" rx="7"/><rect class="pad" x="2237" y="463" width="10" height="18"/><rect class="pad" x="2311" y="463" width="10" height="18"/></g><g><rect class="comp" x="2350" y="455" width="66" height="34" rx="7"/><rect class="pad" x="2342" y="463" width="10" height="18"/><rect class="pad" x="2416" y="463" width="10" height="18"/></g><g><rect class="comp" x="2455" y="455" width="66" height="34" rx="7"/><rect class="pad" x="2447" y="463" width="10" height="18"/><rect class="pad" x="2521" y="463" width="10" height="18"/></g><g><rect class="comp" x="1930" y="560" width="66" height="34" rx="7"/><rect class="pad" x="1922" y="568" width="10" height="18"/><rect class="pad" x="1996" y="568" width="10" height="18"/></g><g><rect class="comp" x="2035" y="560" width="66" height="34" rx="7"/><rect class="pad" x="2027" y="568" width="10" height="18"/><rect class="pad" x="2101" y="568" width="10" height="18"/></g><g><rect class="comp" x="2140" y="560" width="66" height="34" rx="7"/><rect class="pad" x="2132" y="568" width="10" height="18"/><rect class="pad" x="2206" y="568" width="10" height="18"/></g><g><rect class="comp" x="2245" y="560" width="66" height="34" rx="7"/><rect class="pad" x="2237" y="568" width="10" height="18"/><rect class="pad" x="2311" y="568" width="10" height="18"/></g><g><rect class="comp" x="2350" y="560" width="66" height="34" rx="7"/><rect class="pad" x="2342" y="568" width="10" height="18"/><rect class="pad" x="2416" y="568" width="10" height="18"/></g><g><rect class="comp" x="2455" y="560" width="66" height="34" rx="7"/><rect class="pad" x="2447" y="568" width="10" height="18"/><rect class="pad" x="2521" y="568" width="10" height="18"/></g><g><rect class="comp" x="1930" y="665" width="66" height="34" rx="7"/><rect class="pad" x="1922" y="673" width="10" height="18"/><rect class="pad" x="1996" y="673" width="10" height="18"/></g><g><rect class="comp" x="2035" y="665" width="66" height="34" rx="7"/><rect class="pad" x="2027" y="673" width="10" height="18"/><rect class="pad" x="2101" y="673" width="10" height="18"/></g><g><rect class="comp" x="2140" y="665" width="66" height="34" rx="7"/><rect class="pad" x="2132" y="673" width="10" height="18"/><rect class="pad" x="2206" y="673" width="10" height="18"/></g><g><rect class="comp" x="2245" y="665" width="66" height="34" rx="7"/><rect class="pad" x="2237" y="673" width="10" height="18"/><rect class="pad" x="2311" y="673" width="10" height="18"/></g><g><rect class="comp" x="2350" y="665" width="66" height="34" rx="7"/><rect class="pad" x="2342" y="673" width="10" height="18"/><rect class="pad" x="2416" y="673" width="10" height="18"/></g><g><rect class="comp" x="2455" y="665" width="66" height="34" rx="7"/><rect class="pad" x="2447" y="673" width="10" height="18"/><rect class="pad" x="2521" y="673" width="10" height="18"/></g>
+  <text
+     class="txt"
+     x="359.58142"
+     y="424.37213"
+     text-anchor="middle"
+     font-size="32px"
+     font-weight="700"
+     id="text24">20-pin THT connector</text>
+  <rect
+     class="compDark"
+     x="560"
+     y="465"
+     width="210"
+     height="190"
+     rx="18"
+     id="rect24" />
+  <circle
+     class="pad"
+     cx="585"
+     cy="674"
+     r="6"
+     id="circle25" />
+  <circle
+     class="pad"
+     cx="617"
+     cy="674"
+     r="6"
+     id="circle26" />
+  <circle
+     class="pad"
+     cx="649"
+     cy="674"
+     r="6"
+     id="circle27" />
+  <circle
+     class="pad"
+     cx="681"
+     cy="674"
+     r="6"
+     id="circle28" />
+  <circle
+     class="pad"
+     cx="713"
+     cy="674"
+     r="6"
+     id="circle29" />
+  <circle
+     class="pad"
+     cx="745"
+     cy="674"
+     r="6"
+     id="circle30" />
+  <text
+     class="txt"
+     x="665"
+     y="450"
+     text-anchor="middle"
+     font-size="32px"
+     font-weight="700"
+     id="text30">BGA</text>
+  <rect
+     class="comp"
+     x="880"
+     y="430"
+     width="190"
+     height="90"
+     rx="14"
+     id="rect30" />
+  <rect
+     class="comp"
+     x="854.51929"
+     y="600.41858"
+     width="250"
+     height="92"
+     rx="14"
+     id="rect31" />
+  <rect
+     class="comp"
+     x="398.7247"
+     y="718.68213"
+     width="160"
+     height="68"
+     rx="12"
+     id="rect32" />
+  <text
+     class="txt"
+     x="981.34515"
+     y="567.4837"
+     text-anchor="middle"
+     font-size="32px"
+     font-weight="700"
+     id="text32">BGA / larger SMT</text>
+  <rect
+     x="1175.2714"
+     y="675.31396"
+     width="110"
+     height="92"
+     rx="18"
+     fill="#f3f5f6"
+     stroke="#6f7f8b"
+     stroke-width="4"
+     stroke-dasharray="12, 10"
+     id="rect33" />
+  <line
+     x1="1205.2714"
+     y1="767.31396"
+     x2="1205.2714"
+     y2="813.31396"
+     stroke="#8c6a2e"
+     stroke-width="7"
+     id="line33" />
+  <line
+     x1="1255.2714"
+     y1="767.31396"
+     x2="1255.2714"
+     y2="813.31396"
+     stroke="#8c6a2e"
+     stroke-width="7"
+     id="line34" />
+  <text
+     class="txt"
+     x="1227.3055"
+     y="661.38843"
+     text-anchor="middle"
+     font-size="30px"
+     font-weight="700"
+     id="text34">2-lead THT</text>
+  <text
+     class="txt"
+     x="1218.0128"
+     y="839.34973"
+     text-anchor="middle"
+     font-size="30px"
+     font-weight="700"
+     id="text35">power component</text>
+  <rect
+     class="call"
+     x="297.87292"
+     y="900.09003"
+     width="922.62244"
+     height="134.81993"
+     rx="20.252686"
+     id="rect35" />
+  <text
+     class="txt"
+     x="760"
+     y="956"
+     text-anchor="middle"
+     font-size="34px"
+     font-weight="700"
+     id="text36">Larger / complex SMT assigned to second reflow side</text>
+  <text
+     class="txt"
+     x="760"
+     y="1003"
+     text-anchor="middle"
+     font-size="27px"
+     fill="#5b7184"
+     id="text37">THT locations shown for planning; insert THT after both SMT passes.</text>
+  <!-- bottom side panel -->
+  <rect
+     class="panel"
+     x="1550"
+     y="70"
+     width="1370"
+     height="1050"
+     rx="26"
+     id="rect37" />
+  <path
+     class="headGreen"
+     d="m 1576,70 h 1318 a 26,33.550462 0 0 1 26,33.55046 V 222.26748 H 1550 V 103.55046 A 26,33.550462 0 0 1 1576,70 Z"
+     id="path37"
+     style="stroke-width:1.13596" />
+  <text
+     class="txt"
+     x="2235"
+     y="138"
+     text-anchor="middle"
+     font-size="50px"
+     font-weight="700"
+     id="text38">Bottom side</text>
+  <text
+     class="txt"
+     x="2235"
+     y="194"
+     text-anchor="middle"
+     font-size="32px"
+     fill="#4f6b82"
+     id="text39">Small first-side SMT remains outside local solder-contact regions</text>
+  <path
+     class="board"
+     d="m 1637.9442,330.14406 h 68.0341 v -29.98271 h 1145.2403 v 559.6773 H 1637.9442 Z"
+     id="path39" />
+  <text
+     class="txt"
+     x="2225"
+     y="346"
+     text-anchor="middle"
+     font-size="28px"
+     font-weight="700"
+     fill="#2f6040"
+     id="text40">Same board viewed from opposite side</text>
+  <circle
+     class="pad"
+     cx="1754"
+     cy="735"
+     r="13"
+     id="circle40" />
+  <circle
+     class="pad"
+     cx="1804"
+     cy="735"
+     r="13"
+     id="circle41" />
+  <rect
+     class="zone"
+     x="1686.2053"
+     y="665"
+     width="185"
+     height="150"
+     rx="28"
+     id="rect41" />
+  <text
+     class="txt"
+     x="1782.3643"
+     y="648.52716"
+     text-anchor="middle"
+     font-size="30px"
+     font-weight="700"
+     id="text41">2-lead THT power</text>
+  <g
+     id="bottom-passives">
+    <g
+       id="g44">
+      <rect
+         class="comp"
+         x="1930"
+         y="455"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect42" />
+      <rect
+         class="pad"
+         x="1922"
+         y="463"
+         width="10"
+         height="18"
+         id="rect43" />
+      <rect
+         class="pad"
+         x="1996"
+         y="463"
+         width="10"
+         height="18"
+         id="rect44" />
+    </g>
+    <g
+       id="g47">
+      <rect
+         class="comp"
+         x="2035"
+         y="455"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect45" />
+      <rect
+         class="pad"
+         x="2027"
+         y="463"
+         width="10"
+         height="18"
+         id="rect46" />
+      <rect
+         class="pad"
+         x="2101"
+         y="463"
+         width="10"
+         height="18"
+         id="rect47" />
+    </g>
+    <g
+       id="g50">
+      <rect
+         class="comp"
+         x="2140"
+         y="455"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect48" />
+      <rect
+         class="pad"
+         x="2132"
+         y="463"
+         width="10"
+         height="18"
+         id="rect49" />
+      <rect
+         class="pad"
+         x="2206"
+         y="463"
+         width="10"
+         height="18"
+         id="rect50" />
+    </g>
+    <g
+       id="g53">
+      <rect
+         class="comp"
+         x="2245"
+         y="455"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect51" />
+      <rect
+         class="pad"
+         x="2237"
+         y="463"
+         width="10"
+         height="18"
+         id="rect52" />
+      <rect
+         class="pad"
+         x="2311"
+         y="463"
+         width="10"
+         height="18"
+         id="rect53" />
+    </g>
+    <g
+       id="g56">
+      <rect
+         class="comp"
+         x="2350"
+         y="455"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect54" />
+      <rect
+         class="pad"
+         x="2342"
+         y="463"
+         width="10"
+         height="18"
+         id="rect55" />
+      <rect
+         class="pad"
+         x="2416"
+         y="463"
+         width="10"
+         height="18"
+         id="rect56" />
+    </g>
+    <g
+       id="g59">
+      <rect
+         class="comp"
+         x="2455"
+         y="455"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect57" />
+      <rect
+         class="pad"
+         x="2447"
+         y="463"
+         width="10"
+         height="18"
+         id="rect58" />
+      <rect
+         class="pad"
+         x="2521"
+         y="463"
+         width="10"
+         height="18"
+         id="rect59" />
+    </g>
+    <g
+       id="g62">
+      <rect
+         class="comp"
+         x="1930"
+         y="560"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect60" />
+      <rect
+         class="pad"
+         x="1922"
+         y="568"
+         width="10"
+         height="18"
+         id="rect61" />
+      <rect
+         class="pad"
+         x="1996"
+         y="568"
+         width="10"
+         height="18"
+         id="rect62" />
+    </g>
+    <g
+       id="g65">
+      <rect
+         class="comp"
+         x="2035"
+         y="560"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect63" />
+      <rect
+         class="pad"
+         x="2027"
+         y="568"
+         width="10"
+         height="18"
+         id="rect64" />
+      <rect
+         class="pad"
+         x="2101"
+         y="568"
+         width="10"
+         height="18"
+         id="rect65" />
+    </g>
+    <g
+       id="g68">
+      <rect
+         class="comp"
+         x="2140"
+         y="560"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect66" />
+      <rect
+         class="pad"
+         x="2132"
+         y="568"
+         width="10"
+         height="18"
+         id="rect67" />
+      <rect
+         class="pad"
+         x="2206"
+         y="568"
+         width="10"
+         height="18"
+         id="rect68" />
+    </g>
+    <g
+       id="g71">
+      <rect
+         class="comp"
+         x="2245"
+         y="560"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect69" />
+      <rect
+         class="pad"
+         x="2237"
+         y="568"
+         width="10"
+         height="18"
+         id="rect70" />
+      <rect
+         class="pad"
+         x="2311"
+         y="568"
+         width="10"
+         height="18"
+         id="rect71" />
+    </g>
+    <g
+       id="g74">
+      <rect
+         class="comp"
+         x="2350"
+         y="560"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect72" />
+      <rect
+         class="pad"
+         x="2342"
+         y="568"
+         width="10"
+         height="18"
+         id="rect73" />
+      <rect
+         class="pad"
+         x="2416"
+         y="568"
+         width="10"
+         height="18"
+         id="rect74" />
+    </g>
+    <g
+       id="g77">
+      <rect
+         class="comp"
+         x="2455"
+         y="560"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect75" />
+      <rect
+         class="pad"
+         x="2447"
+         y="568"
+         width="10"
+         height="18"
+         id="rect76" />
+      <rect
+         class="pad"
+         x="2521"
+         y="568"
+         width="10"
+         height="18"
+         id="rect77" />
+    </g>
+    <g
+       id="g80">
+      <rect
+         class="comp"
+         x="1930"
+         y="665"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect78" />
+      <rect
+         class="pad"
+         x="1922"
+         y="673"
+         width="10"
+         height="18"
+         id="rect79" />
+      <rect
+         class="pad"
+         x="1996"
+         y="673"
+         width="10"
+         height="18"
+         id="rect80" />
+    </g>
+    <g
+       id="g83">
+      <rect
+         class="comp"
+         x="2035"
+         y="665"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect81" />
+      <rect
+         class="pad"
+         x="2027"
+         y="673"
+         width="10"
+         height="18"
+         id="rect82" />
+      <rect
+         class="pad"
+         x="2101"
+         y="673"
+         width="10"
+         height="18"
+         id="rect83" />
+    </g>
+    <g
+       id="g86">
+      <rect
+         class="comp"
+         x="2140"
+         y="665"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect84" />
+      <rect
+         class="pad"
+         x="2132"
+         y="673"
+         width="10"
+         height="18"
+         id="rect85" />
+      <rect
+         class="pad"
+         x="2206"
+         y="673"
+         width="10"
+         height="18"
+         id="rect86" />
+    </g>
+    <g
+       id="g89">
+      <rect
+         class="comp"
+         x="2245"
+         y="665"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect87" />
+      <rect
+         class="pad"
+         x="2237"
+         y="673"
+         width="10"
+         height="18"
+         id="rect88" />
+      <rect
+         class="pad"
+         x="2311"
+         y="673"
+         width="10"
+         height="18"
+         id="rect89" />
+    </g>
+    <g
+       id="g92">
+      <rect
+         class="comp"
+         x="2350"
+         y="665"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect90" />
+      <rect
+         class="pad"
+         x="2342"
+         y="673"
+         width="10"
+         height="18"
+         id="rect91" />
+      <rect
+         class="pad"
+         x="2416"
+         y="673"
+         width="10"
+         height="18"
+         id="rect92" />
+    </g>
+    <g
+       id="g95">
+      <rect
+         class="comp"
+         x="2455"
+         y="665"
+         width="66"
+         height="34"
+         rx="7"
+         id="rect93" />
+      <rect
+         class="pad"
+         x="2447"
+         y="673"
+         width="10"
+         height="18"
+         id="rect94" />
+      <rect
+         class="pad"
+         x="2521"
+         y="673"
+         width="10"
+         height="18"
+         id="rect95" />
+    </g>
   </g>
-  <text class="txt" x="2225" y="815" text-anchor="middle" font-size="34" font-weight="700">18 small bottom-side SMT passives</text>
-
-  <!-- connector pin field mirrored to right edge -->
-  <g id="connector-bottom-pins">
-    <circle class="pad" cx="2595" cy="515" r="7"/><circle class="pad" cx="2608" cy="515" r="7"/><circle class="pad" cx="2621" cy="515" r="7"/><circle class="pad" cx="2634" cy="515" r="7"/><circle class="pad" cx="2647" cy="515" r="7"/><circle class="pad" cx="2660" cy="515" r="7"/><circle class="pad" cx="2673" cy="515" r="7"/><circle class="pad" cx="2686" cy="515" r="7"/><circle class="pad" cx="2699" cy="515" r="7"/><circle class="pad" cx="2712" cy="515" r="7"/>
-    <circle class="pad" cx="2595" cy="540" r="7"/><circle class="pad" cx="2608" cy="540" r="7"/><circle class="pad" cx="2621" cy="540" r="7"/><circle class="pad" cx="2634" cy="540" r="7"/><circle class="pad" cx="2647" cy="540" r="7"/><circle class="pad" cx="2660" cy="540" r="7"/><circle class="pad" cx="2673" cy="540" r="7"/><circle class="pad" cx="2686" cy="540" r="7"/><circle class="pad" cx="2699" cy="540" r="7"/><circle class="pad" cx="2712" cy="540" r="7"/>
+  <text
+     class="txt"
+     x="2225"
+     y="815"
+     text-anchor="middle"
+     font-size="34px"
+     font-weight="700"
+     id="text95">18 small bottom-side SMT passives</text>
+  <g
+     id="connector-bottom-pins"
+     transform="translate(46,-24)">
+    <circle
+       class="pad"
+       cx="2595"
+       cy="515"
+       r="7"
+       id="circle95" />
+    <circle
+       class="pad"
+       cx="2608"
+       cy="515"
+       r="7"
+       id="circle96" />
+    <circle
+       class="pad"
+       cx="2621"
+       cy="515"
+       r="7"
+       id="circle97" />
+    <circle
+       class="pad"
+       cx="2634"
+       cy="515"
+       r="7"
+       id="circle98" />
+    <circle
+       class="pad"
+       cx="2647"
+       cy="515"
+       r="7"
+       id="circle99" />
+    <circle
+       class="pad"
+       cx="2660"
+       cy="515"
+       r="7"
+       id="circle100" />
+    <circle
+       class="pad"
+       cx="2673"
+       cy="515"
+       r="7"
+       id="circle101" />
+    <circle
+       class="pad"
+       cx="2686"
+       cy="515"
+       r="7"
+       id="circle102" />
+    <circle
+       class="pad"
+       cx="2699"
+       cy="515"
+       r="7"
+       id="circle103" />
+    <circle
+       class="pad"
+       cx="2712"
+       cy="515"
+       r="7"
+       id="circle104" />
+    <circle
+       class="pad"
+       cx="2595"
+       cy="540"
+       r="7"
+       id="circle105" />
+    <circle
+       class="pad"
+       cx="2608"
+       cy="540"
+       r="7"
+       id="circle106" />
+    <circle
+       class="pad"
+       cx="2621"
+       cy="540"
+       r="7"
+       id="circle107" />
+    <circle
+       class="pad"
+       cx="2634"
+       cy="540"
+       r="7"
+       id="circle108" />
+    <circle
+       class="pad"
+       cx="2647"
+       cy="540"
+       r="7"
+       id="circle109" />
+    <circle
+       class="pad"
+       cx="2660"
+       cy="540"
+       r="7"
+       id="circle110" />
+    <circle
+       class="pad"
+       cx="2673"
+       cy="540"
+       r="7"
+       id="circle111" />
+    <circle
+       class="pad"
+       cx="2686"
+       cy="540"
+       r="7"
+       id="circle112" />
+    <circle
+       class="pad"
+       cx="2699"
+       cy="540"
+       r="7"
+       id="circle113" />
+    <circle
+       class="pad"
+       cx="2712"
+       cy="540"
+       r="7"
+       id="circle114" />
   </g>
-  <rect class="zone" x="2540" y="440" width="205" height="180" rx="30"/>
-  <text class="txt" x="2615" y="414" text-anchor="middle" font-size="30" font-weight="700">20-pin connector pin field</text>
-
-  <!-- local nozzle symbols -->
-  <g id="selective-nozzles">
-    <path d="M1775,900 h80 l22,70 h-124 z" fill="#aeb9c2" stroke="#64727e" stroke-width="4"/>
-    <line class="accessArrow" x1="1815" y1="896" x2="1815" y2="815"/>
-    <path d="M2600,900 h80 l22,70 h-124 z" fill="#aeb9c2" stroke="#64727e" stroke-width="4"/>
-    <line class="accessArrow" x1="2640" y1="896" x2="2640" y2="620"/>
+  <rect
+     class="zone"
+     x="2592"
+     y="420"
+     width="205"
+     height="180"
+     rx="30"
+     id="rect114" />
+  <text
+     class="txt"
+     x="2657.4265"
+     y="400.94574"
+     text-anchor="middle"
+     font-size="30px"
+     font-weight="700"
+     id="text114">20-pin connector pin field</text>
+  <path
+     d="m 1742.3643,906.52714 h 80 l 22,70 h -124 z"
+     fill="#aeb9c2"
+     stroke="#64727e"
+     stroke-width="4"
+     id="path114" />
+  <line
+     class="accessArrow"
+     x1="1782.3643"
+     y1="902.52716"
+     x2="1782.3643"
+     y2="821.52716"
+     id="line114" />
+  <path
+     d="m 2650.5853,900 h 80 l 22,70 h -124 z"
+     fill="#aeb9c2"
+     stroke="#64727e"
+     stroke-width="4"
+     id="path115" />
+  <line
+     class="accessArrow"
+     x1="2692"
+     y1="895.58142"
+     x2="2692"
+     y2="600.14087"
+     id="line115" />
+  <text
+     class="txt"
+     x="2235"
+     y="1005"
+     text-anchor="middle"
+     font-size="34px"
+     font-weight="700"
+     fill="#507e5c"
+     id="text115">Selective-nozzle access</text>
+  <text
+     class="txt"
+     x="2235"
+     y="1045"
+     text-anchor="middle"
+     font-size="28px"
+     fill="#5b7184"
+     id="text116">available at both local THT groups</text>
+  <text
+     class="txt"
+     x="2235"
+     y="1083"
+     text-anchor="middle"
+     font-size="28px"
+     fill="#5b7184"
+     id="text117">Bottom SMT outside solder-contact region</text>
+  <!-- correspondence note -->
+  <g
+     id="correspondence-note">
+    <text
+       class="txt"
+       x="1500"
+       y="1190"
+       text-anchor="middle"
+       font-size="28"
+       fill="#647789"
+       id="text118">Same board shown from opposite sides; THT locations correspond across the two views.</text>
   </g>
-  <text class="txt" x="2235" y="1005" text-anchor="middle" font-size="34" font-weight="700" fill="#507e5c">Selective-nozzle access</text>
-  <text class="txt" x="2235" y="1045" text-anchor="middle" font-size="28" fill="#5b7184">available at both local THT groups</text>
-  <text class="txt" x="2235" y="1083" text-anchor="middle" font-size="28" fill="#5b7184">Bottom SMT outside solder-contact region</text>
-</g>
-
-<!-- correspondence note -->
-<g id="correspondence-note">
-  <text class="txt" x="1500" y="1190" text-anchor="middle" font-size="28" fill="#647789">Same board shown from opposite sides; THT locations correspond across the two views.</text>
-</g>
-
-<!-- process route panel -->
-<g id="route-panel">
-  <rect class="panel" x="80" y="1245" width="2840" height="600" rx="26"/>
-  <path class="headRoute" d="M106,1245 h2788 a26,26 0 0 1 26,26 v86 h-2840 v-86 a26,26 0 0 1 26,-26z"/>
-  <text class="txt" x="1500" y="1310" text-anchor="middle" font-size="44" font-weight="700">Selected route for this bounded case</text>
-
-  <rect class="reason" x="615" y="1378" width="1770" height="128" rx="18"/>
-  <text class="txt" x="1500" y="1426" text-anchor="middle" font-size="36" font-weight="700">Why selective here?</text>
-  <text class="txt" x="1500" y="1472" text-anchor="middle" font-size="30">Two local THT groups   •   Bottom SMT avoids broad wave contact   •   Usable nozzle access</text>
-
-  <!-- route boxes -->
-  <g id="route-boxes">
-    <rect class="routeBox" x="130" y="1560" width="400" height="160" rx="18"/>
-    <text class="txt" x="330" y="1620" text-anchor="middle" font-size="34" font-weight="700">Bottom SMT first</text>
-    <text class="txt" x="330" y="1668" text-anchor="middle" font-size="28">Print / Place / Reflow</text>
-
-    <rect class="routeBox" x="595" y="1560" width="300" height="160" rx="18"/>
-    <text class="txt" x="745" y="1651" text-anchor="middle" font-size="36" font-weight="700">Flip</text>
-
-    <rect class="routeBox" x="960" y="1560" width="400" height="160" rx="18"/>
-    <text class="txt" x="1160" y="1620" text-anchor="middle" font-size="34" font-weight="700">Top SMT second</text>
-    <text class="txt" x="1160" y="1668" text-anchor="middle" font-size="28">Print / Place / Reflow</text>
-
-    <rect class="routeGreen" x="1425" y="1560" width="340" height="160" rx="18"/>
-    <text class="txt" x="1595" y="1620" text-anchor="middle" font-size="32" font-weight="700">Insert THT after SMT</text>
-    <text class="txt" x="1595" y="1668" text-anchor="middle" font-size="26">after both reflow passes</text>
-
-    <rect class="routePurple" x="1830" y="1560" width="355" height="160" rx="18"/>
-    <text class="txt" x="2007" y="1650" text-anchor="middle" font-size="34" font-weight="700">Selective solder</text>
-
-    <rect class="routeBox" x="2250" y="1560" width="520" height="160" rx="18"/>
-    <text class="txt" x="2510" y="1620" text-anchor="middle" font-size="34" font-weight="700">Downstream verification</text>
-    <text class="txt" x="2510" y="1668" text-anchor="middle" font-size="26">inspection / test as required</text>
+  <!-- process route panel -->
+  <g
+     id="route-panel">
+    <rect
+       class="panel"
+       x="80"
+       y="1245"
+       width="2840"
+       height="600"
+       rx="26"
+       id="rect118" />
+    <path
+       class="headRoute"
+       d="M106,1245 h2788 a26,26 0 0 1 26,26 v86 h-2840 v-86 a26,26 0 0 1 26,-26z"
+       id="path118" />
+    <text
+       class="txt"
+       x="1500"
+       y="1310"
+       text-anchor="middle"
+       font-size="44"
+       font-weight="700"
+       id="text119">Selected route for this bounded case</text>
+    <rect
+       class="reason"
+       x="615"
+       y="1378"
+       width="1770"
+       height="128"
+       rx="18"
+       id="rect119" />
+    <text
+       class="txt"
+       x="1500"
+       y="1426"
+       text-anchor="middle"
+       font-size="36"
+       font-weight="700"
+       id="text120">Why selective here?</text>
+    <text
+       class="txt"
+       x="1500"
+       y="1472"
+       text-anchor="middle"
+       font-size="30"
+       id="text121">Two local THT groups   •   Bottom SMT avoids broad wave contact   •   Usable nozzle access</text>
+    <!-- route boxes -->
+    <g
+       id="route-boxes">
+      <rect
+         class="routeBox"
+         x="130"
+         y="1560"
+         width="400"
+         height="160"
+         rx="18"
+         id="rect121" />
+      <text
+         class="txt"
+         x="330"
+         y="1620"
+         text-anchor="middle"
+         font-size="34"
+         font-weight="700"
+         id="text122">Bottom SMT first</text>
+      <text
+         class="txt"
+         x="330"
+         y="1668"
+         text-anchor="middle"
+         font-size="28"
+         id="text123">Print / Place / Reflow</text>
+      <rect
+         class="routeBox"
+         x="595"
+         y="1560"
+         width="300"
+         height="160"
+         rx="18"
+         id="rect123" />
+      <text
+         class="txt"
+         x="745"
+         y="1651"
+         text-anchor="middle"
+         font-size="36"
+         font-weight="700"
+         id="text124">Flip</text>
+      <rect
+         class="routeBox"
+         x="960"
+         y="1560"
+         width="400"
+         height="160"
+         rx="18"
+         id="rect124" />
+      <text
+         class="txt"
+         x="1160"
+         y="1620"
+         text-anchor="middle"
+         font-size="34"
+         font-weight="700"
+         id="text125">Top SMT second</text>
+      <text
+         class="txt"
+         x="1160"
+         y="1668"
+         text-anchor="middle"
+         font-size="28"
+         id="text126">Print / Place / Reflow</text>
+      <rect
+         class="routeGreen"
+         x="1425"
+         y="1560"
+         width="340"
+         height="160"
+         rx="18"
+         id="rect126" />
+      <text
+         class="txt"
+         x="1595"
+         y="1620"
+         text-anchor="middle"
+         font-size="32"
+         font-weight="700"
+         id="text127">Insert THT after SMT</text>
+      <text
+         class="txt"
+         x="1595"
+         y="1668"
+         text-anchor="middle"
+         font-size="26"
+         id="text128">after both reflow passes</text>
+      <rect
+         class="routePurple"
+         x="1830"
+         y="1560"
+         width="355"
+         height="160"
+         rx="18"
+         id="rect128" />
+      <text
+         class="txt"
+         x="2007"
+         y="1650"
+         text-anchor="middle"
+         font-size="34"
+         font-weight="700"
+         id="text129">Selective solder</text>
+      <rect
+         class="routeBox"
+         x="2250"
+         y="1560"
+         width="520"
+         height="160"
+         rx="18"
+         id="rect129" />
+      <text
+         class="txt"
+         x="2510"
+         y="1620"
+         text-anchor="middle"
+         font-size="34"
+         font-weight="700"
+         id="text130">Downstream verification</text>
+      <text
+         class="txt"
+         x="2510"
+         y="1668"
+         text-anchor="middle"
+         font-size="26"
+         id="text131">inspection / test as required</text>
+    </g>
+    <!-- arrows between route boxes -->
+    <line
+       class="arrow"
+       x1="530"
+       y1="1640"
+       x2="580"
+       y2="1640"
+       id="line131" />
+    <line
+       class="arrow"
+       x1="895"
+       y1="1640"
+       x2="945"
+       y2="1640"
+       id="line132" />
+    <line
+       class="arrow"
+       x1="1360"
+       y1="1640"
+       x2="1410"
+       y2="1640"
+       id="line133" />
+    <line
+       class="arrow"
+       x1="1765"
+       y1="1640"
+       x2="1815"
+       y2="1640"
+       id="line134" />
+    <line
+       class="arrow"
+       x1="2185"
+       y1="1640"
+       x2="2235"
+       y2="1640"
+       id="line135" />
   </g>
-
-  <!-- arrows between route boxes -->
-  <line class="arrow" x1="530" y1="1640" x2="580" y2="1640"/>
-  <line class="arrow" x1="895" y1="1640" x2="945" y2="1640"/>
-  <line class="arrow" x1="1360" y1="1640" x2="1410" y2="1640"/>
-  <line class="arrow" x1="1765" y1="1640" x2="1815" y2="1640"/>
-  <line class="arrow" x1="2185" y1="1640" x2="2235" y2="1640"/>
-
-</g>
 </svg>

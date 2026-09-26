@@ -1,125 +1,1076 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="1700" viewBox="0 0 3000 1700" preserveAspectRatio="xMidYMid meet">
-<rect x="0" y="0" width="3000" height="1700" fill="#ffffff"/>
-<defs>
-<marker id="arrow" markerWidth="18" markerHeight="18" refX="15" refY="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L18,9 L0,18 z" fill="#405d78"/></marker>
-<marker id="grav" markerWidth="20" markerHeight="20" refX="17" refY="10" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L20,10 L0,20 z" fill="#8c7452"/></marker>
-<marker id="menarrow" markerWidth="13" markerHeight="13" refX="10.5" refY="6.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L13,6.5 L0,13 z" fill="#5f8f70"/></marker>
-</defs>
-<rect x="60" y="70" width="760" height="1560" rx="26" fill="#fbfcfd" stroke="#a3b0ba" stroke-width="3"/>
-<rect x="60" y="70" width="760" height="155" rx="26" fill="#e8eef3" stroke="#a3b0ba" stroke-width="3"/>
-<rect x="63" y="202" width="754" height="25" fill="#e8eef3"/>
-<text x="440.0" y="165" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle" fill="#24384d">A. Side 1 reflow</text>
-<rect x="870" y="70" width="760" height="1560" rx="26" fill="#fbfcfd" stroke="#a3b0ba" stroke-width="3"/>
-<rect x="870" y="70" width="760" height="155" rx="26" fill="#edf2f4" stroke="#a3b0ba" stroke-width="3"/>
-<rect x="873" y="202" width="754" height="25" fill="#edf2f4"/>
-<text x="1250.0" y="165" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle" fill="#24384d">B. Flip + Side 2 placement</text>
-<rect x="1680" y="70" width="1260" height="1560" rx="26" fill="#fbfcfd" stroke="#a3b0ba" stroke-width="3"/>
-<rect x="1680" y="70" width="1260" height="155" rx="26" fill="#f3f0f8" stroke="#a3b0ba" stroke-width="3"/>
-<rect x="1683" y="202" width="1254" height="25" fill="#f3f0f8"/>
-<text x="2310.0" y="165" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle" fill="#24384d">C. Second reflow</text>
-<text x="440" y="285" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#24384d"><tspan x="440" dy="0">Side 1 reflow complete</tspan></text>
-<text x="440" y="405" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#566e80"><tspan x="440" dy="0">Side 1</tspan></text>
-<rect x="190" y="650" width="500" height="44" rx="5" fill="#70a57e" stroke="#3e6d4b" stroke-width="4"/>
-<rect x="341.0" y="640" width="52" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="487.0" y="640" width="52" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<path d="M 355.0,640 L 377.0,608 L 395.0,608 L 383.0,640 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<path d="M 497.0,640 L 485.0,608 L 503.0,608 L 525.0,640 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<rect x="365.0" y="552" width="150" height="56" rx="10" fill="#aeb8c0" stroke="#6f7d87" stroke-width="4"/>
-<rect x="359.0" y="560" width="24" height="42" rx="4" fill="#88959e"/>
-<rect x="497.0" y="560" width="24" height="42" rx="4" fill="#88959e"/>
-<rect x="231.0" y="640" width="52" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="317.0" y="640" width="52" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<path d="M 245.0,640 L 267.0,608 L 285.0,608 L 273.0,640 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<path d="M 327.0,640 L 315.0,608 L 333.0,608 L 355.0,640 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<rect x="255.0" y="552" width="90" height="56" rx="10" fill="#aeb8c0" stroke="#6f7d87" stroke-width="4"/>
-<rect x="249.0" y="560" width="24" height="42" rx="4" fill="#88959e"/>
-<rect x="327.0" y="560" width="24" height="42" rx="4" fill="#88959e"/>
-<text x="440" y="930" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#3f5566"><tspan x="440" dy="0">Solidified solder joints</tspan></text>
-<line x1="440" y1="895" x2="375" y2="725" stroke="#405d78" stroke-width="4" marker-end="url(#arrow)"/>
-<path d="M 1040 375 C 1150 270 1370 270 1475 375" fill="none" stroke="#405d78" stroke-width="6" marker-end="url(#arrow)"/>
-<text x="1250" y="315" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#24384d">Flip board</text>
-<text x="1250" y="455" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#566e80"><tspan x="1250" dy="0">Side 2</tspan></text>
-<rect x="1000" y="690" width="500" height="44" rx="5" fill="#70a57e" stroke="#3e6d4b" stroke-width="4"/>
-<rect x="1112.0" y="680" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="1206.0" y="680" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<path d="M 1124.0,680 L 1142.0,660 L 1152.0,660 L 1144.0,680 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<path d="M 1216.0,680 L 1208.0,660 L 1218.0,660 L 1236.0,680 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<rect x="1130.0" y="622" width="100" height="38" rx="7" fill="#aeb8c0" stroke="#6f7d87" stroke-width="3"/>
-<rect x="1277.0" y="680" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="1401.0" y="680" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<path d="M 1289.0,680 L 1307.0,660 L 1317.0,660 L 1309.0,680 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<path d="M 1411.0,680 L 1403.0,660 L 1413.0,660 L 1431.0,680 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<rect x="1295.0" y="622" width="130" height="38" rx="7" fill="#aeb8c0" stroke="#6f7d87" stroke-width="3"/>
-<rect x="1151.0" y="734" width="52" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="1297.0" y="734" width="52" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<path d="M 1165.0,744 L 1187.0,776 L 1205.0,776 L 1193.0,744 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<path d="M 1307.0,744 L 1295.0,776 L 1313.0,776 L 1335.0,744 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<rect x="1175.0" y="776" width="150" height="56" rx="10" fill="#aeb8c0" stroke="#6f7d87" stroke-width="4"/>
-<rect x="1169.0" y="784" width="24" height="42" rx="4" fill="#88959e"/>
-<rect x="1307.0" y="784" width="24" height="42" rx="4" fill="#88959e"/>
-<text x="1250" y="920" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#24384d"><tspan x="1250" dy="0">Side 1 components now underneath</tspan></text>
-<line x1="1250" y1="880" x2="1250" y2="845" stroke="#405d78" stroke-width="4" marker-end="url(#arrow)"/>
-<text x="1250" y="1090" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#566e80"><tspan x="1250" dy="0">Side 1</tspan></text>
-<text x="2310" y="285" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#24384d"><tspan x="2310" dy="0">First-side solder molten again</tspan></text>
-<line x1="2310" y1="350" x2="2310" y2="1555" stroke="#c8cfd5" stroke-width="3" stroke-dasharray="14 14"/>
-<text x="1995" y="405" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" text-anchor="middle" fill="#5f8f70"><tspan x="1995" dy="0">Smaller / lighter component</tspan></text>
-<text x="2625" y="405" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" text-anchor="middle" fill="#8c7452"><tspan x="2625" dy="0">Larger / heavier component</tspan></text>
-<text x="2310" y="500" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="middle" fill="#566e80"><tspan x="2310" dy="0">Second reflow</tspan></text>
-<path d="M 2200,625 C 2184,595 2216,570 2200,540" fill="none" stroke="#c88432" stroke-width="7" stroke-linecap="round"/>
-<path d="M 2280,625 C 2264,595 2296,570 2280,540" fill="none" stroke="#c88432" stroke-width="7" stroke-linecap="round"/>
-<path d="M 2360,625 C 2344,595 2376,570 2360,540" fill="none" stroke="#c88432" stroke-width="7" stroke-linecap="round"/>
-<path d="M 2440,625 C 2424,595 2456,570 2440,540" fill="none" stroke="#c88432" stroke-width="7" stroke-linecap="round"/>
-<rect x="1745" y="760" width="500" height="44" rx="5" fill="#70a57e" stroke="#3e6d4b" stroke-width="4"/>
-<rect x="1857.0" y="750" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="1951.0" y="750" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<path d="M 1869.0,750 L 1887.0,730 L 1897.0,730 L 1889.0,750 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<path d="M 1961.0,750 L 1953.0,730 L 1963.0,730 L 1981.0,750 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<rect x="1875.0" y="692" width="100" height="38" rx="7" fill="#aeb8c0" stroke="#6f7d87" stroke-width="3"/>
-<rect x="2022.0" y="750" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="2146.0" y="750" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<path d="M 2034.0,750 L 2052.0,730 L 2062.0,730 L 2054.0,750 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<path d="M 2156.0,750 L 2148.0,730 L 2158.0,730 L 2176.0,750 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<rect x="2040.0" y="692" width="130" height="38" rx="7" fill="#aeb8c0" stroke="#6f7d87" stroke-width="3"/>
-<rect x="1890.0" y="804" width="58" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="2042.0" y="804" width="58" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="1920.0" y="868" width="150" height="56" rx="10" fill="#aeb8c0" stroke="#6f7d87" stroke-width="4"/>
-<rect x="1913.0" y="876" width="26" height="42" rx="4" fill="#88959e"/>
-<rect x="2051.0" y="876" width="26" height="42" rx="4" fill="#88959e"/>
-<path d="M 1902.0,814 C 1908.0,838 1916.0,860 1930.0,876 C 1944.0,860 1950.0,838 1942.0,814 Z" fill="#94a9b6" stroke="#7d8b95" stroke-width="3"/>
-<path d="M 2048.0,814 C 2040.0,838 2046.0,860 2060.0,876 C 2074.0,860 2082.0,838 2088.0,814 Z" fill="#94a9b6" stroke="#7d8b95" stroke-width="3"/>
-<line x1="2140" y1="875" x2="2140" y2="1115" stroke="#8c7452" stroke-width="6" marker-end="url(#grav)"/>
-<text x="2158" y="905" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" text-anchor="start" fill="#8c7452">Gravity</text>
-<path d="M 1887.0,925 C 1907.0,885 1923.0,855 1935.0,835" fill="none" stroke="#5f8f70" stroke-width="5" marker-end="url(#menarrow)"/>
-<path d="M 2103.0,925 C 2083.0,885 2067.0,855 2055.0,835" fill="none" stroke="#5f8f70" stroke-width="5" marker-end="url(#menarrow)"/>
-<text x="1995" y="1125" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#5f8f70"><tspan x="1995" dy="0">Molten-solder surface tension</tspan><tspan x="1995" dy="37">supports retention</tspan></text>
-<line x1="1935" y1="1065" x2="1908" y2="930" stroke="#5f8f70" stroke-width="4"/>
-<line x1="2055" y1="1065" x2="2082" y2="930" stroke="#5f8f70" stroke-width="4"/>
-<text x="1995" y="1390" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600" text-anchor="middle" fill="#566e80"><tspan x="1995" dy="0">Smaller/lighter component:</tspan><tspan x="1995" dy="38">often retained</tspan></text>
-<rect x="2375" y="760" width="500" height="44" rx="5" fill="#70a57e" stroke="#3e6d4b" stroke-width="4"/>
-<rect x="2487.0" y="750" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="2581.0" y="750" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<path d="M 2499.0,750 L 2517.0,730 L 2527.0,730 L 2519.0,750 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<path d="M 2591.0,750 L 2583.0,730 L 2593.0,730 L 2611.0,750 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<rect x="2505.0" y="692" width="100" height="38" rx="7" fill="#aeb8c0" stroke="#6f7d87" stroke-width="3"/>
-<rect x="2652.0" y="750" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="2776.0" y="750" width="42" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<path d="M 2664.0,750 L 2682.0,730 L 2692.0,730 L 2684.0,750 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<path d="M 2786.0,750 L 2778.0,730 L 2788.0,730 L 2806.0,750 Z" fill="#b9c3ca" stroke="#7d8b95" stroke-width="2"/>
-<rect x="2670.0" y="692" width="130" height="38" rx="7" fill="#aeb8c0" stroke="#6f7d87" stroke-width="3"/>
-<rect x="2430.0" y="804" width="58" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="2762.0" y="804" width="58" height="10" rx="2" fill="#c89b58" stroke="#8f6f3f" stroke-width="2"/>
-<rect x="2460.0" y="868" width="330" height="66" rx="10" fill="#aeb8c0" stroke="#6f7d87" stroke-width="4"/>
-<rect x="2453.0" y="876" width="26" height="50" rx="4" fill="#88959e"/>
-<rect x="2771.0" y="876" width="26" height="50" rx="4" fill="#88959e"/>
-<path d="M 2442.0,814 C 2448.0,838 2456.0,860 2470.0,876 C 2484.0,860 2490.0,838 2482.0,814 Z" fill="#94a9b6" stroke="#7d8b95" stroke-width="3"/>
-<path d="M 2768.0,814 C 2760.0,838 2766.0,860 2780.0,876 C 2794.0,860 2802.0,838 2808.0,814 Z" fill="#94a9b6" stroke="#7d8b95" stroke-width="3"/>
-<line x1="2830" y1="875" x2="2830" y2="1140" stroke="#8c7452" stroke-width="7" marker-end="url(#grav)"/>
-<text x="2812" y="905" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" text-anchor="end" fill="#8c7452">Gravity</text>
-<path d="M 2436.0,930 C 2454.0,890 2468.0,855 2478.0,838" fill="none" stroke="#5f8f70" stroke-width="5" marker-end="url(#menarrow)"/>
-<path d="M 2814.0,930 C 2796.0,890 2782.0,855 2772.0,838" fill="none" stroke="#5f8f70" stroke-width="5" marker-end="url(#menarrow)"/>
-<text x="2625" y="1195" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" text-anchor="middle" fill="#8c7452"><tspan x="2625" dy="0">Larger/heavier component:</tspan><tspan x="2625" dy="37">less retention margin</tspan></text>
-<rect x="2390" y="1330" width="470" height="225" rx="20" fill="#f6f3ed" stroke="#b7aa96" stroke-width="3"/>
-<text x="2625" y="1390" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle" fill="#24384d"><tspan x="2625" dy="0">Evaluate:</tspan></text>
-<text x="2625" y="1440" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" text-anchor="middle" fill="#3f5566"><tspan x="2625" dy="0">side assignment</tspan><tspan x="2625" dy="34">validated adhesive / support</tspan><tspan x="2625" dy="34">or another process strategy</tspan></text>
-<text x="2310" y="660" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" text-anchor="middle" fill="#566e80"><tspan x="2310" dy="0">Molten first-side joints</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3000"
+   height="1700"
+   viewBox="0 0 3000 1700"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg81"
+   sodipodi:docname="4.20.2.svg"
+   inkscape:export-filename="4.20.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview81"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.35133319"
+     inkscape:cx="1340.6077"
+     inkscape:cy="750.0003"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg81" />
+  <rect
+     x="0"
+     y="0"
+     width="3000"
+     height="1700"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs3">
+    <marker
+       id="arrow"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="9"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L18,9 L0,18 z"
+         fill="#405d78"
+         id="path1" />
+    </marker>
+    <marker
+       id="grav"
+       markerWidth="20"
+       markerHeight="20"
+       refX="17"
+       refY="10"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L20,10 L0,20 z"
+         fill="#8c7452"
+         id="path2" />
+    </marker>
+    <marker
+       id="menarrow"
+       markerWidth="13"
+       markerHeight="13"
+       refX="10.5"
+       refY="6.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L13,6.5 L0,13 z"
+         fill="#5f8f70"
+         id="path3" />
+    </marker>
+  </defs>
+  <rect
+     x="60"
+     y="70"
+     width="760"
+     height="1560"
+     rx="26"
+     fill="#fbfcfd"
+     stroke="#a3b0ba"
+     stroke-width="3"
+     id="rect3" />
+  <rect
+     x="60"
+     y="70"
+     width="760"
+     height="155"
+     rx="26"
+     fill="#e8eef3"
+     stroke="#a3b0ba"
+     stroke-width="3"
+     id="rect4" />
+  <rect
+     x="63"
+     y="202"
+     width="754"
+     height="25"
+     fill="#e8eef3"
+     id="rect5" />
+  <text
+     x="440.0"
+     y="165"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text5">A. Side 1 reflow</text>
+  <rect
+     x="870"
+     y="70"
+     width="760"
+     height="1560"
+     rx="26"
+     fill="#fbfcfd"
+     stroke="#a3b0ba"
+     stroke-width="3"
+     id="rect6" />
+  <rect
+     x="870"
+     y="70"
+     width="760"
+     height="155"
+     rx="26"
+     fill="#edf2f4"
+     stroke="#a3b0ba"
+     stroke-width="3"
+     id="rect7" />
+  <rect
+     x="873"
+     y="202"
+     width="754"
+     height="25"
+     fill="#edf2f4"
+     id="rect8" />
+  <text
+     x="1250.0"
+     y="165"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text8">B. Flip + Side 2 placement</text>
+  <rect
+     x="1680"
+     y="70"
+     width="1260"
+     height="1560"
+     rx="26"
+     fill="#fbfcfd"
+     stroke="#a3b0ba"
+     stroke-width="3"
+     id="rect9" />
+  <rect
+     x="1680"
+     y="70"
+     width="1260"
+     height="155"
+     rx="26"
+     fill="#f3f0f8"
+     stroke="#a3b0ba"
+     stroke-width="3"
+     id="rect10" />
+  <rect
+     x="1683"
+     y="202"
+     width="1254"
+     height="25"
+     fill="#f3f0f8"
+     id="rect11" />
+  <text
+     x="2310.0"
+     y="165"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text11">C. Second reflow</text>
+  <text
+     x="440"
+     y="285"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text12"><tspan
+       x="440"
+       dy="0"
+       id="tspan11">Side 1 reflow complete</tspan></text>
+  <text
+     x="440"
+     y="405"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text13"><tspan
+       x="440"
+       dy="0"
+       id="tspan12">Side 1</tspan></text>
+  <rect
+     x="190"
+     y="650"
+     width="500"
+     height="44"
+     rx="5"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="4"
+     id="rect13" />
+  <rect
+     x="333.43356"
+     y="641.57428"
+     width="52"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect14" />
+  <rect
+     x="479.43356"
+     y="641.57428"
+     width="52"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect15" />
+  <path
+     d="m 347.43356,641.5743 22,-32 h 18 l -12,32 z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path15" />
+  <path
+     d="m 489.43356,641.5743 -12,-32 h 18 l 22,32 z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path16" />
+  <rect
+     x="357.43356"
+     y="553.57428"
+     width="150"
+     height="56"
+     rx="10"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="4"
+     id="rect16" />
+  <rect
+     x="351.43356"
+     y="561.57428"
+     width="24"
+     height="42"
+     rx="4"
+     fill="#88959e"
+     id="rect17" />
+  <rect
+     x="489.43356"
+     y="561.57428"
+     width="24"
+     height="42"
+     rx="4"
+     fill="#88959e"
+     id="rect18" />
+  <text
+     x="440"
+     y="930"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3f5566"
+     id="text23"><tspan
+       x="440"
+       dy="0"
+       id="tspan23">Solidified solder joints</tspan></text>
+  <line
+     x1="440"
+     y1="895"
+     x2="375"
+     y2="725"
+     stroke="#405d78"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line23" />
+  <path
+     d="m 1032.1285,430.10053 c 110,-105 330,-105 435,0"
+     fill="none"
+     stroke="#405d78"
+     stroke-width="6"
+     marker-end="url(#arrow)"
+     id="path23" />
+  <text
+     x="1250"
+     y="315"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text24">Flip board</text>
+  <text
+     x="1250"
+     y="455"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text25"><tspan
+       x="1250"
+       dy="0"
+       id="tspan24">Side 2</tspan></text>
+  <rect
+     x="1000"
+     y="690"
+     width="500"
+     height="44"
+     rx="5"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="4"
+     id="rect25" />
+  <rect
+     x="1112.0"
+     y="680"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect26" />
+  <rect
+     x="1206.0"
+     y="680"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect27" />
+  <path
+     d="M 1124.0,680 L 1142.0,660 L 1152.0,660 L 1144.0,680 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path27" />
+  <path
+     d="M 1216.0,680 L 1208.0,660 L 1218.0,660 L 1236.0,680 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path28" />
+  <rect
+     x="1130.0"
+     y="622"
+     width="100"
+     height="38"
+     rx="7"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="3"
+     id="rect28" />
+  <rect
+     x="1277.0"
+     y="680"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect29" />
+  <rect
+     x="1401.0"
+     y="680"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect30" />
+  <path
+     d="M 1289.0,680 L 1307.0,660 L 1317.0,660 L 1309.0,680 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path30" />
+  <path
+     d="M 1411.0,680 L 1403.0,660 L 1413.0,660 L 1431.0,680 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path31" />
+  <rect
+     x="1295.0"
+     y="622"
+     width="130"
+     height="38"
+     rx="7"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="3"
+     id="rect31" />
+  <rect
+     x="1151.0"
+     y="734"
+     width="52"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect32" />
+  <rect
+     x="1297.0"
+     y="734"
+     width="52"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect33" />
+  <path
+     d="M 1165.0,744 L 1187.0,776 L 1205.0,776 L 1193.0,744 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path33" />
+  <path
+     d="M 1307.0,744 L 1295.0,776 L 1313.0,776 L 1335.0,744 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path34" />
+  <rect
+     x="1175.0"
+     y="776"
+     width="150"
+     height="56"
+     rx="10"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="4"
+     id="rect34" />
+  <rect
+     x="1169.0"
+     y="784"
+     width="24"
+     height="42"
+     rx="4"
+     fill="#88959e"
+     id="rect35" />
+  <rect
+     x="1307.0"
+     y="784"
+     width="24"
+     height="42"
+     rx="4"
+     fill="#88959e"
+     id="rect36" />
+  <text
+     x="1250"
+     y="920"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text36"><tspan
+       x="1250"
+       dy="0"
+       id="tspan36">Side 1 components now underneath</tspan></text>
+  <line
+     x1="1250"
+     y1="880"
+     x2="1250"
+     y2="845"
+     stroke="#405d78"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line36" />
+  <text
+     x="1250"
+     y="1090"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text37"><tspan
+       x="1250"
+       dy="0"
+       id="tspan37">Side 1</tspan></text>
+  <text
+     x="2310"
+     y="285"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text38"><tspan
+       x="2310"
+       dy="0"
+       id="tspan38">First-side solder molten again</tspan></text>
+  <line
+     x1="2310"
+     y1="350"
+     x2="2310"
+     y2="1555"
+     stroke="#c8cfd5"
+     stroke-width="3"
+     stroke-dasharray="14 14"
+     id="line38" />
+  <text
+     x="1995"
+     y="405"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#5f8f70"
+     id="text39"><tspan
+       x="1995"
+       dy="0"
+       id="tspan39">Smaller / lighter component</tspan></text>
+  <text
+     x="2625"
+     y="405"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#8c7452"
+     id="text40"><tspan
+       x="2625"
+       dy="0"
+       id="tspan40">Larger / heavier component</tspan></text>
+  <text
+     x="2310"
+     y="500"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text41"><tspan
+       x="2310"
+       dy="0"
+       id="tspan41">Second reflow</tspan></text>
+  <path
+     d="M 2200,625 C 2184,595 2216,570 2200,540"
+     fill="none"
+     stroke="#c88432"
+     stroke-width="7"
+     stroke-linecap="round"
+     id="path41" />
+  <path
+     d="M 2280,625 C 2264,595 2296,570 2280,540"
+     fill="none"
+     stroke="#c88432"
+     stroke-width="7"
+     stroke-linecap="round"
+     id="path42" />
+  <path
+     d="M 2360,625 C 2344,595 2376,570 2360,540"
+     fill="none"
+     stroke="#c88432"
+     stroke-width="7"
+     stroke-linecap="round"
+     id="path43" />
+  <path
+     d="M 2440,625 C 2424,595 2456,570 2440,540"
+     fill="none"
+     stroke="#c88432"
+     stroke-width="7"
+     stroke-linecap="round"
+     id="path44" />
+  <rect
+     x="1745"
+     y="760"
+     width="500"
+     height="44"
+     rx="5"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="4"
+     id="rect44" />
+  <rect
+     x="1857.0"
+     y="750"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect45" />
+  <rect
+     x="1951.0"
+     y="750"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect46" />
+  <path
+     d="M 1869.0,750 L 1887.0,730 L 1897.0,730 L 1889.0,750 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path46" />
+  <path
+     d="M 1961.0,750 L 1953.0,730 L 1963.0,730 L 1981.0,750 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path47" />
+  <rect
+     x="1875.0"
+     y="692"
+     width="100"
+     height="38"
+     rx="7"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="3"
+     id="rect47" />
+  <rect
+     x="2022.0"
+     y="750"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect48" />
+  <rect
+     x="2146.0"
+     y="750"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect49" />
+  <path
+     d="M 2034.0,750 L 2052.0,730 L 2062.0,730 L 2054.0,750 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path49" />
+  <path
+     d="M 2156.0,750 L 2148.0,730 L 2158.0,730 L 2176.0,750 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path50" />
+  <rect
+     x="2040.0"
+     y="692"
+     width="130"
+     height="38"
+     rx="7"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="3"
+     id="rect50" />
+  <rect
+     x="1890.0"
+     y="804"
+     width="58"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect51" />
+  <rect
+     x="2042.0"
+     y="804"
+     width="58"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect52" />
+  <rect
+     x="1920.0"
+     y="868"
+     width="150"
+     height="56"
+     rx="10"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="4"
+     id="rect53" />
+  <rect
+     x="1913.0"
+     y="876"
+     width="26"
+     height="42"
+     rx="4"
+     fill="#88959e"
+     id="rect54" />
+  <rect
+     x="2051.0"
+     y="876"
+     width="26"
+     height="42"
+     rx="4"
+     fill="#88959e"
+     id="rect55" />
+  <path
+     d="M 1902.0,814 C 1908.0,838 1916.0,860 1930.0,876 C 1944.0,860 1950.0,838 1942.0,814 Z"
+     fill="#94a9b6"
+     stroke="#7d8b95"
+     stroke-width="3"
+     id="path55" />
+  <path
+     d="M 2048.0,814 C 2040.0,838 2046.0,860 2060.0,876 C 2074.0,860 2082.0,838 2088.0,814 Z"
+     fill="#94a9b6"
+     stroke="#7d8b95"
+     stroke-width="3"
+     id="path56" />
+  <line
+     x1="2147.8716"
+     y1="871.85138"
+     x2="2147.8716"
+     y2="1044.9923"
+     stroke="#8c7452"
+     stroke-width="5.09619"
+     marker-end="url(#grav)"
+     id="line56" />
+  <text
+     x="2180.0403"
+     y="958.52625"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#8c7452"
+     id="text56">Gravity</text>
+  <path
+     d="M 1887.0,925 C 1907.0,885 1923.0,855 1935.0,835"
+     fill="none"
+     stroke="#5f8f70"
+     stroke-width="5"
+     marker-end="url(#menarrow)"
+     id="path57"
+     style="stroke-width:4;stroke-dasharray:none" />
+  <path
+     d="M 2103.0,925 C 2083.0,885 2067.0,855 2055.0,835"
+     fill="none"
+     stroke="#5f8f70"
+     stroke-width="5"
+     marker-end="url(#menarrow)"
+     id="path58"
+     style="stroke-width:4;stroke-dasharray:none" />
+  <text
+     x="1995"
+     y="1125"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#5f8f70"
+     id="text59"><tspan
+       x="1995"
+       dy="0"
+       id="tspan58">Molten-solder surface tension</tspan><tspan
+       x="1995"
+       dy="37"
+       id="tspan59">supports retention</tspan></text>
+  <line
+     x1="1952.0133"
+     y1="1072.4127"
+     x2="1890.9867"
+     y2="922.58728"
+     stroke="#5f8f70"
+     stroke-width="6.33525"
+     id="line59"
+     style="stroke-width:4;stroke-dasharray:none" />
+  <line
+     x1="2038.0798"
+     y1="1077.115"
+     x2="2100.4944"
+     y2="922.60797"
+     stroke="#5f8f70"
+     stroke-width="6.50621"
+     id="line60"
+     style="stroke-width:4;stroke-dasharray:none" />
+  <text
+     x="1995"
+     y="1390"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text61"><tspan
+       x="1995"
+       dy="0"
+       id="tspan60">Smaller/lighter component:</tspan><tspan
+       x="1995"
+       dy="38"
+       id="tspan61">often retained</tspan></text>
+  <rect
+     x="2375"
+     y="760"
+     width="500"
+     height="44"
+     rx="5"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="4"
+     id="rect61" />
+  <rect
+     x="2487.0"
+     y="750"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect62" />
+  <rect
+     x="2581.0"
+     y="750"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect63" />
+  <path
+     d="M 2499.0,750 L 2517.0,730 L 2527.0,730 L 2519.0,750 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path63" />
+  <path
+     d="M 2591.0,750 L 2583.0,730 L 2593.0,730 L 2611.0,750 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path64" />
+  <rect
+     x="2505.0"
+     y="692"
+     width="100"
+     height="38"
+     rx="7"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="3"
+     id="rect64" />
+  <rect
+     x="2652.0"
+     y="750"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect65" />
+  <rect
+     x="2776.0"
+     y="750"
+     width="42"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect66" />
+  <path
+     d="M 2664.0,750 L 2682.0,730 L 2692.0,730 L 2684.0,750 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path66" />
+  <path
+     d="M 2786.0,750 L 2778.0,730 L 2788.0,730 L 2806.0,750 Z"
+     fill="#b9c3ca"
+     stroke="#7d8b95"
+     stroke-width="2"
+     id="path67" />
+  <rect
+     x="2670.0"
+     y="692"
+     width="130"
+     height="38"
+     rx="7"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="3"
+     id="rect67" />
+  <rect
+     x="2430.0"
+     y="804"
+     width="58"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect68" />
+  <rect
+     x="2762.0"
+     y="804"
+     width="58"
+     height="10"
+     rx="2"
+     fill="#c89b58"
+     stroke="#8f6f3f"
+     stroke-width="2"
+     id="rect69" />
+  <rect
+     x="2460.0"
+     y="868"
+     width="330"
+     height="66"
+     rx="10"
+     fill="#aeb8c0"
+     stroke="#6f7d87"
+     stroke-width="4"
+     id="rect70" />
+  <rect
+     x="2453.0"
+     y="876"
+     width="26"
+     height="50"
+     rx="4"
+     fill="#88959e"
+     id="rect71" />
+  <rect
+     x="2771.0"
+     y="876"
+     width="26"
+     height="50"
+     rx="4"
+     fill="#88959e"
+     id="rect72" />
+  <path
+     d="M 2442.0,814 C 2448.0,838 2456.0,860 2470.0,876 C 2484.0,860 2490.0,838 2482.0,814 Z"
+     fill="#94a9b6"
+     stroke="#7d8b95"
+     stroke-width="3"
+     id="path72" />
+  <path
+     d="M 2768.0,814 C 2760.0,838 2766.0,860 2780.0,876 C 2794.0,860 2802.0,838 2808.0,814 Z"
+     fill="#94a9b6"
+     stroke="#7d8b95"
+     stroke-width="3"
+     id="path73" />
+  <line
+     x1="2837.8716"
+     y1="886.02008"
+     x2="2837.8716"
+     y2="1057.7323"
+     stroke="#8c7452"
+     stroke-width="5.63476"
+     marker-end="url(#grav)"
+     id="line73" />
+  <text
+     x="2808.8516"
+     y="996.30945"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     text-anchor="end"
+     fill="#8c7452"
+     id="text73">Gravity</text>
+  <text
+     x="2626.5742"
+     y="1133.6023"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="29px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#8c7452"
+     id="text76"><tspan
+       x="2626.5742"
+       dy="0"
+       id="tspan75">Larger/heavier component:</tspan><tspan
+       x="2626.5742"
+       dy="37"
+       id="tspan76">less retention margin</tspan></text>
+  <rect
+     x="2390"
+     y="1330"
+     width="470"
+     height="225"
+     rx="20"
+     fill="#f6f3ed"
+     stroke="#b7aa96"
+     stroke-width="3"
+     id="rect76" />
+  <text
+     x="2625"
+     y="1390"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text77"><tspan
+       x="2625"
+       dy="0"
+       id="tspan77">Evaluate:</tspan></text>
+  <text
+     x="2625"
+     y="1440"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="25"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#3f5566"
+     id="text80"><tspan
+       x="2625"
+       dy="0"
+       id="tspan78">side assignment</tspan><tspan
+       x="2625"
+       dy="34"
+       id="tspan79">validated adhesive / support</tspan><tspan
+       x="2625"
+       dy="34"
+       id="tspan80">or another process strategy</tspan></text>
+  <text
+     x="2310"
+     y="660"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="28"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text81"><tspan
+       x="2310"
+       dy="0"
+       id="tspan81">Molten first-side joints</tspan></text>
 </svg>
