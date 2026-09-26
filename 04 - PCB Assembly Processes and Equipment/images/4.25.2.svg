@@ -1,10 +1,108 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3600" height="1900" viewBox="0 0 3600 1900" preserveAspectRatio="xMidYMid meet">
-<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
-<defs>
-  <marker id="arrowBlue" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#395B75"/></marker>
-  <marker id="arrowGreen" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#4F9362"/></marker>
-  <marker id="arrowAmber" markerWidth="18" markerHeight="18" refX="15" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L0,12 L16,6 z" fill="#C9821A"/></marker>
-  <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3700"
+   height="1900"
+   viewBox="0 0 3700 1900"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg72"
+   sodipodi:docname="4.25.2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.25.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview72"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.16046596"
+     inkscape:cx="1022.0236"
+     inkscape:cy="495.43218"
+     inkscape:window-width="1728"
+     inkscape:window-height="986"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg72"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs3">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowBlue"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 V 12 L 16,6 Z"
+         fill="#395b75"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowGreen"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 V 12 L 16,6 Z"
+         fill="#4f9362"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowAmber"
+       markerWidth="18"
+       markerHeight="18"
+       refX="15"
+       refY="6"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 V 12 L 16,6 Z"
+         fill="#c9821a"
+         id="path3" />
+    </marker>
+    <style
+       id="style3">
     text{font-family:Arial,Helvetica,sans-serif;fill:#22313F}
     .stageTitle{font-size:42px;font-weight:700}
     .body{font-size:31px}
@@ -13,161 +111,1064 @@
     .gate{font-size:33px;font-weight:700}
     .release{font-size:44px;font-weight:700}
   </style>
-</defs>
-<g id="entry">
-<rect x="80" y="82" width="690" height="195" rx="26" fill="#DDEAF5" stroke="#6E98B8" stroke-width="4"/>
-<rect x="125" y="132" width="150" height="90" rx="12" fill="#DCEFEA" stroke="#4F9362" stroke-width="4"/>
-<circle cx="145" cy="152" r="7" fill="#ffffff" stroke="#4F9362" stroke-width="2"/>
-<circle cx="255" cy="152" r="7" fill="#ffffff" stroke="#4F9362" stroke-width="2"/>
-<circle cx="145" cy="202" r="7" fill="#ffffff" stroke="#4F9362" stroke-width="2"/>
-<circle cx="255" cy="202" r="7" fill="#ffffff" stroke="#4F9362" stroke-width="2"/>
-<text x="315" y="142" class="stageTitle" text-anchor="start">First board / defined initial set</text>
-<text x="315" y="190" class="small" text-anchor="start">One assembly or the defined small initial set</text>
-<text x="315" y="230" class="tiny" text-anchor="start" fill="#5D6B78">used for startup verification under the local process</text>
-</g>
-<path d="M 425 277 V 320 H 450 V 340" fill="none" stroke="#395B75" stroke-width="7" marker-end="url(#arrowBlue)"/>
-<g id="print-stage"><rect x="140" y="340" width="620" height="860" rx="28" fill="#E8F1F7" stroke="#6E98B8" stroke-width="4"/>
-<text x="450.0" y="405" class="stageTitle" text-anchor="middle">
-<tspan x="450.0" dy="0">Print</tspan>
-<tspan x="450.0" dy="47">First print / SPI check</tspan>
-</text>
-<rect x="285" y="530" width="330" height="210" rx="18" fill="#DCEFEA" stroke="#4F9362" stroke-width="5"/>
-<circle cx="320" cy="565" r="8" fill="#ffffff" stroke="#4F9362" stroke-width="2"/><circle cx="580" cy="565" r="8" fill="#ffffff" stroke="#4F9362" stroke-width="2"/>
-<circle cx="320" cy="705" r="8" fill="#ffffff" stroke="#4F9362" stroke-width="2"/><circle cx="580" cy="705" r="8" fill="#ffffff" stroke="#4F9362" stroke-width="2"/>
-<g fill="#BCC6CD" stroke="#8A9AA8" stroke-width="2">
-<rect x="355" y="585" width="38" height="20" rx="3"/><rect x="415" y="585" width="38" height="20" rx="3"/><rect x="475" y="585" width="38" height="20" rx="3"/>
-<rect x="355" y="630" width="38" height="20" rx="3"/><rect x="415" y="630" width="38" height="20" rx="3"/><rect x="475" y="630" width="38" height="20" rx="3"/>
-</g>
-<text x="450" y="770" class="tiny" text-anchor="middle" fill="#5D6B78">
-<tspan x="450" dy="0">SPI may evaluate volume / height / area</tspan>
-<tspan x="450" dy="30">and X-Y offset</tspan>
-</text>
-<circle cx="188" cy="875" r="15" fill="#4F9362"/>
-<path d="M 180 875 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="218" y="883" class="small" text-anchor="start">gross alignment / coverage reasonable</text>
-<circle cx="188" cy="935" r="15" fill="#4F9362"/>
-<path d="M 180 935 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="218" y="943" class="small" text-anchor="start">SPI when used</text>
-<rect x="195" y="1050" width="510" height="100" rx="18" fill="#E6F3E3" stroke="#4F9362" stroke-width="3"/>
-<text x="450.0" y="1091" class="gate" text-anchor="middle">Expected startup evidence?</text>
-<text x="450.0" y="1128" class="tiny" text-anchor="middle" fill="#5D6B78">PASS → continue before placement</text></g>
-<g id="placement-stage"><rect x="900" y="340" width="620" height="860" rx="28" fill="#EAF3E7" stroke="#7FAE76" stroke-width="4"/>
-<text x="1210.0" y="405" class="stageTitle" text-anchor="middle">
-<tspan x="1210.0" dy="0">Place</tspan>
-<tspan x="1210.0" dy="47">First placement check</tspan>
-</text>
-<rect x="1045" y="530" width="330" height="210" rx="18" fill="#DCEFEA" stroke="#4F9362" stroke-width="5"/>
-<g fill="#8A9AA8"><rect x="1115" y="580" width="55" height="32" rx="4"/><rect x="1220" y="590" width="65" height="35" rx="4"/></g>
-<rect x="1155" y="645" width="115" height="65" rx="8" fill="#7FAE76" stroke="#365C43" stroke-width="3"/>
-<circle cx="1075" cy="560" r="7" fill="#ffffff" stroke="#4F9362" stroke-width="2"/><circle cx="1345" cy="560" r="7" fill="#ffffff" stroke="#4F9362" stroke-width="2"/>
-<text x="1210" y="782" class="tiny" text-anchor="middle" fill="#5D6B78">components placed on printed paste</text>
-<circle cx="948" cy="827" r="15" fill="#4F9362"/>
-<path d="M 940 827 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="978" y="835" class="small" text-anchor="start">presence / identity</text>
-<circle cx="948" cy="882" r="15" fill="#4F9362"/>
-<path d="M 940 882 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="978" y="890" class="small" text-anchor="start">orientation / polarity</text>
-<circle cx="948" cy="937" r="15" fill="#4F9362"/>
-<path d="M 940 937 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="978" y="945" class="small" text-anchor="start">gross position</text>
-
-<rect x="955" y="1050" width="510" height="100" rx="18" fill="#E6F3E3" stroke="#4F9362" stroke-width="3"/>
-<text x="1210.0" y="1091" class="gate" text-anchor="middle">Placement evidence reasonable?</text>
-<text x="1210.0" y="1128" class="tiny" text-anchor="middle" fill="#5D6B78">PASS → continue before reflow</text></g>
-<g id="reflow-stage"><rect x="1660" y="340" width="620" height="860" rx="28" fill="#EEF2F5" stroke="#8A9AA8" stroke-width="4"/>
-<text x="1970.0" y="405" class="stageTitle" text-anchor="middle">
-<tspan x="1970.0" dy="0">Reflow</tspan>
-<tspan x="1970.0" dy="47">Recipe / profile applicability</tspan>
-</text>
-<rect x="1775" y="565" width="390" height="135" rx="18" fill="#F7F8FA" stroke="#596C7B" stroke-width="5"/>
-<path d="M 1805 655 H 2130" stroke="#6E98B8" stroke-width="7" marker-end="url(#arrowBlue)"/>
-<rect x="1815" y="535" width="55" height="30" rx="5" fill="#E8EDF2" stroke="#8A9AA8" stroke-width="3"/>
-<rect x="1880" y="535" width="55" height="30" rx="5" fill="#E8EDF2" stroke="#8A9AA8" stroke-width="3"/>
-<rect x="1945" y="535" width="55" height="30" rx="5" fill="#E8EDF2" stroke="#8A9AA8" stroke-width="3"/>
-<rect x="2025" y="535" width="125" height="65" rx="8" fill="#ffffff" stroke="#6E98B8" stroke-width="3"/>
-<path d="M 2042 580 Q 2068 550 2093 572 T 2135 558" fill="none" stroke="#C9821A" stroke-width="4"/>
-<text x="1970" y="750" class="tiny" text-anchor="middle" fill="#5D6B78">
-<tspan x="1970" dy="0">recipe and profile evidence</tspan>
-<tspan x="1970" dy="34">are related, not identical</tspan>
-</text>
-<circle cx="1708" cy="827" r="15" fill="#4F9362"/>
-<path d="M 1700 827 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1738" y="855" class="small" text-anchor="start">correct oven recipe</text>
-<circle cx="1708" cy="882" r="15" fill="#4F9362"/>
-<path d="M 1700 882 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1738" y="910" class="small" text-anchor="start">oven ready / stable</text>
-<circle cx="1708" cy="937" r="15" fill="#4F9362"/>
-<path d="M 1700 937 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1738" y="965" class="small" text-anchor="start">applicable profile evidence</text>
-<rect x="1715" y="1038" width="510" height="100" rx="18" fill="#E6F3E3" stroke="#4F9362" stroke-width="3"/>
-<text x="1970.0" y="1079" class="gate" text-anchor="middle">Reflow evidence applicable?</text>
-<text x="1970.0" y="1116" class="tiny" text-anchor="middle" fill="#5D6B78">PASS → reflow and inspect as required</text></g>
-<g id="inspection-stage"><rect x="2420" y="340" width="620" height="860" rx="28" fill="#E8EDF4" stroke="#6E98B8" stroke-width="4"/>
-<text x="2730.0" y="405" class="stageTitle" text-anchor="middle">
-<tspan x="2730.0" dy="0">Initial post-reflow</tspan>
-<tspan x="2730.0" dy="47">inspection</tspan>
-</text>
-<rect x="2565" y="545" width="320" height="200" rx="18" fill="#DCEFEA" stroke="#4F9362" stroke-width="5"/>
-<rect x="2630" y="590" width="95" height="58" rx="7" fill="#7FAE76" stroke="#365C43" stroke-width="3"/>
-<g fill="#8A9AA8"><rect x="2755" y="600" width="52" height="28" rx="4"/><rect x="2650" y="675" width="48" height="25" rx="4"/></g>
-<circle cx="2835" cy="575" r="72" fill="none" stroke="#6E98B8" stroke-width="8"/>
-<line x1="2885" y1="625" x2="2940" y2="680" stroke="#6E98B8" stroke-width="12" stroke-linecap="round"/>
-<text x="2730" y="782" class="tiny" text-anchor="middle" fill="#5D6B78">method depends on product / process</text>
-<circle cx="2468" cy="842" r="15" fill="#4F9362"/>
-<path d="M 2460 842 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="2498" y="850" class="small" text-anchor="start">visual / AOI as applicable</text>
-<circle cx="2468" cy="902" r="15" fill="#4F9362"/>
-<path d="M 2460 902 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="2498" y="910" class="small" text-anchor="start">X-ray where needed</text>
-<circle cx="2468" cy="962" r="15" fill="#4F9362"/>
-<path d="M 2460 962 l 7 7 l 13 -16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="2498" y="970" class="small" text-anchor="start">other defined startup check</text>
-<rect x="2475" y="1050" width="510" height="100" rx="18" fill="#E6F3E3" stroke="#4F9362" stroke-width="3"/>
-<text x="2730.0" y="1091" class="gate" text-anchor="middle">Required startup evidence passed?</text>
-<text x="2730.0" y="1128" class="tiny" text-anchor="middle" fill="#5D6B78">PASS → authorize normal production</text></g>
-<line x1="760" y1="700" x2="900" y2="700" stroke="#395B75" stroke-width="7" marker-end="url(#arrowBlue)"/>
-<line x1="1520" y1="700" x2="1660" y2="700" stroke="#395B75" stroke-width="7" marker-end="url(#arrowBlue)"/>
-<line x1="2280" y1="700" x2="2420" y2="700" stroke="#395B75" stroke-width="7" marker-end="url(#arrowBlue)"/>
-<line x1="3040" y1="700" x2="3082" y2="700" stroke="#4F9362" stroke-width="7" marker-end="url(#arrowGreen)"/>
-<g id="release">
-<rect x="3090" y="535" width="430" height="430" rx="28" fill="#E6F3E3" stroke="#4F9362" stroke-width="5"/>
-<circle cx="3305" cy="650" r="58" fill="#4F9362"/>
-<path d="M 3273 650 l 24 26 l 51 -60" fill="none" stroke="#ffffff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="3305" y="780" class="release" text-anchor="middle">Normal production</text>
-<text x="3305" y="832" class="release" text-anchor="middle">authorized</text>
-<text x="3305" y="895" class="small" text-anchor="middle">required startup gates passed</text>
-<text x="3305" y="942" class="tiny" text-anchor="middle" fill="#5D6B78">routine process control continues</text>
-</g>
-<line x1="450.0" y1="1150" x2="450.0" y2="1270" stroke="#C9821A" stroke-width="5" marker-end="url(#arrowAmber)"/>
-<line x1="1210.0" y1="1150" x2="1210.0" y2="1270" stroke="#C9821A" stroke-width="5" marker-end="url(#arrowAmber)"/>
-<line x1="1970.0" y1="1138" x2="1970.0" y2="1270" stroke="#C9821A" stroke-width="5" marker-end="url(#arrowAmber)"/>
-<line x1="2730.0" y1="1150" x2="2730.0" y2="1270" stroke="#C9821A" stroke-width="5" marker-end="url(#arrowAmber)"/>
-<g id="hold-loop">
-<rect x="170" y="1250" width="2870" height="100" rx="20" fill="#FFF4DF" stroke="#C9821A" stroke-width="4"/>
-<text x="1605" y="1310" class="gate" text-anchor="middle" fill="#9C5F11">Abnormal / uncertain evidence at any startup gate</text>
-
-<line x1="1605" y1="1350" x2="1605" y2="1410" stroke="#C9821A" stroke-width="6" marker-end="url(#arrowAmber)"/>
-
-<rect x="440" y="1440" width="560" height="220" rx="24" fill="#FCEAD9" stroke="#C9821A" stroke-width="5"/>
-<text x="720" y="1515" class="stageTitle" text-anchor="middle">HOLD</text>
-<text x="720" y="1580" class="small" text-anchor="middle">Stop at the affected gate.</text>
-<text x="720" y="1623" class="tiny" text-anchor="middle" fill="#5D6B78">Do not continue with unresolved evidence.</text>
-
-<line x1="1000" y1="1550" x2="1140" y2="1550" stroke="#C9821A" stroke-width="7" marker-end="url(#arrowAmber)"/>
-
-<rect x="1150" y="1440" width="850" height="220" rx="24" fill="#FFF4DF" stroke="#C9821A" stroke-width="5"/>
-<text x="1575" y="1515" class="stageTitle" text-anchor="middle">Correct controlled input / setup</text>
-<text x="1575" y="1580" class="small" text-anchor="middle">Correct the controlled board, material, program, recipe,</text>
-<text x="1575" y="1623" class="small" text-anchor="middle">or process setup that caused the abnormal result.</text>
-
-<line x1="2000" y1="1550" x2="2140" y2="1550" stroke="#C9821A" stroke-width="7" marker-end="url(#arrowAmber)"/>
-
-<rect x="2150" y="1440" width="900" height="220" rx="24" fill="#FFF4DF" stroke="#C9821A" stroke-width="5"/>
-<text x="2600" y="1515" class="stageTitle" text-anchor="middle">Repeat affected verification</text>
-<text x="2600" y="1580" class="small" text-anchor="middle">Repeat downstream checks invalidated by the change</text>
-<text x="2600" y="1623" class="small" text-anchor="middle">when required by the controlled process.</text>
-
-<path d="M 3050 1550 H 3350 V 1760 H 310 V 1360" fill="none" stroke="#C9821A" stroke-width="6" marker-end="url(#arrowAmber)"/>
-<text x="1830" y="1790" class="small" text-anchor="middle" fill="#9C5F11" font-weight="700">Return to the affected gate; never jump directly to normal production.</text>
-</g>
+  </defs>
+  <g
+     id="g72"
+     transform="translate(6.2318513,24.927405)">
+    <rect
+       x="80.288834"
+       y="82.288834"
+       width="906.36945"
+       height="194.42233"
+       rx="34.153053"
+       fill="#ddeaf5"
+       stroke="#6e98b8"
+       stroke-width="4.57766"
+       id="rect3" />
+    <rect
+       x="125"
+       y="132"
+       width="150"
+       height="90"
+       rx="12"
+       fill="#dcefea"
+       stroke="#4f9362"
+       stroke-width="4"
+       id="rect4" />
+    <circle
+       cx="145"
+       cy="152"
+       r="7"
+       fill="#ffffff"
+       stroke="#4f9362"
+       stroke-width="2"
+       id="circle4" />
+    <circle
+       cx="255"
+       cy="152"
+       r="7"
+       fill="#ffffff"
+       stroke="#4f9362"
+       stroke-width="2"
+       id="circle5" />
+    <circle
+       cx="145"
+       cy="202"
+       r="7"
+       fill="#ffffff"
+       stroke="#4f9362"
+       stroke-width="2"
+       id="circle6" />
+    <circle
+       cx="255"
+       cy="202"
+       r="7"
+       fill="#ffffff"
+       stroke="#4f9362"
+       stroke-width="2"
+       id="circle7" />
+    <text
+       x="315"
+       y="142"
+       class="stageTitle"
+       text-anchor="start"
+       id="text7">First board / defined initial set</text>
+    <text
+       x="315"
+       y="190"
+       class="small"
+       text-anchor="start"
+       id="text8">One assembly or the defined small initial set</text>
+    <text
+       x="315"
+       y="230"
+       class="tiny"
+       text-anchor="start"
+       fill="#5D6B78"
+       id="text9">used for startup verification under the local process</text>
+    <path
+       d="m 424.16502,277.78203 v 33.22548 h 26.28872 v 15.45371"
+       fill="none"
+       stroke="#395b75"
+       stroke-width="7"
+       marker-end="url(#arrowBlue)"
+       id="path9"
+       style="stroke-width:2.70419;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+    <g
+       id="print-stage">
+      <rect
+         x="140"
+         y="340"
+         width="620"
+         height="860"
+         rx="28"
+         fill="#e8f1f7"
+         stroke="#6e98b8"
+         stroke-width="4"
+         id="rect9" />
+      <text
+         x="450"
+         y="405"
+         class="stageTitle"
+         text-anchor="middle"
+         id="text10"><tspan
+           x="450"
+           dy="0"
+           id="tspan9">Print</tspan><tspan
+           x="450"
+           dy="47"
+           id="tspan10">First print / SPI check</tspan></text>
+      <rect
+         x="285"
+         y="530"
+         width="330"
+         height="210"
+         rx="18"
+         fill="#dcefea"
+         stroke="#4f9362"
+         stroke-width="5"
+         id="rect10" />
+      <circle
+         cx="320"
+         cy="565"
+         r="8"
+         fill="#ffffff"
+         stroke="#4f9362"
+         stroke-width="2"
+         id="circle10" />
+      <circle
+         cx="580"
+         cy="565"
+         r="8"
+         fill="#ffffff"
+         stroke="#4f9362"
+         stroke-width="2"
+         id="circle11" />
+      <circle
+         cx="320"
+         cy="705"
+         r="8"
+         fill="#ffffff"
+         stroke="#4f9362"
+         stroke-width="2"
+         id="circle12" />
+      <circle
+         cx="580"
+         cy="705"
+         r="8"
+         fill="#ffffff"
+         stroke="#4f9362"
+         stroke-width="2"
+         id="circle13" />
+      <g
+         fill="#bcc6cd"
+         stroke="#8a9aa8"
+         stroke-width="2"
+         id="g18">
+        <rect
+           x="355"
+           y="585"
+           width="38"
+           height="20"
+           rx="3"
+           id="rect13" />
+        <rect
+           x="415"
+           y="585"
+           width="38"
+           height="20"
+           rx="3"
+           id="rect14" />
+        <rect
+           x="475"
+           y="585"
+           width="38"
+           height="20"
+           rx="3"
+           id="rect15" />
+        <rect
+           x="355"
+           y="630"
+           width="38"
+           height="20"
+           rx="3"
+           id="rect16" />
+        <rect
+           x="415"
+           y="630"
+           width="38"
+           height="20"
+           rx="3"
+           id="rect17" />
+        <rect
+           x="475"
+           y="630"
+           width="38"
+           height="20"
+           rx="3"
+           id="rect18" />
+      </g>
+      <text
+         x="450"
+         y="770"
+         class="tiny"
+         text-anchor="middle"
+         fill="#5D6B78"
+         id="text19"><tspan
+           x="450"
+           dy="0"
+           id="tspan18">SPI may evaluate volume / height / area</tspan><tspan
+           x="450"
+           dy="30"
+           id="tspan19">and X-Y offset</tspan></text>
+      <circle
+         cx="188"
+         cy="875"
+         r="15"
+         fill="#4f9362"
+         id="circle19" />
+      <path
+         d="m 180,875 7,7 13,-16"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path19" />
+      <text
+         x="218"
+         y="883"
+         class="small"
+         text-anchor="start"
+         id="text20">gross alignment / coverage reasonable</text>
+      <circle
+         cx="188"
+         cy="935"
+         r="15"
+         fill="#4f9362"
+         id="circle20" />
+      <path
+         d="m 180,935 7,7 13,-16"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path20" />
+      <text
+         x="218"
+         y="943"
+         class="small"
+         text-anchor="start"
+         id="text21">SPI when used</text>
+      <rect
+         x="195"
+         y="1050"
+         width="510"
+         height="100"
+         rx="18"
+         fill="#e6f3e3"
+         stroke="#4f9362"
+         stroke-width="3"
+         id="rect21" />
+      <text
+         x="450"
+         y="1091"
+         class="gate"
+         text-anchor="middle"
+         id="text22">Expected startup evidence?</text>
+      <text
+         x="450"
+         y="1128"
+         class="tiny"
+         text-anchor="middle"
+         fill="#5D6B78"
+         id="text23">PASS → continue before placement</text>
+    </g>
+    <rect
+       x="900"
+       y="340"
+       width="620"
+       height="860"
+       rx="28"
+       fill="#eaf3e7"
+       stroke="#7fae76"
+       stroke-width="4"
+       id="rect23" />
+    <text
+       x="1210"
+       y="405"
+       class="stageTitle"
+       text-anchor="middle"
+       id="text24"><tspan
+         x="1210"
+         dy="0"
+         id="tspan23">Place</tspan><tspan
+         x="1210"
+         dy="47"
+         id="tspan24">First placement check</tspan></text>
+    <rect
+       x="1045"
+       y="530"
+       width="330"
+       height="210"
+       rx="18"
+       fill="#dcefea"
+       stroke="#4f9362"
+       stroke-width="5"
+       id="rect24" />
+    <g
+       fill="#8a9aa8"
+       id="g26">
+      <rect
+         x="1115"
+         y="580"
+         width="55"
+         height="32"
+         rx="4"
+         id="rect25" />
+      <rect
+         x="1220"
+         y="590"
+         width="65"
+         height="35"
+         rx="4"
+         id="rect26" />
+    </g>
+    <rect
+       x="1155"
+       y="645"
+       width="115"
+       height="65"
+       rx="8"
+       fill="#7fae76"
+       stroke="#365c43"
+       stroke-width="3"
+       id="rect27" />
+    <circle
+       cx="1075"
+       cy="560"
+       r="7"
+       fill="#ffffff"
+       stroke="#4f9362"
+       stroke-width="2"
+       id="circle27" />
+    <circle
+       cx="1345"
+       cy="560"
+       r="7"
+       fill="#ffffff"
+       stroke="#4f9362"
+       stroke-width="2"
+       id="circle28" />
+    <text
+       x="1210"
+       y="782"
+       class="tiny"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text28">components placed on printed paste</text>
+    <circle
+       cx="948"
+       cy="827"
+       r="15"
+       fill="#4f9362"
+       id="circle29" />
+    <path
+       d="m 940,827 7,7 13,-16"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path29" />
+    <text
+       x="978"
+       y="835"
+       class="small"
+       text-anchor="start"
+       id="text29">presence / identity</text>
+    <circle
+       cx="948"
+       cy="882"
+       r="15"
+       fill="#4f9362"
+       id="circle30" />
+    <path
+       d="m 940,882 7,7 13,-16"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path30" />
+    <text
+       x="978"
+       y="890"
+       class="small"
+       text-anchor="start"
+       id="text30">orientation / polarity</text>
+    <circle
+       cx="948"
+       cy="937"
+       r="15"
+       fill="#4f9362"
+       id="circle31" />
+    <path
+       d="m 940,937 7,7 13,-16"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path31" />
+    <text
+       x="978"
+       y="945"
+       class="small"
+       text-anchor="start"
+       id="text31">gross position</text>
+    <rect
+       x="927.6701"
+       y="1050.074"
+       width="562.3761"
+       height="99.852051"
+       rx="19.848568"
+       fill="#e6f3e3"
+       stroke="#4f9362"
+       stroke-width="3.14795"
+       id="rect31" />
+    <text
+       x="1210"
+       y="1091"
+       class="gate"
+       text-anchor="middle"
+       id="text32">Placement evidence reasonable?</text>
+    <text
+       x="1210"
+       y="1128"
+       class="tiny"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text33">PASS → continue before reflow</text>
+    <rect
+       x="1660"
+       y="340"
+       width="620"
+       height="860"
+       rx="28"
+       fill="#eef2f5"
+       stroke="#8a9aa8"
+       stroke-width="4"
+       id="rect33" />
+    <text
+       x="1970"
+       y="405"
+       class="stageTitle"
+       text-anchor="middle"
+       id="text34"><tspan
+         x="1970"
+         dy="0"
+         id="tspan33">Reflow</tspan><tspan
+         x="1970"
+         dy="47"
+         id="tspan34">Recipe / profile applicability</tspan></text>
+    <rect
+       x="1775"
+       y="565"
+       width="390"
+       height="135"
+       rx="18"
+       fill="#f7f8fa"
+       stroke="#596c7b"
+       stroke-width="5"
+       id="rect34" />
+    <path
+       d="m 1805,655 h 325"
+       stroke="#6e98b8"
+       stroke-width="7"
+       marker-end="url(#arrowBlue)"
+       id="path34"
+       style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+    <rect
+       x="1815"
+       y="535"
+       width="55"
+       height="30"
+       rx="5"
+       fill="#e8edf2"
+       stroke="#8a9aa8"
+       stroke-width="3"
+       id="rect35" />
+    <rect
+       x="1880"
+       y="535"
+       width="55"
+       height="30"
+       rx="5"
+       fill="#e8edf2"
+       stroke="#8a9aa8"
+       stroke-width="3"
+       id="rect36" />
+    <rect
+       x="1945"
+       y="535"
+       width="55"
+       height="30"
+       rx="5"
+       fill="#e8edf2"
+       stroke="#8a9aa8"
+       stroke-width="3"
+       id="rect37" />
+    <rect
+       x="2025"
+       y="535"
+       width="125"
+       height="65"
+       rx="8"
+       fill="#ffffff"
+       stroke="#6e98b8"
+       stroke-width="3"
+       id="rect38" />
+    <path
+       d="m 2042,580 q 26,-30 51,-8 25,22 42,-14"
+       fill="none"
+       stroke="#c9821a"
+       stroke-width="4"
+       id="path38" />
+    <text
+       x="1970"
+       y="750"
+       class="tiny"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text39"><tspan
+         x="1970"
+         dy="0"
+         id="tspan38">recipe and profile evidence</tspan><tspan
+         x="1970"
+         dy="34"
+         id="tspan39">are related, not identical</tspan></text>
+    <circle
+       cx="1708"
+       cy="827"
+       r="15"
+       fill="#4f9362"
+       id="circle39" />
+    <path
+       d="m 1700,827 7,7 13,-16"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path39" />
+    <text
+       x="1738"
+       y="855"
+       class="small"
+       text-anchor="start"
+       id="text40">correct oven recipe</text>
+    <circle
+       cx="1708"
+       cy="882"
+       r="15"
+       fill="#4f9362"
+       id="circle40" />
+    <path
+       d="m 1700,882 7,7 13,-16"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path40" />
+    <text
+       x="1738"
+       y="910"
+       class="small"
+       text-anchor="start"
+       id="text41">oven ready / stable</text>
+    <circle
+       cx="1708"
+       cy="937"
+       r="15"
+       fill="#4f9362"
+       id="circle41" />
+    <path
+       d="m 1700,937 7,7 13,-16"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path41" />
+    <text
+       x="1738"
+       y="965"
+       class="small"
+       text-anchor="start"
+       id="text42">applicable profile evidence</text>
+    <rect
+       x="1715"
+       y="1038"
+       width="510"
+       height="100"
+       rx="18"
+       fill="#e6f3e3"
+       stroke="#4f9362"
+       stroke-width="3"
+       id="rect42" />
+    <text
+       x="1970"
+       y="1079"
+       class="gate"
+       text-anchor="middle"
+       id="text43">Reflow evidence applicable?</text>
+    <text
+       x="1970"
+       y="1116"
+       class="tiny"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text44">PASS → reflow and inspect as required</text>
+    <rect
+       x="2420"
+       y="340"
+       width="620"
+       height="860"
+       rx="28"
+       fill="#e8edf4"
+       stroke="#6e98b8"
+       stroke-width="4"
+       id="rect44" />
+    <text
+       x="2730"
+       y="405"
+       class="stageTitle"
+       text-anchor="middle"
+       id="text45"><tspan
+         x="2730"
+         dy="0"
+         id="tspan44">Initial post-reflow</tspan><tspan
+         x="2730"
+         dy="47"
+         id="tspan45">inspection</tspan></text>
+    <rect
+       x="2565"
+       y="545"
+       width="320"
+       height="200"
+       rx="18"
+       fill="#dcefea"
+       stroke="#4f9362"
+       stroke-width="5"
+       id="rect45" />
+    <rect
+       x="2630"
+       y="590"
+       width="95"
+       height="58"
+       rx="7"
+       fill="#7fae76"
+       stroke="#365c43"
+       stroke-width="3"
+       id="rect46" />
+    <g
+       fill="#8a9aa8"
+       id="g48">
+      <rect
+         x="2755"
+         y="600"
+         width="52"
+         height="28"
+         rx="4"
+         id="rect47" />
+      <rect
+         x="2650"
+         y="675"
+         width="48"
+         height="25"
+         rx="4"
+         id="rect48" />
+    </g>
+    <circle
+       cx="2835"
+       cy="575"
+       r="72"
+       fill="none"
+       stroke="#6e98b8"
+       stroke-width="8"
+       id="circle48" />
+    <line
+       x1="2885"
+       y1="625"
+       x2="2940"
+       y2="680"
+       stroke="#6e98b8"
+       stroke-width="12"
+       stroke-linecap="round"
+       id="line48" />
+    <text
+       x="2730"
+       y="782"
+       class="tiny"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text48">method depends on product / process</text>
+    <circle
+       cx="2468"
+       cy="842"
+       r="15"
+       fill="#4f9362"
+       id="circle49" />
+    <path
+       d="m 2460,842 7,7 13,-16"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path49" />
+    <text
+       x="2498"
+       y="850"
+       class="small"
+       text-anchor="start"
+       id="text49">visual / AOI as applicable</text>
+    <circle
+       cx="2468"
+       cy="902"
+       r="15"
+       fill="#4f9362"
+       id="circle50" />
+    <path
+       d="m 2460,902 7,7 13,-16"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path50" />
+    <text
+       x="2498"
+       y="910"
+       class="small"
+       text-anchor="start"
+       id="text50">X-ray where needed</text>
+    <circle
+       cx="2468"
+       cy="962"
+       r="15"
+       fill="#4f9362"
+       id="circle51" />
+    <path
+       d="m 2460,962 7,7 13,-16"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path51" />
+    <text
+       x="2498"
+       y="970"
+       class="small"
+       text-anchor="start"
+       id="text51">other defined startup check</text>
+    <rect
+       x="2440.8408"
+       y="1050.0958"
+       width="578.31805"
+       height="99.808434"
+       rx="20.411226"
+       fill="#e6f3e3"
+       stroke="#4f9362"
+       stroke-width="3.19156"
+       id="rect51" />
+    <text
+       x="2730"
+       y="1091"
+       class="gate"
+       text-anchor="middle"
+       id="text52">Required startup evidence passed?</text>
+    <text
+       x="2730"
+       y="1128"
+       class="tiny"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text53">PASS → authorize normal production</text>
+    <line
+       x1="760"
+       y1="700"
+       x2="887.56018"
+       y2="700"
+       stroke="#395b75"
+       stroke-width="7"
+       marker-end="url(#arrowBlue)"
+       id="line53"
+       style="stroke-width:2.86362;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+    <line
+       x1="1520"
+       y1="700"
+       x2="1645.4869"
+       y2="700"
+       stroke="#395b75"
+       stroke-width="7"
+       marker-end="url(#arrowBlue)"
+       id="line54"
+       style="stroke-width:2.84025;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+    <line
+       x1="2280"
+       y1="700"
+       x2="2405.4868"
+       y2="700"
+       stroke="#395b75"
+       stroke-width="7"
+       marker-end="url(#arrowBlue)"
+       id="line55"
+       style="stroke-width:2.84025;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+    <line
+       x1="3040"
+       y1="700"
+       x2="3119.9192"
+       y2="700"
+       stroke="#4f9362"
+       stroke-width="7"
+       marker-end="url(#arrowGreen)"
+       id="line56"
+       style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+    <rect
+       x="3128.9438"
+       y="487.16498"
+       width="473.14603"
+       height="429.75662"
+       rx="30.809511"
+       fill="#e6f3e3"
+       stroke="#4f9362"
+       stroke-width="5.24337"
+       id="rect56" />
+    <circle
+       cx="3368.9424"
+       cy="583.77405"
+       r="58"
+       fill="#4f9362"
+       id="circle56" />
+    <path
+       d="m 3336.9423,583.77404 24,26 51,-60"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="13"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path56" />
+    <text
+       x="3368.9424"
+       y="713.77405"
+       class="release"
+       text-anchor="middle"
+       id="text56">Normal production</text>
+    <text
+       x="3368.9424"
+       y="765.77405"
+       class="release"
+       text-anchor="middle"
+       id="text57">authorized</text>
+    <text
+       x="3368.9424"
+       y="828.77405"
+       class="small"
+       text-anchor="middle"
+       id="text58">required startup gates passed</text>
+    <text
+       x="3368.9424"
+       y="875.77405"
+       class="tiny"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text59">routine process control continues</text>
+    <line
+       x1="450"
+       y1="1150"
+       x2="450"
+       y2="1270"
+       stroke="#c9821a"
+       stroke-width="5"
+       marker-end="url(#arrowAmber)"
+       id="line59" />
+    <line
+       x1="1210"
+       y1="1150"
+       x2="1210"
+       y2="1270"
+       stroke="#c9821a"
+       stroke-width="5"
+       marker-end="url(#arrowAmber)"
+       id="line60" />
+    <line
+       x1="1970"
+       y1="1138"
+       x2="1970"
+       y2="1270"
+       stroke="#c9821a"
+       stroke-width="5"
+       marker-end="url(#arrowAmber)"
+       id="line61" />
+    <line
+       x1="2730"
+       y1="1150"
+       x2="2730"
+       y2="1270"
+       stroke="#c9821a"
+       stroke-width="5"
+       marker-end="url(#arrowAmber)"
+       id="line62" />
+    <rect
+       x="170"
+       y="1250"
+       width="2870"
+       height="100"
+       rx="20"
+       fill="#fff4df"
+       stroke="#c9821a"
+       stroke-width="4"
+       id="rect62" />
+    <text
+       x="1605"
+       y="1310"
+       class="gate"
+       text-anchor="middle"
+       fill="#9C5F11"
+       id="text62">Abnormal / uncertain evidence at any startup gate</text>
+    <line
+       x1="1605"
+       y1="1350"
+       x2="1605"
+       y2="1419.2325"
+       stroke="#c9821a"
+       stroke-width="6"
+       marker-end="url(#arrowAmber)"
+       id="line63"
+       style="stroke-width:3.22256;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+    <rect
+       x="440"
+       y="1440"
+       width="560"
+       height="220"
+       rx="24"
+       fill="#fcead9"
+       stroke="#c9821a"
+       stroke-width="5"
+       id="rect63" />
+    <text
+       x="720"
+       y="1515"
+       class="stageTitle"
+       text-anchor="middle"
+       id="text63">HOLD</text>
+    <text
+       x="720"
+       y="1580"
+       class="small"
+       text-anchor="middle"
+       id="text64">Stop at the affected gate.</text>
+    <text
+       x="720"
+       y="1623"
+       class="tiny"
+       text-anchor="middle"
+       fill="#5D6B78"
+       id="text65">Do not continue with unresolved evidence.</text>
+    <line
+       x1="1009.1346"
+       y1="1550"
+       x2="1149.1346"
+       y2="1550"
+       stroke="#c9821a"
+       stroke-width="7"
+       marker-end="url(#arrowAmber)"
+       id="line65" />
+    <rect
+       x="1150"
+       y="1440"
+       width="850"
+       height="220"
+       rx="24"
+       fill="#fff4df"
+       stroke="#c9821a"
+       stroke-width="5"
+       id="rect65" />
+    <text
+       x="1575"
+       y="1515"
+       class="stageTitle"
+       text-anchor="middle"
+       id="text66">Correct controlled input / setup</text>
+    <text
+       x="1575"
+       y="1580"
+       class="small"
+       text-anchor="middle"
+       id="text67">Correct the controlled board, material, program, recipe,</text>
+    <text
+       x="1575"
+       y="1623"
+       class="small"
+       text-anchor="middle"
+       id="text68">or process setup that caused the abnormal result.</text>
+    <line
+       x1="2000"
+       y1="1550"
+       x2="2140"
+       y2="1550"
+       stroke="#c9821a"
+       stroke-width="7"
+       marker-end="url(#arrowAmber)"
+       id="line68" />
+    <rect
+       x="2150"
+       y="1440"
+       width="900"
+       height="220"
+       rx="24"
+       fill="#fff4df"
+       stroke="#c9821a"
+       stroke-width="5"
+       id="rect68" />
+    <text
+       x="2600"
+       y="1515"
+       class="stageTitle"
+       text-anchor="middle"
+       id="text69">Repeat affected verification</text>
+    <text
+       x="2600"
+       y="1580"
+       class="small"
+       text-anchor="middle"
+       id="text70">Repeat downstream checks invalidated by the change</text>
+    <text
+       x="2600"
+       y="1623"
+       class="small"
+       text-anchor="middle"
+       id="text71">when required by the controlled process.</text>
+    <path
+       d="m 3050,1550 h 300 v 210 H 310 v -400"
+       fill="none"
+       stroke="#c9821a"
+       stroke-width="6"
+       marker-end="url(#arrowAmber)"
+       id="path71"
+       style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+    <text
+       x="1830"
+       y="1790"
+       class="small"
+       text-anchor="middle"
+       fill="#9C5F11"
+       font-weight="700"
+       id="text72">Return to the affected gate; never jump directly to normal production.</text>
+  </g>
 </svg>
