@@ -1,104 +1,928 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2900" height="1650" viewBox="0 0 2900 1650" preserveAspectRatio="xMidYMid meet">
-<rect x="0" y="0" width="2900" height="1650" fill="#ffffff"/>
-<defs>
-<marker id="arrow" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L16,8 L0,16 z" fill="#405d78"/></marker>
-<marker id="motion" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L16,8 L0,16 z" fill="#5c7690"/></marker>
-</defs>
-<rect x="70" y="70" width="1200" height="1510" rx="26" fill="#f4f8fb" stroke="#8194a5" stroke-width="4"/>
-<rect x="1325" y="70" width="1505" height="1510" rx="26" fill="#f8f7fb" stroke="#8194a5" stroke-width="4"/>
-<rect x="70" y="70" width="1200" height="100" rx="26" fill="#e5edf4"/>
-<rect x="70" y="142" width="1200" height="28" fill="#e5edf4"/>
-<text x="670.0" y="137" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="#24384d">Access / keep-out</text>
-<rect x="1325" y="70" width="1505" height="100" rx="26" fill="#e9e7f1"/>
-<rect x="1325" y="142" width="1505" height="28" fill="#e9e7f1"/>
-<text x="2077.5" y="137" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="#24384d">Programmed contact / withdrawal</text>
-<rect x="135" y="215" width="1070" height="560" rx="20" fill="#ffffff" stroke="#a9bac7" stroke-width="3"/>
-
-
-<rect x="135" y="845" width="1070" height="560" rx="20" fill="#ffffff" stroke="#a9bac7" stroke-width="3"/>
-<text x="185" y="277" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="start" fill="#344d61">Clear access</text>
-<text x="185" y="907" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="start" fill="#344d61">Blocked</text>
-<path d="M1093,265 l27,27 l54,-68" fill="none" stroke="#4a6e58" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
-<line x1="1100" y1="872" x2="1155" y2="927" stroke="#8a5b47" stroke-width="9" fill="none" stroke-linecap="round"/>
-<line x1="1155" y1="872" x2="1100" y2="927" stroke="#8a5b47" stroke-width="9" fill="none" stroke-linecap="round"/>
-<rect x="235" y="365" width="870" height="300" rx="10" fill="#74a981" stroke="#3f704d" stroke-width="5"/>
-<ellipse cx="625.4000000000001" cy="515.0" rx="31" ry="23" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<circle cx="625.4000000000001" cy="515.0" r="10" fill="#aab5bd" stroke="#667783" stroke-width="3"/>
-<ellipse cx="687.4000000000001" cy="515.0" rx="31" ry="23" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<circle cx="687.4000000000001" cy="515.0" r="10" fill="#aab5bd" stroke="#667783" stroke-width="3"/>
-<ellipse cx="749.4000000000001" cy="515.0" rx="31" ry="23" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<circle cx="749.4000000000001" cy="515.0" r="10" fill="#aab5bd" stroke="#667783" stroke-width="3"/>
-<circle cx="687.4000000000001" cy="515.0" r="95" fill="#b9c1c7" fill-opacity="0.28" stroke="#687883" stroke-width="5"/>
-<circle cx="687.4000000000001" cy="515.0" r="158" fill="none" stroke="#586f83" stroke-width="5" stroke-dasharray="15 12"/>
-<rect x="305" y="440" width="160" height="60" rx="10" fill="#505f6a" stroke="#35434d" stroke-width="3"/>
-<rect x="875" y="420" width="135" height="56" rx="10" fill="#596a75" stroke="#35434d" stroke-width="3"/>
-<rect x="345" y="583" width="115" height="44" rx="8" fill="#5d6f79" stroke="#35434d" stroke-width="3"/>
-<rect x="1037" y="423" width="46" height="200" rx="10" fill="#929da6" stroke="#596873" stroke-width="4"/>
-<rect x="235" y="995" width="870" height="300" rx="10" fill="#74a981" stroke="#3f704d" stroke-width="5"/>
-<ellipse cx="625.4000000000001" cy="1145.0" rx="31" ry="23" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<circle cx="625.4000000000001" cy="1145.0" r="10" fill="#aab5bd" stroke="#667783" stroke-width="3"/>
-<ellipse cx="687.4000000000001" cy="1145.0" rx="31" ry="23" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<circle cx="687.4000000000001" cy="1145.0" r="10" fill="#aab5bd" stroke="#667783" stroke-width="3"/>
-<ellipse cx="749.4000000000001" cy="1145.0" rx="31" ry="23" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<circle cx="749.4000000000001" cy="1145.0" r="10" fill="#aab5bd" stroke="#667783" stroke-width="3"/>
-<circle cx="687.4000000000001" cy="1145.0" r="95" fill="#b9c1c7" fill-opacity="0.28" stroke="#687883" stroke-width="5"/>
-<circle cx="687.4000000000001" cy="1145.0" r="158" fill="none" stroke="#586f83" stroke-width="5" stroke-dasharray="15 12"/>
-<rect x="305" y="1070" width="160" height="60" rx="10" fill="#505f6a" stroke="#35434d" stroke-width="3"/>
-<rect x="875" y="1050" width="135" height="56" rx="10" fill="#596a75" stroke="#35434d" stroke-width="3"/>
-<rect x="345" y="1213" width="115" height="44" rx="8" fill="#5d6f79" stroke="#35434d" stroke-width="3"/>
-<rect x="795.4000000000001" y="1053" width="150" height="200" rx="10" fill="#929da6" stroke="#596873" stroke-width="4"/>
-<text x="190" y="330" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" text-anchor="start" fill="#344d61">Keep-out / access envelope</text>
-<line x1="500" y1="337" x2="567.4000000000001" y2="410.0" stroke="#6f8392" stroke-width="3.5" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="770" y="330" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" text-anchor="start" fill="#344d61">Nozzle footprint</text>
-<line x1="980" y1="337" x2="754.4000000000001" y2="455.0" stroke="#6f8392" stroke-width="3.5" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="687.4000000000001" y="720" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" text-anchor="middle" fill="#344d61">Selected THT joint/group</text>
-<line x1="687.4000000000001" y1="693" x2="687.4000000000001" y2="537.0" stroke="#6f8392" stroke-width="3.5" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="215" y="705" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#344d61">Nearby SMT</text>
-<line x1="370" y1="695" x2="375" y2="465" stroke="#6f8392" stroke-width="3.5" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-
-<text x="875" y="742" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#40566a">Clear approach</text>
-<path d="M870,715 C840,685 800,625 760,565" fill="none" stroke="#5c7690" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#motion)"/>
-
-<text x="195" y="1325" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#8a5b47">Fixture / obstruction</text>
-<text x="195" y="1368" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#8a5b47">enters access envelope</text>
-<line x1="695" y1="1327" x2="813.4000000000001" y2="1170" stroke="#8a5b47" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="895" y="1340" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" text-anchor="start" fill="#344d61">Approach blocked</text>
-<rect x="1380.0" y="260" width="445.0" height="1080" rx="18" fill="#ffffff" stroke="#a9bac7" stroke-width="3"/>
-<text x="1602.5" y="322" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#344d61">Approach</text>
-<rect x="1855.0" y="260" width="445.0" height="1080" rx="18" fill="#ffffff" stroke="#a9bac7" stroke-width="3"/>
-<text x="2077.5" y="322" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#344d61">Contact / dwell</text>
-<rect x="2330.0" y="260" width="445.0" height="1080" rx="18" fill="#ffffff" stroke="#a9bac7" stroke-width="3"/>
-<text x="2552.5" y="322" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#344d61">Withdraw</text>
-<text x="2552.5" y="385" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#4f6578">Example exit path</text>
-<rect x="1435.0" y="590" width="335.0" height="78" rx="7" fill="#70a57e" stroke="#3e6d4b" stroke-width="5"/>
-<ellipse cx="1602.5" cy="663" rx="48" ry="23" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1589.5" y="498" width="26" height="235" rx="12" fill="#aeb8c0" stroke="#687883" stroke-width="4"/>
-<rect x="1467.0" y="692" width="102" height="38" rx="7" fill="#53626d" stroke="#37444e" stroke-width="3"/>
-<path d="M1540.5,1125 L1562.5,985 Q1602.5,950 1642.5,985 L1664.5,1125 Z" fill="#aab4bc" stroke="#687883" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M1547.5,1028 C1557.5,972 1582.5,951 1602.5,937 C1622.5,951 1647.5,972 1657.5,1028 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="1910.0" y="590" width="335.0" height="78" rx="7" fill="#70a57e" stroke="#3e6d4b" stroke-width="5"/>
-<ellipse cx="2077.5" cy="663" rx="48" ry="23" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="2064.5" y="498" width="26" height="235" rx="12" fill="#aeb8c0" stroke="#687883" stroke-width="4"/>
-<rect x="1942.0" y="692" width="102" height="38" rx="7" fill="#53626d" stroke="#37444e" stroke-width="3"/>
-<path d="M2015.5,865 L2037.5,725 Q2077.5,690 2117.5,725 L2139.5,865 Z" fill="#aab4bc" stroke="#687883" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M2022.5,768 C2032.5,712 2057.5,691 2077.5,677 C2097.5,691 2122.5,712 2132.5,768 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M2032.5,672 Q2052.5,713 2064.5,703 L2064.5,673 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<path d="M2122.5,672 Q2102.5,713 2090.5,703 L2090.5,673 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<rect x="2385.0" y="590" width="335.0" height="78" rx="7" fill="#70a57e" stroke="#3e6d4b" stroke-width="5"/>
-<ellipse cx="2552.5" cy="663" rx="48" ry="23" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="2539.5" y="498" width="26" height="235" rx="12" fill="#aeb8c0" stroke="#687883" stroke-width="4"/>
-<rect x="2417.0" y="692" width="102" height="38" rx="7" fill="#53626d" stroke="#37444e" stroke-width="3"/>
-<path d="M2490.5,997 L2512.5,857 Q2552.5,822 2592.5,857 L2614.5,997 Z" fill="#aab4bc" stroke="#687883" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M2497.5,900 C2507.5,844 2532.5,823 2552.5,809 C2572.5,823 2597.5,844 2607.5,900 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M2507.5,672 Q2527.5,713 2539.5,703 L2539.5,673 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<path d="M2597.5,672 Q2577.5,713 2565.5,703 L2565.5,673 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<line x1="1697.5" y1="1135" x2="1697.5" y2="763" stroke="#5c7690" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#motion)"/>
-<text x="1602.5" y="1200" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="400" text-anchor="middle" fill="#566e80">Move toward target</text>
-<text x="2077.5" y="1040" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#344d61">Mini-wave nozzle</text>
-<line x1="2077.5" y1="1020" x2="2107.5" y2="805" stroke="#6f8392" stroke-width="3.5" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="2077.5" y="1200" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="400" text-anchor="middle" fill="#566e80">Local wave contacts joint</text>
-<path d="M2667.5,1135 C2730.5,1055 2737.5,935 2687.5,850" fill="none" stroke="#5c7690" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#motion)"/>
-<path d="M2533.5,750 C2536.5,772 2544.5,790 2552.5,798 C2560.5,790 2568.5,772 2571.5,750 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<line x1="2533.5" y1="782" x2="2571.5" y2="795" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round"/>
-<text x="2552.5" y="1200" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="400" text-anchor="middle" fill="#566e80">Solder neck separates</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2900"
+   height="1650"
+   viewBox="0 0 2900 1650"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg53"
+   sodipodi:docname="4.19.2.svg"
+   inkscape:export-filename="4.19.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview53"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.24105002"
+     inkscape:cx="1895.8721"
+     inkscape:cy="499.89625"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg53" />
+  <rect
+     x="0"
+     y="0"
+     width="2900"
+     height="1650"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,8 L0,16 z"
+         fill="#405d78"
+         id="path1" />
+    </marker>
+    <marker
+       id="motion"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,8 L0,16 z"
+         fill="#5c7690"
+         id="path2" />
+    </marker>
+  </defs>
+  <rect
+     x="70"
+     y="70"
+     width="1200"
+     height="1510"
+     rx="26"
+     fill="#f4f8fb"
+     stroke="#8194a5"
+     stroke-width="4"
+     id="rect2" />
+  <rect
+     x="1325"
+     y="70"
+     width="1505"
+     height="1510"
+     rx="26"
+     fill="#f8f7fb"
+     stroke="#8194a5"
+     stroke-width="4"
+     id="rect3" />
+  <rect
+     x="70"
+     y="70"
+     width="1200"
+     height="100"
+     rx="26"
+     fill="#e5edf4"
+     id="rect4" />
+  <rect
+     x="70"
+     y="142"
+     width="1200"
+     height="28"
+     fill="#e5edf4"
+     id="rect5" />
+  <text
+     x="670.0"
+     y="137"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="46"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text5">Access / keep-out</text>
+  <rect
+     x="1325"
+     y="70"
+     width="1505"
+     height="100"
+     rx="26"
+     fill="#e9e7f1"
+     id="rect6" />
+  <rect
+     x="1325"
+     y="142"
+     width="1505"
+     height="28"
+     fill="#e9e7f1"
+     id="rect7" />
+  <text
+     x="2077.5"
+     y="137"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="46"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text7">Programmed contact / withdrawal</text>
+  <rect
+     x="135"
+     y="215"
+     width="1070"
+     height="560"
+     rx="20"
+     fill="#ffffff"
+     stroke="#a9bac7"
+     stroke-width="3"
+     id="rect8" />
+  <rect
+     x="135"
+     y="845"
+     width="1070"
+     height="560"
+     rx="20"
+     fill="#ffffff"
+     stroke="#a9bac7"
+     stroke-width="3"
+     id="rect9" />
+  <text
+     x="190.94952"
+     y="267.08414"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text9">Clear access</text>
+  <text
+     x="185"
+     y="907"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text10">Blocked</text>
+  <path
+     d="M1093,265 l27,27 l54,-68"
+     fill="none"
+     stroke="#4a6e58"
+     stroke-width="10"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path10" />
+  <line
+     x1="1100"
+     y1="872"
+     x2="1155"
+     y2="927"
+     stroke="#8a5b47"
+     stroke-width="9"
+     fill="none"
+     stroke-linecap="round"
+     id="line10" />
+  <line
+     x1="1155"
+     y1="872"
+     x2="1100"
+     y2="927"
+     stroke="#8a5b47"
+     stroke-width="9"
+     fill="none"
+     stroke-linecap="round"
+     id="line11" />
+  <rect
+     x="235"
+     y="365"
+     width="870"
+     height="300"
+     rx="10"
+     fill="#74a981"
+     stroke="#3f704d"
+     stroke-width="5"
+     id="rect11" />
+  <ellipse
+     cx="616.81085"
+     cy="515"
+     rx="22.623493"
+     ry="23.212673"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="2.57465"
+     id="ellipse11" />
+  <ellipse
+     cx="617.16144"
+     cy="515.17523"
+     fill="#aab5bd"
+     stroke="#667783"
+     stroke-width="2.26782"
+     id="circle11"
+     rx="7.7367449"
+     ry="7.386167" />
+  <ellipse
+     cx="754.83191"
+     cy="514.24133"
+     rx="22.623493"
+     ry="23.212673"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="2.57465"
+     id="ellipse11-8" />
+  <ellipse
+     cx="755.1825"
+     cy="514.41656"
+     fill="#aab5bd"
+     stroke="#667783"
+     stroke-width="2.26782"
+     id="circle11-3"
+     rx="7.7367449"
+     ry="7.386167" />
+  <ellipse
+     cx="688.49622"
+     cy="514.9425"
+     rx="22.623493"
+     ry="23.212673"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="2.57465"
+     id="ellipse11-8-7" />
+  <ellipse
+     cx="688.8468"
+     cy="515.11774"
+     fill="#aab5bd"
+     stroke="#667783"
+     stroke-width="2.26782"
+     id="circle11-3-9"
+     rx="7.7367449"
+     ry="7.386167" />
+  <circle
+     cx="685.64709"
+     cy="513.59772"
+     r="95"
+     fill="#b9c1c7"
+     fill-opacity="0.28"
+     stroke="#687883"
+     stroke-width="5"
+     id="circle14" />
+  <circle
+     cx="687.4000000000001"
+     cy="515.0"
+     r="158"
+     fill="none"
+     stroke="#586f83"
+     stroke-width="5"
+     stroke-dasharray="15 12"
+     id="circle15" />
+  <rect
+     x="305"
+     y="440"
+     width="160"
+     height="60"
+     rx="10"
+     fill="#505f6a"
+     stroke="#35434d"
+     stroke-width="3"
+     id="rect15" />
+  <rect
+     x="875"
+     y="420"
+     width="135"
+     height="56"
+     rx="10"
+     fill="#596a75"
+     stroke="#35434d"
+     stroke-width="3"
+     id="rect16" />
+  <rect
+     x="345"
+     y="583"
+     width="115"
+     height="44"
+     rx="8"
+     fill="#5d6f79"
+     stroke="#35434d"
+     stroke-width="3"
+     id="rect17" />
+  <rect
+     x="1037"
+     y="423"
+     width="46"
+     height="200"
+     rx="10"
+     fill="#929da6"
+     stroke="#596873"
+     stroke-width="4"
+     id="rect18" />
+  <rect
+     x="235"
+     y="995"
+     width="870"
+     height="300"
+     rx="10"
+     fill="#74a981"
+     stroke="#3f704d"
+     stroke-width="5"
+     id="rect19" />
+  <circle
+     cx="687.4000000000001"
+     cy="1145.0"
+     r="158"
+     fill="none"
+     stroke="#586f83"
+     stroke-width="5"
+     stroke-dasharray="15 12"
+     id="circle23" />
+  <rect
+     x="305"
+     y="1070"
+     width="160"
+     height="60"
+     rx="10"
+     fill="#505f6a"
+     stroke="#35434d"
+     stroke-width="3"
+     id="rect23" />
+  <rect
+     x="882.71075"
+     y="1039.719"
+     width="135"
+     height="56"
+     rx="10"
+     fill="#596a75"
+     stroke="#35434d"
+     stroke-width="3"
+     id="rect24" />
+  <rect
+     x="345"
+     y="1213"
+     width="115"
+     height="44"
+     rx="8"
+     fill="#5d6f79"
+     stroke="#35434d"
+     stroke-width="3"
+     id="rect25" />
+  <rect
+     x="820.58801"
+     y="1112.8866"
+     width="106.04964"
+     height="156.04965"
+     rx="7.0699763"
+     fill="#929da6"
+     stroke="#596873"
+     stroke-width="2.97088"
+     id="rect26" />
+  <text
+     x="193.45088"
+     y="320.48865"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="37px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text26">Keep-out / access envelope</text>
+  <line
+     x1="495.04205"
+     y1="334.02524"
+     x2="562.44208"
+     y2="407.02524"
+     stroke="#6f8392"
+     stroke-width="3.5"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line26" />
+  <text
+     x="833.46155"
+     y="322.06732"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="37px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text27">Nozzle footprint</text>
+  <line
+     x1="980"
+     y1="337"
+     x2="754.4000000000001"
+     y2="455.0"
+     stroke="#6f8392"
+     stroke-width="3.5"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line27" />
+  <text
+     x="638.81226"
+     y="742.80646"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="37px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text28">Selected THT joint/group</text>
+  <line
+     x1="690.37476"
+     y1="700.89056"
+     x2="690.37476"
+     y2="543.05591"
+     stroke="#6f8392"
+     stroke-width="3.52052"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line28" />
+  <text
+     x="154.51321"
+     y="710.94952"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text29">Nearby SMT</text>
+  <line
+     x1="252.74379"
+     y1="677.50085"
+     x2="396.03226"
+     y2="485.3681"
+     stroke="#6f8392"
+     stroke-width="13.7448"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line29"
+     style="stroke-width:2;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <text
+     x="917.34467"
+     y="738.9859"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text30">Clear approach</text>
+  <path
+     d="M 918.2464,691.82957 C 871.157,664.16757 808.37112,608.84356 745.58525,553.51954"
+     fill="none"
+     stroke="#5c7690"
+     stroke-width="5.30221"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     marker-end="url(#motion)"
+     id="path30"
+     style="stroke-width:3.40343;stroke-dasharray:none" />
+  <text
+     x="323.51279"
+     y="1344.277"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#8a5b47"
+     id="text31">Fixture / obstruction</text>
+  <text
+     x="323.51279"
+     y="1387.277"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#8a5b47"
+     id="text32">enters access envelope</text>
+  <line
+     x1="692.60889"
+     y1="1325.8772"
+     x2="848.02356"
+     y2="1242.1548"
+     stroke="#8a5b47"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line32"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <text
+     x="851.30566"
+     y="1364.4175"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="37px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text33">Approach blocked</text>
+  <rect
+     x="1380.0"
+     y="260"
+     width="445.0"
+     height="1080"
+     rx="18"
+     fill="#ffffff"
+     stroke="#a9bac7"
+     stroke-width="3"
+     id="rect33" />
+  <text
+     x="1602.5"
+     y="322"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text34">Approach</text>
+  <rect
+     x="1855.0"
+     y="260"
+     width="445.0"
+     height="1080"
+     rx="18"
+     fill="#ffffff"
+     stroke="#a9bac7"
+     stroke-width="3"
+     id="rect34" />
+  <text
+     x="2077.5"
+     y="322"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text35">Contact / dwell</text>
+  <rect
+     x="2330.0"
+     y="260"
+     width="445.0"
+     height="1080"
+     rx="18"
+     fill="#ffffff"
+     stroke="#a9bac7"
+     stroke-width="3"
+     id="rect35" />
+  <text
+     x="2552.5"
+     y="322"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text36">Withdraw</text>
+  <text
+     x="2552.5"
+     y="385"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#4f6578"
+     id="text37">Example exit path</text>
+  <rect
+     x="1435.0"
+     y="590"
+     width="335.0"
+     height="78"
+     rx="7"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="5"
+     id="rect37" />
+  <ellipse
+     cx="1602.5"
+     cy="663"
+     rx="48"
+     ry="23"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse37" />
+  <rect
+     x="1589.5"
+     y="498"
+     width="26"
+     height="235"
+     rx="12"
+     fill="#aeb8c0"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect38" />
+  <rect
+     x="1433.5867"
+     y="668.86768"
+     width="102"
+     height="38"
+     rx="7"
+     fill="#53626d"
+     stroke="#37444e"
+     stroke-width="3"
+     id="rect39" />
+  <path
+     d="M1540.5,1125 L1562.5,985 Q1602.5,950 1642.5,985 L1664.5,1125 Z"
+     fill="#aab4bc"
+     stroke="#687883"
+     stroke-width="4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path39" />
+  <path
+     d="M1547.5,1028 C1557.5,972 1582.5,951 1602.5,937 C1622.5,951 1647.5,972 1657.5,1028 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3.5"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path40" />
+  <rect
+     x="1910.0"
+     y="590"
+     width="335.0"
+     height="78"
+     rx="7"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="5"
+     id="rect40" />
+  <ellipse
+     cx="2077.5"
+     cy="663"
+     rx="48"
+     ry="23"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse40" />
+  <rect
+     x="2064.5"
+     y="498"
+     width="26"
+     height="235"
+     rx="12"
+     fill="#aeb8c0"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect41" />
+  <rect
+     x="1908.5867"
+     y="666.29742"
+     width="102"
+     height="38"
+     rx="7"
+     fill="#53626d"
+     stroke="#37444e"
+     stroke-width="3"
+     id="rect42" />
+  <path
+     d="M2015.5,865 L2037.5,725 Q2077.5,690 2117.5,725 L2139.5,865 Z"
+     fill="#aab4bc"
+     stroke="#687883"
+     stroke-width="4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path42" />
+  <path
+     d="M2022.5,768 C2032.5,712 2057.5,691 2077.5,677 C2097.5,691 2122.5,712 2132.5,768 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3.5"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path43" />
+  <path
+     d="M2032.5,672 Q2052.5,713 2064.5,703 L2064.5,673 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path44" />
+  <path
+     d="M2122.5,672 Q2102.5,713 2090.5,703 L2090.5,673 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path45" />
+  <rect
+     x="2385.0"
+     y="590"
+     width="335.0"
+     height="78"
+     rx="7"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="5"
+     id="rect45" />
+  <ellipse
+     cx="2552.5"
+     cy="663"
+     rx="48"
+     ry="23"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse45" />
+  <rect
+     x="2539.5"
+     y="498"
+     width="26"
+     height="235"
+     rx="12"
+     fill="#aeb8c0"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect46" />
+  <rect
+     x="2384.8718"
+     y="670.15283"
+     width="102"
+     height="38"
+     rx="7"
+     fill="#53626d"
+     stroke="#37444e"
+     stroke-width="3"
+     id="rect47" />
+  <path
+     d="M2490.5,997 L2512.5,857 Q2552.5,822 2592.5,857 L2614.5,997 Z"
+     fill="#aab4bc"
+     stroke="#687883"
+     stroke-width="4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path47" />
+  <path
+     d="M2497.5,900 C2507.5,844 2532.5,823 2552.5,809 C2572.5,823 2597.5,844 2607.5,900 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3.5"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path48" />
+  <path
+     d="M2507.5,672 Q2527.5,713 2539.5,703 L2539.5,673 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path49" />
+  <path
+     d="M2597.5,672 Q2577.5,713 2565.5,703 L2565.5,673 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path50" />
+  <line
+     x1="1697.5"
+     y1="1135"
+     x2="1697.5"
+     y2="763"
+     stroke="#5c7690"
+     stroke-width="6"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#motion)"
+     id="line50" />
+  <text
+     x="1602.5"
+     y="1200"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="37"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text50">Move toward target</text>
+  <text
+     x="2073.9304"
+     y="1070.3414"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text51">Mini-wave nozzle</text>
+  <line
+     x1="2077.5"
+     y1="1020"
+     x2="2107.5"
+     y2="805"
+     stroke="#6f8392"
+     stroke-width="3.5"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line51" />
+  <text
+     x="2077.5"
+     y="1200"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="37"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text52">Local wave contacts joint</text>
+  <text
+     x="2552.5"
+     y="1200"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="37"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text53">Solder neck separates</text>
+  <ellipse
+     cx="621.37036"
+     cy="1150.0857"
+     rx="22.623493"
+     ry="23.212673"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="2.57465"
+     id="ellipse11-5" />
+  <ellipse
+     cx="621.72095"
+     cy="1150.2609"
+     fill="#aab5bd"
+     stroke="#667783"
+     stroke-width="2.26782"
+     id="circle11-7"
+     rx="7.7367449"
+     ry="7.386167" />
+  <ellipse
+     cx="759.39142"
+     cy="1149.327"
+     rx="22.623493"
+     ry="23.212673"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="2.57465"
+     id="ellipse11-8-6" />
+  <ellipse
+     cx="759.742"
+     cy="1149.5022"
+     fill="#aab5bd"
+     stroke="#667783"
+     stroke-width="2.26782"
+     id="circle11-3-2"
+     rx="7.7367449"
+     ry="7.386167" />
+  <ellipse
+     cx="693.05573"
+     cy="1150.0282"
+     rx="22.623493"
+     ry="23.212673"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="2.57465"
+     id="ellipse11-8-7-7" />
+  <ellipse
+     cx="693.40631"
+     cy="1150.2034"
+     fill="#aab5bd"
+     stroke="#667783"
+     stroke-width="2.26782"
+     id="circle11-3-9-0"
+     rx="7.7367449"
+     ry="7.386167" />
+  <circle
+     cx="690.2066"
+     cy="1148.6833"
+     r="95"
+     fill="#b9c1c7"
+     fill-opacity="0.28"
+     stroke="#687883"
+     stroke-width="5"
+     id="circle14-3" />
+  <path
+     d="m 2551.8078,750.84439 c -9,18 -9,32 0,44 9,-12 9,-26 0,-44 z"
+     fill="#bcc2c6"
+     stroke="#7d878e"
+     stroke-width="2"
+     id="path90" />
 </svg>

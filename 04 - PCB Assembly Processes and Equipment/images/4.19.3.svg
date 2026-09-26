@@ -1,105 +1,835 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="1900" viewBox="0 0 2500 1900" preserveAspectRatio="xMidYMid meet">
-<rect x="0" y="0" width="2500" height="1900" fill="#ffffff"/>
-<defs>
-<marker id="arrow" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L16,8 L0,16 z" fill="#405d78"/></marker>
-<marker id="heat" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L16,8 L0,16 z" fill="#b47b42"/></marker>
-<marker id="motion" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L16,8 L0,16 z" fill="#60798f"/></marker>
-</defs>
-<rect x="70" y="70" width="1155.0" height="852.5" rx="26" fill="#eef5fb" stroke="#8296a8" stroke-width="4"/>
-<rect x="70" y="70" width="1155.0" height="105" rx="26" fill="#e6edf3"/>
-<rect x="70" y="148" width="1155.0" height="27" fill="#e6edf3"/>
-<text x="647.5" y="139" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="#24384d">1  Heat pad + lead</text>
-<rect x="1275.0" y="70" width="1155.0" height="852.5" rx="26" fill="#eef8f1" stroke="#8296a8" stroke-width="4"/>
-<rect x="1275.0" y="70" width="1155.0" height="105" rx="26" fill="#e6edf3"/>
-<rect x="1275.0" y="148" width="1155.0" height="27" fill="#e6edf3"/>
-<text x="1852.5" y="139" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="#24384d">2  Feed solder to heated joint</text>
-<rect x="70" y="977.5" width="1155.0" height="852.5" rx="26" fill="#fbf4e8" stroke="#8296a8" stroke-width="4"/>
-<rect x="70" y="977.5" width="1155.0" height="105" rx="26" fill="#e6edf3"/>
-<rect x="70" y="1055.5" width="1155.0" height="27" fill="#e6edf3"/>
-<text x="647.5" y="1046.5" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="#24384d">3  Remove wire, then iron</text>
-<rect x="1275.0" y="977.5" width="1155.0" height="852.5" rx="26" fill="#f5f2fa" stroke="#8296a8" stroke-width="4"/>
-<rect x="1275.0" y="977.5" width="1155.0" height="105" rx="26" fill="#e6edf3"/>
-<rect x="1275.0" y="1055.5" width="1155.0" height="27" fill="#e6edf3"/>
-<text x="1852.5" y="1046.5" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="#24384d">4  Cool undisturbed</text>
-<rect x="410.6" y="505" width="520" height="120" rx="8" fill="#70a57e" stroke="#3e6d4b" stroke-width="5"/>
-<rect x="610.6" y="505" width="120" height="120" fill="#ffffff"/>
-<rect x="610.6" y="505" width="24" height="120" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="706.6" y="505" width="24" height="120" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="530.6" y="603" width="280" height="44" rx="6" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="542.6" y="487" width="256" height="36" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="650.6" y="335" width="40" height="390" rx="18" fill="#aeb8c0" stroke="#687883" stroke-width="4"/>
-<path d="M205,385 L370,475 L610.6,620 L640.6,651 L400,500 Z" fill="#9ea8b0" stroke="#65747f" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M604.6,618 Q619.6,631 639.6,650 L650.6,642 Q628.6,619 611.6,609 Z" fill="#c6cacc" stroke="#7a858d" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<line x1="300" y1="280" x2="612.6" y2="623" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<line x1="370" y1="355" x2="652.6" y2="440" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<line x1="395" y1="430" x2="575.6" y2="625" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-
-<text x="150" y="235" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="start" fill="#344d61">Tinned tip</text>
-<line x1="320" y1="245" x2="605" y2="618" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-
-<text x="150" y="330" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="start" fill="#344d61">Component lead</text>
-<line x1="430" y1="340" x2="665" y2="420" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-
-<text x="150" y="425" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="start" fill="#344d61">Copper pad / PTH</text>
-<line x1="470" y1="435" x2="555" y2="620" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-
-
-<line x1="611" y1="632" x2="665" y2="520" stroke="#b47b42" stroke-width="9" fill="none" stroke-linecap="round" marker-end="url(#heat)"/>
-<line x1="607" y1="638" x2="520" y2="638" stroke="#b47b42" stroke-width="9" fill="none" stroke-linecap="round" marker-end="url(#heat)"/>
-
-<text x="670.6" y="820" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle" fill="#5d5260">Heat both surfaces</text>
-<text x="670.6" y="875" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="400" text-anchor="middle" fill="#566e80">Tip contacts pad and lead together</text>
-<rect x="1615.6" y="505" width="520" height="120" rx="8" fill="#70a57e" stroke="#3e6d4b" stroke-width="5"/>
-<rect x="1815.6" y="505" width="120" height="120" fill="#ffffff"/>
-<rect x="1815.6" y="505" width="24" height="120" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1911.6" y="505" width="24" height="120" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1735.6" y="603" width="280" height="44" rx="6" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1747.6" y="487" width="256" height="36" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1855.6" y="335" width="40" height="390" rx="18" fill="#aeb8c0" stroke="#687883" stroke-width="4"/>
-<path d="M1780.6,637 Q1820.6,707 1851.6,680 L1851.6,643 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<path d="M1970.6,637 Q1930.6,707 1899.6,680 L1899.6,643 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<path d="M1839.6,621 L1839.6,560 Q1853.6,550 1851.6,565 L1851.6,621 Z" fill="#c1c6ca" stroke="#7d888f" stroke-width="2.5"/>
-<path d="M1899.6,621 L1899.6,565 Q1897.6,550 1911.6,560 L1911.6,621 Z" fill="#c1c6ca" stroke="#7d888f" stroke-width="2.5"/>
-<path d="M1410.0,385 L1575.0,475 L1815.6,620 L1845.6,651 L1605.0,500 Z" fill="#9ea8b0" stroke="#65747f" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M1809.6,618 Q1824.6,631 1844.6,650 L1855.6,642 Q1833.6,619 1816.6,609 Z" fill="#c6cacc" stroke="#7a858d" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M2305.0,420 C2185.0,445 2063.6,568 1953.6,643" fill="none" stroke="#8b969e" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="1953.6" cy="643" r="9" fill="#b9bec2" stroke="#737e86" stroke-width="2"/>
-<text x="2310" y="285" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="end" fill="#344d61">Solder wire</text>
-<line x1="2185.0" y1="295" x2="2015.6" y2="425" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="1875.6" y="820" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle" fill="#40566a">Feed solder to heated joint</text>
-<text x="1875.6" y="875" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="400" text-anchor="middle" fill="#566e80">Wire reaches the heated joint — not the tip alone</text>
-<rect x="410.6" y="1412.5" width="520" height="120" rx="8" fill="#70a57e" stroke="#3e6d4b" stroke-width="5"/>
-<rect x="610.6" y="1412.5" width="120" height="120" fill="#ffffff"/>
-<rect x="610.6" y="1412.5" width="24" height="120" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="706.6" y="1412.5" width="24" height="120" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="530.6" y="1510.5" width="280" height="44" rx="6" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="542.6" y="1394.5" width="256" height="36" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="650.6" y="1242.5" width="40" height="390" rx="18" fill="#aeb8c0" stroke="#687883" stroke-width="4"/>
-<path d="M575.6,1544.5 Q615.6,1614.5 646.6,1587.5 L646.6,1550.5 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<path d="M765.6,1544.5 Q725.6,1614.5 694.6,1587.5 L694.6,1550.5 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<path d="M634.6,1528.5 L634.6,1467.5 Q648.6,1457.5 646.6,1472.5 L646.6,1528.5 Z" fill="#c1c6ca" stroke="#7d888f" stroke-width="2.5"/>
-<path d="M694.6,1528.5 L694.6,1472.5 Q692.6,1457.5 706.6,1467.5 L706.6,1528.5 Z" fill="#c1c6ca" stroke="#7d888f" stroke-width="2.5"/>
-<path d="M205,1292.5 L370,1382.5 L610.6,1527.5 L640.6,1558.5 L400,1407.5 Z" fill="#9ea8b0" stroke="#65747f" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M604.6,1525.5 Q619.6,1538.5 639.6,1557.5 L650.6,1549.5 Q628.6,1526.5 611.6,1516.5 Z" fill="#c6cacc" stroke="#7a858d" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M1100.0,1327.5 C980.0,1352.5 858.6,1475.5 748.6,1550.5" fill="none" stroke="#8b969e" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="748.6" cy="1550.5" r="9" fill="#b9bec2" stroke="#737e86" stroke-width="2"/>
-<path d="M1075.0,1367.5 C1130.0,1307.5 1150.0,1262.5 1180.0,1212.5" fill="none" stroke="#60798f" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#motion)"/>
-<text x="885" y="1160" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" text-anchor="start" fill="#40566a">1  Remove wire first</text>
-<path d="M355,1382.5 C290,1317.5 235,1262.5 185,1202.5" fill="none" stroke="#60798f" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#motion)"/>
-<text x="165" y="1160" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" text-anchor="start" fill="#40566a">2  Remove iron second</text>
-<text x="670.6" y="1727.5" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle" fill="#5d5260">Keep the joint still</text>
-<text x="670.6" y="1782.5" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="400" text-anchor="middle" fill="#566e80">Solder remains while heat is removed</text>
-<rect x="1615.6" y="1412.5" width="520" height="120" rx="8" fill="#70a57e" stroke="#3e6d4b" stroke-width="5"/>
-<rect x="1815.6" y="1412.5" width="120" height="120" fill="#ffffff"/>
-<rect x="1815.6" y="1412.5" width="24" height="120" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1911.6" y="1412.5" width="24" height="120" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1735.6" y="1510.5" width="280" height="44" rx="6" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1747.6" y="1394.5" width="256" height="36" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1855.6" y="1242.5" width="40" height="390" rx="18" fill="#aeb8c0" stroke="#687883" stroke-width="4"/>
-<path d="M1780.6,1544.5 Q1820.6,1614.5 1851.6,1587.5 L1851.6,1550.5 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<path d="M1970.6,1544.5 Q1930.6,1614.5 1899.6,1587.5 L1899.6,1550.5 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<path d="M1839.6,1528.5 L1839.6,1467.5 Q1853.6,1457.5 1851.6,1472.5 L1851.6,1528.5 Z" fill="#c1c6ca" stroke="#7d888f" stroke-width="2.5"/>
-<path d="M1899.6,1528.5 L1899.6,1472.5 Q1897.6,1457.5 1911.6,1467.5 L1911.6,1528.5 Z" fill="#c1c6ca" stroke="#7d888f" stroke-width="2.5"/>
-<text x="1875.6" y="1727.5" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" text-anchor="middle" fill="#40566a">Cool undisturbed</text>
-<text x="1875.6" y="1782.5" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="400" text-anchor="middle" fill="#566e80">No movement while the solder solidifies</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2500"
+   height="1900"
+   viewBox="0 0 2500 1900"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="4.19.3.svg"
+   inkscape:export-filename="4.19.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview70"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.21402942"
+     inkscape:cx="906.41744"
+     inkscape:cy="992.85416"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg70" />
+  <rect
+     x="0"
+     y="0"
+     width="2500"
+     height="1900"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs3">
+    <marker
+       id="arrow"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,8 L0,16 z"
+         fill="#405d78"
+         id="path1" />
+    </marker>
+    <marker
+       id="heat"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,8 L0,16 z"
+         fill="#b47b42"
+         id="path2" />
+    </marker>
+    <marker
+       id="motion"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,8 L0,16 z"
+         fill="#60798f"
+         id="path3" />
+    </marker>
+    <marker
+       id="heat-3"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 16,8 0,16 Z"
+         fill="#b47b42"
+         id="path2-9" />
+    </marker>
+  </defs>
+  <rect
+     x="70"
+     y="70"
+     width="1155.0"
+     height="852.5"
+     rx="26"
+     fill="#eef5fb"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect3" />
+  <rect
+     x="70"
+     y="70"
+     width="1155.0"
+     height="105"
+     rx="26"
+     fill="#e6edf3"
+     id="rect4" />
+  <rect
+     x="70"
+     y="148"
+     width="1155.0"
+     height="27"
+     fill="#e6edf3"
+     id="rect5" />
+  <text
+     x="647.5"
+     y="139"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="46"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text5">1  Heat pad + lead</text>
+  <rect
+     x="1275.0"
+     y="70"
+     width="1155.0"
+     height="852.5"
+     rx="26"
+     fill="#eef8f1"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect6" />
+  <rect
+     x="1275.0"
+     y="70"
+     width="1155.0"
+     height="105"
+     rx="26"
+     fill="#e6edf3"
+     id="rect7" />
+  <rect
+     x="1275.0"
+     y="148"
+     width="1155.0"
+     height="27"
+     fill="#e6edf3"
+     id="rect8" />
+  <text
+     x="1852.5"
+     y="139"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="46"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text8">2  Feed solder to heated joint</text>
+  <rect
+     x="70"
+     y="977.5"
+     width="1155.0"
+     height="852.5"
+     rx="26"
+     fill="#fbf4e8"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect9" />
+  <rect
+     x="70"
+     y="977.5"
+     width="1155.0"
+     height="105"
+     rx="26"
+     fill="#e6edf3"
+     id="rect10" />
+  <rect
+     x="70"
+     y="1055.5"
+     width="1155.0"
+     height="27"
+     fill="#e6edf3"
+     id="rect11" />
+  <text
+     x="647.5"
+     y="1046.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="46"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text11">3  Remove wire, then iron</text>
+  <rect
+     x="1275.0"
+     y="977.5"
+     width="1155.0"
+     height="852.5"
+     rx="26"
+     fill="#f5f2fa"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect12" />
+  <rect
+     x="1275.0"
+     y="977.5"
+     width="1155.0"
+     height="105"
+     rx="26"
+     fill="#e6edf3"
+     id="rect13" />
+  <rect
+     x="1275.0"
+     y="1055.5"
+     width="1155.0"
+     height="27"
+     fill="#e6edf3"
+     id="rect14" />
+  <text
+     x="1852.5"
+     y="1046.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="46"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text14">4  Cool undisturbed</text>
+  <rect
+     x="410.6"
+     y="505"
+     width="520"
+     height="120"
+     rx="8"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="5"
+     id="rect15" />
+  <rect
+     x="610.6"
+     y="505"
+     width="120"
+     height="120"
+     fill="#ffffff"
+     id="rect16" />
+  <rect
+     x="610.6"
+     y="505"
+     width="24"
+     height="120"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect17" />
+  <rect
+     x="706.6"
+     y="505"
+     width="24"
+     height="120"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect18" />
+  <rect
+     x="530.6"
+     y="603"
+     width="280"
+     height="44"
+     rx="6"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect19" />
+  <rect
+     x="542.6"
+     y="487"
+     width="256"
+     height="36"
+     rx="5"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect20" />
+  <rect
+     x="650.6"
+     y="335"
+     width="40"
+     height="390"
+     rx="18"
+     fill="#aeb8c0"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect21" />
+  <path
+     d="M205,385 L370,475 L610.6,620 L640.6,651 L400,500 Z"
+     fill="#9ea8b0"
+     stroke="#65747f"
+     stroke-width="4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path21" />
+  <path
+     d="M604.6,618 Q619.6,631 639.6,650 L650.6,642 Q628.6,619 611.6,609 Z"
+     fill="#c6cacc"
+     stroke="#7a858d"
+     stroke-width="2.5"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path22" />
+  <line
+     x1="922.16028"
+     y1="451.03571"
+     x2="757.64362"
+     y2="503.59366"
+     stroke="#6f8392"
+     stroke-width="1.98202"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line24" />
+  <text
+     x="148.55269"
+     y="217.63232"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text24">Tinned tip</text>
+  <line
+     x1="320"
+     y1="245"
+     x2="605"
+     y2="618"
+     stroke="#6f8392"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line25" />
+  <text
+     x="801.2984"
+     y="312.09961"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text25">Component lead</text>
+  <line
+     x1="836.44263"
+     y1="332.72311"
+     x2="670.29626"
+     y2="420.21298"
+     stroke="#6f8392"
+     stroke-width="3.51727"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line26" />
+  <text
+     x="809.56012"
+     y="434.63867"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text26">Copper pad / PTH</text>
+  <text
+     x="670.6"
+     y="820"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#5d5260"
+     id="text29">Heat both surfaces</text>
+  <text
+     x="670.6"
+     y="875"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text30">Tip contacts pad and lead together</text>
+  <rect
+     x="1615.6"
+     y="505"
+     width="520"
+     height="120"
+     rx="8"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="5"
+     id="rect30" />
+  <rect
+     x="1815.6"
+     y="505"
+     width="120"
+     height="120"
+     fill="#ffffff"
+     id="rect31" />
+  <rect
+     x="1815.6"
+     y="505"
+     width="24"
+     height="120"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect32" />
+  <rect
+     x="1911.6"
+     y="505"
+     width="24"
+     height="120"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect33" />
+  <rect
+     x="1735.6"
+     y="603"
+     width="280"
+     height="44"
+     rx="6"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect34" />
+  <rect
+     x="1747.6"
+     y="487"
+     width="256"
+     height="36"
+     rx="5"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect35" />
+  <rect
+     x="1855.6"
+     y="335"
+     width="40"
+     height="390"
+     rx="18"
+     fill="#aeb8c0"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect36" />
+  <path
+     d="M1780.6,637 Q1820.6,707 1851.6,680 L1851.6,643 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path36" />
+  <path
+     d="M1970.6,637 Q1930.6,707 1899.6,680 L1899.6,643 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path37" />
+  <path
+     d="M1839.6,621 L1839.6,560 Q1853.6,550 1851.6,565 L1851.6,621 Z"
+     fill="#c1c6ca"
+     stroke="#7d888f"
+     stroke-width="2.5"
+     id="path38" />
+  <path
+     d="M1899.6,621 L1899.6,565 Q1897.6,550 1911.6,560 L1911.6,621 Z"
+     fill="#c1c6ca"
+     stroke="#7d888f"
+     stroke-width="2.5"
+     id="path39" />
+  <path
+     d="M1410.0,385 L1575.0,475 L1815.6,620 L1845.6,651 L1605.0,500 Z"
+     fill="#9ea8b0"
+     stroke="#65747f"
+     stroke-width="4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path40" />
+  <path
+     d="M1809.6,618 Q1824.6,631 1844.6,650 L1855.6,642 Q1833.6,619 1816.6,609 Z"
+     fill="#c6cacc"
+     stroke="#7a858d"
+     stroke-width="2.5"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path41" />
+  <path
+     d="M2305.0,420 C2185.0,445 2063.6,568 1953.6,643"
+     fill="none"
+     stroke="#8b969e"
+     stroke-width="11"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path42" />
+  <circle
+     cx="1953.6"
+     cy="643"
+     r="9"
+     fill="#b9bec2"
+     stroke="#737e86"
+     stroke-width="2"
+     id="circle42" />
+  <text
+     x="2334.5615"
+     y="287.04681"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40px"
+     font-weight="700"
+     text-anchor="end"
+     fill="#344d61"
+     id="text42">Solder wire</text>
+  <line
+     x1="2233.3699"
+     y1="303.18851"
+     x2="2201.8796"
+     y2="453.19693"
+     stroke="#6f8392"
+     stroke-width="3.15281"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line42" />
+  <text
+     x="1875.6"
+     y="820"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#40566a"
+     id="text43">Feed solder to heated joint</text>
+  <text
+     x="1875.6"
+     y="875"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text44">Wire reaches the heated joint — not the tip alone</text>
+  <rect
+     x="410.6"
+     y="1412.5"
+     width="520"
+     height="120"
+     rx="8"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="5"
+     id="rect44" />
+  <rect
+     x="610.6"
+     y="1412.5"
+     width="120"
+     height="120"
+     fill="#ffffff"
+     id="rect45" />
+  <rect
+     x="610.6"
+     y="1412.5"
+     width="24"
+     height="120"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect46" />
+  <rect
+     x="706.6"
+     y="1412.5"
+     width="24"
+     height="120"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect47" />
+  <rect
+     x="530.6"
+     y="1510.5"
+     width="280"
+     height="44"
+     rx="6"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect48" />
+  <rect
+     x="542.6"
+     y="1394.5"
+     width="256"
+     height="36"
+     rx="5"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect49" />
+  <rect
+     x="650.6"
+     y="1242.5"
+     width="40"
+     height="390"
+     rx="18"
+     fill="#aeb8c0"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect50" />
+  <path
+     d="M575.6,1544.5 Q615.6,1614.5 646.6,1587.5 L646.6,1550.5 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path50" />
+  <path
+     d="M765.6,1544.5 Q725.6,1614.5 694.6,1587.5 L694.6,1550.5 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path51" />
+  <path
+     d="M634.6,1528.5 L634.6,1467.5 Q648.6,1457.5 646.6,1472.5 L646.6,1528.5 Z"
+     fill="#c1c6ca"
+     stroke="#7d888f"
+     stroke-width="2.5"
+     id="path52" />
+  <path
+     d="M694.6,1528.5 L694.6,1472.5 Q692.6,1457.5 706.6,1467.5 L706.6,1528.5 Z"
+     fill="#c1c6ca"
+     stroke="#7d888f"
+     stroke-width="2.5"
+     id="path53" />
+  <path
+     d="M205,1292.5 L370,1382.5 L610.6,1527.5 L640.6,1558.5 L400,1407.5 Z"
+     fill="#9ea8b0"
+     stroke="#65747f"
+     stroke-width="4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path54" />
+  <path
+     d="M604.6,1525.5 Q619.6,1538.5 639.6,1557.5 L650.6,1549.5 Q628.6,1526.5 611.6,1516.5 Z"
+     fill="#c6cacc"
+     stroke="#7a858d"
+     stroke-width="2.5"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path55" />
+  <path
+     d="M1100.0,1327.5 C980.0,1352.5 858.6,1475.5 748.6,1550.5"
+     fill="none"
+     stroke="#8b969e"
+     stroke-width="11"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path56" />
+  <circle
+     cx="748.6"
+     cy="1550.5"
+     r="9"
+     fill="#b9bec2"
+     stroke="#737e86"
+     stroke-width="2"
+     id="circle56" />
+  <path
+     d="m 1053.1964,1166.2399 c -30.3898,75.5079 -33.2893,124.6668 -43.792,182.0226"
+     fill="none"
+     stroke="#60798f"
+     stroke-width="7"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     marker-end="url(#motion)"
+     id="path57" />
+  <text
+     x="846.11078"
+     y="1155.9064"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="37px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text57">1 Remove wire first</text>
+  <path
+     d="m 365.17366,1191.6388 c -2.00411,64.017 -3.69982,118.1854 -13.03677,172.2542"
+     fill="none"
+     stroke="#60798f"
+     stroke-width="6.07376"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     marker-end="url(#motion)"
+     id="path58" />
+  <text
+     x="165"
+     y="1160"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="37"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text58">2  Remove iron second</text>
+  <text
+     x="670.6"
+     y="1727.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#5d5260"
+     id="text59">Keep the joint still</text>
+  <text
+     x="670.6"
+     y="1782.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text60">Solder remains while heat is removed</text>
+  <rect
+     x="1615.6"
+     y="1412.5"
+     width="520"
+     height="120"
+     rx="8"
+     fill="#70a57e"
+     stroke="#3e6d4b"
+     stroke-width="5"
+     id="rect60" />
+  <rect
+     x="1815.6"
+     y="1412.5"
+     width="120"
+     height="120"
+     fill="#ffffff"
+     id="rect61" />
+  <rect
+     x="1815.6"
+     y="1412.5"
+     width="24"
+     height="120"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect62" />
+  <rect
+     x="1911.6"
+     y="1412.5"
+     width="24"
+     height="120"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect63" />
+  <rect
+     x="1735.6"
+     y="1510.5"
+     width="280"
+     height="44"
+     rx="6"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect64" />
+  <rect
+     x="1747.6"
+     y="1394.5"
+     width="256"
+     height="36"
+     rx="5"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect65" />
+  <path
+     d="m 1780.9835,1544.6893 q 48.9465,69.4729 86.8801,42.6762 v -36.7214 z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3.30606"
+     id="path66" />
+  <path
+     d="m 1970.2634,1544.6667 q -47.827,69.5359 -84.893,42.7149 v -36.7547 z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3.26952"
+     id="path67" />
+  <path
+     d="M1839.6,1528.5 L1839.6,1467.5 Q1853.6,1457.5 1851.6,1472.5 L1851.6,1528.5 Z"
+     fill="#c1c6ca"
+     stroke="#7d888f"
+     stroke-width="2.5"
+     id="path68" />
+  <path
+     d="M1899.6,1528.5 L1899.6,1472.5 Q1897.6,1457.5 1911.6,1467.5 L1911.6,1528.5 Z"
+     fill="#c1c6ca"
+     stroke="#7d888f"
+     stroke-width="2.5"
+     id="path69" />
+  <text
+     x="1875.6"
+     y="1727.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="44"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#40566a"
+     id="text69">Cool undisturbed</text>
+  <text
+     x="1875.6"
+     y="1782.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="36"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text70">No movement while the solder solidifies</text>
+  <rect
+     x="1855.6"
+     y="1242.5"
+     width="40"
+     height="390"
+     rx="18"
+     fill="#aeb8c0"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect66" />
 </svg>
