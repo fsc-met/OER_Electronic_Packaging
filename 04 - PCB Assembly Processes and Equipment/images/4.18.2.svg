@@ -1,97 +1,797 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1500" viewBox="0 0 2600 1500" preserveAspectRatio="xMidYMid meet">
-<rect x="0" y="0" width="2600" height="1500" fill="#ffffff"/>
-<defs>
-<marker id="arrow" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L16,8 L0,16 z" fill="#405d78"/></marker>
-<marker id="motion" markerWidth="15" markerHeight="15" refX="12" refY="7.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L15,7.5 L0,15 z" fill="#627f95"/></marker>
-</defs>
-<line x1="160" y1="105" x2="2440" y2="105" stroke="#405d78" stroke-width="8" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="1300" y="82" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#344d61">Board travel</text>
-<rect x="80.0" y="160" width="783.3333333333334" height="1240" rx="26" fill="#eef5fb" stroke="#8296a8" stroke-width="4"/>
-<rect x="80.0" y="160" width="783.3333333333334" height="94" rx="26" fill="#e6eef4"/>
-<rect x="80.0" y="228" width="783.3333333333334" height="26" fill="#e6eef4"/>
-<text x="471.6666666666667" y="221" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#24384d">Approach / contact</text>
-<rect x="908.3333333333334" y="160" width="783.3333333333334" height="1240" rx="26" fill="#eef8f1" stroke="#8296a8" stroke-width="4"/>
-<rect x="908.3333333333334" y="160" width="783.3333333333334" height="94" rx="26" fill="#e6eef4"/>
-<rect x="908.3333333333334" y="228" width="783.3333333333334" height="26" fill="#e6eef4"/>
-<text x="1300.0" y="221" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#24384d">Wetting and hole filling</text>
-<rect x="1736.6666666666667" y="160" width="783.3333333333334" height="1240" rx="26" fill="#f6f3fa" stroke="#8296a8" stroke-width="4"/>
-<rect x="1736.6666666666667" y="160" width="783.3333333333334" height="94" rx="26" fill="#e6eef4"/>
-<rect x="1736.6666666666667" y="228" width="783.3333333333334" height="26" fill="#e6eef4"/>
-<text x="2128.3333333333335" y="221" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#24384d">Drain / separate</text>
-<g transform="rotate(-5 471.6666666666667 735)">
-<rect x="211.66666666666669" y="620.0" width="520" height="230" rx="8" fill="#72a77f" stroke="#3e6f4c" stroke-width="5"/>
-<rect x="211.66666666666669" y="692.0" width="520" height="86" fill="#92b99b" opacity="0.72"/>
-<rect x="396.6666666666667" y="620.0" width="150" height="230" fill="#ffffff"/>
-<rect x="396.6666666666667" y="620.0" width="28" height="230" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="518.6666666666667" y="620.0" width="28" height="230" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="314.6666666666667" y="596.0" width="314" height="48" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="314.6666666666667" y="826.0" width="314" height="48" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="449.6666666666667" y="420.0" width="44" height="640" rx="18" fill="#aeb9c2" stroke="#687883" stroke-width="5"/>
-<rect x="356.6666666666667" y="360.0" width="230" height="85" rx="36" fill="#ddb36b" stroke="#8f6c32" stroke-width="5"/>
-</g>
-<path d="M170.0,1110 C260.0,1040 321.6666666666667,980 431.6666666666667,900 C531.6666666666667,835 621.6666666666667,940 773.3333333333334,1015 L773.3333333333334,1185 L170.0,1185 Z" fill="#c2c7cb" stroke="#7a848b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="471.6666666666667" y="1228" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#4a5e6d">Molten solder wave</text>
-<g transform="rotate(-5 1300.0 735)">
-<rect x="1040.0" y="620.0" width="520" height="230" rx="8" fill="#72a77f" stroke="#3e6f4c" stroke-width="5"/>
-<rect x="1040.0" y="692.0" width="520" height="86" fill="#92b99b" opacity="0.72"/>
-<rect x="1225.0" y="620.0" width="150" height="230" fill="#ffffff"/>
-<rect x="1225.0" y="620.0" width="28" height="230" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1347.0" y="620.0" width="28" height="230" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1143.0" y="596.0" width="314" height="48" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1143.0" y="826.0" width="314" height="48" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1278.0" y="420.0" width="44" height="640" rx="18" fill="#aeb9c2" stroke="#687883" stroke-width="5"/>
-<rect x="1185.0" y="360.0" width="230" height="85" rx="36" fill="#ddb36b" stroke="#8f6c32" stroke-width="5"/>
-<path d="M1253.0,845.0 L1253.0,658.0 Q1267.0,644.0 1275.0,663.0 L1275.0,845.0 Z" fill="#bfc5ca" stroke="#79858d" stroke-width="3"/>
-<path d="M1325.0,845.0 L1325.0,663.0 Q1333.0,644.0 1347.0,658.0 L1347.0,845.0 Z" fill="#bfc5ca" stroke="#79858d" stroke-width="3"/>
-</g>
-<path d="M998.3333333333334,1110 C1108.3333333333335,1010 1130.0,920 1235.0,875 C1295.0,820 1355.0,815 1405.0,875 C1470.0,945 1511.6666666666667,980 1601.6666666666667,1030 L1601.6666666666667,1185 L998.3333333333334,1185 Z" fill="#c2c7cb" stroke="#7a848b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="1300.0" y="1228" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#4a5e6d">Molten solder wave</text>
-<g transform="rotate(-5 2128.3333333333335 735)">
-<rect x="1868.3333333333335" y="620.0" width="520" height="230" rx="8" fill="#72a77f" stroke="#3e6f4c" stroke-width="5"/>
-<rect x="1868.3333333333335" y="692.0" width="520" height="86" fill="#92b99b" opacity="0.72"/>
-<rect x="2053.3333333333335" y="620.0" width="150" height="230" fill="#ffffff"/>
-<rect x="2053.3333333333335" y="620.0" width="28" height="230" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="2175.3333333333335" y="620.0" width="28" height="230" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1971.3333333333335" y="596.0" width="314" height="48" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1971.3333333333335" y="826.0" width="314" height="48" rx="5" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="2106.3333333333335" y="420.0" width="44" height="640" rx="18" fill="#aeb9c2" stroke="#687883" stroke-width="5"/>
-<rect x="2013.3333333333335" y="360.0" width="230" height="85" rx="36" fill="#ddb36b" stroke="#8f6c32" stroke-width="5"/>
-<path d="M2081.3333333333335,845.0 L2081.3333333333335,678.0 Q2095.3333333333335,664.0 2103.3333333333335,683.0 L2103.3333333333335,845.0 Z" fill="#bfc5ca" stroke="#79858d" stroke-width="3"/>
-<path d="M2153.3333333333335,845.0 L2153.3333333333335,683.0 Q2161.3333333333335,664.0 2175.3333333333335,678.0 L2175.3333333333335,845.0 Z" fill="#bfc5ca" stroke="#79858d" stroke-width="3"/>
-<path d="M1988.3333333333335,870.0 Q2035.3333333333335,945.0 2103.3333333333335,910.0 L2103.3333333333335,868.0 Z" fill="#bfc5ca" stroke="#79858d" stroke-width="3"/>
-<path d="M2268.3333333333335,870.0 Q2221.3333333333335,945.0 2153.3333333333335,910.0 L2153.3333333333335,868.0 Z" fill="#bfc5ca" stroke="#79858d" stroke-width="3"/>
-</g>
-<path d="M1826.6666666666667,1120 C1946.6666666666667,1040 1948.3333333333335,995 2058.3333333333335,950 C2148.3333333333335,915 2243.3333333333335,960 2430.0,1045 L2430.0,1185 L1826.6666666666667,1185 Z" fill="#c2c7cb" stroke="#7a848b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="2128.3333333333335" y="1228" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#4a5e6d">Molten solder wave</text>
-<text x="160.0" y="350" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="start" fill="#344d61">Component lead</text>
-<line x1="370.0" y1="360" x2="451.6666666666667" y2="510.0" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="160.0" y="430" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="start" fill="#344d61">Plated barrel</text>
-<line x1="360.0" y1="438" x2="404.6666666666667" y2="735" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="160.0" y="520.0" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#40566a">Lead-to-barrel</text>
-<text x="160.0" y="555.0" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#40566a">gap is open</text>
-<line x1="375.0" y1="540" x2="437.6666666666667" y2="770" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="471.6666666666667" y="1308" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="400" text-anchor="middle" fill="#566e80">Underside reaches wave crest</text>
-<text x="973.3333333333334" y="350.0" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#344d61">Solder enters</text>
-<text x="973.3333333333334" y="387.5" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#344d61">the PTH</text>
-<line x1="1183.3333333333335" y1="385" x2="1258.0" y2="815" stroke="#627f95" stroke-width="5" fill="none" stroke-linecap="round" marker-end="url(#motion)"/>
-<line x1="1260.0" y1="905" x2="1260.0" y2="690" stroke="#627f95" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#motion)"/>
-<line x1="1340.0" y1="905" x2="1340.0" y2="690" stroke="#627f95" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#motion)"/>
-<text x="1373.3333333333335" y="355.0" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#344d61">Solder wets</text>
-<text x="1373.3333333333335" y="390.0" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#344d61">lead + barrel</text>
-<line x1="1533.3333333333335" y1="395" x2="1355.0" y2="755" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<circle cx="1263" cy="744" r="8" fill="#667985"/>
-<circle cx="1337" cy="744" r="8" fill="#667985"/>
-<text x="1300.0" y="1308" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#566e80">Heat + wetting conditions support hole filling</text>
-<path d="M2096.3333333333335,985 C2090.3333333333335,1010 2098.3333333333335,1035 2113.3333333333335,1055 C2123.3333333333335,1068 2133.3333333333335,1068 2143.3333333333335,1055 C2158.3333333333335,1035 2166.3333333333335,1010 2160.3333333333335,985 Z" fill="#bfc5ca" stroke="#79858d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<line x1="2103.3333333333335" y1="1048" x2="2153.3333333333335" y2="1072" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round"/>
-<text x="1801.6666666666667" y="350.0" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#344d61">Joint remains</text>
-<text x="1801.6666666666667" y="387.5" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" text-anchor="start" fill="#344d61">filled</text>
-<line x1="1981.6666666666667" y1="385" x2="2091.3333333333335" y2="795" stroke="#6f8392" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="2295" y="445" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" text-anchor="middle" fill="#344d61">Excess solder</text>
-<text x="2295" y="483" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" text-anchor="middle" fill="#344d61">returns to wave</text>
-<path d="M2295,505 L2258,770 L2190,980" fill="none" stroke="#627f95" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#motion)"/>
-
-
-<line x1="2248.3333333333335" y1="980" x2="2248.3333333333335" y2="1100" stroke="#627f95" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#motion)"/>
-<text x="2128.3333333333335" y="1308" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" text-anchor="middle" fill="#566e80">Liquid neck breaks; joint remains filled</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2600"
+   height="1500"
+   viewBox="0 0 2600 1500"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg58"
+   sodipodi:docname="4.18.2.svg"
+   inkscape:export-filename="4.18.2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview58"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.33535475"
+     inkscape:cx="1270.2966"
+     inkscape:cy="887.12028"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg58" />
+  <rect
+     x="0"
+     y="0"
+     width="2600"
+     height="1500"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="16"
+       markerHeight="16"
+       refX="13"
+       refY="8"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L16,8 L0,16 z"
+         fill="#405d78"
+         id="path1" />
+    </marker>
+    <marker
+       id="motion"
+       markerWidth="15"
+       markerHeight="15"
+       refX="12"
+       refY="7.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L15,7.5 L0,15 z"
+         fill="#627f95"
+         id="path2" />
+    </marker>
+  </defs>
+  <line
+     x1="160"
+     y1="105"
+     x2="2440"
+     y2="105"
+     stroke="#405d78"
+     stroke-width="8"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line2"
+     style="marker-end:url(#Triangle);stroke-width:4;stroke-dasharray:none" />
+  <text
+     x="1300"
+     y="82"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text2">Board travel</text>
+  <rect
+     x="80.0"
+     y="160"
+     width="783.3333333333334"
+     height="1240"
+     rx="26"
+     fill="#eef5fb"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect2" />
+  <rect
+     x="80.0"
+     y="160"
+     width="783.3333333333334"
+     height="94"
+     rx="26"
+     fill="#e6eef4"
+     id="rect3" />
+  <rect
+     x="80.0"
+     y="228"
+     width="783.3333333333334"
+     height="26"
+     fill="#e6eef4"
+     id="rect4" />
+  <text
+     x="471.6666666666667"
+     y="221"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text4">Approach / contact</text>
+  <rect
+     x="908.3333333333334"
+     y="160"
+     width="783.3333333333334"
+     height="1240"
+     rx="26"
+     fill="#eef8f1"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect5" />
+  <rect
+     x="908.3333333333334"
+     y="160"
+     width="783.3333333333334"
+     height="94"
+     rx="26"
+     fill="#e6eef4"
+     id="rect6" />
+  <rect
+     x="908.3333333333334"
+     y="228"
+     width="783.3333333333334"
+     height="26"
+     fill="#e6eef4"
+     id="rect7" />
+  <text
+     x="1300.0"
+     y="221"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text7">Wetting and hole filling</text>
+  <rect
+     x="1736.6666666666667"
+     y="160"
+     width="783.3333333333334"
+     height="1240"
+     rx="26"
+     fill="#f6f3fa"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect8" />
+  <rect
+     x="1736.6666666666667"
+     y="160"
+     width="783.3333333333334"
+     height="94"
+     rx="26"
+     fill="#e6eef4"
+     id="rect9" />
+  <rect
+     x="1736.6666666666667"
+     y="228"
+     width="783.3333333333334"
+     height="26"
+     fill="#e6eef4"
+     id="rect10" />
+  <text
+     x="2128.3333333333335"
+     y="221"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text10">Drain / separate</text>
+  <rect
+     x="145.81236"
+     y="658.31158"
+     width="520"
+     height="230"
+     rx="8"
+     fill="#72a77f"
+     stroke="#3e6f4c"
+     stroke-width="5"
+     id="rect11"
+     transform="rotate(-5)" />
+  <rect
+     x="145.81236"
+     y="730.31158"
+     width="520"
+     height="86"
+     fill="#92b99b"
+     opacity="0.72"
+     id="rect12"
+     transform="rotate(-5)" />
+  <rect
+     x="330.81235"
+     y="658.31158"
+     width="150"
+     height="230"
+     fill="#ffffff"
+     id="rect13"
+     transform="rotate(-5)" />
+  <rect
+     x="330.81235"
+     y="658.31158"
+     width="28"
+     height="230"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect14"
+     transform="rotate(-5)" />
+  <rect
+     x="452.81238"
+     y="658.31158"
+     width="28"
+     height="230"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect15"
+     transform="rotate(-5)" />
+  <rect
+     x="248.81235"
+     y="634.31158"
+     width="314"
+     height="48"
+     rx="5"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect16"
+     transform="rotate(-5)" />
+  <rect
+     x="248.81235"
+     y="864.31158"
+     width="314"
+     height="48"
+     rx="5"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect17"
+     transform="rotate(-5)" />
+  <rect
+     x="383.81235"
+     y="458.31155"
+     width="44"
+     height="640"
+     rx="18"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="5"
+     id="rect18"
+     transform="rotate(-5)" />
+  <rect
+     x="290.81235"
+     y="398.31155"
+     width="230"
+     height="85"
+     rx="36"
+     fill="#ddb36b"
+     stroke="#8f6c32"
+     stroke-width="5"
+     id="rect19"
+     transform="rotate(-5)" />
+  <path
+     d="M170.0,1110 C260.0,1040 321.6666666666667,980 431.6666666666667,900 C531.6666666666667,835 621.6666666666667,940 773.3333333333334,1015 L773.3333333333334,1185 L170.0,1185 Z"
+     fill="#c2c7cb"
+     stroke="#7a848b"
+     stroke-width="4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path19" />
+  <text
+     x="471.6666666666667"
+     y="1228"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#4a5e6d"
+     id="text19">Molten solder wave</text>
+  <g
+     transform="rotate(-5 1300.0 735)"
+     id="g29">
+    <rect
+       x="1040.0"
+       y="620.0"
+       width="520"
+       height="230"
+       rx="8"
+       fill="#72a77f"
+       stroke="#3e6f4c"
+       stroke-width="5"
+       id="rect20" />
+    <rect
+       x="1040.0"
+       y="692.0"
+       width="520"
+       height="86"
+       fill="#92b99b"
+       opacity="0.72"
+       id="rect21" />
+    <rect
+       x="1225.0"
+       y="620.0"
+       width="150"
+       height="230"
+       fill="#ffffff"
+       id="rect22" />
+    <rect
+       x="1225.0"
+       y="620.0"
+       width="28"
+       height="230"
+       fill="#d4a83d"
+       stroke="#987221"
+       stroke-width="3"
+       id="rect23" />
+    <rect
+       x="1347.0"
+       y="620.0"
+       width="28"
+       height="230"
+       fill="#d4a83d"
+       stroke="#987221"
+       stroke-width="3"
+       id="rect24" />
+    <rect
+       x="1143.0"
+       y="596.0"
+       width="314"
+       height="48"
+       rx="5"
+       fill="#d7aa40"
+       stroke="#987221"
+       stroke-width="3"
+       id="rect25" />
+    <rect
+       x="1143.0"
+       y="826.0"
+       width="314"
+       height="48"
+       rx="5"
+       fill="#d7aa40"
+       stroke="#987221"
+       stroke-width="3"
+       id="rect26" />
+    <rect
+       x="1278.0"
+       y="420.0"
+       width="44"
+       height="640"
+       rx="18"
+       fill="#aeb9c2"
+       stroke="#687883"
+       stroke-width="5"
+       id="rect27" />
+    <rect
+       x="1185.0"
+       y="360.0"
+       width="230"
+       height="85"
+       rx="36"
+       fill="#ddb36b"
+       stroke="#8f6c32"
+       stroke-width="5"
+       id="rect28" />
+    <path
+       d="M1253.0,845.0 L1253.0,658.0 Q1267.0,644.0 1275.0,663.0 L1275.0,845.0 Z"
+       fill="#bfc5ca"
+       stroke="#79858d"
+       stroke-width="3"
+       id="path28" />
+    <path
+       d="M1325.0,845.0 L1325.0,663.0 Q1333.0,644.0 1347.0,658.0 L1347.0,845.0 Z"
+       fill="#bfc5ca"
+       stroke="#79858d"
+       stroke-width="3"
+       id="path29" />
+  </g>
+  <path
+     d="M998.3333333333334,1110 C1108.3333333333335,1010 1130.0,920 1235.0,875 C1295.0,820 1355.0,815 1405.0,875 C1470.0,945 1511.6666666666667,980 1601.6666666666667,1030 L1601.6666666666667,1185 L998.3333333333334,1185 Z"
+     fill="#c2c7cb"
+     stroke="#7a848b"
+     stroke-width="4"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path30" />
+  <text
+     x="1300.0"
+     y="1228"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#4a5e6d"
+     id="text30">Molten solder wave</text>
+  <rect
+     x="1796.1749"
+     y="802.69958"
+     width="520"
+     height="230"
+     rx="8"
+     fill="#72a77f"
+     stroke="#3e6f4c"
+     stroke-width="5"
+     id="rect30"
+     transform="rotate(-5)" />
+  <rect
+     x="1796.1749"
+     y="874.69958"
+     width="520"
+     height="86"
+     fill="#92b99b"
+     opacity="0.72"
+     id="rect31"
+     transform="rotate(-5)" />
+  <rect
+     x="1981.1748"
+     y="802.69958"
+     width="150"
+     height="230"
+     fill="#ffffff"
+     id="rect32"
+     transform="rotate(-5)" />
+  <rect
+     x="1981.1748"
+     y="802.69958"
+     width="28"
+     height="230"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect33"
+     transform="rotate(-5)" />
+  <rect
+     x="2103.1748"
+     y="802.69958"
+     width="28"
+     height="230"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect34"
+     transform="rotate(-5)" />
+  <rect
+     x="1899.1749"
+     y="778.69958"
+     width="314"
+     height="48"
+     rx="5"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect35"
+     transform="rotate(-5)" />
+  <rect
+     x="1899.1749"
+     y="1008.6996"
+     width="314"
+     height="48"
+     rx="5"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect36"
+     transform="rotate(-5)" />
+  <rect
+     x="2034.1748"
+     y="602.69958"
+     width="44"
+     height="640"
+     rx="18"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="5"
+     id="rect37"
+     transform="rotate(-5)" />
+  <rect
+     x="1941.1749"
+     y="542.69958"
+     width="230"
+     height="85"
+     rx="36"
+     fill="#ddb36b"
+     stroke="#8f6c32"
+     stroke-width="5"
+     id="rect38"
+     transform="rotate(-5)" />
+  <path
+     d="m 2094.1332,878.17959 -16.3956,-194.4035 q 12.4637,-17.86225 22.2366,3.36124 l 15.9049,188.58304 z"
+     fill="#bfc5ca"
+     stroke="#79858d"
+     stroke-width="3.23335"
+     id="path38" />
+  <path
+     d="m 2162.8527,872.62788 -14.0214,-189.42693 q 6.2699,-23.03514 21.3317,-8.09713 l 14.4541,195.27346 z"
+     fill="#bfc5ca"
+     stroke="#79858d"
+     stroke-width="3.23894"
+     id="path39" />
+  <path
+     d="m 2000.6321,881.68809 c 35.5719,47.07885 79.3421,46.70567 120.9957,46.03386 l -6.6077,-58.04916 z"
+     fill="#bfc5ca"
+     stroke="#79858d"
+     stroke-width="3"
+     id="path40"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 2279.5666,857.28448 c -26.8563,52.54061 -53.5668,51.48165 -112.5497,66.07968 l -2.187,-58.04916 z"
+     fill="#bfc5ca"
+     stroke="#79858d"
+     stroke-width="3"
+     id="path41"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 1826.0201,1155.9926 c 120.2572,-36.4995 121.9274,-57.0304 232.1632,-77.5614 90.1929,-15.9685 185.3965,4.5625 372.4633,43.3431 v 63.874 h -604.6265 z"
+     fill="#c2c7cb"
+     stroke="#7a848b"
+     stroke-width="2.70472"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path42" />
+  <text
+     x="2128.3333333333335"
+     y="1228"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#4a5e6d"
+     id="text42">Molten solder wave</text>
+  <text
+     x="587.28363"
+     y="420.3125"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text43">Component lead</text>
+  <line
+     x1="596.18842"
+     y1="433.67212"
+     x2="455.08994"
+     y2="546.82141"
+     stroke="#6f8392"
+     stroke-width="4.22826"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line43" />
+  <text
+     x="612.52405"
+     y="502.11542"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text44">Plated barrel</text>
+  <line
+     x1="642.02625"
+     y1="514.00812"
+     x2="529.66162"
+     y2="723.64154"
+     stroke="#6f8392"
+     stroke-width="3.1654"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line44" />
+  <text
+     x="160.0"
+     y="520.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text45">Lead-to-barrel</text>
+  <text
+     x="160.0"
+     y="555.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33"
+     font-weight="700"
+     text-anchor="start"
+     fill="#40566a"
+     id="text46">gap is open</text>
+  <line
+     x1="378.60577"
+     y1="538.19714"
+     x2="441.27243"
+     y2="768.19714"
+     stroke="#6f8392"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line46" />
+  <text
+     x="471.6666666666667"
+     y="1308"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text47">Underside reaches wave crest</text>
+  <text
+     x="968.8714"
+     y="509.99139"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text48">Solder enters</text>
+  <text
+     x="968.8714"
+     y="547.49139"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text49">the PTH</text>
+  <line
+     x1="1129.8254"
+     y1="545.07269"
+     x2="1266.7183"
+     y2="761.57349"
+     stroke="#627f95"
+     stroke-width="4.37463"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#motion)"
+     id="line49" />
+  <line
+     x1="1283.6407"
+     y1="927.26721"
+     x2="1274.9712"
+     y2="828.40656"
+     stroke="#627f95"
+     stroke-width="4.07639"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#motion)"
+     id="line50" />
+  <line
+     x1="1352.1776"
+     y1="918.84302"
+     x2="1343.3934"
+     y2="818.67584"
+     stroke="#627f95"
+     stroke-width="4.10323"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#motion)"
+     id="line51" />
+  <text
+     x="1438.3499"
+     y="412.36743"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text51">Solder wets</text>
+  <text
+     x="1438.3499"
+     y="447.36743"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text52">lead + barrel</text>
+  <line
+     x1="1506.9526"
+     y1="460.90234"
+     x2="1361.6208"
+     y2="747.25519"
+     stroke="#6f8392"
+     stroke-width="3.2205"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line52" />
+  <text
+     x="1300.0"
+     y="1308"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text53">Heat + wetting conditions support hole filling</text>
+  <text
+     x="1778.09"
+     y="487.03958"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text54">Joint remains</text>
+  <text
+     x="1778.09"
+     y="524.53961"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="33px"
+     font-weight="700"
+     text-anchor="start"
+     fill="#344d61"
+     id="text55">filled</text>
+  <line
+     x1="1893.3318"
+     y1="517.62573"
+     x2="2096.9863"
+     y2="776.90289"
+     stroke="#6f8392"
+     stroke-width="3.11535"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line55" />
+  <text
+     x="2334.7859"
+     y="971.05518"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text56">Excess solder</text>
+  <text
+     x="2334.7859"
+     y="1009.0552"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text57">returns to wave</text>
+  <text
+     x="2128.3333333333335"
+     y="1308"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#566e80"
+     id="text58">Liquid neck breaks; joint remains filled</text>
 </svg>

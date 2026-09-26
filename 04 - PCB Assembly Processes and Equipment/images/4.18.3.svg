@@ -1,106 +1,949 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="1800" viewBox="0 0 2500 1800" preserveAspectRatio="xMidYMid meet">
-<rect x="0" y="0" width="2500" height="1800" fill="#ffffff"/>
-<defs>
-<marker id="arrow" markerWidth="15" markerHeight="15" refX="12" refY="7.5" orient="auto" markerUnits="userSpaceOnUse">
-  <path d="M0,0 L15,7.5 L0,15 z" fill="#405d78"/>
-</marker>
-<marker id="warn" markerWidth="15" markerHeight="15" refX="12" refY="7.5" orient="auto" markerUnits="userSpaceOnUse">
-  <path d="M0,0 L15,7.5 L0,15 z" fill="#8a5b47"/>
-</marker>
-</defs>
-<rect x="80.0" y="70.0" width="753.3333333333334" height="807.5" rx="24" fill="#eef5fb" stroke="#8296a8" stroke-width="4"/>
-<rect x="80.0" y="70.0" width="753.3333333333334" height="88" rx="24" fill="#e6edf3"/>
-<rect x="80.0" y="132.0" width="753.3333333333334" height="26" fill="#e6edf3"/>
-<text x="456.6666666666667" y="128.0" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#24384d">Bridging</text>
-<rect x="873.3333333333334" y="70.0" width="753.3333333333334" height="807.5" rx="24" fill="#eef8f1" stroke="#8296a8" stroke-width="4"/>
-<rect x="873.3333333333334" y="70.0" width="753.3333333333334" height="88" rx="24" fill="#e6edf3"/>
-<rect x="873.3333333333334" y="132.0" width="753.3333333333334" height="26" fill="#e6edf3"/>
-<text x="1250.0" y="128.0" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#24384d">Insufficient hole fill</text>
-<rect x="1666.6666666666667" y="70.0" width="753.3333333333334" height="807.5" rx="24" fill="#fbf4e8" stroke="#8296a8" stroke-width="4"/>
-<rect x="1666.6666666666667" y="70.0" width="753.3333333333334" height="88" rx="24" fill="#e6edf3"/>
-<rect x="1666.6666666666667" y="132.0" width="753.3333333333334" height="26" fill="#e6edf3"/>
-<text x="2043.3333333333335" y="128.0" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#24384d">Icicle / excess solder</text>
-<rect x="80.0" y="922.5" width="753.3333333333334" height="807.5" rx="24" fill="#f9f2f2" stroke="#8296a8" stroke-width="4"/>
-<rect x="80.0" y="922.5" width="753.3333333333334" height="88" rx="24" fill="#e6edf3"/>
-<rect x="80.0" y="984.5" width="753.3333333333334" height="26" fill="#e6edf3"/>
-<text x="456.6666666666667" y="980.5" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#24384d">Poor wetting</text>
-<rect x="873.3333333333334" y="922.5" width="753.3333333333334" height="807.5" rx="24" fill="#f5f2fa" stroke="#8296a8" stroke-width="4"/>
-<rect x="873.3333333333334" y="922.5" width="753.3333333333334" height="88" rx="24" fill="#e6edf3"/>
-<rect x="873.3333333333334" y="984.5" width="753.3333333333334" height="26" fill="#e6edf3"/>
-<text x="1250.0" y="980.5" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#24384d">Skip</text>
-<rect x="1666.6666666666667" y="922.5" width="753.3333333333334" height="807.5" rx="24" fill="#eef6f7" stroke="#8296a8" stroke-width="4"/>
-<rect x="1666.6666666666667" y="922.5" width="753.3333333333334" height="88" rx="24" fill="#e6edf3"/>
-<rect x="1666.6666666666667" y="984.5" width="753.3333333333334" height="26" fill="#e6edf3"/>
-<text x="2043.3333333333335" y="980.5" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#24384d">Shadowing</text>
-<rect x="190.0" y="250.0" width="533.3333333333334" height="340" rx="10" fill="#72a77f" stroke="#3e6f4c" stroke-width="5"/>
-<ellipse cx="336.6666666666667" cy="425.0" rx="58" ry="42" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<ellipse cx="336.6666666666667" cy="425.0" rx="60.900000000000006" ry="45.15" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<rect x="319.6666666666667" y="295.0" width="34" height="175.0" rx="17.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<ellipse cx="576.6666666666667" cy="425.0" rx="58" ry="42" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<ellipse cx="576.6666666666667" cy="425.0" rx="60.900000000000006" ry="45.15" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<rect x="559.6666666666667" y="295.0" width="34" height="175.0" rx="17.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<path d="M384.6666666666667,405.0 C421.6666666666667,385.0 491.6666666666667,385.0 528.6666666666667,405.0 L528.6666666666667,450.0 C486.6666666666667,462.0 426.6666666666667,462.0 384.6666666666667,450.0 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="456.6666666666667" y="665.0" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#3d5364">Unintended continuous</text>
-<text x="456.6666666666667" y="702.82" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#3d5364">solder connection</text>
-<line x1="456.6666666666667" y1="630.0" x2="456.6666666666667" y2="455.0" stroke="#405d78" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<rect x="1015.0" y="352.5" width="470" height="275" rx="8" fill="#72a77f" stroke="#3e6f4c" stroke-width="5"/>
-<rect x="1015.0" y="430.5" width="470" height="119" fill="#91b89a" opacity="0.7"/>
-<rect x="1175.0" y="352.5" width="150" height="275" fill="#ffffff"/>
-<rect x="1175.0" y="352.5" width="26" height="275" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1299.0" y="352.5" width="26" height="275" fill="#d4a83d" stroke="#987221" stroke-width="3"/>
-<rect x="1100.0" y="330.5" width="300" height="44" rx="4" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1100.0" y="605.5" width="300" height="44" rx="4" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1228.0" y="272.5" width="44" height="435" rx="22.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<path d="M1201.0,620.5 L1201.0,521.3199999999999 Q1213.0,511.31999999999994 1225.0,525.3199999999999 L1225.0,620.5 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<path d="M1275.0,620.5 L1275.0,525.3199999999999 Q1287.0,511.31999999999994 1299.0,521.3199999999999 L1299.0,620.5 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<text x="1250.0" y="690.0" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#3d5364">Solder rises only partway</text>
-<text x="1250.0" y="727.82" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#3d5364">through the plated barrel</text>
-
-<rect x="1796.6666666666667" y="245.0" width="493.33333333333337" height="300" rx="10" fill="#72a77f" stroke="#3e6f4c" stroke-width="5"/>
-<ellipse cx="2043.3333333333335" cy="410.0" rx="65" ry="46" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<ellipse cx="2043.3333333333335" cy="410.0" rx="69.6" ry="51.6" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<rect x="2025.3333333333335" y="275.0" width="36" height="185.0" rx="18.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<path d="M1983.3333333333335,442.0 C1973.3333333333335,500.0 2005.3333333333335,528.0 2031.3333333333335,540.0 C2039.3333333333335,570.0 2043.3333333333335,625.0 2046.3333333333335,660.0 C2058.3333333333335,618.0 2061.3333333333335,570.0 2067.3333333333335,538.0 C2098.3333333333335,525.0 2111.3333333333335,490.0 2103.3333333333335,442.0 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="2043.3333333333335" y="695.0" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#3d5364">Excess retained solder</text>
-<text x="2043.3333333333335" y="732.82" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#3d5364">forms a pointed projection</text>
-<rect x="190.0" y="1102.5" width="533.3333333333334" height="340" rx="10" fill="#72a77f" stroke="#3e6f4c" stroke-width="5"/>
-<ellipse cx="456.6666666666667" cy="1277.5" rx="70" ry="50" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="439.6666666666667" y="1137.5" width="34" height="190.0" rx="17.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<path d="M398.6666666666667,1289.5 C408.6666666666667,1255.5 436.6666666666667,1252.5 442.6666666666667,1282.5 L442.6666666666667,1312.5 C423.6666666666667,1314.5 406.6666666666667,1308.5 398.6666666666667,1289.5 Z" fill="#bcc2c6" stroke="#78838a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="456.6666666666667" y="1518" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#3d5364">Solder is present but does not spread</text>
-<text x="456.6666666666667" y="1562" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="400" text-anchor="middle" fill="#5a7082">Wettable pad remains exposed</text>
-<rect x="953.3333333333334" y="1127.5" width="593.3333333333334" height="300" rx="10" fill="#72a77f" stroke="#3e6f4c" stroke-width="5"/>
-<ellipse cx="1043.3333333333335" cy="1272.5" rx="48" ry="36" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1028.3333333333335" y="1157.5" width="30" height="160.0" rx="15.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<ellipse cx="1043.3333333333335" cy="1272.5" rx="55.099999999999994" ry="40.85" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<ellipse cx="1203.3333333333335" cy="1272.5" rx="48" ry="36" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1188.3333333333335" y="1157.5" width="30" height="160.0" rx="15.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<ellipse cx="1203.3333333333335" cy="1272.5" rx="55.099999999999994" ry="40.85" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<ellipse cx="1363.3333333333335" cy="1272.5" rx="48" ry="36" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1348.3333333333335" y="1157.5" width="30" height="160.0" rx="15.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<ellipse cx="1523.3333333333335" cy="1272.5" rx="48" ry="36" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1508.3333333333335" y="1157.5" width="30" height="160.0" rx="15.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<ellipse cx="1523.3333333333335" cy="1272.5" rx="55.099999999999994" ry="40.85" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<text x="1250.0" y="1512.5" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#3d5364">One intended joint is missed</text>
-<text x="1250.0" y="1550.32" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#3d5364">while neighboring joints are soldered</text>
-<line x1="1363.3333333333335" y1="1462.5" x2="1363.3333333333335" y2="1312.5" stroke="#405d78" stroke-width="4" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<line x1="1786.6666666666667" y1="1097.5" x2="2316.666666666667" y2="1097.5" stroke="#405d78" stroke-width="7" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="2051.666666666667" y="1077.5" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="middle" fill="#344d61">Travel direction</text>
-<rect x="1766.6666666666667" y="1352.5" width="553.3333333333334" height="85" rx="6" fill="#72a77f" stroke="#3e6f4c" stroke-width="4"/>
-<ellipse cx="1836.6666666666667" cy="1372.5" rx="38" ry="28" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1823.6666666666667" y="1272.5" width="26" height="135.0" rx="13.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<ellipse cx="1836.6666666666667" cy="1372.5" rx="45.24" ry="33.54" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<ellipse cx="1986.6666666666667" cy="1372.5" rx="38" ry="28" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="1973.6666666666667" y="1272.5" width="26" height="135.0" rx="13.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<ellipse cx="1986.6666666666667" cy="1372.5" rx="45.24" ry="33.54" fill="#bcc2c6" stroke="#78838a" stroke-width="3"/>
-<ellipse cx="2166.666666666667" cy="1372.5" rx="38" ry="28" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="2153.666666666667" y="1272.5" width="26" height="135.0" rx="13.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<ellipse cx="2291.666666666667" cy="1372.5" rx="38" ry="28" fill="#d7aa40" stroke="#987221" stroke-width="3"/>
-<rect x="2278.666666666667" y="1272.5" width="26" height="135.0" rx="13.0" fill="#aeb9c2" stroke="#687883" stroke-width="4"/>
-<rect x="2031.666666666667" y="1172.5" width="110" height="200" rx="14" fill="#4e5964" stroke="#303b44" stroke-width="4"/>
-<text x="2086.666666666667" y="1152.5" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#3d5364">Obstruction</text>
-<line x1="2086.666666666667" y1="1162.5" x2="2086.666666666667" y2="1182.5" stroke="#405d78" stroke-width="3" fill="none" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="2251.666666666667" y="1498" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" text-anchor="middle" fill="#3d5364">Weak / missed joints</text>
-<text x="2251.666666666667" y="1536" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" text-anchor="middle" fill="#3d5364">behind obstruction</text>
-<path d="M2181.666666666667,1447.5 Q2256.666666666667,1477.5 2326.666666666667,1442.5" fill="none" stroke="#8a5b47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 8"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2500"
+   height="1800"
+   viewBox="0 0 2500 1800"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg53"
+   sodipodi:docname="4.18.3.svg"
+   inkscape:export-filename="4.18.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview53"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.34241091"
+     inkscape:cx="1150.6643"
+     inkscape:cy="462.89413"
+     inkscape:window-width="1728"
+     inkscape:window-height="986"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg53" />
+  <rect
+     x="0"
+     y="0"
+     width="2500"
+     height="1800"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrow"
+       markerWidth="15"
+       markerHeight="15"
+       refX="12"
+       refY="7.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L15,7.5 L0,15 z"
+         fill="#405d78"
+         id="path1" />
+    </marker>
+    <marker
+       id="warn"
+       markerWidth="15"
+       markerHeight="15"
+       refX="12"
+       refY="7.5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L15,7.5 L0,15 z"
+         fill="#8a5b47"
+         id="path2" />
+    </marker>
+  </defs>
+  <rect
+     x="80.0"
+     y="70.0"
+     width="753.3333333333334"
+     height="807.5"
+     rx="24"
+     fill="#eef5fb"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect2" />
+  <rect
+     x="80.0"
+     y="70.0"
+     width="753.3333333333334"
+     height="88"
+     rx="24"
+     fill="#e6edf3"
+     id="rect3" />
+  <rect
+     x="80.0"
+     y="132.0"
+     width="753.3333333333334"
+     height="26"
+     fill="#e6edf3"
+     id="rect4" />
+  <text
+     x="456.6666666666667"
+     y="128.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text4">Bridging</text>
+  <rect
+     x="873.3333333333334"
+     y="70.0"
+     width="753.3333333333334"
+     height="807.5"
+     rx="24"
+     fill="#eef8f1"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect5" />
+  <rect
+     x="873.3333333333334"
+     y="70.0"
+     width="753.3333333333334"
+     height="88"
+     rx="24"
+     fill="#e6edf3"
+     id="rect6" />
+  <rect
+     x="873.3333333333334"
+     y="132.0"
+     width="753.3333333333334"
+     height="26"
+     fill="#e6edf3"
+     id="rect7" />
+  <text
+     x="1250.0"
+     y="128.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text7">Insufficient hole fill</text>
+  <rect
+     x="1666.6666666666667"
+     y="70.0"
+     width="753.3333333333334"
+     height="807.5"
+     rx="24"
+     fill="#fbf4e8"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect8" />
+  <rect
+     x="1666.6666666666667"
+     y="70.0"
+     width="753.3333333333334"
+     height="88"
+     rx="24"
+     fill="#e6edf3"
+     id="rect9" />
+  <rect
+     x="1666.6666666666667"
+     y="132.0"
+     width="753.3333333333334"
+     height="26"
+     fill="#e6edf3"
+     id="rect10" />
+  <text
+     x="2043.3333333333335"
+     y="128.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text10">Icicle / excess solder</text>
+  <rect
+     x="80.0"
+     y="922.5"
+     width="753.3333333333334"
+     height="807.5"
+     rx="24"
+     fill="#f9f2f2"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect11" />
+  <rect
+     x="80.0"
+     y="922.5"
+     width="753.3333333333334"
+     height="88"
+     rx="24"
+     fill="#e6edf3"
+     id="rect12" />
+  <rect
+     x="80.0"
+     y="984.5"
+     width="753.3333333333334"
+     height="26"
+     fill="#e6edf3"
+     id="rect13" />
+  <text
+     x="456.6666666666667"
+     y="980.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text13">Poor wetting</text>
+  <rect
+     x="873.3333333333334"
+     y="922.5"
+     width="753.3333333333334"
+     height="807.5"
+     rx="24"
+     fill="#f5f2fa"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect14" />
+  <rect
+     x="873.3333333333334"
+     y="922.5"
+     width="753.3333333333334"
+     height="88"
+     rx="24"
+     fill="#e6edf3"
+     id="rect15" />
+  <rect
+     x="873.3333333333334"
+     y="984.5"
+     width="753.3333333333334"
+     height="26"
+     fill="#e6edf3"
+     id="rect16" />
+  <text
+     x="1250.0"
+     y="980.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text16">Skip</text>
+  <rect
+     x="1666.6666666666667"
+     y="922.5"
+     width="753.3333333333334"
+     height="807.5"
+     rx="24"
+     fill="#eef6f7"
+     stroke="#8296a8"
+     stroke-width="4"
+     id="rect17" />
+  <rect
+     x="1666.6666666666667"
+     y="922.5"
+     width="753.3333333333334"
+     height="88"
+     rx="24"
+     fill="#e6edf3"
+     id="rect18" />
+  <rect
+     x="1666.6666666666667"
+     y="984.5"
+     width="753.3333333333334"
+     height="26"
+     fill="#e6edf3"
+     id="rect19" />
+  <text
+     x="2043.3333333333335"
+     y="980.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#24384d"
+     id="text19">Shadowing</text>
+  <rect
+     x="190.0"
+     y="250.0"
+     width="533.3333333333334"
+     height="340"
+     rx="10"
+     fill="#72a77f"
+     stroke="#3e6f4c"
+     stroke-width="5"
+     id="rect20" />
+  <ellipse
+     cx="336.6666666666667"
+     cy="425.0"
+     rx="58"
+     ry="42"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse20" />
+  <ellipse
+     cx="576.6666666666667"
+     cy="425.0"
+     rx="58"
+     ry="42"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse22" />
+  <ellipse
+     cx="576.6666666666667"
+     cy="425.0"
+     rx="60.900000000000006"
+     ry="45.15"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="ellipse23" />
+  <rect
+     x="559.29645"
+     y="294.62976"
+     width="34.740459"
+     height="113.72963"
+     rx="17.37023"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="3.25954"
+     id="rect23"
+     style="stroke:#737f88;stroke-opacity:0.493783" />
+  <path
+     d="M384.6666666666667,405.0 C421.6666666666667,385.0 491.6666666666667,385.0 528.6666666666667,405.0 L528.6666666666667,450.0 C486.6666666666667,462.0 426.6666666666667,462.0 384.6666666666667,450.0 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path23"
+     style="stroke:#737f88;stroke-opacity:0.4937833" />
+  <text
+     x="449.63818"
+     y="728.25635"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text23">Unintended continuous</text>
+  <text
+     x="449.63818"
+     y="766.07635"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text24">solder connection</text>
+  <line
+     x1="456.6666666666667"
+     y1="630.0"
+     x2="456.6666666666667"
+     y2="455.0"
+     stroke="#405d78"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line24" />
+  <rect
+     x="1015.0"
+     y="352.5"
+     width="470"
+     height="275"
+     rx="8"
+     fill="#72a77f"
+     stroke="#3e6f4c"
+     stroke-width="5"
+     id="rect24" />
+  <rect
+     x="1015.0"
+     y="430.5"
+     width="470"
+     height="119"
+     fill="#91b89a"
+     opacity="0.7"
+     id="rect25" />
+  <rect
+     x="1175.0"
+     y="352.5"
+     width="150"
+     height="275"
+     fill="#ffffff"
+     id="rect26" />
+  <rect
+     x="1175.0"
+     y="352.5"
+     width="26"
+     height="275"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect27" />
+  <rect
+     x="1299.0"
+     y="352.5"
+     width="26"
+     height="275"
+     fill="#d4a83d"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect28" />
+  <rect
+     x="1100.0"
+     y="330.5"
+     width="300"
+     height="44"
+     rx="4"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect29" />
+  <rect
+     x="1100.0"
+     y="605.5"
+     width="300"
+     height="44"
+     rx="4"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="rect30" />
+  <rect
+     x="1228.0"
+     y="272.5"
+     width="44"
+     height="435"
+     rx="22.0"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect31" />
+  <path
+     d="M1201.0,620.5 L1201.0,521.3199999999999 Q1213.0,511.31999999999994 1225.0,525.3199999999999 L1225.0,620.5 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path31" />
+  <path
+     d="M1275.0,620.5 L1275.0,525.3199999999999 Q1287.0,511.31999999999994 1299.0,521.3199999999999 L1299.0,620.5 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="path32" />
+  <text
+     x="1250"
+     y="767.00958"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text32">Solder rises only partway</text>
+  <text
+     x="1250"
+     y="804.82959"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text33">through the plated barrel</text>
+  <rect
+     x="1796.6666666666667"
+     y="245.0"
+     width="493.33333333333337"
+     height="300"
+     rx="10"
+     fill="#72a77f"
+     stroke="#3e6f4c"
+     stroke-width="5"
+     id="rect33" />
+  <ellipse
+     cx="2043.3333333333335"
+     cy="410.0"
+     rx="65"
+     ry="46"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse33" />
+  <path
+     d="m 1190.6664,650.06824 c -10,58 128,48 120,0 z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path34-8"
+     sodipodi:nodetypes="ccc" />
+  <text
+     x="2043.3333333333335"
+     y="695.0"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text34">Excess retained solder</text>
+  <text
+     x="2043.3333333333335"
+     y="732.82"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text35">forms a pointed projection</text>
+  <rect
+     x="190.0"
+     y="1102.5"
+     width="533.3333333333334"
+     height="340"
+     rx="10"
+     fill="#72a77f"
+     stroke="#3e6f4c"
+     stroke-width="5"
+     id="rect35" />
+  <ellipse
+     cx="456.6666666666667"
+     cy="1277.5"
+     rx="70"
+     ry="50"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse35" />
+  <rect
+     x="439.6666666666667"
+     y="1137.5"
+     width="34"
+     height="190.0"
+     rx="17.0"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect36" />
+  <path
+     d="M398.6666666666667,1289.5 C408.6666666666667,1255.5 436.6666666666667,1252.5 442.6666666666667,1282.5 L442.6666666666667,1312.5 C423.6666666666667,1314.5 406.6666666666667,1308.5 398.6666666666667,1289.5 Z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path36" />
+  <text
+     x="456.6666666666667"
+     y="1518"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="34"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text36">Solder is present but does not spread</text>
+  <text
+     x="456.6666666666667"
+     y="1562"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="400"
+     text-anchor="middle"
+     fill="#5a7082"
+     id="text37">Wettable pad remains exposed</text>
+  <rect
+     x="929.44775"
+     y="1127.6144"
+     width="649.38068"
+     height="299.77118"
+     rx="10.94462"
+     fill="#72a77f"
+     stroke="#3e6f4c"
+     stroke-width="5.22883"
+     id="rect37" />
+  <ellipse
+     cx="1019.3334"
+     cy="1272.5"
+     rx="48"
+     ry="36"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse37" />
+  <ellipse
+     cx="1019.3334"
+     cy="1272.5"
+     rx="55.099998"
+     ry="40.849998"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="ellipse38" />
+  <ellipse
+     cx="1179.3334"
+     cy="1272.5"
+     rx="48"
+     ry="36"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse39" />
+  <ellipse
+     cx="1179.3334"
+     cy="1272.5"
+     rx="55.099998"
+     ry="40.849998"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="ellipse40" />
+  <ellipse
+     cx="1339.3334"
+     cy="1272.5"
+     rx="48"
+     ry="36"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse41" />
+  <rect
+     x="1324.2817"
+     y="1157.4484"
+     width="30.103348"
+     height="151.31773"
+     rx="15.051674"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="3.89665"
+     id="rect41" />
+  <ellipse
+     cx="1499.3334"
+     cy="1272.5"
+     rx="48"
+     ry="36"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse42" />
+  <ellipse
+     cx="1499.3334"
+     cy="1272.5"
+     rx="55.099998"
+     ry="40.849998"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="ellipse43" />
+  <text
+     x="1250.0"
+     y="1512.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text43">One intended joint is missed</text>
+  <text
+     x="1250.0"
+     y="1550.32"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text44">while neighboring joints are soldered</text>
+  <line
+     x1="1339.3334"
+     y1="1462.8854"
+     x2="1339.3334"
+     y2="1341.793"
+     stroke="#405d78"
+     stroke-width="3.59396"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line44" />
+  <line
+     x1="1786.6666666666667"
+     y1="1097.5"
+     x2="2316.666666666667"
+     y2="1097.5"
+     stroke="#405d78"
+     stroke-width="7"
+     fill="none"
+     stroke-linecap="round"
+     marker-end="url(#arrow)"
+     id="line45"
+     style="marker-end:url(#RoundedArrow);stroke-width:3;stroke-dasharray:none" />
+  <text
+     x="2051.666666666667"
+     y="1077.5"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="32"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#344d61"
+     id="text45">Travel direction</text>
+  <rect
+     x="1766.7214"
+     y="1352.5548"
+     width="584.85181"
+     height="84.890312"
+     rx="6.3417668"
+     fill="#72a77f"
+     stroke="#3e6f4c"
+     stroke-width="4.10969"
+     id="rect45" />
+  <ellipse
+     cx="1836.6666666666667"
+     cy="1372.5"
+     rx="38"
+     ry="28"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse45" />
+  <rect
+     x="1823.6666666666667"
+     y="1272.5"
+     width="26"
+     height="135.0"
+     rx="13.0"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect46" />
+  <ellipse
+     cx="1836.6666666666667"
+     cy="1372.5"
+     rx="45.24"
+     ry="33.54"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="ellipse46" />
+  <ellipse
+     cx="1986.6666666666667"
+     cy="1372.5"
+     rx="38"
+     ry="28"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse47" />
+  <rect
+     x="1973.6666666666667"
+     y="1272.5"
+     width="26"
+     height="135.0"
+     rx="13.0"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="4"
+     id="rect47" />
+  <ellipse
+     cx="1986.6666666666667"
+     cy="1372.5"
+     rx="45.24"
+     ry="33.54"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="ellipse48" />
+  <ellipse
+     cx="2166.666666666667"
+     cy="1372.5"
+     rx="38"
+     ry="28"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse49" />
+  <rect
+     x="2153.4946"
+     y="1272.3279"
+     width="26.059288"
+     height="112.50175"
+     rx="13.029644"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="3.65567"
+     id="rect49" />
+  <ellipse
+     cx="2291.666666666667"
+     cy="1372.5"
+     rx="38"
+     ry="28"
+     fill="#d7aa40"
+     stroke="#987221"
+     stroke-width="3"
+     id="ellipse50" />
+  <rect
+     x="2278.7795"
+     y="1272.3279"
+     width="26.059288"
+     height="112.50175"
+     rx="13.029644"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="3.65567"
+     id="rect50" />
+  <rect
+     x="2043.5302"
+     y="1172.0637"
+     width="66.944679"
+     height="200.87271"
+     rx="8.5202322"
+     fill="#4e5964"
+     stroke="#303b44"
+     stroke-width="3.12728"
+     id="rect51" />
+  <text
+     x="2086.6667"
+     y="1160.389"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="30px"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text51">Obstruction</text>
+  <text
+     x="2251.666666666667"
+     y="1498"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text52">Weak / missed joints</text>
+  <text
+     x="2251.666666666667"
+     y="1536"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="31"
+     font-weight="700"
+     text-anchor="middle"
+     fill="#3d5364"
+     id="text53">behind obstruction</text>
+  <path
+     d="M2181.666666666667,1447.5 Q2256.666666666667,1477.5 2326.666666666667,1442.5"
+     fill="none"
+     stroke="#8a5b47"
+     stroke-width="5"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     stroke-dasharray="8 8"
+     id="path53" />
+  <ellipse
+     cx="336.6666666666667"
+     cy="425.0"
+     rx="60.900000000000006"
+     ry="45.15"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3"
+     id="ellipse21"
+     style="stroke:#737f88;stroke-opacity:0.4937833" />
+  <rect
+     x="319.30859"
+     y="294.64194"
+     width="34.716145"
+     height="115.51361"
+     rx="17.358072"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="3.28385"
+     id="rect21" />
+  <rect
+     x="1004.1506"
+     y="1157.3171"
+     width="30.365648"
+     height="130.49458"
+     rx="15.182824"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="3.63435"
+     id="rect38" />
+  <rect
+     x="1164.1505"
+     y="1157.3171"
+     width="30.365648"
+     height="130.49458"
+     rx="15.182824"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="3.63435"
+     id="rect39" />
+  <rect
+     x="1484.1392"
+     y="1157.3058"
+     width="30.388519"
+     height="128.76033"
+     rx="15.19426"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="3.61148"
+     id="rect42" />
+  <ellipse
+     cx="2044.8585"
+     cy="398.3757"
+     rx="74.300781"
+     ry="57.761883"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="3.74802"
+     id="ellipse23-9" />
+  <rect
+     x="2024.7959"
+     y="284.4259"
+     width="37.07481"
+     height="96.069107"
+     rx="18.537405"
+     fill="#aeb9c2"
+     stroke="#687883"
+     stroke-width="2.92519"
+     id="rect34"
+     style="stroke:#687883;stroke-opacity:0.323268" />
+  <path
+     d="m 2047.5223,324.4737 c 20.74,-26.57707 39.1616,-26.46862 39.479,-35.91004 10.8515,-10.95665 24.7393,-33.41061 38.517,-44.78819 -19.286,10.19183 -44.1699,13.17227 -58.3094,21.63483 -10.7841,-2.89939 -22.6518,15.97277 -40.8612,32.43843 z"
+     fill="#bcc2c6"
+     stroke="#78838a"
+     stroke-width="1.14119"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path34"
+     style="fill:#aeb9c2;fill-opacity:1"
+     sodipodi:nodetypes="cccccc" />
 </svg>
