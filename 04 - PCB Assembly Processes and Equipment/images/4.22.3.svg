@@ -1,5 +1,730 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="1840" viewBox="0 0 3000 1840" preserveAspectRatio="xMidYMid meet"><rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/><defs>
-<marker id="arrowBlue" markerWidth="18" markerHeight="18" refX="14" refY="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L18,9 L0,18 z" fill="#2f73c8"/></marker>
-<marker id="arrowRed" markerWidth="18" markerHeight="18" refX="14" refY="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L18,9 L0,18 z" fill="#c94b4b"/></marker>
-<marker id="arrowGray" markerWidth="18" markerHeight="18" refX="14" refY="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L18,9 L0,18 z" fill="#4b5563"/></marker>
-</defs><rect x="100" y="90" width="1340" height="1320" rx="30" fill="#eef6fb" stroke="#74a9cf" stroke-width="5"/><rect x="1560" y="90" width="1340" height="1320" rx="30" fill="#fbf5ea" stroke="#d8b46f" stroke-width="5"/><text x="155" y="185" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="bold" text-anchor="start" fill="#23364d"><tspan x="155" dy="0">Underfill beneath an area-array package</tspan></text><text x="1615" y="185" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="bold" text-anchor="start" fill="#23364d"><tspan x="1615" dy="0">Potting / encapsulation around a PCBA</tspan></text><text x="170" y="335" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="bold" text-anchor="start" fill="#23364d"><tspan x="170" dy="0">Representative capillary-underfill process</tspan></text><text x="170" y="400" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="normal" text-anchor="start" fill="#1f2937"><tspan x="170" dy="0">Solder joints are formed before underfill is dispensed.</tspan></text><rect x="280" y="880" width="980" height="95" rx="10" fill="#3a9d5d" stroke="#1f5d3f" stroke-width="5"/><rect x="470" y="510" width="600" height="235" rx="22" fill="#4b5563" stroke="#28313a" stroke-width="5"/><text x="770.0" y="645" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#ffffff"><tspan x="770.0" dy="0">Area-array package</tspan></text><circle cx="525" cy="825" r="29" fill="#c8d0d9" stroke="#66727e" stroke-width="4"/><circle cx="595" cy="825" r="29" fill="#c8d0d9" stroke="#66727e" stroke-width="4"/><circle cx="665" cy="825" r="29" fill="#c8d0d9" stroke="#66727e" stroke-width="4"/><circle cx="735" cy="825" r="29" fill="#c8d0d9" stroke="#66727e" stroke-width="4"/><circle cx="805" cy="825" r="29" fill="#c8d0d9" stroke="#66727e" stroke-width="4"/><circle cx="875" cy="825" r="29" fill="#c8d0d9" stroke="#66727e" stroke-width="4"/><circle cx="945" cy="825" r="29" fill="#c8d0d9" stroke="#66727e" stroke-width="4"/><circle cx="1015" cy="825" r="29" fill="#c8d0d9" stroke="#66727e" stroke-width="4"/><rect x="480" y="757" width="580" height="115" rx="18" fill="#7fb9d7" fill-opacity="0.58" stroke="#4d8faf" stroke-width="4"/><path d="M 455 797 C 365 752, 360 857, 455 852 Z" fill="#7fb9d7" fill-opacity="0.72" stroke="#4d8faf" stroke-width="4"/><line x1="495" y1="785" x2="890" y2="785" stroke="#2f73c8" stroke-width="7" marker-end="url(#arrowBlue)"/><line x1="495" y1="825" x2="890" y2="825" stroke="#2f73c8" stroke-width="7" marker-end="url(#arrowBlue)"/><text x="175" y="1050" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" text-anchor="start" fill="#1f2937"><tspan x="175" dy="0">Underfill dispense</tspan></text><line x1="415" y1="1025" x2="433" y2="812" stroke="#23364d" stroke-width="4" marker-end="url(#arrowGray)"/><text x="1140" y="1040" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#1f2937"><tspan x="1140" dy="0">Solder</tspan><tspan x="1140" dy="43">interconnections</tspan></text><line x1="1090" y1="995" x2="995" y2="830" stroke="#23364d" stroke-width="4" marker-end="url(#arrowGray)"/><text x="1180" y="650" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#1f2937"><tspan x="1180" dy="0">Package-to-board</tspan><tspan x="1180" dy="43">gap</tspan></text><line x1="1130" y1="705" x2="1055" y2="792" stroke="#23364d" stroke-width="4" marker-end="url(#arrowGray)"/><text x="710" y="1150" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#2f73c8"><tspan x="710" dy="0">Capillary flow (representative)</tspan></text><text x="710" y="1215" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="normal" text-anchor="middle" fill="#1f2937"><tspan x="710" dy="0">Cured underfill stays localized beneath the package.</tspan></text><text x="710" y="1272" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="normal" text-anchor="middle" fill="#1f2937"><tspan x="710" dy="0">Most of the board remains exposed and accessible.</tspan></text><rect x="410" y="1325" width="780" height="110" rx="22" fill="#ffffff" stroke="#79a6bf" stroke-width="4"/><text x="800.0" y="1395" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="800.0" dy="0">Localized reinforcement</tspan></text><text x="1630" y="320" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="bold" text-anchor="start" fill="#23364d"><tspan x="1630" dy="0">Broad-volume protection around part or all</tspan><tspan x="1630" dy="54">of the assembly</tspan></text><text x="1630" y="450" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="normal" text-anchor="start" fill="#1f2937"><tspan x="1630" dy="0">The polymer volume is much larger than underfill.</tspan></text><rect x="1785" y="520" width="900" height="565" rx="18" fill="none" stroke="#9aa4af" stroke-width="30"/><rect x="1875" y="910" width="720" height="90" rx="8" fill="#3a9d5d" stroke="#1f5d3f" stroke-width="5"/><rect x="1965" y="760" width="150" height="150" rx="16" fill="#4b5563" stroke="#28313a" stroke-width="5"/><rect x="2195" y="690" width="210" height="220" rx="16" fill="#4b5563" stroke="#28313a" stroke-width="5"/><rect x="2465" y="780" width="115" height="130" rx="16" fill="#4b5563" stroke="#28313a" stroke-width="5"/><rect x="1813" y="690" width="844" height="365" rx="10" fill="#c7a46a" fill-opacity="0.38" stroke="#b68a49" stroke-width="4"/><text x="1655" y="590" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="start" fill="#1f2937"><tspan x="1655" dy="0">Housing / mold</tspan></text><line x1="1880" y1="575" x2="1807" y2="590" stroke="#23364d" stroke-width="4" marker-end="url(#arrowGray)"/><text x="2600" y="610" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#1f2937"><tspan x="2600" dy="0">Potting / encapsulation</tspan><tspan x="2600" dy="43">material</tspan></text><line x1="2600" y1="665" x2="2435" y2="765" stroke="#23364d" stroke-width="4" marker-end="url(#arrowGray)"/><text x="1810" y="1170" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#1f2937"><tspan x="1810" dy="0">PCBA</tspan></text><line x1="1810" y1="1135" x2="2045" y2="945" stroke="#23364d" stroke-width="4" marker-end="url(#arrowGray)"/><rect x="2340" y="1125" width="520" height="175" rx="20" fill="#fffafa" stroke="#d68a8a" stroke-width="4"/><text x="2600.0" y="1190" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#c94b4b"><tspan x="2600.0" dy="0">Direct component access</tspan></text><text x="2600.0" y="1247" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="normal" text-anchor="middle" fill="#1f2937"><tspan x="2600.0" dy="0">greatly reduced after cure</tspan></text><line x1="2380" y1="1125" x2="2225" y2="720" stroke="#c94b4b" stroke-width="7" stroke-dasharray="20 14" marker-end="url(#arrowRed)"/><line x1="2201" y1="696" x2="2249" y2="744" stroke="#c94b4b" stroke-width="9"/><line x1="2249" y1="696" x2="2201" y2="744" stroke="#c94b4b" stroke-width="9"/><rect x="1850" y="1325" width="650" height="110" rx="22" fill="#ffffff" stroke="#c7a46a" stroke-width="4"/><text x="2175.0" y="1395" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="2175.0" dy="0">Broad-volume protection</tspan></text><rect x="100" y="1450" width="2800" height="310" rx="28" fill="#f5f7fa" stroke="#b9c2cc" stroke-width="5"/><line x1="1500" y1="1475" x2="1500" y2="1715" stroke="#c8d0d8" stroke-width="4"/><text x="780" y="1532" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="780" dy="0">Underfill: localized reinforcement</tspan></text><text x="780" y="1595" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="normal" text-anchor="middle" fill="#1f2937"><tspan x="780" dy="0">Most of the board remains exposed.</tspan></text><text x="2220" y="1532" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="2220" dy="0">Potting / encapsulation: broad coverage</tspan></text><text x="2220" y="1595" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="normal" text-anchor="middle" fill="#1f2937"><tspan x="2220" dy="0">Direct component access is greatly reduced.</tspan></text><text x="1500" y="1675" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="normal" text-anchor="middle" fill="#4b5563"><tspan x="1500" dy="0">Protection strategy is product specific; more coverage can mean less direct access</tspan><tspan x="1500" dy="44">for service or rework.</tspan></text></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3000"
+   height="1840"
+   viewBox="0 0 3000 1840"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg45"
+   sodipodi:docname="4.22.3.svg"
+   inkscape:export-filename="4.22.3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="0.33300653"
+     inkscape:cx="1648.6163"
+     inkscape:cy="842.32581"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg45" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs3">
+    <marker
+       id="arrowBlue"
+       markerWidth="18"
+       markerHeight="18"
+       refX="14"
+       refY="9"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L18,9 L0,18 z"
+         fill="#2f73c8"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowRed"
+       markerWidth="18"
+       markerHeight="18"
+       refX="14"
+       refY="9"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L18,9 L0,18 z"
+         fill="#c94b4b"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowGray"
+       markerWidth="18"
+       markerHeight="18"
+       refX="14"
+       refY="9"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M0,0 L18,9 L0,18 z"
+         fill="#4b5563"
+         id="path3" />
+    </marker>
+  </defs>
+  <rect
+     x="100"
+     y="90"
+     width="1340"
+     height="1320"
+     rx="30"
+     fill="#eef6fb"
+     stroke="#74a9cf"
+     stroke-width="5"
+     id="rect3" />
+  <rect
+     x="1560"
+     y="90"
+     width="1340"
+     height="1320"
+     rx="30"
+     fill="#fbf5ea"
+     stroke="#d8b46f"
+     stroke-width="5"
+     id="rect4" />
+  <text
+     x="155"
+     y="185"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="64"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#23364d"
+     id="text4"><tspan
+       x="155"
+       dy="0"
+       id="tspan4">Underfill beneath an area-array package</tspan></text>
+  <text
+     x="1615"
+     y="185"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="64"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#23364d"
+     id="text5"><tspan
+       x="1615"
+       dy="0"
+       id="tspan5">Potting / encapsulation around a PCBA</tspan></text>
+  <text
+     x="170"
+     y="335"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="48"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#23364d"
+     id="text6"><tspan
+       x="170"
+       dy="0"
+       id="tspan6">Representative capillary-underfill process</tspan></text>
+  <text
+     x="170"
+     y="400"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="normal"
+     text-anchor="start"
+     fill="#1f2937"
+     id="text7"><tspan
+       x="170"
+       dy="0"
+       id="tspan7">Solder joints are formed before underfill is dispensed.</tspan></text>
+  <rect
+     x="280"
+     y="880"
+     width="980"
+     height="95"
+     rx="10"
+     fill="#3a9d5d"
+     stroke="#1f5d3f"
+     stroke-width="5"
+     id="rect7" />
+  <rect
+     x="470"
+     y="510"
+     width="600"
+     height="235"
+     rx="22"
+     fill="#4b5563"
+     stroke="#28313a"
+     stroke-width="5"
+     id="rect8" />
+  <text
+     x="770.0"
+     y="645"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="48"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#ffffff"
+     id="text8"><tspan
+       x="770.0"
+       dy="0"
+       id="tspan8">Area-array package</tspan></text>
+  <circle
+     cx="525"
+     cy="825"
+     r="29"
+     fill="#c8d0d9"
+     stroke="#66727e"
+     stroke-width="4"
+     id="circle8" />
+  <circle
+     cx="595"
+     cy="825"
+     r="29"
+     fill="#c8d0d9"
+     stroke="#66727e"
+     stroke-width="4"
+     id="circle9" />
+  <circle
+     cx="665"
+     cy="825"
+     r="29"
+     fill="#c8d0d9"
+     stroke="#66727e"
+     stroke-width="4"
+     id="circle10" />
+  <circle
+     cx="735"
+     cy="825"
+     r="29"
+     fill="#c8d0d9"
+     stroke="#66727e"
+     stroke-width="4"
+     id="circle11" />
+  <circle
+     cx="805"
+     cy="825"
+     r="29"
+     fill="#c8d0d9"
+     stroke="#66727e"
+     stroke-width="4"
+     id="circle12" />
+  <circle
+     cx="875"
+     cy="825"
+     r="29"
+     fill="#c8d0d9"
+     stroke="#66727e"
+     stroke-width="4"
+     id="circle13" />
+  <circle
+     cx="945"
+     cy="825"
+     r="29"
+     fill="#c8d0d9"
+     stroke="#66727e"
+     stroke-width="4"
+     id="circle14" />
+  <circle
+     cx="1015"
+     cy="825"
+     r="29"
+     fill="#c8d0d9"
+     stroke="#66727e"
+     stroke-width="4"
+     id="circle15" />
+  <rect
+     x="480"
+     y="757"
+     width="580"
+     height="115"
+     rx="18"
+     fill="#7fb9d7"
+     fill-opacity="0.58"
+     stroke="#4d8faf"
+     stroke-width="4"
+     id="rect15" />
+  <path
+     d="M 455 797 C 365 752, 360 857, 455 852 Z"
+     fill="#7fb9d7"
+     fill-opacity="0.72"
+     stroke="#4d8faf"
+     stroke-width="4"
+     id="path15" />
+  <line
+     x1="495"
+     y1="785"
+     x2="890"
+     y2="785"
+     stroke="#2f73c8"
+     stroke-width="7"
+     marker-end="url(#arrowBlue)"
+     id="line15" />
+  <line
+     x1="495"
+     y1="825"
+     x2="890"
+     y2="825"
+     stroke="#2f73c8"
+     stroke-width="7"
+     marker-end="url(#arrowBlue)"
+     id="line16" />
+  <text
+     x="161.73077"
+     y="1058.8462"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="44px"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#1f2937"
+     id="text16"><tspan
+       x="161.73077"
+       dy="0"
+       id="tspan16">Underfill dispense</tspan></text>
+  <line
+     x1="415"
+     y1="1025"
+     x2="433"
+     y2="812"
+     stroke="#23364d"
+     stroke-width="4"
+     marker-end="url(#arrowGray)"
+     id="line17" />
+  <text
+     x="1140"
+     y="1040"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#1f2937"
+     id="text18"><tspan
+       x="1140"
+       dy="0"
+       id="tspan17">Solder</tspan><tspan
+       x="1140"
+       dy="43"
+       id="tspan18">interconnections</tspan></text>
+  <line
+     x1="1090"
+     y1="995"
+     x2="995"
+     y2="830"
+     stroke="#23364d"
+     stroke-width="4"
+     marker-end="url(#arrowGray)"
+     id="line18" />
+  <text
+     x="1257.4038"
+     y="654.4231"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#1f2937"
+     id="text20"><tspan
+       x="1257.4038"
+       dy="0"
+       id="tspan19">Package-to-board</tspan><tspan
+       x="1257.4038"
+       dy="43"
+       id="tspan20">gap</tspan></text>
+  <line
+     x1="1130"
+     y1="705"
+     x2="1055"
+     y2="792"
+     stroke="#23364d"
+     stroke-width="4"
+     marker-end="url(#arrowGray)"
+     id="line20" />
+  <text
+     x="710"
+     y="1150"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#2f73c8"
+     id="text21"><tspan
+       x="710"
+       dy="0"
+       id="tspan21">Capillary flow (representative)</tspan></text>
+  <text
+     x="710"
+     y="1215"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="39"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#1f2937"
+     id="text22"><tspan
+       x="710"
+       dy="0"
+       id="tspan22">Cured underfill stays localized beneath the package.</tspan></text>
+  <text
+     x="710"
+     y="1272"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="39"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#1f2937"
+     id="text23"><tspan
+       x="710"
+       dy="0"
+       id="tspan23">Most of the board remains exposed and accessible.</tspan></text>
+  <rect
+     x="410"
+     y="1325"
+     width="780"
+     height="110"
+     rx="22"
+     fill="#ffffff"
+     stroke="#79a6bf"
+     stroke-width="4"
+     id="rect23" />
+  <text
+     x="800.0"
+     y="1395"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="50"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text24"><tspan
+       x="800.0"
+       dy="0"
+       id="tspan24">Localized reinforcement</tspan></text>
+  <text
+     x="1630"
+     y="320"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="46"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#23364d"
+     id="text26"><tspan
+       x="1630"
+       dy="0"
+       id="tspan25">Broad-volume protection around part or all</tspan><tspan
+       x="1630"
+       dy="54"
+       id="tspan26">of the assembly</tspan></text>
+  <text
+     x="1630"
+     y="450"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="normal"
+     text-anchor="start"
+     fill="#1f2937"
+     id="text27"><tspan
+       x="1630"
+       dy="0"
+       id="tspan27">The polymer volume is much larger than underfill.</tspan></text>
+  <rect
+     x="1785"
+     y="520"
+     width="900"
+     height="565"
+     rx="18"
+     fill="none"
+     stroke="#9aa4af"
+     stroke-width="30"
+     id="rect27" />
+  <rect
+     x="1875"
+     y="910"
+     width="720"
+     height="90"
+     rx="8"
+     fill="#3a9d5d"
+     stroke="#1f5d3f"
+     stroke-width="5"
+     id="rect28" />
+  <rect
+     x="1965"
+     y="760"
+     width="150"
+     height="150"
+     rx="16"
+     fill="#4b5563"
+     stroke="#28313a"
+     stroke-width="5"
+     id="rect29" />
+  <rect
+     x="2195"
+     y="690"
+     width="210"
+     height="220"
+     rx="16"
+     fill="#4b5563"
+     stroke="#28313a"
+     stroke-width="5"
+     id="rect30" />
+  <rect
+     x="2465"
+     y="780"
+     width="115"
+     height="130"
+     rx="16"
+     fill="#4b5563"
+     stroke="#28313a"
+     stroke-width="5"
+     id="rect31" />
+  <rect
+     x="1813"
+     y="690"
+     width="844"
+     height="365"
+     rx="10"
+     fill="#c7a46a"
+     fill-opacity="0.38"
+     stroke="#b68a49"
+     stroke-width="4"
+     id="rect32" />
+  <text
+     x="1842.9807"
+     y="581.15387"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40px"
+     font-weight="bold"
+     text-anchor="start"
+     fill="#1f2937"
+     id="text32"><tspan
+       x="1842.9807"
+       dy="0"
+       id="tspan32">Housing / mold</tspan></text>
+  <line
+     x1="1880"
+     y1="597.11536"
+     x2="1807"
+     y2="612.11536"
+     stroke="#23364d"
+     stroke-width="4"
+     marker-end="url(#arrowGray)"
+     id="line32" />
+  <text
+     x="2440.7693"
+     y="596.73077"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#1f2937"
+     id="text34"><tspan
+       x="2440.7693"
+       dy="0"
+       id="tspan33">Potting / encapsulation</tspan><tspan
+       x="2440.7693"
+       dy="43"
+       id="tspan34">material</tspan></text>
+  <line
+     x1="2557.8313"
+     y1="644.91937"
+     x2="2434.5466"
+     y2="765.10352"
+     stroke="#23364d"
+     stroke-width="3.79049"
+     marker-end="url(#arrowGray)"
+     id="line34" />
+  <text
+     x="1790.0962"
+     y="1185.4807"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#1f2937"
+     id="text35"><tspan
+       x="1790.0962"
+       dy="0"
+       id="tspan35">PCBA</tspan></text>
+  <line
+     x1="1810"
+     y1="1135"
+     x2="2045"
+     y2="945"
+     stroke="#23364d"
+     stroke-width="4"
+     marker-end="url(#arrowGray)"
+     id="line35" />
+  <rect
+     x="2326.5933"
+     y="1140.3433"
+     width="546.8136"
+     height="144.31358"
+     rx="21.031292"
+     fill="#fffafa"
+     stroke="#d68a8a"
+     stroke-width="3.72489"
+     id="rect35" />
+  <text
+     x="2600.0"
+     y="1190"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#c94b4b"
+     id="text36"><tspan
+       x="2600.0"
+       dy="0"
+       id="tspan36">Direct component access</tspan></text>
+  <text
+     x="2600.0"
+     y="1247"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#1f2937"
+     id="text37"><tspan
+       x="2600.0"
+       dy="0"
+       id="tspan37">greatly reduced after cure</tspan></text>
+  <line
+     x1="2380"
+     y1="1125"
+     x2="2225"
+     y2="720"
+     stroke="#c94b4b"
+     stroke-width="7"
+     stroke-dasharray="20 14"
+     marker-end="url(#arrowRed)"
+     id="line37" />
+  <line
+     x1="2201"
+     y1="696"
+     x2="2249"
+     y2="744"
+     stroke="#c94b4b"
+     stroke-width="9"
+     id="line38" />
+  <line
+     x1="2249"
+     y1="696"
+     x2="2201"
+     y2="744"
+     stroke="#c94b4b"
+     stroke-width="9"
+     id="line39" />
+  <rect
+     x="1850"
+     y="1325"
+     width="650"
+     height="110"
+     rx="22"
+     fill="#ffffff"
+     stroke="#c7a46a"
+     stroke-width="4"
+     id="rect39" />
+  <text
+     x="2175.0"
+     y="1395"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="50"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text39"><tspan
+       x="2175.0"
+       dy="0"
+       id="tspan39">Broad-volume protection</tspan></text>
+  <rect
+     x="100"
+     y="1450"
+     width="2800"
+     height="310"
+     rx="28"
+     fill="#f5f7fa"
+     stroke="#b9c2cc"
+     stroke-width="5"
+     id="rect40" />
+  <line
+     x1="1500"
+     y1="1475"
+     x2="1500"
+     y2="1624.3269"
+     stroke="#c8d0d8"
+     stroke-width="3.15517"
+     id="line40" />
+  <text
+     x="780"
+     y="1532"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="46"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text40"><tspan
+       x="780"
+       dy="0"
+       id="tspan40">Underfill: localized reinforcement</tspan></text>
+  <text
+     x="780"
+     y="1595"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#1f2937"
+     id="text41"><tspan
+       x="780"
+       dy="0"
+       id="tspan41">Most of the board remains exposed.</tspan></text>
+  <text
+     x="2220"
+     y="1532"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="46"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text42"><tspan
+       x="2220"
+       dy="0"
+       id="tspan42">Potting / encapsulation: broad coverage</tspan></text>
+  <text
+     x="2220"
+     y="1595"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="40"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#1f2937"
+     id="text43"><tspan
+       x="2220"
+       dy="0"
+       id="tspan43">Direct component access is greatly reduced.</tspan></text>
+  <text
+     x="1500"
+     y="1675"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="normal"
+     text-anchor="middle"
+     fill="#4b5563"
+     id="text45"><tspan
+       x="1500"
+       dy="0"
+       id="tspan44">Protection strategy is product specific; more coverage can mean less direct access</tspan><tspan
+       x="1500"
+       dy="44"
+       id="tspan45">for service or rework.</tspan></text>
+</svg>
