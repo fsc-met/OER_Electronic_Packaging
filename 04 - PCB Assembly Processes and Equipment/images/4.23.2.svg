@@ -1,1 +1,895 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3900" height="1850" viewBox="0 0 3900 1850" preserveAspectRatio="xMidYMid meet"><rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/><defs><marker id="arrowBlue" markerWidth="22" markerHeight="22" refX="18" refY="11" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L22,11 L0,22 z" fill="#2f73c8"/></marker><marker id="arrowGreen" markerWidth="22" markerHeight="22" refX="18" refY="11" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L22,11 L0,22 z" fill="#3a8f58"/></marker><marker id="arrowOrange" markerWidth="22" markerHeight="22" refX="18" refY="11" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L22,11 L0,22 z" fill="#c56f2a"/></marker><marker id="arrowGray" markerWidth="22" markerHeight="22" refX="18" refY="11" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L22,11 L0,22 z" fill="#526274"/></marker></defs><rect x="80" y="250" width="390" height="430" rx="26" fill="#eef5fb" stroke="#6ea3c8" stroke-width="5"/><rect x="230.0" y="320.625" width="90.0" height="108.75" rx="10" fill="#fff" stroke="#526274" stroke-width="4"/><path d="M291.2,320.6 L320.0,347.8 L291.2,347.8 Z" fill="#d7e3ec" stroke="#526274" stroke-width="3"/><line x1="246.2" y1="375.0" x2="285.8" y2="375.0" stroke="#9aa9b6" stroke-width="5"/><line x1="246.2" y1="392.4" x2="294.8" y2="392.4" stroke="#9aa9b6" stroke-width="5"/><line x1="246.2" y1="409.8" x2="278.6" y2="409.8" stroke="#9aa9b6" stroke-width="5"/><text x="275.0" y="525" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="275.0" dy="0.0">Released product</tspan><tspan x="275.0" dy="49.4">revision</tspan></text><rect x="545" y="250" width="390" height="430" rx="26" fill="#eef5fb" stroke="#6ea3c8" stroke-width="5"/><rect x="689.375" y="320.625" width="101.25" height="108.75" rx="10" fill="#fff" stroke="#526274" stroke-width="4"/><rect x="702.9" y="343.1" width="18" height="18" rx="3" fill="#eef8f1" stroke="#3a8f58" stroke-width="3"/><path d="M705.9,350.6 l3.8,4.5 l7.5,-9.8" fill="none" stroke="#3a8f58" stroke-width="4"/><line x1="726.9" y1="350.6" x2="771.9" y2="350.6" stroke="#9aa9b6" stroke-width="5"/><rect x="702.9" y="368.6" width="18" height="18" rx="3" fill="#eef8f1" stroke="#3a8f58" stroke-width="3"/><path d="M705.9,376.1 l3.8,4.5 l7.5,-9.8" fill="none" stroke="#3a8f58" stroke-width="4"/><line x1="726.9" y1="376.1" x2="771.9" y2="376.1" stroke="#9aa9b6" stroke-width="5"/><rect x="702.9" y="394.1" width="18" height="18" rx="3" fill="#eef8f1" stroke="#3a8f58" stroke-width="3"/><path d="M705.9,401.6 l3.8,4.5 l7.5,-9.8" fill="none" stroke="#3a8f58" stroke-width="4"/><line x1="726.9" y1="401.6" x2="771.9" y2="401.6" stroke="#9aa9b6" stroke-width="5"/><text x="740.0" y="525" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="740.0" dy="0.0">Manufacturing-data</tspan><tspan x="740.0" dy="49.4">review</tspan></text><rect x="1010" y="250" width="420" height="430" rx="26" fill="#eef5fb" stroke="#6ea3c8" stroke-width="5"/><path d="M1161.5,351.6 L1204.4,351.6 L1217.7,332.1 L1278.5,332.1 L1278.5,417.9 L1161.5,417.9 Z" fill="#e4eef7" stroke="#526274" stroke-width="4"/><text x="1220.0" y="525" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="1220.0" dy="0.0">Job package +</tspan><tspan x="1220.0" dy="49.4">programs prepared</tspan></text><rect x="1505" y="250" width="470" height="430" rx="26" fill="#edf7f7" stroke="#76a7a7" stroke-width="5"/><circle cx="1704.9" cy="375" r="32.76" fill="#fff" stroke="#526274" stroke-width="4"/><circle cx="1704.9" cy="375" r="9.36" fill="#d7e3ec" stroke="#526274" stroke-width="3"/><rect x="1743.9" y="350.04" width="78.0" height="49.92" rx="10" fill="#fff" stroke="#526274" stroke-width="4"/><line x1="1759.5" y1="375" x2="1806.3" y2="375" stroke="#9aa9b6" stroke-width="7"/><text x="1740.0" y="525" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="1740.0" dy="0.0">Material / tooling /</tspan><tspan x="1740.0" dy="49.4">equipment readiness</tspan></text><rect x="2050" y="250" width="410" height="430" rx="26" fill="#eef8f1" stroke="#77ad88" stroke-width="5"/><rect x="2194.55" y="336.0" width="120.9" height="78.0" rx="10" fill="#5aa36d" stroke="#315f41" stroke-width="4"/><rect x="2209.058" y="350.04" width="26.598000000000003" height="21.840000000000003" rx="4" fill="#273444" stroke="#19232e" stroke-width="2"/><rect x="2252.5820000000003" y="346.92" width="36.27" height="27.299999999999997" rx="4" fill="#273444" stroke="#19232e" stroke-width="2"/><rect x="2213.8940000000002" y="382.8" width="21.762" height="15.600000000000001" rx="4" fill="#273444" stroke="#19232e" stroke-width="2"/><rect x="2257.418" y="384.36" width="21.762" height="14.04" rx="4" fill="#273444" stroke="#19232e" stroke-width="2"/><text x="2255.0" y="525" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="2255.0" dy="0.0">Initial / staged</tspan><tspan x="2255.0" dy="49.4">build</tspan></text><text x="2255.0" y="622" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="bold" text-anchor="middle" fill="#3a8f58"><tspan x="2255.0" dy="0.0">as applicable</tspan></text><rect x="2510" y="250" width="380" height="430" rx="26" fill="#fff7e8" stroke="#d0a45c" stroke-width="5"/><circle cx="2689.2" cy="375" r="41.76" fill="#fff" stroke="#526274" stroke-width="4"/><line x1="2720.16" y1="405.96" x2="2756.16" y2="441.24" stroke="#526274" stroke-width="12" stroke-linecap="round"/><path d="M2669.04,375 l12.959999999999999,14.399999999999999 l28.799999999999997,-34.56" fill="none" stroke="#3a8f58" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><text x="2700.0" y="525" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="2700.0" dy="0.0">First-board / setup</tspan><tspan x="2700.0" dy="49.4">verification</tspan></text><line x1="485" y1="465" x2="520" y2="465" stroke="#2f73c8" stroke-width="10" stroke-linecap="round" marker-end="url(#arrowBlue)"/><line x1="950" y1="465" x2="985" y2="465" stroke="#2f73c8" stroke-width="10" stroke-linecap="round" marker-end="url(#arrowBlue)"/><line x1="1445" y1="465" x2="1480" y2="465" stroke="#2f73c8" stroke-width="10" stroke-linecap="round" marker-end="url(#arrowBlue)"/><line x1="1990" y1="465" x2="2025" y2="465" stroke="#2f73c8" stroke-width="10" stroke-linecap="round" marker-end="url(#arrowBlue)"/><line x1="2475" y1="465" x2="2485" y2="465" stroke="#2f73c8" stroke-width="10" stroke-linecap="round" marker-end="url(#arrowBlue)"/><polygon points="3145,295.0 3340.0,465 3145,635.0 2950.0,465" fill="#fff7e8" stroke="#d0a45c" stroke-width="5"/><text x="3145" y="430" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="3145" dy="0.0">Required checks</tspan><tspan x="3145" dy="50.6">satisfied?</tspan></text><line x1="2905" y1="465" x2="2930" y2="465" stroke="#2f73c8" stroke-width="10" stroke-linecap="round" marker-end="url(#arrowBlue)"/><rect x="3420" y="245" width="400" height="440" rx="26" fill="#eef8f1" stroke="#77ad88" stroke-width="5"/><circle cx="3620.0" cy="365" r="58" fill="#fff" stroke="#77ad88" stroke-width="4"/><path d="M 3552 367 l 28 28 l 58 -70" fill="none" stroke="#3a8f58" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><text x="3620.0" y="500" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="3620.0" dy="0.0">Proceed to next</tspan><tspan x="3620.0" dy="47.0">authorized</tspan><tspan x="3620.0" dy="47.0">production stage</tspan></text><line x1="3352.0" y1="390" x2="3395" y2="390" stroke="#3a8f58" stroke-width="10" stroke-linecap="round" marker-end="url(#arrowGreen)"/><text x="3380" y="355" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="bold" text-anchor="middle" fill="#3a8f58"><tspan x="3380" dy="0.0">YES</tspan></text><rect x="2735" y="1000" width="650" height="300" rx="26" fill="#fff2e8" stroke="#d98b52" stroke-width="5"/><text x="3060.0" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="3060.0" dy="0.0">Controlled correction /</tspan><tspan x="3060.0" dy="51.7">engineering change</tspan></text><rect x="1840" y="1000" width="700" height="300" rx="26" fill="#f5f0fa" stroke="#8e77ae" stroke-width="5"/><text x="2190.0" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="bold" text-anchor="middle" fill="#23364d"><tspan x="2190.0" dy="0.0">Update affected controlled</tspan><tspan x="2190.0" dy="51.7">information / outputs</tspan></text><polyline points="3145,635 3145,790 3060,790 3060,970" fill="none" stroke="#c56f2a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowOrange)"/><text x="3030" y="745" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="bold" text-anchor="middle" fill="#c56f2a"><tspan x="3030" dy="0.0">NO / issue found</tspan></text><line x1="2715" y1="1150" x2="2560" y2="1150" stroke="#c56f2a" stroke-width="10" stroke-linecap="round" marker-end="url(#arrowOrange)"/><polyline points="1960,1300 1960,1600 740.0,1600 740.0,710" fill="none" stroke="#526274" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowGray)"/><text x="1300" y="1555" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="bold" text-anchor="middle" fill="#526274"><tspan x="1300" dy="0.0">Recheck readiness</tspan></text></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="4200"
+   height="1300"
+   viewBox="0 0 4200 1300"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg41"
+   sodipodi:docname="4.23.2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="4.23.2 - NPI Build Readiness Loop from Released Revision to Controlled Production.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview41"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.38418026"
+     inkscape:cx="3323.9605"
+     inkscape:cy="675.46417"
+     inkscape:window-width="1728"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg41"
+     inkscape:export-bgcolor="#ffffffff" />
+  <rect
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1"
+     style="stroke-width:0.999998" />
+  <line
+     x1="539.74268"
+     y1="361.99799"
+     x2="564.74268"
+     y2="361.99799"
+     stroke="#2f73c8"
+     stroke-width="10"
+     stroke-linecap="round"
+     marker-end="url(#arrowBlue)"
+     id="line31-0-3"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-3-1)" />
+  <line
+     x1="1069.7854"
+     y1="362.51184"
+     x2="1094.7854"
+     y2="362.51184"
+     stroke="#2f73c8"
+     stroke-width="10"
+     stroke-linecap="round"
+     marker-end="url(#arrowBlue)"
+     id="line31-0-0"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-3-6)" />
+  <line
+     x1="1581.8737"
+     y1="355.69318"
+     x2="1606.8737"
+     y2="355.69318"
+     stroke="#2f73c8"
+     stroke-width="10"
+     stroke-linecap="round"
+     marker-end="url(#arrowBlue)"
+     id="line31-0-6"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-3-3)" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowBlue"
+       markerWidth="22"
+       markerHeight="22"
+       refX="18"
+       refY="11"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 22,11 0,22 Z"
+         fill="#2f73c8"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowGreen"
+       markerWidth="22"
+       markerHeight="22"
+       refX="18"
+       refY="11"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 22,11 0,22 Z"
+         fill="#3a8f58"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowOrange"
+       markerWidth="22"
+       markerHeight="22"
+       refX="18"
+       refY="11"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 22,11 0,22 Z"
+         fill="#c56f2a"
+         id="path3" />
+    </marker>
+    <marker
+       id="arrowGray"
+       markerWidth="22"
+       markerHeight="22"
+       refX="18"
+       refY="11"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 22,11 0,22 Z"
+         fill="#526274"
+         id="path4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3-3-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-9-1" />
+    </marker>
+  </defs>
+  <rect
+     x="111.07787"
+     y="133.5242"
+     width="409.82162"
+     height="429.87527"
+     rx="27.32144"
+     fill="#eef5fb"
+     stroke="#6ea3c8"
+     stroke-width="5.12474"
+     id="rect4" />
+  <rect
+     x="269.88055"
+     y="204.08684"
+     width="90"
+     height="108.75"
+     rx="10"
+     fill="#ffffff"
+     stroke="#526274"
+     stroke-width="4"
+     id="rect5" />
+  <path
+     d="m 331.08055,204.06185 28.8,27.2 h -28.8 z"
+     fill="#d7e3ec"
+     stroke="#526274"
+     stroke-width="3"
+     id="path5" />
+  <line
+     x1="286.08057"
+     y1="258.46185"
+     x2="325.68054"
+     y2="258.46185"
+     stroke="#9aa9b6"
+     stroke-width="5"
+     id="line5" />
+  <line
+     x1="286.08057"
+     y1="275.86185"
+     x2="334.68054"
+     y2="275.86185"
+     stroke="#9aa9b6"
+     stroke-width="5"
+     id="line6" />
+  <line
+     x1="286.08057"
+     y1="293.26184"
+     x2="318.48056"
+     y2="293.26184"
+     stroke="#9aa9b6"
+     stroke-width="5"
+     id="line7" />
+  <text
+     x="314.88055"
+     y="408.46185"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="43px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text8"><tspan
+       x="314.88055"
+       dy="0"
+       id="tspan7">Released product</tspan><tspan
+       x="314.88055"
+       dy="49.400002"
+       id="tspan8">revision</tspan></text>
+  <rect
+     x="591.75739"
+     y="140.3387"
+     width="464.89679"
+     height="429.54385"
+     rx="30.993118"
+     fill="#eef5fb"
+     stroke="#6ea3c8"
+     stroke-width="5.45614"
+     id="rect8" />
+  <rect
+     x="771.3645"
+     y="210.73561"
+     width="101.25"
+     height="108.75"
+     rx="10"
+     fill="#ffffff"
+     stroke="#526274"
+     stroke-width="4"
+     id="rect9" />
+  <rect
+     x="784.88953"
+     y="233.21062"
+     width="18"
+     height="18"
+     rx="3"
+     fill="#eef8f1"
+     stroke="#3a8f58"
+     stroke-width="3"
+     id="rect10" />
+  <path
+     d="m 787.88952,240.71063 3.8,4.5 7.5,-9.8"
+     fill="none"
+     stroke="#3a8f58"
+     stroke-width="4"
+     id="path10" />
+  <line
+     x1="808.88953"
+     y1="240.71062"
+     x2="853.88953"
+     y2="240.71062"
+     stroke="#9aa9b6"
+     stroke-width="5"
+     id="line10" />
+  <rect
+     x="784.88953"
+     y="258.71063"
+     width="18"
+     height="18"
+     rx="3"
+     fill="#eef8f1"
+     stroke="#3a8f58"
+     stroke-width="3"
+     id="rect11" />
+  <path
+     d="m 787.88952,266.21063 3.8,4.5 7.5,-9.8"
+     fill="none"
+     stroke="#3a8f58"
+     stroke-width="4"
+     id="path11" />
+  <line
+     x1="808.88953"
+     y1="266.21063"
+     x2="853.88953"
+     y2="266.21063"
+     stroke="#9aa9b6"
+     stroke-width="5"
+     id="line11" />
+  <rect
+     x="784.88953"
+     y="284.21063"
+     width="18"
+     height="18"
+     rx="3"
+     fill="#eef8f1"
+     stroke="#3a8f58"
+     stroke-width="3"
+     id="rect12" />
+  <path
+     d="m 787.88952,291.71063 3.8,4.5 7.5,-9.8"
+     fill="none"
+     stroke="#3a8f58"
+     stroke-width="4"
+     id="path12" />
+  <line
+     x1="808.88953"
+     y1="291.71063"
+     x2="853.88953"
+     y2="291.71063"
+     stroke="#9aa9b6"
+     stroke-width="5"
+     id="line12" />
+  <text
+     x="821.9895"
+     y="415.11063"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="43px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text13"><tspan
+       x="821.9895"
+       dy="0"
+       id="tspan12">Manufacturing-data</tspan><tspan
+       x="821.9895"
+       dy="49.400002"
+       id="tspan13">review</tspan></text>
+  <rect
+     x="1124.1764"
+     y="135.84979"
+     width="446.37033"
+     height="429.84634"
+     rx="27.63245"
+     fill="#eef5fb"
+     stroke="#6ea3c8"
+     stroke-width="5.15365"
+     id="rect13" />
+  <path
+     d="m 1287.3879,237.37296 h 42.9 l 13.3,-19.5 h 60.8 v 85.8 h -117 z"
+     fill="#e4eef7"
+     stroke="#526274"
+     stroke-width="4"
+     id="path13" />
+  <text
+     x="1345.8879"
+     y="410.77298"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="43px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text15"><tspan
+       x="1345.8879"
+       dy="0"
+       id="tspan14">Job package +</tspan><tspan
+       x="1345.8879"
+       dy="49.400002"
+       id="tspan15">programs prepared</tspan></text>
+  <rect
+     x="1630.8879"
+     y="132.82585"
+     width="470"
+     height="430"
+     rx="26"
+     fill="#edf7f7"
+     stroke="#76a7a7"
+     stroke-width="5"
+     id="rect15" />
+  <circle
+     cx="1830.788"
+     cy="257.82587"
+     r="32.759998"
+     fill="#ffffff"
+     stroke="#526274"
+     stroke-width="4"
+     id="circle15" />
+  <circle
+     cx="1830.788"
+     cy="257.82587"
+     r="9.3599997"
+     fill="#d7e3ec"
+     stroke="#526274"
+     stroke-width="3"
+     id="circle16" />
+  <rect
+     x="1869.788"
+     y="232.86586"
+     width="78"
+     height="49.919998"
+     rx="10"
+     fill="#ffffff"
+     stroke="#526274"
+     stroke-width="4"
+     id="rect16" />
+  <line
+     x1="1885.3879"
+     y1="257.82587"
+     x2="1932.188"
+     y2="257.82587"
+     stroke="#9aa9b6"
+     stroke-width="7"
+     id="line16" />
+  <text
+     x="1865.8879"
+     y="407.82587"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="43px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text17"><tspan
+       x="1865.8879"
+       dy="0"
+       id="tspan16">Material / tooling /</tspan><tspan
+       x="1865.8879"
+       dy="49.400002"
+       id="tspan17">equipment readiness</tspan></text>
+  <rect
+     x="2160.7317"
+     y="129.87874"
+     width="410"
+     height="430"
+     rx="26"
+     fill="#eef8f1"
+     stroke="#77ad88"
+     stroke-width="5"
+     id="rect17" />
+  <rect
+     x="2305.2817"
+     y="215.87874"
+     width="120.9"
+     height="78"
+     rx="10"
+     fill="#5aa36d"
+     stroke="#315f41"
+     stroke-width="4"
+     id="rect18" />
+  <rect
+     x="2319.7898"
+     y="229.91875"
+     width="26.598"
+     height="21.84"
+     rx="4"
+     fill="#273444"
+     stroke="#19232e"
+     stroke-width="2"
+     id="rect19" />
+  <rect
+     x="2363.3137"
+     y="226.79875"
+     width="36.27"
+     height="27.299999"
+     rx="4"
+     fill="#273444"
+     stroke="#19232e"
+     stroke-width="2"
+     id="rect20" />
+  <rect
+     x="2324.6257"
+     y="262.67874"
+     width="21.761999"
+     height="15.6"
+     rx="4"
+     fill="#273444"
+     stroke="#19232e"
+     stroke-width="2"
+     id="rect21" />
+  <rect
+     x="2368.1497"
+     y="264.23874"
+     width="21.761999"
+     height="14.04"
+     rx="4"
+     fill="#273444"
+     stroke="#19232e"
+     stroke-width="2"
+     id="rect22" />
+  <text
+     x="2365.7317"
+     y="404.87875"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="43px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text23"><tspan
+       x="2365.7317"
+       dy="0"
+       id="tspan22">Initial / staged</tspan><tspan
+       x="2365.7317"
+       dy="49.400002"
+       id="tspan23">build</tspan></text>
+  <text
+     x="2365.7317"
+     y="501.87869"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="35px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#3a8f58"
+     id="text24"><tspan
+       x="2365.7317"
+       dy="0"
+       id="tspan24">as applicable</tspan></text>
+  <rect
+     x="2629.4072"
+     y="125.60139"
+     width="428.94882"
+     height="429.68964"
+     rx="29.349131"
+     fill="#fff7e8"
+     stroke="#d0a45c"
+     stroke-width="5.31036"
+     id="rect24" />
+  <circle
+     cx="2824.5732"
+     cy="250.44621"
+     r="41.759998"
+     fill="#ffffff"
+     stroke="#526274"
+     stroke-width="4"
+     id="circle24" />
+  <line
+     x1="2855.5332"
+     y1="281.40622"
+     x2="2891.5332"
+     y2="316.68622"
+     stroke="#526274"
+     stroke-width="12"
+     stroke-linecap="round"
+     id="line24" />
+  <path
+     d="m 2804.4133,250.44621 12.96,14.4 28.8,-34.56"
+     fill="none"
+     stroke="#3a8f58"
+     stroke-width="10"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path24" />
+  <text
+     x="2835.3733"
+     y="400.44623"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="43px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text26"><tspan
+       x="2835.3733"
+       dy="0"
+       id="tspan25">First-board / setup</tspan><tspan
+       x="2835.3733"
+       dy="49.400002"
+       id="tspan26">verification</tspan></text>
+  <polygon
+     points="2950,465 3145,295 3340,465 3145,635 "
+     fill="#fff7e8"
+     stroke="#d0a45c"
+     stroke-width="5"
+     id="polygon30"
+     transform="matrix(1.1432712,0,0,1.0699257,-257.57692,-156.59446)" />
+  <text
+     x="3341.9023"
+     y="343.72147"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="44px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text31"><tspan
+       x="3341.9023"
+       dy="0"
+       id="tspan30">Required checks</tspan><tspan
+       x="3341.9023"
+       dy="50.599998"
+       id="tspan31">satisfied?</tspan></text>
+  <line
+     x1="3065.9875"
+     y1="340.5072"
+     x2="3090.9875"
+     y2="340.5072"
+     stroke="#2f73c8"
+     stroke-width="10"
+     stroke-linecap="round"
+     marker-end="url(#arrowBlue)"
+     id="line31"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <line
+     x1="2580.8672"
+     y1="348.61584"
+     x2="2605.8672"
+     y2="348.61584"
+     stroke="#2f73c8"
+     stroke-width="10"
+     stroke-linecap="round"
+     marker-end="url(#arrowBlue)"
+     id="line31-0"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-3)" />
+  <line
+     x1="2111.4417"
+     y1="353.14963"
+     x2="2136.4417"
+     y2="353.14963"
+     stroke="#2f73c8"
+     stroke-width="10"
+     stroke-linecap="round"
+     marker-end="url(#arrowBlue)"
+     id="line31-0-9"
+     style="stroke-width:3;stroke-dasharray:none;marker-end:url(#RoundedArrow-3-2)" />
+  <rect
+     x="3689.7888"
+     y="119.77649"
+     width="400"
+     height="440"
+     rx="26"
+     fill="#eef8f1"
+     stroke="#77ad88"
+     stroke-width="5"
+     id="rect31" />
+  <circle
+     cx="3889.7888"
+     cy="239.77647"
+     r="58"
+     fill="#ffffff"
+     stroke="#77ad88"
+     stroke-width="4"
+     id="circle31" />
+  <path
+     d="m 3857.3386,247.11841 18.9682,27.13214 39.2913,-67.83035"
+     fill="none"
+     stroke="#3a8f58"
+     stroke-width="9.72251"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path31" />
+  <text
+     x="3889.7888"
+     y="374.77646"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text34"><tspan
+       x="3889.7888"
+       dy="0"
+       id="tspan32">Proceed to next</tspan><tspan
+       x="3889.7888"
+       dy="47"
+       id="tspan33">authorized</tspan><tspan
+       x="3889.7888"
+       dy="47"
+       id="tspan34">production stage</tspan></text>
+  <line
+     x1="3573.8494"
+     y1="339.2984"
+     x2="3651.2432"
+     y2="339.2984"
+     stroke="#3a8f58"
+     stroke-width="10"
+     stroke-linecap="round"
+     marker-end="url(#arrowGreen)"
+     id="line34"
+     style="stroke-width:4;stroke-dasharray:none;marker-end:url(#RoundedArrow)" />
+  <text
+     x="3611.3677"
+     y="303.18661"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#3a8f58"
+     id="text35"><tspan
+       x="3611.3677"
+       dy="0"
+       id="tspan35">YES</tspan></text>
+  <rect
+     x="2882.4019"
+     y="932.71674"
+     width="650.50934"
+     height="241.80167"
+     rx="26.020374"
+     fill="#fff2e8"
+     stroke="#d98b52"
+     stroke-width="4.49065"
+     id="rect35" />
+  <text
+     x="3207.6565"
+     y="1033.4022"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="45px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text37"><tspan
+       x="3207.6565"
+       dy="0"
+       id="tspan36">Controlled correction /</tspan><tspan
+       x="3207.6565"
+       dy="51.700001"
+       id="tspan37">engineering change</tspan></text>
+  <rect
+     x="1818.9216"
+     y="936.02026"
+     width="700.50946"
+     height="241.8018"
+     rx="26.018925"
+     fill="#f5f0fa"
+     stroke="#8e77ae"
+     stroke-width="4.49052"
+     id="rect37" />
+  <text
+     x="2169.1765"
+     y="1036.7058"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="45px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#23364d"
+     id="text39"><tspan
+       x="2169.1765"
+       dy="0"
+       id="tspan38">Update affected controlled</tspan><tspan
+       x="2169.1765"
+       dy="51.700001"
+       id="tspan39">information / outputs</tspan></text>
+  <text
+     x="3166.9771"
+     y="715.5191"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#c56f2a"
+     id="text40"><tspan
+       x="3166.9771"
+       dy="0"
+       id="tspan40">NO / issue found</tspan></text>
+  <line
+     x1="2869.7251"
+     y1="1066.7058"
+     x2="2555.7454"
+     y2="1066.7058"
+     stroke="#c56f2a"
+     stroke-width="10"
+     stroke-linecap="round"
+     marker-end="url(#arrowOrange)"
+     id="line40"
+     style="stroke-width:4.26979;stroke-dasharray:none;marker-end:url(#RoundedArrow-3-3)" />
+  <line
+     x1="3334.8633"
+     y1="521.9718"
+     x2="3335.7766"
+     y2="907.67877"
+     stroke="#c56f2a"
+     stroke-width="10"
+     stroke-linecap="round"
+     marker-end="url(#arrowOrange)"
+     id="line40-7"
+     style="stroke-width:4.3309;stroke-dasharray:none;marker-end:url(#RoundedArrow-3-3-4)" />
+  <text
+     x="1221.3964"
+     y="1022.5544"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="39px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#526274"
+     id="text41"><tspan
+       x="1221.3964"
+       dy="0"
+       id="tspan41">Recheck readiness</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1807.5435,1072.1813 -969.45424,-0.2212"
+     id="path41"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.01341;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+     d="m 838.96752,1071.6791 0.29325,-472.80814"
+     id="path42"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+</svg>
