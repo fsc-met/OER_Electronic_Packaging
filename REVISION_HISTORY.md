@@ -2,6 +2,16 @@
 
 This page records major reader-visible additions and corrections to *Electronic Packaging Applications: An Applied Introduction*. Minor wording, formatting, and other editorial changes are not listed individually.
 
+## September 26, 2026
+
+### Chapter 4
+
+- Completed the reviewed source draft of **PCB Assembly Processes and Equipment**.
+- Added the full Chapter 4 instructional sequence covering manufacturing handoff and factory flow; SMT, THT, mixed, and double-sided assembly; soldering fundamentals; ESD and moisture-sensitive-device handling; solder paste, stencils, printing, and SPI; component supply, feeders, nozzles, pick-and-place equipment, placement data, vision, and fiducials; reflow equipment and profile verification; common SMT defect evidence; THT insertion; wave, selective, and hand soldering; mixed-process planning; depanelization and secondary assembly; cleaning and protection; NPI/job-package basics; material kitting and line-side verification; changeover, first-board verification, and production readiness; and an integrated factory-floor troubleshooting case.
+- Added the planned original Chapter 4 instructional figures, including editable SVG sources for the current technical figures.
+- Added the Chapter 4 summary, deterministic practice problems, and synchronized practice problem keys.
+- Completed chapter-level QA for technical accuracy, terminology, process/equipment relationships, numerical and equation checks, figure integration, Markdown/mdBook/KaTeX compatibility, deterministic problem/key synchronization, MET-student suitability, and Chapter 5 boundary control.
+
 ## September 14, 2026
 
 ### Chapter 3
@@ -32,6 +42,6 @@ This page records major reader-visible additions and corrections to *Electronic 
 
 ### Current Status
 
-- Chapters 1, 2, and 3 have completed their current development and QA milestones.
-- Chapters 4-8 are under development.
+- Chapters 1, 2, 3, and 4 have completed their current development and QA milestones.
+- Chapters 5-8 are under development.
 - The detailed table of contents will be added after the complete first draft and full-book structure review.

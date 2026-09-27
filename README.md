@@ -38,7 +38,7 @@ The book assumes:
 - introductory thermodynamics and heat-transfer knowledge;
 - only limited experience with circuits, PCB design, or electronics manufacturing.
 
-Chapter 1 provides the electrical, semiconductor, device, circuit, and manufacturing foundations needed for the packaging topics that follow. Chapter 2 then develops the physical and manufacturing foundations of the bare PCB. Chapter 3 applies those foundations to design for manufacturability (DFM), including placement, spacing, land patterns, holes and vias, copper geometry, solder mask, markings, inspection and test access, rework and service access, panelization and tooling, design review, and controlled release. Later chapters move into assembly processes, electrical interconnect behavior, thermal design, mechanical design, and reliability.
+Chapter 1 provides the electrical, semiconductor, device, circuit, and manufacturing foundations needed for the packaging topics that follow. Chapter 2 then develops the physical and manufacturing foundations of the bare PCB. Chapter 3 applies those foundations to design for manufacturability (DFM), including placement, spacing, land patterns, holes and vias, copper geometry, solder mask, markings, inspection and test access, rework and service access, panelization and tooling, design review, and controlled release. Chapter 4 then follows the PCB assembly process from manufacturing handoff through SMT and THT assembly, soldering processes, equipment, material handling, process evidence, troubleshooting, changeover, and production readiness. Later chapters address assembly quality and test, manufacturing engineering, electrical interconnect behavior, thermal design, mechanical design, and reliability.
 
 ## How to Use This Book
 
@@ -84,7 +84,9 @@ The book is being developed chapter by chapter.
 
 **Chapter 3 - Design for Manufacturability in PCB and Electronic Packaging** has completed its current development and QA milestone. The chapter develops DFM, DFA, DFT, and broader DFX concepts; where DFM fits in the design-to-release workflow; sources of design rules and manufacturing capability; component placement and orientation; spacing and clearance; pads and land patterns; holes, annular rings, and vias; trace and copper geometry; solder mask; silkscreen and markings; inspection and test access; rework and service access; panelization, fiducials, and assembly tooling; DFM review tools and controlled design release; and an applied DFM checklist. It also includes the chapter summary, deterministic practice problems, synchronized problem keys, and the planned original instructional figures.
 
-**Chapters 4 through 8 remain under development.**
+**Chapter 4 - PCB Assembly Processes and Equipment** has completed its current development and QA milestone. The chapter follows a practical factory-floor sequence from released design and manufacturing handoff through SMT/THT/mixed-technology recognition, soldering fundamentals, ESD and moisture-sensitive-device handling, solder paste and stencil printing, solder-paste inspection, component supply and automated placement, placement data and alignment, reflow and profile verification, SMT defect evidence, through-hole insertion, wave/selective/hand soldering, mixed and double-sided assembly planning, depanelization and secondary operations, cleaning and protection, NPI/job-package basics, material kitting and line-side verification, changeover, first-board verification, production readiness, and an integrated troubleshooting case. It also includes the chapter summary, deterministic practice problems, synchronized problem keys, and the planned original instructional figures.
+
+**Chapters 5 through 8 remain under development.**
 
 The detailed table of contents will be added to this README after the complete first draft is finished and the full book structure has undergone a book-level review.
 
