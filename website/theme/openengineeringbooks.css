@@ -684,3 +684,81 @@ body,
     font-weight: 400;
     line-height: 1.35;
 }
+
+/* ==========================================================================
+   OpenEngineeringBooks section printing
+   ========================================================================== */
+
+@media print {
+    /*
+       Print only the current mdBook page/section. The custom Print button
+       calls window.print() on that page instead of navigating to print.html.
+       These rules also apply when the user chooses Print from the browser.
+    */
+
+    #mdbook-sidebar,
+    #mdbook-menu-bar,
+    #mdbook-menu-bar-hover-placeholder,
+    #mdbook-search-wrapper,
+    .nav-wrapper,
+    .nav-wide-wrapper,
+    .oer-instructor-modal-overlay {
+        display: none !important;
+    }
+
+    #mdbook-page-wrapper,
+    .page-wrapper,
+    .page,
+    .content,
+    #mdbook-content {
+        margin: 0 !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        width: auto !important;
+        max-width: none !important;
+    }
+
+    /*
+       Printed watermark. A fixed-position element is repeated at the same
+       position on each printed page by paged-media print engines.
+    */
+    body::after {
+        content: "openengineeringbooks.org";
+        position: fixed;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%) rotate(-32deg);
+        z-index: 2147483647;
+        pointer-events: none;
+        white-space: nowrap;
+
+        font-family: sans-serif;
+        font-size: 28pt;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        color: rgba(0, 0, 0, 0.10);
+
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}
+
+
+/* ==========================================================================
+   Textbook figure download deterrence
+   ========================================================================== */
+
+/*
+ * Discourage casual saving/dragging of textbook figures.
+ *
+ * This does not provide absolute copy protection: any image displayed by a
+ * browser has already been delivered to that browser. These rules simply
+ * remove common save/drag interactions without disabling normal image
+ * rendering or links around figures.
+ */
+#mdbook-content main img {
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+}

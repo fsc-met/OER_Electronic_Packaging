@@ -149,6 +149,12 @@ A typical section should contain:
 
 Avoid excessive nested subsections.
 
+### Chapter-overview exception
+
+For chapters using an `X.0 - Chapter Overview`, keep the overview concise and chapter-level. It should normally establish the chapter purpose, major coverage, learning objectives, and chapter path without duplicating the detailed teaching of Section `X.1`.
+
+Section `X.1` should then begin directly with its own instructional topic and use only the transition needed to connect from the overview.
+
 ## 6. Technical Terminology QA
 
 Check every important technical term for consistency.
@@ -359,6 +365,15 @@ Typical authoring-note sections:
 
 Do not leave outdated draft history in the canonical section file unless it has continuing authoring value.
 
+### Instructor-protected published content
+
+Do not confuse internal authoring notes with instructor-protected published content.
+
+- `MDBOOK-EXCLUDE` blocks are removed from the staged public source and are not published.
+- `INSTRUCTOR-ONLY` blocks remain part of the publication workflow but are encrypted and shown as locked content until an instructor access code is supplied.
+- Chapter practice-problem key / solution content should use the `INSTRUCTOR-ONLY` markers rather than `MDBOOK-EXCLUDE`.
+- Keep public problem statements outside the protected block unless the project owner explicitly changes that policy.
+
 ## 19. Final QA Checklist
 
 Before accepting a section, verify:
@@ -381,6 +396,8 @@ Before accepting a section, verify:
 - [ ] prose matches the intended applied introductory level and standalone-book voice;
 - [ ] specialized abbreviations and potentially unfamiliar technical terms are expanded or defined at first public use;
 - [ ] public prose does not expose internal curriculum/source-note language such as `the lecture says`, `the Chapter 2 notes`, or similar authoring provenance;
+- [ ] if this is an `X.0 - Chapter Overview`, chapter-level purpose/objectives/path are concise and do not duplicate Section `X.1`;
+- [ ] if this is a Practice Problem Keys / solution section, protected solution content is inside balanced `INSTRUCTOR-ONLY` markers and numbering remains synchronized with the public problems;
 - [ ] redundant content has been minimized;
 - [ ] figures are placed correctly;
 - [ ] every planned figure has its actual HTML image/caption block, even if final artwork is still pending;

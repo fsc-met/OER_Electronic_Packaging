@@ -1,0 +1,104 @@
+.oer-instructor-protected {
+    margin: 1.5rem 0;
+}
+
+.oer-instructor-locked {
+    border: 1px solid var(--quote-border, #c8c8c8);
+    border-radius: 6px;
+    padding: 1rem 1.2rem;
+    background: var(--quote-bg, #f7f7f7);
+}
+
+.oer-instructor-locked p:first-child {
+    margin-top: 0;
+}
+
+.oer-instructor-locked p:last-of-type {
+    margin-bottom: 0.8rem;
+}
+
+.oer-instructor-unlock-button,
+.oer-instructor-submit {
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    padding: 0.45rem 0.8rem;
+    font: inherit;
+    cursor: pointer;
+    background: transparent;
+    color: inherit;
+}
+
+.oer-instructor-unlock-button:hover,
+.oer-instructor-submit:hover {
+    text-decoration: underline;
+}
+
+.oer-instructor-modal-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.oer-instructor-modal-overlay[hidden] {
+    display: none;
+}
+
+.oer-instructor-modal {
+    position: relative;
+    width: min(460px, 100%);
+    border-radius: 8px;
+    padding: 1.4rem;
+    background: var(--bg, #ffffff);
+    color: var(--fg, #222222);
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.22);
+}
+
+.oer-instructor-modal h2 {
+    margin-top: 0;
+}
+
+.oer-instructor-modal label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-weight: 600;
+}
+
+.oer-instructor-modal input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.55rem 0.65rem;
+    border: 1px solid var(--quote-border, #b8b8b8);
+    border-radius: 4px;
+    font: inherit;
+    background: var(--bg, #ffffff);
+    color: var(--fg, #222222);
+}
+
+.oer-instructor-modal-error {
+    margin: 0.6rem 0 0;
+    font-weight: 600;
+}
+
+.oer-instructor-modal-actions {
+    margin-top: 1rem;
+    text-align: right;
+}
+
+.oer-instructor-modal-close {
+    position: absolute;
+    top: 0.55rem;
+    right: 0.7rem;
+    border: 0;
+    padding: 0.2rem 0.4rem;
+    font: inherit;
+    font-size: 1.4rem;
+    line-height: 1;
+    cursor: pointer;
+    background: transparent;
+    color: inherit;
+}

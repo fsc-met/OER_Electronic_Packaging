@@ -1,5 +1,5 @@
 [book]
-title = "Electronic Packaging Applications"
+title = "Electronic Packaging Applications: An Applied Introduction"
 description = "An applied introduction to electronic packaging for engineering technology students."
 language = "en"
 src = "src"
@@ -14,10 +14,21 @@ after = ["links"]
 [output.html]
 no-section-label = true
 site-url = "/epac/"
-additional-css = ["theme/openengineeringbooks.css"]
-additional-js = ["theme/openengineeringbooks.js"]
+
+additional-css = [
+    "theme/openengineeringbooks.css",
+    "theme/instructor-access.css"
+]
+
+additional-js = [
+    "theme/openengineeringbooks.js",
+    "theme/instructor-access.js"
+]
 
 default-theme = "light"
 preferred-dark-theme = "light"
-
 sidebar-header-nav = false
+
+[output.html.fold]
+enable = true
+level = 0

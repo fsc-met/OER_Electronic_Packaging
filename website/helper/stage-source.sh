@@ -63,6 +63,12 @@ if [[ "$chapter_count" -eq 0 ]]; then
     exit 1
 fi
 
+# macOS may create metadata files inside chapter directories. They are not
+# book content and should never be copied into the generated public site.
+echo "Removing macOS metadata from staged source..."
+find "$SRC_DIR" -type f \( -name '.DS_Store' -o -name '._*' \) -exec rm -f -- {} +
+find "$SRC_DIR" -type d -name '__MACOSX' -prune -exec rm -rf -- {} \;
+
 echo
 echo "Source staging completed."
 echo "  Chapters copied: $chapter_count"

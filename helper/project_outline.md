@@ -13,6 +13,10 @@
 > - Chapter 9 - Reliability, Qualification, and Failure Analysis.
 >
 > Chapters 2 and 3 remain technically unchanged except for downstream chapter-number references and boundary notes affected by this book-structure revision.
+>
+> **Chapter-overview convention:** Chapters 1-5 use a numbered `X.0 - Chapter Overview` page before the first instructional section. The overview gives a concise chapter purpose, coverage map, learning objectives, and chapter path. The `X.1` section should begin directly with its own instructional topic and should not repeat the chapter-level introduction or learning objectives.
+>
+> **Practice-key publishing convention:** Chapter practice problems remain public. The corresponding `Practice Problem Keys` sections remain in the chapter structure, but their solution content is published as instructor-protected content using the project's `INSTRUCTOR-ONLY` markers and access-key workflow.
 
 
 ## Chapter 2 - PCB Structure, Materials, and Fabrication
@@ -53,12 +57,21 @@ After completing the chapter, readers should be able to:
 - interpret basic PCB manufacturing documentation and understand what a fabricator needs from the engineering organization;
 - recognize the roles of major PCB standards families without reproducing proprietary acceptance criteria.
 
+### 2.0 Chapter Overview
+
+Provide a concise chapter opener that:
+
+- connects the Chapter 1 manufacturing pathway to the **bare PCB**;
+- summarizes what Chapter 2 covers and why it matters;
+- contains the Chapter 2 learning objectives;
+- gives the chapter path from PCB structure/materials through fabrication, behavior, defects, and manufacturing communication;
+- does not duplicate the detailed teaching content of Section 2.1.
+
 ### 2.1 From Chapter 1 to the Bare PCB: What a PCB Really Is
 
-Use the completed Chapter 1 manufacturing map as the opening transition.
+Begin directly from the Chapter 2 overview and focus on the bare-PCB manufacturing boundary and physical meaning of the PCB.
 
-- Chapter 1 followed the full path from semiconductor devices to a finished electronic product.
-- One manufacturing branch is now opened in detail:
+- Briefly retain the manufacturing distinction:
   - `PCB materials -> PCB fabrication -> bare PCB`.
 - Distinguish again, briefly and clearly:
   - semiconductor fabrication;
@@ -627,9 +640,19 @@ A value used in the lecture, laboratory, worked example, or practice problem may
 
 Where deterministic numerical examples are needed, use a clearly labeled **representative instructional DFM rule set** or a supplied supplier-capability table.
 
+### 3.0 Chapter Overview
+
+Provide a concise chapter opener that:
+
+- transitions from Chapter 2 manufacturing capability and supplier communication to **pre-release DFM decisions**;
+- summarizes the Chapter 3 scope and practical purpose;
+- contains the Chapter 3 learning objectives;
+- gives the chapter path from rule sources and layout decisions through access, DFM review, and controlled release;
+- does not duplicate the detailed DFM/DFA/DFT/DFX teaching in Section 3.1.
+
 ### 3.1 DFM, DFA, DFT, and DFX
 
-Establish the conceptual framework without turning the opening section into a broad DFX survey.
+Begin directly from the Chapter 3 overview and establish the conceptual framework without turning the section into a broad DFX survey.
 
 - Define **Design for Manufacturability (DFM)** as the main chapter focus.
 - Introduce related concepts:
@@ -1332,9 +1355,19 @@ Useful recurring boxes may include:
 
 Avoid turning the chapter into a machine-vendor manual.
 
+### 4.0 Chapter Overview
+
+Provide a concise chapter opener that:
+
+- transitions from the Chapter 3 released design to the physical process of building a PCBA;
+- summarizes the Chapter 4 factory-floor sequence and practical purpose;
+- contains the Chapter 4 learning objectives;
+- gives the chapter path from factory/process recognition through SMT, THT/secondary operations, production readiness, and troubleshooting;
+- does not duplicate the detailed released-design-to-PCBA teaching in Section 4.1.
+
 ### 4.1 From Released PCB Design to PCBA
 
-Open the chapter with a simple manufacturing handoff.
+Begin the first instructional section with a simple manufacturing handoff from the overview.
 
 Teach:
 
@@ -2248,9 +2281,19 @@ Use a beginner-friendly recurring model:
 
 Only later sections should extend this to formal corrective action.
 
+### 5.0 Chapter Overview
+
+Provide a concise chapter opener that:
+
+- transitions from Chapter 4's completed PCBA to manufacturing evidence, inspection, test, and process improvement;
+- summarizes the Chapter 5 scope and practical purpose;
+- contains the Chapter 5 learning objectives;
+- gives the chapter path from evidence and inspection/test through response, production data, variation, root cause, and manufacturing-control systems;
+- preserves the Chapter 4/Chapter 5 boundary and does not duplicate the detailed evidence framework of Section 5.1.
+
 ### 5.1 From Built PCBA to Manufacturing Evidence
 
-Transition directly from Chapter 4's completed PCBA.
+Begin directly from the Chapter 5 overview and focus on the first evidence questions.
 
 Introduce the basic questions:
 

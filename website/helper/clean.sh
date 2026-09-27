@@ -10,7 +10,7 @@ BOOK_DIR="$WEBSITE_DIR/book"
 
 echo
 echo "============================================================"
-echo " MET406 Website Clean"
+echo " EPAC Website Clean"
 echo "============================================================"
 echo
 echo "Website directory:"

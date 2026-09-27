@@ -15,6 +15,10 @@ Before drafting, extract the important teaching inventory from the primary instr
 
 Develop the section at the appropriate Engineering Technology level: technically accurate, applied, self-study capable, and concise enough to remain readable. Do not turn the section into material that belongs in a later chapter. Do not defer so much concrete content that the current section becomes mainly descriptive.
 
+Special cases:
+- for an `X.0 - Chapter Overview`, keep the page concise and chapter-level, and avoid repeating the detailed teaching of Section `X.1`;
+- for a Practice Problem Keys / solution section, keep the solution content inside the project's `INSTRUCTOR-ONLY` protection markers while keeping the corresponding practice problems public.
+
 Perform multiple QA cycles, including:
 - outline and scope alignment;
 - primary-instructional-material fidelity and teaching-inventory coverage;
@@ -27,6 +31,7 @@ Perform multiple QA cycles, including:
 - figure-coverage review based on distinct visual teaching concepts, not on minimizing figure count;
 - redundancy and chapter-boundary review;
 - Markdown/mdBook/KaTeX compatibility;
+- instructor-protection marker validation where applicable;
 - public-book voice and final read-through;
 - final instructional-fidelity check: the finished OER section should provide at least the intended practical understanding, engineering scale, examples, and visual support of the primary instructional material after technical corrections.
 

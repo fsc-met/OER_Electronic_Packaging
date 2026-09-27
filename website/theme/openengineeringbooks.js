@@ -1,12 +1,31 @@
 (function () {
     const printButton = document.getElementById("print-button");
 
-    if (!printButton || document.getElementById("oeb-home-button")) {
+    if (!printButton) {
         return;
     }
 
     const printLink = printButton.closest("a");
     if (!printLink) {
+        return;
+    }
+
+    // mdBook's default print button opens print.html, which contains the
+    // entire book. OpenEngineeringBooks prints only the currently displayed
+    // section/page instead.
+    if (!printLink.dataset.oebSectionPrintBound) {
+        printLink.dataset.oebSectionPrintBound = "true";
+        printLink.title = "Print this section";
+        printLink.setAttribute("aria-label", "Print this section");
+
+        printLink.addEventListener("click", function (event) {
+            event.preventDefault();
+            window.print();
+        });
+    }
+
+    // Add a link back to the OpenEngineeringBooks home page next to Print.
+    if (document.getElementById("oeb-home-button")) {
         return;
     }
 
@@ -39,3 +58,38 @@
 
     printLink.parentNode.insertBefore(homeLink, printLink);
 })();
+
+
+/* -------------------------------------------------------------------------
+   Discourage casual downloading of textbook figures
+   ------------------------------------------------------------------------- */
+
+/*
+ * Limit this behavior to images inside the actual book content. This leaves
+ * mdBook controls, navigation icons, and other interface elements untouched.
+ *
+ * This is intentionally a deterrent rather than "security": a browser must
+ * receive an image in order to display it, so determined users can still
+ * obtain it through developer tools, cache inspection, screenshots, etc.
+ */
+document.addEventListener("contextmenu", function (event) {
+    const target = event.target;
+
+    if (
+        target instanceof Element &&
+        target.closest("#mdbook-content main img")
+    ) {
+        event.preventDefault();
+    }
+});
+
+document.addEventListener("dragstart", function (event) {
+    const target = event.target;
+
+    if (
+        target instanceof Element &&
+        target.closest("#mdbook-content main img")
+    ) {
+        event.preventDefault();
+    }
+});

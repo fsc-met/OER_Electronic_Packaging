@@ -1,6 +1,8 @@
 # Electronic Packaging Applications
 
-**An Applied Introduction**
+## An Applied Introduction
+
+---
 
 This project is an open educational resource (OER) on **electronic packaging**, developed for publication through [OpenEngineeringBooks.org](https://openengineeringbooks.org/).
 

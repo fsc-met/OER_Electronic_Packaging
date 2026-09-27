@@ -215,6 +215,8 @@ When included:
 
 Detailed solutions should explain the reasoning, not merely state an answer.
 
+For this EPAC publication, chapter practice problems remain public, while the **Practice Problem Keys / solution content is instructor-protected** in the published mdBook. Keep the answer-key source in the authoritative chapter Markdown, but place the protected solution content inside the instructor-only markers defined in Section 14.
+
 ## 14. Internal/Public Separation
 
 The following are internal by default and are not staged to mdBook:
@@ -240,6 +242,18 @@ Internal notes here.
 ```
 
 The staging preparation removes the block while preserving line positions as blank lines.
+
+Use a different marker pair for content that should remain part of the published site but require instructor access:
+
+```html
+<!-- INSTRUCTOR-ONLY-START -->
+Instructor-protected content here.
+<!-- INSTRUCTOR-ONLY-END -->
+```
+
+The publishing workflow encrypts these instructor-only blocks and replaces them with a locked container in the public static site. Do not use `MDBOOK-EXCLUDE` for solution content that is intended to be unlockable by instructors.
+
+The instructor access key and related secret material belong only in the private `website/secret/` workflow and must never be copied into public Markdown, staged source, rendered pages, helper documentation intended for publication, or downloadable student assets.
 
 ## 15. Quality Review Before Publication
 
